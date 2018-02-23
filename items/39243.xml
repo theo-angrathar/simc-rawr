@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53888</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_27</iconpath>
+<stats>
+<armor>784</armor>
+<stamina>52</stamina>
+<intellect>49</intellect>
+<spellpower>76</spellpower>
+<critrating>48</critrating>
+<hasterating>39</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Handgrips of the Foredoomed</name>
+<id>39243</id>
+<slot>Hands</slot>
+</item>

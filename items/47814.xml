@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61692</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_145</iconpath>
+<stats>
+<agility>52</agility>
+<stamina>45</stamina>
+<attackpower>74</attackpower>
+<armorpenetrationrating>38</armorpenetrationrating>
+<critrating>29</critrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Alliance</faction>
+<mindamage>187</mindamage>
+<maxdamage>349</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Westfall Saber</name>
+<id>47814</id>
+<slot>OneHand</slot>
+</item>

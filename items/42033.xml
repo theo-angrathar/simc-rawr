@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>39162</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_36</iconpath>
+<stats>
+<stamina>66</stamina>
+<intellect>29</intellect>
+<spellpower>66</spellpower>
+<resilience>37</resilience>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deadly Gladiator's Pendant of Salvation</name>
+<id>42033</id>
+<slot>Neck</slot>
+</item>

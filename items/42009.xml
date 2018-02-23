@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56159</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_99</iconpath>
+<stats>
+<armor>225</armor>
+<stamina>76</stamina>
+<intellect>33</intellect>
+<spellpower>68</spellpower>
+<critrating>36</critrating>
+<resilience>44</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Felshroud</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Hateful Gladiator's Felweave Amice</name>
+<id>42009</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,18 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>43846</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_26</iconpath>
+<stats></stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>206</mindamage>
+<maxdamage>310</maxdamage>
+<speed>1.8</speed>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>The Dusk Blade</name>
+<id>43613</id>
+<slot>OneHand</slot>
+</item>

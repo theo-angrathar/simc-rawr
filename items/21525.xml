@@ -1,0 +1,18 @@
+<item>
+<itemlevel>1</itemlevel>
+<displayid>33999</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_68</iconpath>
+<stats>
+<armor>2</armor>
+</stats>
+<quality>Uncommon</quality>
+<setname>Winter Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Green Winter Hat</name>
+<id>21525</id>
+<slot>Head</slot>
+</item>

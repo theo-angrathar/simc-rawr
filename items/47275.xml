@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>43290</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>166</armor>
+<stamina>114</stamina>
+<strength>58</strength>
+<dodgerating>50</dodgerating>
+<defenserating>50</defenserating>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pride of the Demon Lord</name>
+<id>47275</id>
+<slot>Back</slot>
+</item>

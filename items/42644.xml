@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>39124</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_63</iconpath>
+<stats>
+<stamina>48</stamina>
+<intellect>33</intellect>
+<spellpower>49</spellpower>
+<critrating>42</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Titanium Spellshock Ring</name>
+<id>42644</id>
+<slot>Finger</slot>
+</item>

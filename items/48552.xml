@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>1941</armor>
+<stamina>158</stamina>
+<strength>86</strength>
+<hitrating>50</hitrating>
+<parryrating>76</parryrating>
+<defenserating>76</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Thassarian's Plate</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Koltira's Pauldrons of Triumph</name>
+<id>48552</id>
+<slot>Shoulders</slot>
+</item>

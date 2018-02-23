@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59145</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_13</iconpath>
+<stats>
+<armor>739</armor>
+<agility>48</agility>
+<stamina>66</stamina>
+<attackpower>138</attackpower>
+<intellect>44</intellect>
+<critrating>49</critrating>
+<hasterating>44</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Belt of Dragons</name>
+<id>45553</id>
+<slot>Waist</slot>
+</item>

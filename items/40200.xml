@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54762</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_25</iconpath>
+<stats>
+<armor>325</armor>
+<stamina>57</stamina>
+<intellect>57</intellect>
+<spirit>55</spirit>
+<spellpower>88</spellpower>
+<critrating>43</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of Potent Chanting</name>
+<id>40200</id>
+<slot>Waist</slot>
+</item>

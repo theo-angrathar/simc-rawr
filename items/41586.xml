@@ -1,0 +1,17 @@
+<item>
+<itemlevel>154</itemlevel>
+<displayid>40200</displayid>
+<displayslot>24</displayslot>
+<iconpath>inv_misc_ammo_arrow_01</iconpath>
+<stats></stats>
+<quality>Common</quality>
+<type>Arrow</type>
+<faction>Neutral</faction>
+<mindamage>46</mindamage>
+<maxdamage>47</maxdamage>
+<speed>3</speed>
+<socketbonus></socketbonus>
+<name>Terrorshaft Arrow</name>
+<id>41586</id>
+<slot>Projectile</slot>
+</item>

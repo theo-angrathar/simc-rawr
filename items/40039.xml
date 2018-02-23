@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_30</iconpath>
+<stats>
+<strength>8</strength>
+<defenserating>8</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Champion's Monarch Topaz</name>
+<id>40039</id>
+<slot>Orange</slot>
+</item>

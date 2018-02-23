@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53671</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_06</iconpath>
+<stats>
+<armor>1614</armor>
+<stamina>81</stamina>
+<strength>88</strength>
+<armorpenetrationrating>84</armorpenetrationrating>
+<critrating>54</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Melancholy Sabatons</name>
+<id>40591</id>
+<slot>Feet</slot>
+</item>

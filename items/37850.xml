@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52347</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_30</iconpath>
+<stats>
+<armor>163</armor>
+<stamina>42</stamina>
+<intellect>44</intellect>
+<spirit>38</spirit>
+<spellpower>59</spellpower>
+<hitrating>31</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Flowing Sash of Order</name>
+<id>37850</id>
+<slot>Waist</slot>
+</item>

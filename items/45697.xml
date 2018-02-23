@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59229</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_104</iconpath>
+<stats>
+<armor>1741</armor>
+<stamina>119</stamina>
+<strength>79</strength>
+<parryrating>45</parryrating>
+<blockrating>36</blockrating>
+<defenserating>41</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shoulderguards of the Solemn Watch</name>
+<id>45697</id>
+<slot>Shoulders</slot>
+</item>

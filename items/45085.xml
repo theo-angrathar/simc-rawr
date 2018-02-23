@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>58166</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_sword_73</iconpath>
+<stats>
+<stamina>34</stamina>
+<spellpower>408</spellpower>
+<critrating>53</critrating>
+<hitrating>30</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>99</mindamage>
+<maxdamage>316</maxdamage>
+<speed>2.5</speed>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Titansteel Spellblade</name>
+<id>45085</id>
+<slot>MainHand</slot>
+</item>

@@ -1,0 +1,20 @@
+<item>
+<itemlevel>1</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_11</iconpath>
+<stats>
+<stamina>52</stamina>
+<intellect>52</intellect>
+<spellpower>80</spellpower>
+<mp5>172</mp5>
+</stats>
+<quality>Heirloom</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mystical Vest of Elements</name>
+<id>48683</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_74</iconpath>
+<stats>
+<stamina>94</stamina>
+<strength>63</strength>
+<critrating>43</critrating>
+<expertiserating>41</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Etched Ring of the Kirin Tor</name>
+<id>48956</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64593</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_87</iconpath>
+<stats>
+<armor>1650</armor>
+<stamina>137</stamina>
+<strength>121</strength>
+<hitrating>80</hitrating>
+<expertiserating>64</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Festering Fingerguards</name>
+<id>51892</id>
+<slot>Hands</slot>
+</item>

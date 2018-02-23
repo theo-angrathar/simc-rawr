@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_14</iconpath>
+<stats>
+<armor>1293</armor>
+<stamina>111</stamina>
+<strength>67</strength>
+<hitrating>42</hitrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Titan-Forged Girdle of Triumph</name>
+<id>46072</id>
+<slot>Waist</slot>
+</item>

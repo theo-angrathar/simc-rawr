@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_cloth_12</iconpath>
+<stats>
+<armor>216</armor>
+<stamina>96</stamina>
+<intellect>42</intellect>
+<spellpower>90</spellpower>
+<critrating>48</critrating>
+<resilience>56</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Furious Gladiator's Slippers of Dominance</name>
+<id>41903</id>
+<slot>Feet</slot>
+</item>

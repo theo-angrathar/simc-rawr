@@ -1,0 +1,24 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64194</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_53</iconpath>
+<stats>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spirit>60</spirit>
+<spellpower>97</spellpower>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Bone Sentinel's Amulet</name>
+<id>49975</id>
+<slot>Neck</slot>
+</item>

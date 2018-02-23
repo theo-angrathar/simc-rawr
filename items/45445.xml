@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59197</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate18</iconpath>
+<stats>
+<armor>2420</armor>
+<stamina>111</stamina>
+<intellect>92</intellect>
+<spellpower>131</spellpower>
+<critrating>76</critrating>
+<hasterating>58</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Breastplate of the Devoted</name>
+<id>45445</id>
+<slot>Chest</slot>
+</item>

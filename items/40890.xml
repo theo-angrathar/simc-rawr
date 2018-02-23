@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>1082</armor>
+<stamina>114</stamina>
+<strength>76</strength>
+<critrating>50</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Relentless Gladiator's Bracers of Triumph</name>
+<id>40890</id>
+<slot>Wrist</slot>
+</item>

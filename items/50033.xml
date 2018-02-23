@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64357</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_wand_35</iconpath>
+<stats>
+<stamina>39</stamina>
+<intellect>39</intellect>
+<spellpower>60</spellpower>
+<critrating>34</critrating>
+<hasterating>34</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Wand</type>
+<faction>Neutral</faction>
+<mindamage>524</mindamage>
+<maxdamage>975</maxdamage>
+<damagetype>Fire</damagetype>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Corpse-Impaling Spike</name>
+<id>50033</id>
+<slot>Ranged</slot>
+</item>

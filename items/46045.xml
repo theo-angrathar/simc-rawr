@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59018</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_70</iconpath>
+<stats>
+<armor>197</armor>
+<stamina>75</stamina>
+<intellect>47</intellect>
+<spellpower>100</spellpower>
+<hitrating>50</hitrating>
+<hasterating>46</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Pulsar Gloves</name>
+<id>46045</id>
+<slot>Hands</slot>
+</item>

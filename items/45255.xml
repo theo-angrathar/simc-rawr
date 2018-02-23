@@ -1,0 +1,17 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>spell_nature_diseasecleansingtotem</iconpath>
+<stats>
+<lavaburstbonus>215</lavaburstbonus>
+</stats>
+<quality>Epic</quality>
+<type>Totem</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Thunderfall Totem</name>
+<id>45255</id>
+<slot>Ranged</slot>
+</item>

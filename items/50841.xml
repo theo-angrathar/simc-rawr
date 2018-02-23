@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_mail_15</iconpath>
+<stats>
+<armor>1413</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spellpower>149</spellpower>
+<critrating>96</critrating>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Frost Witch's Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Frost Witch's Hauberk</name>
+<id>50841</id>
+<slot>Chest</slot>
+</item>

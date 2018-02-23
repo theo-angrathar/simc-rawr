@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54715</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_08</iconpath>
+<stats>
+<armor>253</armor>
+<stamina>42</stamina>
+<intellect>38</intellect>
+<spirit>35</spirit>
+<spellpower>56</spellpower>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Esteemed Bindings</name>
+<id>40323</id>
+<slot>Wrist</slot>
+</item>

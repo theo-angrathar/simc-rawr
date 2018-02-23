@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>159</armor>
+<bonusarmor>490</bonusarmor>
+<stamina>100</stamina>
+<strength>67</strength>
+<dodgerating>35</dodgerating>
+<defenserating>35</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Icebound Cloak</name>
+<id>54801</id>
+<slot>Back</slot>
+</item>

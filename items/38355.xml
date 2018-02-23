@@ -1,0 +1,20 @@
+<item>
+<itemlevel>150</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_10</iconpath>
+<stats>
+<armor>113</armor>
+<stamina>45</stamina>
+<strength>27</strength>
+<dodgerating>23</dodgerating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Thick Goblin Back Protector </name>
+<id>38355</id>
+<slot>Back</slot>
+</item>

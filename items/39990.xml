@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_19</iconpath>
+<stats>
+<spellpenetration>8</spellpenetration>
+<critrating>6</critrating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Radiant Dark Jade</name>
+<id>39990</id>
+<slot>Green</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55049</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_01</iconpath>
+<stats>
+<armor>398</armor>
+<stamina>129</stamina>
+<frostresistance>86</frostresistance>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Polar Boots</name>
+<id>43592</id>
+<slot>Feet</slot>
+</item>

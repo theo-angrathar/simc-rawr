@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>58897</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_hand_23</iconpath>
+<stats>
+<agility>32</agility>
+<stamina>48</stamina>
+<attackpower>94</attackpower>
+<hitrating>40</hitrating>
+<hasterating>32</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>FistWeapon</type>
+<faction>Neutral</faction>
+<mindamage>406</mindamage>
+<maxdamage>610</maxdamage>
+<speed>2.7</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Golden Saronite Dragon</name>
+<id>45132</id>
+<slot>MainHand</slot>
+</item>

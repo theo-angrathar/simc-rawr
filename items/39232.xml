@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35358</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_29naxxramas</iconpath>
+<stats>
+<stamina>31</stamina>
+<intellect>41</intellect>
+<spellpower>57</spellpower>
+<hasterating>36</hasterating>
+<mp5>15</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pendant of Lost Vocations</name>
+<id>39232</id>
+<slot>Neck</slot>
+</item>

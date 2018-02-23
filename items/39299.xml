@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53926</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_31</iconpath>
+<stats>
+<armor>353</armor>
+<agility>58</agility>
+<stamina>57</stamina>
+<attackpower>102</attackpower>
+<expertiserating>33</expertiserating>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Rapid Attack Gloves</name>
+<id>39299</id>
+<slot>Hands</slot>
+</item>

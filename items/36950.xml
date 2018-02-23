@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51520</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>2093</armor>
+<stamina>78</stamina>
+<strength>70</strength>
+<hitrating>68</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Wing Commander's Breastplate</name>
+<id>36950</id>
+<slot>Chest</slot>
+</item>

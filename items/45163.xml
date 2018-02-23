@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_plate_09</iconpath>
+<stats>
+<armor>1489</armor>
+<stamina>84</stamina>
+<strength>59</strength>
+<dodgerating>41</dodgerating>
+<defenserating>34</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Stanchions of Unseatable Furor</name>
+<id>45163</id>
+<slot>Feet</slot>
+</item>

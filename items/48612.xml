@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_30</iconpath>
+<stats>
+<armor>1941</armor>
+<stamina>130</stamina>
+<strength>122</strength>
+<critrating>76</critrating>
+<hitrating>68</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Battlegear</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Turalyon's Shoulderplates of Triumph</name>
+<id>48612</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53820</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_25</iconpath>
+<stats>
+<armor>494</armor>
+<agility>89</agility>
+<stamina>96</stamina>
+<attackpower>180</attackpower>
+<hitrating>52</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gored Hide Legguards</name>
+<id>37644</id>
+<slot>Legs</slot>
+</item>

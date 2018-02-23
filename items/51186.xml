@@ -1,0 +1,28 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_34</iconpath>
+<stats>
+<armor>582</armor>
+<agility>162</agility>
+<stamina>162</stamina>
+<attackpower>184</attackpower>
+<critrating>108</critrating>
+<expertiserating>92</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Shadowblade's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Sanctified Shadowblade Legplates</name>
+<id>51186</id>
+<slot>Legs</slot>
+</item>

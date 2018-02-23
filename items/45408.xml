@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_69</iconpath>
+<stats>
+<armor>1056</armor>
+<stamina>79</stamina>
+<intellect>81</intellect>
+<spellpower>105</spellpower>
+<critrating>55</critrating>
+<hitrating>55</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Garb</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Valorous Worldbreaker Helm</name>
+<id>45408</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>974</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>83</spellpower>
+<critrating>53</critrating>
+<hasterating>45</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Garb</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Valorous Worldbreaker Shoulderpads</name>
+<id>45410</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35358</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_29naxxramas</iconpath>
+<stats>
+<agility>45</agility>
+<stamina>51</stamina>
+<attackpower>100</attackpower>
+<critrating>38</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pendant of the Outcast Hero</name>
+<id>40678</id>
+<slot>Neck</slot>
+</item>

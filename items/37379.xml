@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51704</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_29</iconpath>
+<stats>
+<armor>1218</armor>
+<stamina>87</stamina>
+<strength>49</strength>
+<blockvalue>90</blockvalue>
+<defenserating>39</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<blockvalue>6</blockvalue>
+</socketbonus>
+<name>Skadi's Iron Belt</name>
+<id>37379</id>
+<slot>Waist</slot>
+</item>

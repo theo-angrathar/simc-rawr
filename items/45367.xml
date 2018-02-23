@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_05</iconpath>
+<stats>
+<armor>272</armor>
+<stamina>69</stamina>
+<intellect>76</intellect>
+<spellpower>115</spellpower>
+<critrating>68</critrating>
+<hitrating>62</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Kirin Tor Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Valorous Kirin Tor Leggings</name>
+<id>45367</id>
+<slot>Legs</slot>
+</item>

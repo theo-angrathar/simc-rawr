@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>591</armor>
+<agility>97</agility>
+<stamina>90</stamina>
+<attackpower>162</attackpower>
+<critrating>66</critrating>
+<expertiserating>76</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Terrorblade Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Conqueror's Terrorblade Breastplate</name>
+<id>46123</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1451</armor>
+<stamina>90</stamina>
+<strength>83</strength>
+<critrating>39</critrating>
+<hitrating>52</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Darkruned Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Valorous Darkruned Gauntlets</name>
+<id>45341</id>
+<slot>Hands</slot>
+</item>

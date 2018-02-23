@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51934</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_35</iconpath>
+<stats>
+<armor>1218</armor>
+<agility>36</agility>
+<stamina>85</stamina>
+<strength>58</strength>
+<hitrating>41</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The General's Steel Girdle</name>
+<id>37826</id>
+<slot>Waist</slot>
+</item>

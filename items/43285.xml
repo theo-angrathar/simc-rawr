@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>34204</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_ahnqiraj_01</iconpath>
+<stats>
+<stamina>40</stamina>
+<intellect>31</intellect>
+<spellpower>50</spellpower>
+<critrating>42</critrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Amulet of the Spell Flinger</name>
+<id>43285</id>
+<slot>Neck</slot>
+</item>

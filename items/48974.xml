@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_09</iconpath>
+<stats>
+<armor>259</armor>
+<stamina>72</stamina>
+<intellect>32</intellect>
+<spellpower>74</spellpower>
+<hitrating>42</hitrating>
+<resilience>42</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Titan-Forged Armwraps of Dominance</name>
+<id>48974</id>
+<slot>Wrist</slot>
+</item>

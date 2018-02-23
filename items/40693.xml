@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_23</iconpath>
+<stats>
+<armor>705</armor>
+<stamina>49</stamina>
+<intellect>50</intellect>
+<spellpower>68</spellpower>
+<hasterating>44</hasterating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Beadwork Belt of Shamanic Vision</name>
+<id>40693</id>
+<slot>Waist</slot>
+</item>

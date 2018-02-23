@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54882</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_24</iconpath>
+<stats>
+<armor>362</armor>
+<stamina>57</stamina>
+<intellect>55</intellect>
+<spirit>57</spirit>
+<spellpower>85</spellpower>
+<hasterating>42</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of Peaceful Death</name>
+<id>40349</id>
+<slot>Hands</slot>
+</item>

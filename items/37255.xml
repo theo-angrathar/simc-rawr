@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50996</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_99</iconpath>
+<stats>
+<stamina>48</stamina>
+<attackpower>70</attackpower>
+<hitrating>32</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>145</mindamage>
+<maxdamage>271</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The Interrogator</name>
+<id>37255</id>
+<slot>OneHand</slot>
+</item>

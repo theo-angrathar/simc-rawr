@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>60619</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_staff_101</iconpath>
+<stats>
+<agility>104</agility>
+<stamina>137</stamina>
+<attackpower>123</attackpower>
+<armorpenetrationrating>86</armorpenetrationrating>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Polearm</type>
+<faction>Alliance</faction>
+<mindamage>651</mindamage>
+<maxdamage>977</maxdamage>
+<speed>3.5</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<armorpenetrationrating>4</armorpenetrationrating>
+</socketbonus>
+<name>Fordragon Blades</name>
+<id>47834</id>
+<slot>TwoHand</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61254</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_47a</iconpath>
+<stats>
+<armor>746</armor>
+<stamina>72</stamina>
+<intellect>66</intellect>
+<spellpower>105</spellpower>
+<critrating>45</critrating>
+<mp5>34</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Darkspear Ritual Binding</name>
+<id>47866</id>
+<slot>Waist</slot>
+</item>

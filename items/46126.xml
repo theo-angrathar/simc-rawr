@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>517</armor>
+<agility>101</agility>
+<stamina>90</stamina>
+<attackpower>162</attackpower>
+<critrating>66</critrating>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Terrorblade Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Conqueror's Terrorblade Legplates</name>
+<id>46126</id>
+<slot>Legs</slot>
+</item>

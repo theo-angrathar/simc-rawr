@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53622</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_73</iconpath>
+<stats>
+<armor>314</armor>
+<stamina>86</stamina>
+<intellect>71</intellect>
+<spirit>66</spirit>
+<spellpower>132</spellpower>
+<mp5>16</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Blanketing Robes of Snow</name>
+<id>40194</id>
+<slot>Chest</slot>
+</item>

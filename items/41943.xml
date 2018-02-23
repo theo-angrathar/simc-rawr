@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56437</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_139</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>88</stamina>
+<intellect>39</intellect>
+<spellpower>73</spellpower>
+<critrating>36</critrating>
+<resilience>36</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<resilience>8</resilience>
+</socketbonus>
+<name>Savage Gladiator's Silk Cowl</name>
+<id>41943</id>
+<slot>Head</slot>
+</item>

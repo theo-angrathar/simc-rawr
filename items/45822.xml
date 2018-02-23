@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_41</iconpath>
+<stats>
+<stamina>63</stamina>
+<intellect>43</intellect>
+<spirit>41</spirit>
+<spellpower>74</spellpower>
+<hasterating>42</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Evoker's Charm</name>
+<id>45822</id>
+<slot>Neck</slot>
+</item>

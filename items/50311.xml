@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64950</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_158</iconpath>
+<stats>
+<armor>1925</armor>
+<stamina>157</stamina>
+<strength>84</strength>
+<blockrating>55</blockrating>
+<defenserating>82</defenserating>
+<expertiserating>53</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<defenserating>8</defenserating>
+</socketbonus>
+<name>Second Helm of the Executioner</name>
+<id>50311</id>
+<slot>Head</slot>
+</item>

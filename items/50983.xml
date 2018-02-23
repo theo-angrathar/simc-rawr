@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_90</iconpath>
+<stats>
+<armor>221</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<critrating>80</critrating>
+<hasterating>64</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Gloves of False Gestures</name>
+<id>50983</id>
+<slot>Hands</slot>
+</item>

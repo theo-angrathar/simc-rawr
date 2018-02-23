@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64699</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_69</iconpath>
+<stats>
+<armor>731</armor>
+<agility>60</agility>
+<stamina>55</stamina>
+<attackpower>158</attackpower>
+<intellect>37</intellect>
+<critrating>41</critrating>
+<hitrating>44</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Scabrous Zombie Leather Belt</name>
+<id>49810</id>
+<slot>Waist</slot>
+</item>

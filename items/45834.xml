@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_62</iconpath>
+<stats>
+<armor>1467</armor>
+<stamina>127</stamina>
+<strength>60</strength>
+<hitrating>49</hitrating>
+<dodgerating>56</dodgerating>
+<defenserating>55</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of the Royal Watch</name>
+<id>45834</id>
+<slot>Hands</slot>
+</item>

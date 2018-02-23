@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59715</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_96</iconpath>
+<stats>
+<armor>1761</armor>
+<stamina>127</stamina>
+<strength>84</strength>
+<hitrating>43</hitrating>
+<dodgerating>44</dodgerating>
+<defenserating>47</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shoulderplates of the Deconstructor</name>
+<id>45251</id>
+<slot>Shoulders</slot>
+</item>

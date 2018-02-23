@@ -1,0 +1,27 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_126</iconpath>
+<stats>
+<armor>2020</armor>
+<stamina>149</stamina>
+<intellect>64</intellect>
+<spellpower>140</spellpower>
+<critrating>77</critrating>
+<resilience>85</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Redemption</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Wrathful Gladiator's Ornamented Spaulders</name>
+<id>51473</id>
+<slot>Shoulders</slot>
+</item>

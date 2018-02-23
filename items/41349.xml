@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53110</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_26</iconpath>
+<stats>
+<armor>1308</armor>
+<stamina>66</stamina>
+<strength>52</strength>
+<critrating>27</critrating>
+<resilience>43</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Saronite Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Savage Saronite Gauntlets</name>
+<id>41349</id>
+<slot>Hands</slot>
+</item>

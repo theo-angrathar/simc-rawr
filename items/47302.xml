@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60598</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_staff_97</iconpath>
+<stats>
+<agility>128</agility>
+<stamina>136</stamina>
+<attackpower>181</attackpower>
+<armorpenetrationrating>82</armorpenetrationrating>
+<hasterating>90</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Staff</type>
+<faction>Horde</faction>
+<mindamage>490</mindamage>
+<maxdamage>736</maxdamage>
+<speed>2.4</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Twin's Pact</name>
+<id>47302</id>
+<slot>TwoHand</slot>
+</item>

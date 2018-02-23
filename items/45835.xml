@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_10</iconpath>
+<stats>
+<armor>1467</armor>
+<stamina>72</stamina>
+<intellect>60</intellect>
+<spellpower>100</spellpower>
+<hasterating>56</hasterating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of Serene Blessing</name>
+<id>45835</id>
+<slot>Hands</slot>
+</item>

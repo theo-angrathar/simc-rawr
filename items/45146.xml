@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59027</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_27</iconpath>
+<stats>
+<armor>138</armor>
+<stamina>46</stamina>
+<intellect>42</intellect>
+<spirit>49</spirit>
+<spellpower>74</spellpower>
+<critrating>42</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shackles of the Odalisque</name>
+<id>45146</id>
+<slot>Wrist</slot>
+</item>

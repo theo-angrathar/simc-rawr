@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>804</armor>
+<stamina>64</stamina>
+<intellect>53</intellect>
+<spellpower>77</spellpower>
+<hitrating>44</hitrating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Garb</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Valorous Earthshatter Gloves</name>
+<id>40515</id>
+<slot>Hands</slot>
+</item>

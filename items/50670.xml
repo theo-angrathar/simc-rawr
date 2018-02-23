@@ -1,0 +1,25 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64439</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_41</iconpath>
+<stats>
+<armor>304</armor>
+<agility>102</agility>
+<stamina>102</stamina>
+<attackpower>120</attackpower>
+<armorpenetrationrating>68</armorpenetrationrating>
+<critrating>60</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Toskk's Maximized Wristguards</name>
+<id>50670</id>
+<slot>Wrist</slot>
+</item>

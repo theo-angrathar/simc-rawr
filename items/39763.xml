@@ -1,0 +1,24 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56662</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_hand_09</iconpath>
+<stats>
+<stamina>37</stamina>
+<intellect>42</intellect>
+<spellpower>461</spellpower>
+<critrating>31</critrating>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>FistWeapon</type>
+<faction>Neutral</faction>
+<mindamage>152</mindamage>
+<maxdamage>317</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wraith Strike</name>
+<id>39763</id>
+<slot>MainHand</slot>
+</item>

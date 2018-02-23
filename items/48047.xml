@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62118</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_30</iconpath>
+<stats>
+<armor>2164</armor>
+<stamina>143</stamina>
+<strength>139</strength>
+<armorpenetrationrating>101</armorpenetrationrating>
+<critrating>65</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Legplates of the Redeemed Blood Knight</name>
+<id>48047</id>
+<slot>Legs</slot>
+</item>

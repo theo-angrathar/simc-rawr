@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61825</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_07</iconpath>
+<stats>
+<armor>1384</armor>
+<agility>74</agility>
+<stamina>107</stamina>
+<attackpower>255</attackpower>
+<intellect>71</intellect>
+<critrating>82</critrating>
+<hasterating>71</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Breastplate of Cruel Intent</name>
+<id>46960</id>
+<slot>Chest</slot>
+</item>

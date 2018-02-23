@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54039</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>980</armor>
+<stamina>75</stamina>
+<strength>34</strength>
+<parryrating>49</parryrating>
+<defenserating>32</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bracers of the Herald</name>
+<id>37620</id>
+<slot>Wrist</slot>
+</item>

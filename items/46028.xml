@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59750</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_129</iconpath>
+<stats>
+<armor>1886</armor>
+<stamina>69</stamina>
+<intellect>65</intellect>
+<spellpower>105</spellpower>
+<critrating>76</critrating>
+<mp5>30</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<mp5>3</mp5>
+</socketbonus>
+<name>Faceguard of the Eyeless Horror</name>
+<id>46028</id>
+<slot>Head</slot>
+</item>

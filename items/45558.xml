@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>58990</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_40b</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>73</stamina>
+<intellect>62</intellect>
+<spirit>48</spirit>
+<spellpower>81</spellpower>
+<critrating>48</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Cord of the White Dawn</name>
+<id>45558</id>
+<slot>Waist</slot>
+</item>

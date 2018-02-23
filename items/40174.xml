@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_41</iconpath>
+<stats>
+<spirit>10</spirit>
+<hasterating>10</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Intricate Eye of Zul</name>
+<id>40174</id>
+<slot>Green</slot>
+</item>

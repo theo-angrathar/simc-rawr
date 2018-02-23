@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>57076</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_19</iconpath>
+<stats>
+<armor>723</armor>
+<stamina>75</stamina>
+<intellect>50</intellect>
+<spellpower>88</spellpower>
+<critrating>57</critrating>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Girdle of Recuperation</name>
+<id>40327</id>
+<slot>Waist</slot>
+</item>

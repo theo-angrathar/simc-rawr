@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64300</displayid>
+<displayslot>16</displayslot>
+<iconpath>item_icecrowncape</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spirit>60</spirit>
+<spellpower>97</spellpower>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Greatcloak of the Turned Champion</name>
+<id>50014</id>
+<slot>Back</slot>
+</item>

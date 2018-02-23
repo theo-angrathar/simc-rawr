@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>2009</armor>
+<stamina>155</stamina>
+<strength>131</strength>
+<critrating>82</critrating>
+<expertiserating>74</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Thassarian's Battlegear</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Koltira's Helmet of Triumph</name>
+<id>48498</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>48511</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_43</iconpath>
+<stats>
+<stamina>64</stamina>
+<strength>43</strength>
+<parryrating>31</parryrating>
+<defenserating>25</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pendant of the Nathrezim</name>
+<id>37689</id>
+<slot>Neck</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>1299</armor>
+<stamina>79</stamina>
+<intellect>81</intellect>
+<spellpower>105</spellpower>
+<hitrating>55</hitrating>
+<hasterating>70</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Garb</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Valorous Worldbreaker Hauberk</name>
+<id>45411</id>
+<slot>Chest</slot>
+</item>

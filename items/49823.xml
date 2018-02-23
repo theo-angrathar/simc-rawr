@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>17238</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>59</stamina>
+<intellect>40</intellect>
+<spellpower>70</spellpower>
+<critrating>35</critrating>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cloak of the Fallen Cardinal</name>
+<id>49823</id>
+<slot>Back</slot>
+</item>

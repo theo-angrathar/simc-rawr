@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62145</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_70</iconpath>
+<stats>
+<armor>8309</armor>
+<stamina>54</stamina>
+<intellect>51</intellect>
+<spellpower>80</spellpower>
+<critrating>44</critrating>
+<blockvalue>232</blockvalue>
+<mp5>27</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Pride of the Kor'kron</name>
+<id>48040</id>
+<slot>OffHand</slot>
+</item>

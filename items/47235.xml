@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61243</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_79</iconpath>
+<stats>
+<armor>207</armor>
+<stamina>77</stamina>
+<intellect>77</intellect>
+<spellpower>109</spellpower>
+<critrating>59</critrating>
+<hasterating>67</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Gloves of the Lifeless Touch</name>
+<id>47235</id>
+<slot>Hands</slot>
+</item>

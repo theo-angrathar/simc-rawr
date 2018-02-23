@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_14</iconpath>
+<stats>
+<armor>177</armor>
+<agility>90</agility>
+<stamina>90</stamina>
+<attackpower>105</attackpower>
+<armorpenetrationrating>52</armorpenetrationrating>
+<critrating>60</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Recovered Scarlet Onslaught Cape</name>
+<id>50470</id>
+<slot>Back</slot>
+</item>

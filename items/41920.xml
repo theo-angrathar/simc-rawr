@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55890</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_63</iconpath>
+<stats>
+<armor>308</armor>
+<stamina>115</stamina>
+<intellect>50</intellect>
+<spellpower>98</spellpower>
+<critrating>51</critrating>
+<resilience>66</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Raiment</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Deadly Gladiator's Satin Robe</name>
+<id>41920</id>
+<slot>Chest</slot>
+</item>

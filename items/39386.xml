@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53935</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_05</iconpath>
+<stats>
+<armor>564</armor>
+<agility>74</agility>
+<stamina>88</stamina>
+<attackpower>138</attackpower>
+<expertiserating>45</expertiserating>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Tunic of Dislocation</name>
+<id>39386</id>
+<slot>Chest</slot>
+</item>

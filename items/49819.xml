@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64951</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>1886</armor>
+<stamina>97</stamina>
+<strength>105</strength>
+<critrating>58</critrating>
+<hitrating>64</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Skeleton Lord's Cranium</name>
+<id>49819</id>
+<slot>Head</slot>
+</item>

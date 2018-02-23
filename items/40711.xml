@@ -1,0 +1,19 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54481</displayid>
+<displayslot>28</displayslot>
+<iconpath>inv_relics_idolofhealth</iconpath>
+<stats>
+<lifebloomtickhealbonus>125</lifebloomtickhealbonus>
+</stats>
+<quality>Epic</quality>
+<type>Idol</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Idol of Lush Moss</name>
+<id>40711</id>
+<slot>Ranged</slot>
+</item>

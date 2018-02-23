@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_117</iconpath>
+<stats>
+<armor>1894</armor>
+<stamina>122</stamina>
+<strength>114</strength>
+<critrating>71</critrating>
+<hasterating>63</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Lightsworn Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Lightsworn Shoulderplates</name>
+<id>50324</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64568</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_32</iconpath>
+<stats>
+<armor>2210</armor>
+<stamina>164</stamina>
+<strength>140</strength>
+<armorpenetrationrating>96</armorpenetrationrating>
+<critrating>72</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<armorpenetrationrating>8</armorpenetrationrating>
+</socketbonus>
+<name>Legplates of Aetheric Strife</name>
+<id>51786</id>
+<slot>Legs</slot>
+</item>

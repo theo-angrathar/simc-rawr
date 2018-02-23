@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64796</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_42</iconpath>
+<stats>
+<armor>1155</armor>
+<stamina>124</stamina>
+<strength>90</strength>
+<dodgerating>48</dodgerating>
+<parryrating>40</parryrating>
+<defenserating>48</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Bracers of Dark Reckoning</name>
+<id>49960</id>
+<slot>Wrist</slot>
+</item>

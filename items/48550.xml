@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>2102</armor>
+<stamina>194</stamina>
+<strength>116</strength>
+<hitrating>62</hitrating>
+<dodgerating>102</dodgerating>
+<defenserating>94</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Thassarian's Plate</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Koltira's Faceguard of Triumph</name>
+<id>48550</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64591</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32a</iconpath>
+<stats>
+<armor>136</armor>
+<stamina>48</stamina>
+<intellect>44</intellect>
+<spirit>41</spirit>
+<spellpower>70</spellpower>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wristguards of Subterranean Moss</name>
+<id>49809</id>
+<slot>Wrist</slot>
+</item>

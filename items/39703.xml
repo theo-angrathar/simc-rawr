@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54711</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_10</iconpath>
+<stats>
+<armor>1436</armor>
+<stamina>57</stamina>
+<intellect>57</intellect>
+<spellpower>88</spellpower>
+<critrating>53</critrating>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Rescinding Grips</name>
+<id>39703</id>
+<slot>Hands</slot>
+</item>

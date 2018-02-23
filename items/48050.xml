@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60673</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_101</iconpath>
+<stats>
+<agility>54</agility>
+<stamina>44</stamina>
+<attackpower>70</attackpower>
+<critrating>40</critrating>
+<hasterating>35</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Horde</faction>
+<mindamage>357</mindamage>
+<maxdamage>665</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Blackhorn Bludgeon</name>
+<id>48050</id>
+<slot>OneHand</slot>
+</item>

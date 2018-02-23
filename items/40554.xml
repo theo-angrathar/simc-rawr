@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_58</iconpath>
+<stats>
+<armor>1867</armor>
+<stamina>100</stamina>
+<strength>85</strength>
+<critrating>100</critrating>
+<hitrating>34</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgeborne Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Valorous Scourgeborne Helmet</name>
+<id>40554</id>
+<slot>Head</slot>
+</item>

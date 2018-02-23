@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_87</iconpath>
+<stats>
+<armor>1579</armor>
+<bonusarmor>882</bonusarmor>
+<stamina>148</stamina>
+<strength>81</strength>
+<hitrating>54</hitrating>
+<defenserating>71</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgelord's Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Scourgelord Handguards</name>
+<id>50856</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35313</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_50naxxramas</iconpath>
+<stats>
+<stamina>36</stamina>
+<intellect>38</intellect>
+<spirit>29</spirit>
+<spellpower>59</spellpower>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ring of Holy Cleansing</name>
+<id>39250</id>
+<slot>Finger</slot>
+</item>

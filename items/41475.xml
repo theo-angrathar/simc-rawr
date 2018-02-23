@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_13</iconpath>
+<stats>
+<spirit>7</spirit>
+<hitrating>7</hitrating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Perfect Shining Dark Jade</name>
+<id>41475</id>
+<slot>Green</slot>
+</item>

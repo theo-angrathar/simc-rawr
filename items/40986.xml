@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56926</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_02</iconpath>
+<stats>
+<armor>1212</armor>
+<stamina>88</stamina>
+<intellect>39</intellect>
+<spellpower>73</spellpower>
+<resilience>51</resilience>
+<mp5>18</mp5>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Wartide</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Savage Gladiator's Ringmail Armor</name>
+<id>40986</id>
+<slot>Chest</slot>
+</item>

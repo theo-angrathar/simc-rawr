@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59676</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_95</iconpath>
+<stats>
+<armor>1886</armor>
+<stamina>135</stamina>
+<strength>66</strength>
+<dodgerating>54</dodgerating>
+<defenserating>62</defenserating>
+<expertiserating>62</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Ironbark Faceguard</name>
+<id>45935</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64171</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_85</iconpath>
+<stats>
+<stamina>108</stamina>
+<strength>49</strength>
+<hitrating>47</hitrating>
+<dodgerating>56</dodgerating>
+<defenserating>49</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<uniqueid>50790</uniqueid>
+<uniqueid>51913</uniqueid>
+<name>Abomination's Bloody Ring</name>
+<id>50790</id>
+<slot>Finger</slot>
+</item>

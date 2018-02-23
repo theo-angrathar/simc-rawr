@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60551</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_06</iconpath>
+<stats>
+<armor>1299</armor>
+<agility>61</agility>
+<stamina>74</stamina>
+<attackpower>212</attackpower>
+<armorpenetrationrating>65</armorpenetrationrating>
+<intellect>60</intellect>
+<hitrating>56</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Chestguard of the Ravenous Fiend</name>
+<id>47244</id>
+<slot>Chest</slot>
+</item>

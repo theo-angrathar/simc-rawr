@@ -1,0 +1,25 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>64789</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_12</iconpath>
+<stats>
+<armor>1858</armor>
+<stamina>146</stamina>
+<strength>146</strength>
+<critrating>86</critrating>
+<hitrating>70</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Apocalypse's Advance</name>
+<id>53125</id>
+<slot>Feet</slot>
+</item>

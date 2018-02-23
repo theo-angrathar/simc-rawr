@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_98</iconpath>
+<stats>
+<armor>447</armor>
+<stamina>102</stamina>
+<intellect>45</intellect>
+<spirit>51</spirit>
+<spellpower>96</spellpower>
+<resilience>60</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Refuge</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Furious Gladiator's Kodohide Spaulders</name>
+<id>41275</id>
+<slot>Shoulders</slot>
+</item>

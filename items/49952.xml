@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>67434</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_158</iconpath>
+<stats>
+<armor>1200</armor>
+<agility>146</agility>
+<stamina>128</stamina>
+<attackpower>200</attackpower>
+<intellect>85</intellect>
+<critrating>100</critrating>
+<hitrating>69</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Snowserpent Mail Helm</name>
+<id>49952</id>
+<slot>Head</slot>
+</item>

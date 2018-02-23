@@ -1,0 +1,12 @@
+<enchant>
+<id>3252</id>
+<name>Super Stats</name>
+<slot>Chest</slot>
+<stats>
+<agility>8</agility>
+<stamina>8</stamina>
+<strength>8</strength>
+<intellect>8</intellect>
+<spirit>8</spirit>
+</stats>
+</enchant>

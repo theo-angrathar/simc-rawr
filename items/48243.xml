@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_18a</iconpath>
+<stats>
+<armor>596</armor>
+<agility>104</agility>
+<stamina>120</stamina>
+<attackpower>145</attackpower>
+<critrating>80</critrating>
+<hitrating>72</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>VanCleef's Battlegear</setname>
+<type>Leather</type>
+<faction>Horde</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Garona's Breastplate of Conquest</name>
+<id>48243</id>
+<slot>Chest</slot>
+</item>

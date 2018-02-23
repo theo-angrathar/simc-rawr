@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62106</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_100</iconpath>
+<stats>
+<armor>1038</armor>
+<agility>101</agility>
+<stamina>89</stamina>
+<attackpower>128</attackpower>
+<intellect>39</intellect>
+<critrating>53</critrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Pauldrons of the Shadow Hunter</name>
+<id>48046</id>
+<slot>Shoulders</slot>
+</item>

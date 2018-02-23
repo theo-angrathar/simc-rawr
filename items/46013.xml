@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59031</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_97</iconpath>
+<stats>
+<armor>233</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spirit>46</spirit>
+<spellpower>92</spellpower>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Underworld Mantle</name>
+<id>46013</id>
+<slot>Shoulders</slot>
+</item>

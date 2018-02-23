@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52398</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_08</iconpath>
+<stats>
+<armor>123</armor>
+<stamina>27</stamina>
+<intellect>34</intellect>
+<spirit>38</spirit>
+<spellpower>44</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Demonic Fabric Bands</name>
+<id>37113</id>
+<slot>Wrist</slot>
+</item>

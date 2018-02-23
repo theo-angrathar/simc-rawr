@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61347</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_24</iconpath>
+<stats>
+<armor>2473</armor>
+<stamina>168</stamina>
+<strength>103</strength>
+<dodgerating>55</dodgerating>
+<parryrating>63</parryrating>
+<defenserating>71</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Breastplate of the White Knight</name>
+<id>47591</id>
+<slot>Chest</slot>
+</item>

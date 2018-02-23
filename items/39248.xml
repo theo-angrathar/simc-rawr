@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53890</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_02</iconpath>
+<stats>
+<armor>1254</armor>
+<agility>52</agility>
+<stamina>70</stamina>
+<attackpower>180</attackpower>
+<intellect>48</intellect>
+<critrating>64</critrating>
+<hitrating>45</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Tunic of the Lost Pack</name>
+<id>39248</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56604</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_11</iconpath>
+<stats>
+<armor>173</armor>
+<stamina>55</stamina>
+<intellect>57</intellect>
+<spirit>55</spirit>
+<spellpower>88</spellpower>
+<critrating>43</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of False Dignity</name>
+<id>39735</id>
+<slot>Waist</slot>
+</item>

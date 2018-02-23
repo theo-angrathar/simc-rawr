@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>54711</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_10</iconpath>
+<stats>
+<armor>1467</armor>
+<stamina>64</stamina>
+<intellect>65</intellect>
+<spellpower>99</spellpower>
+<critrating>49</critrating>
+<mp5>30</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of the Pythonic Guardian</name>
+<id>45268</id>
+<slot>Hands</slot>
+</item>

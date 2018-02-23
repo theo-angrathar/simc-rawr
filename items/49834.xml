@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64607</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_118</iconpath>
+<stats>
+<armor>233</armor>
+<stamina>69</stamina>
+<intellect>56</intellect>
+<spellpower>92</spellpower>
+<critrating>60</critrating>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Frayed Abomination Stitching Shoulders</name>
+<id>49834</id>
+<slot>Shoulders</slot>
+</item>

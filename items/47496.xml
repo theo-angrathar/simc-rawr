@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_22b</iconpath>
+<stats>
+<armor>256</armor>
+<agility>59</agility>
+<stamina>45</stamina>
+<attackpower>90</attackpower>
+<armorpenetrationrating>39</armorpenetrationrating>
+<hitrating>40</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Armbands of the Wary Lookout</name>
+<id>47496</id>
+<slot>Wrist</slot>
+</item>

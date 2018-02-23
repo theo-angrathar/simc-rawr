@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54970</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>362</armor>
+<agility>66</agility>
+<stamina>64</stamina>
+<attackpower>110</attackpower>
+<critrating>38</critrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Gloves of Fast Reactions</name>
+<id>40362</id>
+<slot>Hands</slot>
+</item>

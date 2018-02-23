@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64804</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_113</iconpath>
+<stats>
+<armor>1060</armor>
+<agility>107</agility>
+<stamina>84</stamina>
+<attackpower>110</attackpower>
+<intellect>56</intellect>
+<critrating>71</critrating>
+<hitrating>40</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Shoulderpads of the Morbid Ritual</name>
+<id>51015</id>
+<slot>Shoulders</slot>
+</item>

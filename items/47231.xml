@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60640</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_23</iconpath>
+<stats>
+<armor>705</armor>
+<agility>48</agility>
+<stamina>60</stamina>
+<attackpower>59</attackpower>
+<intellect>43</intellect>
+<critrating>43</critrating>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Belt of Merciless Cruelty</name>
+<id>47231</id>
+<slot>Waist</slot>
+</item>

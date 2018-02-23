@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53658</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>1723</armor>
+<stamina>60</stamina>
+<intellect>51</intellect>
+<spellpower>91</spellpower>
+<critrating>38</critrating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Focusing Energy Epaulets</name>
+<id>40511</id>
+<slot>Shoulders</slot>
+</item>

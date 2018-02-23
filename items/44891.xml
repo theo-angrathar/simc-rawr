@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_cloth_05</iconpath>
+<stats>
+<armor>388</armor>
+<stamina>76</stamina>
+<intellect>33</intellect>
+<spellpower>68</spellpower>
+<hitrating>36</hitrating>
+<resilience>44</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Titan-Forged Boots of Dominance</name>
+<id>44891</id>
+<slot>Feet</slot>
+</item>

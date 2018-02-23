@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>59004</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_24b</iconpath>
+<stats>
+<armor>152</armor>
+<stamina>65</stamina>
+<intellect>65</intellect>
+<spirit>57</spirit>
+<spellpower>91</spellpower>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Bindings of the Ashen Saint</name>
+<id>47485</id>
+<slot>Wrist</slot>
+</item>

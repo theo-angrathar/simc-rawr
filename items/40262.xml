@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54852</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_26</iconpath>
+<stats>
+<armor>804</armor>
+<agility>43</agility>
+<stamina>57</stamina>
+<attackpower>150</attackpower>
+<intellect>40</intellect>
+<critrating>55</critrating>
+<hitrating>38</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of Calculated Risk</name>
+<id>40262</id>
+<slot>Hands</slot>
+</item>

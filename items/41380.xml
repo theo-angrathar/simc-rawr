@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_shadowspirit_02</iconpath>
+<stats>
+<stamina>32</stamina>
+<basearmormultiplier>0.02</basearmormultiplier>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Austere Earthsiege Diamond</name>
+<id>41380</id>
+<slot>Meta</slot>
+</item>

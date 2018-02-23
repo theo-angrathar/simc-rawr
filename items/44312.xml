@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56305</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_98</iconpath>
+<stats>
+<armor>1681</armor>
+<stamina>100</stamina>
+<strength>53</strength>
+<defenserating>58</defenserating>
+<expertiserating>42</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Wapach's Spaulders of Solidarity</name>
+<id>44312</id>
+<slot>Shoulders</slot>
+</item>

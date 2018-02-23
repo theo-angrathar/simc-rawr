@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_26</iconpath>
+<stats>
+<armor>307</armor>
+<stamina>75</stamina>
+<intellect>42</intellect>
+<spellpower>73</spellpower>
+<hasterating>33</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Waistguard of Equine Fury</name>
+<id>45211</id>
+<slot>Waist</slot>
+</item>

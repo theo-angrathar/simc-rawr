@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_chain_03</iconpath>
+<stats>
+<armor>884</armor>
+<agility>49</agility>
+<stamina>75</stamina>
+<attackpower>150</attackpower>
+<armorpenetrationrating>39</armorpenetrationrating>
+<intellect>40</intellect>
+<hitrating>39</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pack-Ice Striders</name>
+<id>40746</id>
+<slot>Feet</slot>
+</item>

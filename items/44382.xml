@@ -1,0 +1,21 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_26</iconpath>
+<stats>
+<armor>277</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spirit>66</spirit>
+<spellpower>77</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Robes of Refrained Celebration</name>
+<id>44382</id>
+<slot>Chest</slot>
+</item>

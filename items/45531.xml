@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61886</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_13</iconpath>
+<stats>
+<armor>1314</armor>
+<stamina>85</stamina>
+<intellect>86</intellect>
+<spellpower>124</spellpower>
+<critrating>75</critrating>
+<hasterating>68</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Chestguard of the Fallen God</name>
+<id>45531</id>
+<slot>Chest</slot>
+</item>

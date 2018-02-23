@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55326</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_72</iconpath>
+<stats>
+<armor>225</armor>
+<stamina>52</stamina>
+<intellect>53</intellect>
+<spellpower>77</spellpower>
+<hasterating>44</hasterating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Mantle of the Extensive Mind</name>
+<id>39310</id>
+<slot>Shoulders</slot>
+</item>

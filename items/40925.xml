@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55839</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_62</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>76</stamina>
+<intellect>33</intellect>
+<spellpower>68</spellpower>
+<critrating>27</critrating>
+<resilience>35</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Redemption</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Hateful Gladiator's Ornamented Gloves</name>
+<id>40925</id>
+<slot>Hands</slot>
+</item>

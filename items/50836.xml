@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_104</iconpath>
+<stats>
+<armor>883</armor>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spellpower>116</spellpower>
+<critrating>71</critrating>
+<mp5>32</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Frost Witch's Garb</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Frost Witch's Handguards</name>
+<id>50836</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>58995</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_22</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>67</stamina>
+<strength>68</strength>
+<critrating>30</critrating>
+<hasterating>46</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Drape of Fuming Anger</name>
+<id>45318</id>
+<slot>Back</slot>
+</item>

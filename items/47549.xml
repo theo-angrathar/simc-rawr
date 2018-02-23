@@ -1,0 +1,25 @@
+<item>
+<itemlevel>272</itemlevel>
+<displayid>61260</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>182</armor>
+<stamina>134</stamina>
+<strength>97</strength>
+<dodgerating>43</dodgerating>
+<parryrating>51</parryrating>
+<defenserating>51</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Magni's Resolution</name>
+<id>47549</id>
+<slot>Back</slot>
+</item>

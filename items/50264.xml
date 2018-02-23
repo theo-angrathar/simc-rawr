@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64552</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_23a</iconpath>
+<stats>
+<armor>261</armor>
+<agility>67</agility>
+<stamina>51</stamina>
+<attackpower>102</attackpower>
+<armorpenetrationrating>41</armorpenetrationrating>
+<hitrating>46</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Chewed Leather Wristguards</name>
+<id>50264</id>
+<slot>Wrist</slot>
+</item>

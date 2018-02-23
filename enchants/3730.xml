@@ -1,0 +1,20 @@
+<enchant>
+<id>3730</id>
+<name>Swordguard Embroidery</name>
+<slot>Back</slot>
+<stats>
+<specialeffects>
+<specialeffect>
+<trigger>PhysicalHit</trigger>
+<stats>
+<attackpower>400</attackpower>
+</stats>
+<duration>15</duration>
+<cooldown>45</cooldown>
+<chance>0.25</chance>
+<maxstack>1</maxstack>
+</specialeffect>
+</specialeffects>
+<specialeffectcount>1</specialeffectcount>
+</stats>
+</enchant>

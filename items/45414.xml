@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>812</armor>
+<agility>53</agility>
+<stamina>47</stamina>
+<attackpower>158</attackpower>
+<intellect>41</intellect>
+<expertiserating>36</expertiserating>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Valorous Worldbreaker Grips</name>
+<id>45414</id>
+<slot>Hands</slot>
+</item>

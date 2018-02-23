@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>39123</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_57</iconpath>
+<stats>
+<stamina>54</stamina>
+<intellect>59</intellect>
+<spellpower>80</spellpower>
+<critrating>33</critrating>
+<hitrating>56</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Firestorm Ring</name>
+<id>47928</id>
+<slot>Finger</slot>
+</item>

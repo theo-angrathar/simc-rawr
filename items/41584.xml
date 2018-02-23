@@ -1,0 +1,17 @@
+<item>
+<itemlevel>154</itemlevel>
+<displayid>40524</displayid>
+<displayslot>24</displayslot>
+<iconpath>inv_misc_ammo_bullet_06</iconpath>
+<stats></stats>
+<quality>Common</quality>
+<type>Bullet</type>
+<faction>Neutral</faction>
+<mindamage>46</mindamage>
+<maxdamage>47</maxdamage>
+<speed>3</speed>
+<socketbonus></socketbonus>
+<name>Frostbite Bullets</name>
+<id>41584</id>
+<slot>Projectile</slot>
+</item>

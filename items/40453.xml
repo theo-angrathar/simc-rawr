@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53290</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate18</iconpath>
+<stats>
+<armor>2298</armor>
+<stamina>69</stamina>
+<intellect>72</intellect>
+<spellpower>123</spellpower>
+<critrating>27</critrating>
+<hasterating>82</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Chestplate of the Great Aspects</name>
+<id>40453</id>
+<slot>Chest</slot>
+</item>

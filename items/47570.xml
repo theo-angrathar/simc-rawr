@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61897</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32a</iconpath>
+<stats>
+<armor>1082</armor>
+<stamina>102</stamina>
+<strength>58</strength>
+<hitrating>38</hitrating>
+<dodgerating>42</dodgerating>
+<defenserating>50</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Saronite Swordbreakers</name>
+<id>47570</id>
+<slot>Wrist</slot>
+</item>

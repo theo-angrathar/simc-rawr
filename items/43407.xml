@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57084</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_61</iconpath>
+<stats>
+<stamina>36</stamina>
+<attackpower>62</attackpower>
+<critrating>42</critrating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>237</mindamage>
+<maxdamage>440</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Stormstrike Mace</name>
+<id>43407</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56421</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_98</iconpath>
+<stats>
+<armor>434</armor>
+<stamina>85</stamina>
+<intellect>37</intellect>
+<spellpower>78</spellpower>
+<critrating>42</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Wildhide</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Deadly Gladiator's Wyrmhide Spaulders</name>
+<id>41280</id>
+<slot>Shoulders</slot>
+</item>

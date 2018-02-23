@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_110</iconpath>
+<stats>
+<armor>260</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spirit>76</spirit>
+<spellpower>124</spellpower>
+<critrating>68</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Velen's Regalia</setname>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Velen's Mantle of Triumph</name>
+<id>48082</id>
+<slot>Shoulders</slot>
+</item>

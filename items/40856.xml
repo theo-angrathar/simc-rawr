@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55805</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_62</iconpath>
+<stats>
+<armor>1625</armor>
+<stamina>85</stamina>
+<strength>50</strength>
+<critrating>31</critrating>
+<resilience>38</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Savage Gladiator's Plate Shoulders</name>
+<id>40856</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>52351</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_14</iconpath>
+<stats>
+<armor>242</armor>
+<stamina>42</stamina>
+<intellect>68</intellect>
+<spirit>59</spirit>
+<spellpower>61</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leggings of Burning Gleam</name>
+<id>35673</id>
+<slot>Legs</slot>
+</item>

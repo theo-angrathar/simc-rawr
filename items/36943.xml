@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>35359</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_28naxxramas</iconpath>
+<stats>
+<stamina>27</stamina>
+<intellect>29</intellect>
+<spirit>37</spirit>
+<spellpower>44</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Timeless Beads of Eternos</name>
+<id>36943</id>
+<slot>Neck</slot>
+</item>

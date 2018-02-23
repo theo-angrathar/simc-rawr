@@ -1,0 +1,24 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_02</iconpath>
+<stats>
+<stamina>94</stamina>
+<strength>63</strength>
+<parryrating>34</parryrating>
+<blockrating>28</blockrating>
+<defenserating>28</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Nexus War Champion Beads</name>
+<id>44665</id>
+<slot>Neck</slot>
+</item>

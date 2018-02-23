@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53670</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_75</iconpath>
+<stats>
+<armor>1723</armor>
+<stamina>58</stamina>
+<intellect>56</intellect>
+<spellpower>88</spellpower>
+<critrating>55</critrating>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Epaulets of the Grieving Servant</name>
+<id>39725</id>
+<slot>Shoulders</slot>
+</item>

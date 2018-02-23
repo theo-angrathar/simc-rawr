@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_ahnqiraj_03</iconpath>
+<stats>
+<stamina>31</stamina>
+<intellect>33</intellect>
+<spirit>43</spirit>
+<spellpower>50</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Dragon Prow Amulet</name>
+<id>37290</id>
+<slot>Neck</slot>
+</item>

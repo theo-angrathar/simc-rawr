@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55727</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_12</iconpath>
+<stats>
+<armor>1293</armor>
+<stamina>85</stamina>
+<intellect>37</intellect>
+<spellpower>78</spellpower>
+<resilience>50</resilience>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Deadly Gladiator's Girdle of Salvation</name>
+<id>40974</id>
+<slot>Waist</slot>
+</item>

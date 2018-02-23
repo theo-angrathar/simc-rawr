@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54620</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_62</iconpath>
+<stats>
+<armor>1436</armor>
+<stamina>112</stamina>
+<strength>74</strength>
+<blockrating>36</blockrating>
+<blockvalue>87</blockvalue>
+<defenserating>50</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of the Disobedient</name>
+<id>40188</id>
+<slot>Hands</slot>
+</item>

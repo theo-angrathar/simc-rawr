@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_15</iconpath>
+<stats>
+<armor>458</armor>
+<stamina>67</stamina>
+<intellect>65</intellect>
+<spellpower>85</spellpower>
+<critrating>53</critrating>
+<hitrating>36</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreamwalker Garb</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<intellect>8</intellect>
+</socketbonus>
+<name>Heroes' Dreamwalker Cover</name>
+<id>39545</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>55325</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_72</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>79</stamina>
+<intellect>59</intellect>
+<spirit>52</spirit>
+<spellpower>98</spellpower>
+<critrating>60</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mantle of Dissemination</name>
+<id>40555</id>
+<slot>Shoulders</slot>
+</item>

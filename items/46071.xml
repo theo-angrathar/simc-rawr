@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_12</iconpath>
+<stats>
+<armor>1293</armor>
+<stamina>85</stamina>
+<intellect>37</intellect>
+<spellpower>78</spellpower>
+<critrating>42</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Titan-Forged Girdle of Salvation</name>
+<id>46071</id>
+<slot>Waist</slot>
+</item>

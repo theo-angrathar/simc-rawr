@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_43</iconpath>
+<stats>
+<armor>314</armor>
+<stamina>90</stamina>
+<intellect>76</intellect>
+<spellpower>132</spellpower>
+<hitrating>74</hitrating>
+<hasterating>58</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Sanctification Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Conqueror's Raiments of Sanctification</name>
+<id>46168</id>
+<slot>Chest</slot>
+</item>

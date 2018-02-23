@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64173</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_84</iconpath>
+<stats>
+<stamina>124</stamina>
+<strength>69</strength>
+<hitrating>38</hitrating>
+<dodgerating>60</dodgerating>
+<defenserating>60</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Harbinger's Bone Band</name>
+<id>50447</id>
+<slot>Finger</slot>
+</item>

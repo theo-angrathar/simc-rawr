@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_83</iconpath>
+<stats>
+<armor>416</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>80</spirit>
+<spellpower>132</spellpower>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Garb</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Sanctified Lasherweave Gauntlets</name>
+<id>51138</id>
+<slot>Hands</slot>
+</item>

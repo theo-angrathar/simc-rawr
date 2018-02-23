@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56128</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_69</iconpath>
+<stats>
+<armor>804</armor>
+<stamina>64</stamina>
+<intellect>53</intellect>
+<spellpower>78</spellpower>
+<critrating>42</critrating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Bountiful Gauntlets</name>
+<id>44004</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59026</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_20</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>88</stamina>
+<strength>43</strength>
+<hitrating>35</hitrating>
+<parryrating>29</parryrating>
+<defenserating>46</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Saronite Animus Cloak</name>
+<id>46014</id>
+<slot>Back</slot>
+</item>

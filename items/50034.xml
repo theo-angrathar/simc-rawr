@@ -1,0 +1,22 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65744</displayid>
+<displayslot>15</displayslot>
+<iconpath>inv_weapon_bow_55</iconpath>
+<stats>
+<agility>34</agility>
+<stamina>51</stamina>
+<zodproc>0.04</zodproc>
+</stats>
+<quality>Epic</quality>
+<type>Bow</type>
+<faction>Neutral</faction>
+<mindamage>541</mindamage>
+<maxdamage>887</maxdamage>
+<speed>2.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Zod's Repeating Longbow</name>
+<id>50034</id>
+<slot>Ranged</slot>
+</item>

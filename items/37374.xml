@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51702</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_01</iconpath>
+<stats>
+<armor>477</armor>
+<agility>62</agility>
+<stamina>78</stamina>
+<attackpower>124</attackpower>
+<critrating>52</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Ravenous Leggings of the Furbolg</name>
+<id>37374</id>
+<slot>Legs</slot>
+</item>

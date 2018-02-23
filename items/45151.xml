@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59153</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_47a</iconpath>
+<stats>
+<armor>739</armor>
+<stamina>73</stamina>
+<intellect>60</intellect>
+<spellpower>99</spellpower>
+<critrating>49</critrating>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of the Fallen Wyrm</name>
+<id>45151</id>
+<slot>Waist</slot>
+</item>

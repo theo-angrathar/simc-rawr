@@ -1,0 +1,28 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_47</iconpath>
+<stats>
+<armor>1130</armor>
+<agility>85</agility>
+<stamina>145</stamina>
+<attackpower>154</attackpower>
+<intellect>64</intellect>
+<critrating>77</critrating>
+<resilience>85</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Earthshaker</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Wrathful Gladiator's Linked Spaulders</name>
+<id>51508</id>
+<slot>Shoulders</slot>
+</item>

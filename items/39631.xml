@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_29</iconpath>
+<stats>
+<armor>1681</armor>
+<stamina>49</stamina>
+<intellect>52</intellect>
+<spellpower>68</spellpower>
+<critrating>48</critrating>
+<hasterating>31</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Redemption Regalia</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Heroes' Redemption Spaulders</name>
+<id>39631</id>
+<slot>Shoulders</slot>
+</item>

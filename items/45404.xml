@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>974</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>83</spellpower>
+<hasterating>53</hasterating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Valorous Worldbreaker Spaulders</name>
+<id>45404</id>
+<slot>Shoulders</slot>
+</item>

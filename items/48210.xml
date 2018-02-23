@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_28</iconpath>
+<stats>
+<armor>545</armor>
+<agility>120</agility>
+<stamina>136</stamina>
+<attackpower>149</attackpower>
+<critrating>90</critrating>
+<hitrating>74</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Battlegear</setname>
+<type>Leather</type>
+<faction>Alliance</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Malfurion's Legguards of Triumph</name>
+<id>48210</id>
+<slot>Legs</slot>
+</item>

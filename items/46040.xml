@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>48507</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_47</iconpath>
+<stats>
+<stamina>72</stamina>
+<strength>66</strength>
+<critrating>42</critrating>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Strength of the Heavens</name>
+<id>46040</id>
+<slot>Neck</slot>
+</item>

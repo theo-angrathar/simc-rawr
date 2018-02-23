@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_26</iconpath>
+<stats>
+<armor>317</armor>
+<agility>40</agility>
+<stamina>61</stamina>
+<attackpower>116</attackpower>
+<critrating>46</critrating>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Jorach's Crocolisk Skin Belt</name>
+<id>40694</id>
+<slot>Waist</slot>
+</item>

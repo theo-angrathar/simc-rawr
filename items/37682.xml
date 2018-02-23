@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50510</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>948</armor>
+<stamina>66</stamina>
+<strength>42</strength>
+<parryrating>30</parryrating>
+<defenserating>27</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bindings of Dark Will</name>
+<id>37682</id>
+<slot>Wrist</slot>
+</item>

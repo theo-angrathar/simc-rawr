@@ -1,0 +1,24 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>53042</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_76</iconpath>
+<stats>
+<stamina>81</stamina>
+<strength>74</strength>
+<critrating>48</critrating>
+<hitrating>40</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Seal of the Betrayed King</name>
+<id>45534</id>
+<slot>Finger</slot>
+</item>

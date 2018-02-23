@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61961</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_06</iconpath>
+<stats>
+<armor>911</armor>
+<stamina>68</stamina>
+<intellect>68</intellect>
+<spellpower>96</spellpower>
+<critrating>60</critrating>
+<mp5>26</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Boots of Tortured Space</name>
+<id>49235</id>
+<slot>Feet</slot>
+</item>

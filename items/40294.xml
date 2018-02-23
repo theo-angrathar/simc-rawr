@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>51612</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_02</iconpath>
+<stats>
+<armor>2011</armor>
+<stamina>108</stamina>
+<strength>101</strength>
+<hitrating>59</hitrating>
+<hasterating>99</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Riveted Abomination Leggings</name>
+<id>40294</id>
+<slot>Legs</slot>
+</item>

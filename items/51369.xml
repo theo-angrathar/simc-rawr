@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65201</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_29</iconpath>
+<stats>
+<armor>457</armor>
+<agility>112</agility>
+<stamina>137</stamina>
+<attackpower>122</attackpower>
+<critrating>72</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Wrathful Gladiator's Boots of Triumph</name>
+<id>51369</id>
+<slot>Feet</slot>
+</item>

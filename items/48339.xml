@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_28</iconpath>
+<stats>
+<armor>1160</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<critrating>64</critrating>
+<hitrating>80</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Regalia</setname>
+<type>Mail</type>
+<faction>Horde</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Thrall's Kilt of Conquest</name>
+<id>48339</id>
+<slot>Legs</slot>
+</item>

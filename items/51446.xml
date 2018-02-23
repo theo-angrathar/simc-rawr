@@ -1,0 +1,26 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_mace_120</iconpath>
+<stats>
+<stamina>118</stamina>
+<attackpower>141</attackpower>
+<critrating>44</critrating>
+<resilience>52</resilience>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>263</mindamage>
+<maxdamage>489</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Wrathful Gladiator's Punisher</name>
+<id>51446</id>
+<slot>OffHand</slot>
+</item>

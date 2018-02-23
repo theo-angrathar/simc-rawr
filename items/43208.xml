@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_06</iconpath>
+<stats>
+<armor>1171</armor>
+<agility>66</agility>
+<stamina>66</stamina>
+<attackpower>102</attackpower>
+<critrating>53</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Lightningbringer's Hauberk</name>
+<id>43208</id>
+<slot>Chest</slot>
+</item>

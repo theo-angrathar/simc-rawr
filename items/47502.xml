@@ -1,0 +1,24 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60502</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_98</iconpath>
+<stats>
+<armor>1741</armor>
+<stamina>78</stamina>
+<strength>82</strength>
+<critrating>40</critrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Majestic Silversmith Shoulderplates</name>
+<id>47502</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52355</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_80</iconpath>
+<stats>
+<armor>218</armor>
+<stamina>45</stamina>
+<intellect>59</intellect>
+<spellpower>68</spellpower>
+<hasterating>42</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mantle of the Tribunal</name>
+<id>37655</id>
+<slot>Shoulders</slot>
+</item>

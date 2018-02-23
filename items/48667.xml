@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61400</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>173</armor>
+<stamina>65</stamina>
+<intellect>65</intellect>
+<spirit>57</spirit>
+<spellpower>91</spellpower>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Shawl of the Devout Crusader</name>
+<id>48667</id>
+<slot>Back</slot>
+</item>

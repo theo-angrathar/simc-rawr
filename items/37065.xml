@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>50514</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_99</iconpath>
+<stats>
+<agility>29</agility>
+<stamina>30</stamina>
+<attackpower>60</attackpower>
+<critrating>19</critrating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>218</mindamage>
+<maxdamage>406</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ymiron's Blade</name>
+<id>37065</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53253</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_31</iconpath>
+<stats>
+<armor>158</armor>
+<stamina>43</stamina>
+<intellect>50</intellect>
+<spellpower>61</spellpower>
+<critrating>36</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Deep Frozen Cord</name>
+<id>41986</id>
+<slot>Waist</slot>
+</item>

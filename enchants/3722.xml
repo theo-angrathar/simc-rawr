@@ -1,0 +1,20 @@
+<enchant>
+<id>3722</id>
+<name>Lightweave Embroidery</name>
+<slot>Back</slot>
+<stats>
+<specialeffects>
+<specialeffect>
+<trigger>SpellCast</trigger>
+<stats>
+<spellpower>295</spellpower>
+</stats>
+<duration>15</duration>
+<cooldown>60</cooldown>
+<chance>0.35</chance>
+<maxstack>1</maxstack>
+</specialeffect>
+</specialeffects>
+<specialeffectcount>1</specialeffectcount>
+</stats>
+</enchant>

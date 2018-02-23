@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61653</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_23b</iconpath>
+<stats>
+<armor>272</armor>
+<agility>68</agility>
+<stamina>76</stamina>
+<attackpower>101</attackpower>
+<armorpenetrationrating>42</armorpenetrationrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Bracers of Swift Death</name>
+<id>47581</id>
+<slot>Wrist</slot>
+</item>

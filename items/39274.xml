@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53906</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>941</armor>
+<stamina>48</stamina>
+<intellect>50</intellect>
+<spellpower>77</spellpower>
+<hasterating>53</hasterating>
+<mp5>14</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Retcher's Shoulderpads</name>
+<id>39274</id>
+<slot>Shoulders</slot>
+</item>

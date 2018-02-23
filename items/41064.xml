@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56946</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>563</armor>
+<stamina>66</stamina>
+<intellect>29</intellect>
+<spellpower>66</spellpower>
+<critrating>38</critrating>
+<resilience>37</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deadly Gladiator's Wristguards of Dominance</name>
+<id>41064</id>
+<slot>Wrist</slot>
+</item>

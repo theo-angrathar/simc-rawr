@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55205</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_07</iconpath>
+<stats>
+<armor>388</armor>
+<stamina>57</stamina>
+<intellect>48</intellect>
+<spirit>66</spirit>
+<spellpower>77</spellpower>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Earthgiving Boots</name>
+<id>43502</id>
+<slot>Feet</slot>
+</item>

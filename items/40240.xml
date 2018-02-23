@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53669</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_07</iconpath>
+<stats>
+<armor>2011</armor>
+<stamina>150</stamina>
+<strength>100</strength>
+<dodgerating>39</dodgerating>
+<blockrating>67</blockrating>
+<defenserating>49</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Greaves of Turbulence</name>
+<id>40240</id>
+<slot>Legs</slot>
+</item>

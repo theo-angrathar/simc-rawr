@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54770</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_07</iconpath>
+<stats>
+<armor>884</armor>
+<agility>42</agility>
+<stamina>75</stamina>
+<attackpower>134</attackpower>
+<intellect>37</intellect>
+<critrating>39</critrating>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Boots of the Great Construct</name>
+<id>40367</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_25</iconpath>
+<stats>
+<armor>2102</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spellpower>151</spellpower>
+<critrating>86</critrating>
+<hasterating>94</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Garb</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Turalyon's Headpiece of Triumph</name>
+<id>48582</id>
+<slot>Head</slot>
+</item>

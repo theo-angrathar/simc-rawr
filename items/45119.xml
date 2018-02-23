@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61867</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_49</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>63</stamina>
+<intellect>64</intellect>
+<spirit>62</spirit>
+<spellpower>99</spellpower>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Embrace of the Leviathan</name>
+<id>45119</id>
+<slot>Waist</slot>
+</item>

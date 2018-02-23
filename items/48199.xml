@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_18b</iconpath>
+<stats>
+<armor>652</armor>
+<agility>137</agility>
+<stamina>153</stamina>
+<attackpower>204</attackpower>
+<critrating>96</critrating>
+<hasterating>92</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Battlegear</setname>
+<type>Leather</type>
+<faction>Horde</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Runetotem's Raiments of Triumph</name>
+<id>48199</id>
+<slot>Chest</slot>
+</item>

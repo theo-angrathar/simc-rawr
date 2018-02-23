@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_17</iconpath>
+<stats>
+<armor>194</armor>
+<stamina>57</stamina>
+<intellect>41</intellect>
+<spirit>49</spirit>
+<spellpower>92</spellpower>
+<critrating>59</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Sanctification Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Valorous Handwraps of Sanctification</name>
+<id>45392</id>
+<slot>Hands</slot>
+</item>

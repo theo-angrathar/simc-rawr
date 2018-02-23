@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_109a</iconpath>
+<stats>
+<armor>447</armor>
+<agility>89</agility>
+<stamina>89</stamina>
+<attackpower>103</attackpower>
+<armorpenetrationrating>60</armorpenetrationrating>
+<expertiserating>52</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>VanCleef's Battlegear</setname>
+<type>Leather</type>
+<faction>Horde</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Garona's Pauldrons of Conquest</name>
+<id>48247</id>
+<slot>Shoulders</slot>
+</item>

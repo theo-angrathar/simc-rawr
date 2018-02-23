@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_icediamond_02</iconpath>
+<stats>
+<critrating>17</critrating>
+<snarerootdurreduc>0.1</snarerootdurreduc>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Enigmatic Starflare Diamond</name>
+<id>44081</id>
+<slot>Meta</slot>
+</item>

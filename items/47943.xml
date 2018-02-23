@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62035</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_25</iconpath>
+<stats>
+<armor>2009</armor>
+<stamina>143</stamina>
+<strength>139</strength>
+<critrating>69</critrating>
+<hasterating>86</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Faceplate of the Silver Champion</name>
+<id>47943</id>
+<slot>Head</slot>
+</item>

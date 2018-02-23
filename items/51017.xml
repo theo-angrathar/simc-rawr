@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64348</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_66green</iconpath>
+<stats>
+<armor>190</armor>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spellpower>106</spellpower>
+<critrating>76</critrating>
+<hasterating>46</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Cauterized Cord</name>
+<id>51017</id>
+<slot>Waist</slot>
+</item>

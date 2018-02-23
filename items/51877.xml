@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65132</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_158</iconpath>
+<stats>
+<armor>1200</armor>
+<agility>100</agility>
+<stamina>128</stamina>
+<attackpower>292</attackpower>
+<armorpenetrationrating>79</armorpenetrationrating>
+<intellect>85</intellect>
+<critrating>85</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Taldron's Short-Sighted Helm</name>
+<id>51877</id>
+<slot>Head</slot>
+</item>

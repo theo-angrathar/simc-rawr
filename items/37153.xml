@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52225</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_17</iconpath>
+<stats>
+<armor>181</armor>
+<stamina>43</stamina>
+<intellect>44</intellect>
+<spirit>58</spirit>
+<spellpower>68</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of the Crystal Gardener</name>
+<id>37153</id>
+<slot>Hands</slot>
+</item>

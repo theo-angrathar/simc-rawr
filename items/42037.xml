@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>39162</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_36</iconpath>
+<stats>
+<stamina>73</stamina>
+<intellect>31</intellect>
+<spellpower>73</spellpower>
+<hitrating>42</hitrating>
+<resilience>42</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Furious Gladiator's Pendant of Ascendancy</name>
+<id>42037</id>
+<slot>Neck</slot>
+</item>

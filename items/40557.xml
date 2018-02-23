@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_29</iconpath>
+<stats>
+<armor>1723</armor>
+<stamina>82</stamina>
+<strength>75</strength>
+<critrating>58</critrating>
+<hitrating>43</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgeborne Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Valorous Scourgeborne Shoulderplates</name>
+<id>40557</id>
+<slot>Shoulders</slot>
+</item>

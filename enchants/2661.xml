@@ -1,0 +1,12 @@
+<enchant>
+<id>2661</id>
+<name>Greater Stats</name>
+<slot>Wrist</slot>
+<stats>
+<agility>6</agility>
+<stamina>6</stamina>
+<strength>6</strength>
+<intellect>6</intellect>
+<spirit>6</spirit>
+</stats>
+</enchant>

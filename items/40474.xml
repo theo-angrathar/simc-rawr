@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53560</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_78</iconpath>
+<stats>
+<agility>41</agility>
+<stamina>42</stamina>
+<attackpower>112</attackpower>
+<critrating>43</critrating>
+<hitrating>32</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Surge Needle Ring</name>
+<id>40474</id>
+<slot>Finger</slot>
+</item>

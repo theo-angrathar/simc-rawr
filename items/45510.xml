@@ -1,0 +1,17 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_relics_libramofhope</iconpath>
+<stats>
+<divinestormdamage>235</divinestormdamage>
+</stats>
+<quality>Epic</quality>
+<type>Libram</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Libram of Discord</name>
+<id>45510</id>
+<slot>Ranged</slot>
+</item>

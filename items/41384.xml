@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53032</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_87</iconpath>
+<stats>
+<stamina>58</stamina>
+<spellpower>457</spellpower>
+<critrating>29</critrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>99</mindamage>
+<maxdamage>316</maxdamage>
+<speed>2.5</speed>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Titansteel Guardian</name>
+<id>41384</id>
+<slot>MainHand</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>43886</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_gizmo_newgoggles</iconpath>
+<stats>
+<armor>1821</armor>
+<stamina>111</stamina>
+<strength>73</strength>
+<defenserating>60</defenserating>
+<expertiserating>43</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<expertiserating>8</expertiserating>
+</socketbonus>
+<name>Armored Titanium Goggles</name>
+<id>42549</id>
+<slot>Head</slot>
+</item>

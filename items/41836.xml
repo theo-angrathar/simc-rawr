@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_cloth_05</iconpath>
+<stats>
+<armor>406</armor>
+<agility>77</agility>
+<stamina>96</stamina>
+<attackpower>84</attackpower>
+<critrating>48</critrating>
+<resilience>56</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Furious Gladiator's Boots of Triumph</name>
+<id>41836</id>
+<slot>Feet</slot>
+</item>

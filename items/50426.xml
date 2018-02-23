@@ -1,0 +1,24 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>64996</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_104</iconpath>
+<stats>
+<agility>74</agility>
+<stamina>74</stamina>
+<attackpower>99</attackpower>
+<critrating>49</critrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>344</mindamage>
+<maxdamage>517</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Heaven's Fall, Kryss of a Thousand Lies</name>
+<id>50426</id>
+<slot>OneHand</slot>
+</item>

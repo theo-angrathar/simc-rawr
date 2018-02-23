@@ -1,0 +1,29 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_95</iconpath>
+<stats>
+<armor>1176</armor>
+<agility>137</agility>
+<stamina>121</stamina>
+<attackpower>172</attackpower>
+<armorpenetrationrating>64</armorpenetrationrating>
+<intellect>80</intellect>
+<critrating>102</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Windrunner's Battlegear</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<attackpower>16</attackpower>
+</socketbonus>
+<name>Windrunner's Headpiece of Triumph</name>
+<id>48262</id>
+<slot>Head</slot>
+</item>

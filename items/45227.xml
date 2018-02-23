@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_67</iconpath>
+<stats>
+<armor>985</armor>
+<agility>60</agility>
+<stamina>73</stamina>
+<attackpower>170</attackpower>
+<armorpenetrationrating>46</armorpenetrationrating>
+<intellect>44</intellect>
+<hitrating>44</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Iron-studded Mantle</name>
+<id>45227</id>
+<slot>Shoulders</slot>
+</item>

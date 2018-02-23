@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59150</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_09</iconpath>
+<stats>
+<armor>1596</armor>
+<stamina>90</stamina>
+<strength>91</strength>
+<critrating>45</critrating>
+<hitrating>56</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Greaves of Iron Intensity</name>
+<id>45330</id>
+<slot>Feet</slot>
+</item>

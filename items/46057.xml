@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate_25</iconpath>
+<stats>
+<armor>2298</armor>
+<stamina>115</stamina>
+<intellect>50</intellect>
+<spellpower>98</spellpower>
+<resilience>66</resilience>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Titan-Forged Chestguard of Salvation</name>
+<id>46057</id>
+<slot>Chest</slot>
+</item>

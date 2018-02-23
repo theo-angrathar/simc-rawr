@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>15163</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>173</armor>
+<stamina>65</stamina>
+<intellect>65</intellect>
+<spellpower>91</spellpower>
+<critrating>49</critrating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Maiden's Adoration</name>
+<id>47490</id>
+<slot>Back</slot>
+</item>

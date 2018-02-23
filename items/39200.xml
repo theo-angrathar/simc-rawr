@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53844</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_sword_61</iconpath>
+<stats>
+<stamina>33</stamina>
+<intellect>40</intellect>
+<spellpower>408</spellpower>
+<critrating>37</critrating>
+<hasterating>27</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>70</mindamage>
+<maxdamage>227</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Grieving Spellblade</name>
+<id>39200</id>
+<slot>MainHand</slot>
+</item>

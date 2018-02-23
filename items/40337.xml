@@ -1,0 +1,17 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_relics_libramofhope</iconpath>
+<stats>
+<consecrationspellpower>141</consecrationspellpower>
+</stats>
+<quality>Epic</quality>
+<type>Libram</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Libram of Resurgence</name>
+<id>40337</id>
+<slot>Ranged</slot>
+</item>

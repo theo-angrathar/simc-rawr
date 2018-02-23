@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54704</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_11</iconpath>
+<stats>
+<armor>434</armor>
+<stamina>57</stamina>
+<intellect>57</intellect>
+<spirit>51</spirit>
+<spellpower>88</spellpower>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mantle of Shattered Kinship</name>
+<id>40063</id>
+<slot>Shoulders</slot>
+</item>

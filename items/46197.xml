@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_crown_01</iconpath>
+<stats>
+<armor>256</armor>
+<stamina>78</stamina>
+<intellect>75</intellect>
+<spirit>76</spirit>
+<spellpower>115</spellpower>
+<critrating>67</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Sanctification Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Conqueror's Cowl of Sanctification</name>
+<id>46197</id>
+<slot>Head</slot>
+</item>

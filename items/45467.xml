@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59148</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_45a</iconpath>
+<stats>
+<armor>739</armor>
+<agility>57</agility>
+<stamina>67</stamina>
+<attackpower>170</attackpower>
+<armorpenetrationrating>56</armorpenetrationrating>
+<intellect>43</intellect>
+<critrating>44</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of the Betrayed</name>
+<id>45467</id>
+<slot>Waist</slot>
+</item>

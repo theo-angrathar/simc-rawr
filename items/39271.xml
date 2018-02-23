@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54038</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_knife_1h_stratholme_d_03</iconpath>
+<stats>
+<stamina>31</stamina>
+<intellect>38</intellect>
+<spellpower>408</spellpower>
+<critrating>40</critrating>
+<hasterating>27</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>70</mindamage>
+<maxdamage>227</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Blade of Dormant Memories</name>
+<id>39271</id>
+<slot>MainHand</slot>
+</item>

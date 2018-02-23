@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59774</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_15</iconpath>
+<stats>
+<armor>1299</armor>
+<agility>76</agility>
+<stamina>93</stamina>
+<attackpower>212</attackpower>
+<intellect>56</intellect>
+<hitrating>48</hitrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Chestguard of the Lasher</name>
+<id>45941</id>
+<slot>Chest</slot>
+</item>

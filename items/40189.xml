@@ -1,0 +1,24 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54760</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_73</iconpath>
+<stats>
+<agility>31</agility>
+<stamina>42</stamina>
+<attackpower>86</attackpower>
+<critrating>29</critrating>
+<hitrating>25</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>274</mindamage>
+<maxdamage>509</maxdamage>
+<speed>2.5</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Angry Dread</name>
+<id>40189</id>
+<slot>OneHand</slot>
+</item>

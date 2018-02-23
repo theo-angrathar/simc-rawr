@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52565</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_14</iconpath>
+<stats>
+<armor>307</armor>
+<agility>57</agility>
+<stamina>49</stamina>
+<attackpower>116</attackpower>
+<hasterating>42</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Batrider's Cord</name>
+<id>37714</id>
+<slot>Waist</slot>
+</item>

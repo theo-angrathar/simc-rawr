@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53236</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_06</iconpath>
+<stats>
+<armor>512</armor>
+<agility>41</agility>
+<stamina>39</stamina>
+<attackpower>64</attackpower>
+<intellect>47</intellect>
+<hitrating>34</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Eaglebane Bracers</name>
+<id>43131</id>
+<slot>Wrist</slot>
+</item>

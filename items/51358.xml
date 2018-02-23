@@ -1,0 +1,21 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_60</iconpath>
+<stats>
+<stamina>136</stamina>
+<attackpower>181</attackpower>
+<critrating>60</critrating>
+<resilience>60</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Band of Triumph</name>
+<id>51358</id>
+<slot>Finger</slot>
+</item>

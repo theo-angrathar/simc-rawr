@@ -1,0 +1,27 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_77b</iconpath>
+<stats>
+<armor>424</armor>
+<agility>119</agility>
+<stamina>145</stamina>
+<attackpower>129</attackpower>
+<critrating>77</critrating>
+<resilience>85</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Sanctuary</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Wrathful Gladiator's Dragonhide Gloves</name>
+<id>51426</id>
+<slot>Hands</slot>
+</item>

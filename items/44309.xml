@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56301</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_40</iconpath>
+<stats>
+<armor>169</armor>
+<stamina>44</stamina>
+<intellect>55</intellect>
+<spirit>55</spirit>
+<spellpower>66</spellpower>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Sash of Jordan</name>
+<id>44309</id>
+<slot>Waist</slot>
+</item>

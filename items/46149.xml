@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_29</iconpath>
+<stats>
+<armor>1761</armor>
+<stamina>102</stamina>
+<strength>90</strength>
+<critrating>54</critrating>
+<hitrating>46</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Siegebreaker Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Conqueror's Siegebreaker Shoulderplates</name>
+<id>46149</id>
+<slot>Shoulders</slot>
+</item>

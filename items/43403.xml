@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50908</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_104</iconpath>
+<stats>
+<armor>443</armor>
+<agility>36</agility>
+<stamina>78</stamina>
+<attackpower>62</attackpower>
+<critrating>61</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Shroud of Darkness</name>
+<id>43403</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>57465</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_rifle_24</iconpath>
+<stats>
+<agility>36</agility>
+<stamina>30</stamina>
+<attackpower>72</attackpower>
+<critrating>26</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Gun</type>
+<faction>Neutral</faction>
+<mindamage>376</mindamage>
+<maxdamage>647</maxdamage>
+<speed>2.9</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Envoy of Mortality</name>
+<id>40385</id>
+<slot>Ranged</slot>
+</item>

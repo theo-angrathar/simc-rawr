@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55733</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_99</iconpath>
+<stats>
+<armor>1723</armor>
+<stamina>111</stamina>
+<strength>67</strength>
+<critrating>42</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Desecration</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Deadly Gladiator's Dreadplate Shoulders</name>
+<id>40863</id>
+<slot>Shoulders</slot>
+</item>

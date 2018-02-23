@@ -1,0 +1,29 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_32</iconpath>
+<stats>
+<armor>1349</armor>
+<agility>183</agility>
+<stamina>144</stamina>
+<attackpower>212</attackpower>
+<intellect>96</intellect>
+<critrating>114</critrating>
+<hasterating>88</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Ahn'Kahar Blood Hunter's Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Sanctified Ahn'Kahar Blood Hunter's Legguards</name>
+<id>51287</id>
+<slot>Legs</slot>
+</item>

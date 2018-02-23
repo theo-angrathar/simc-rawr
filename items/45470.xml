@@ -1,0 +1,26 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>65031</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_65</iconpath>
+<stats>
+<armor>8130</armor>
+<stamina>70</stamina>
+<intellect>48</intellect>
+<spellpower>75</spellpower>
+<critrating>40</critrating>
+<blockvalue>227</blockvalue>
+<hasterating>47</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Wisdom's Hold</name>
+<id>45470</id>
+<slot>OffHand</slot>
+</item>

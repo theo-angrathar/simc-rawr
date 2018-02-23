@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>43095</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_54</iconpath>
+<stats>
+<stamina>72</stamina>
+<strength>72</strength>
+<critrating>42</critrating>
+<expertiserating>42</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sif's Promise</name>
+<id>45469</id>
+<slot>Finger</slot>
+</item>

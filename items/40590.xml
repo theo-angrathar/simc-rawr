@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53670</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_75</iconpath>
+<stats>
+<armor>1761</armor>
+<stamina>63</stamina>
+<intellect>64</intellect>
+<spellpower>99</spellpower>
+<critrating>62</critrating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Elevated Lair Pauldrons</name>
+<id>40590</id>
+<slot>Shoulders</slot>
+</item>

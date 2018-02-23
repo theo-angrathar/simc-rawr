@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61499</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_23</iconpath>
+<stats>
+<armor>2369</armor>
+<stamina>169</stamina>
+<strength>120</strength>
+<dodgerating>60</dodgerating>
+<parryrating>56</parryrating>
+<defenserating>63</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Stoneskin Chestplate</name>
+<id>47896</id>
+<slot>Chest</slot>
+</item>

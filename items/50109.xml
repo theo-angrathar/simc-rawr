@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_35</iconpath>
+<stats>
+<armor>557</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spirit>96</spirit>
+<spellpower>149</spellpower>
+<hasterating>78</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Garb</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Lasherweave Legplates</name>
+<id>50109</id>
+<slot>Legs</slot>
+</item>

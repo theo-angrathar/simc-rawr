@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64853</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_121</iconpath>
+<stats>
+<armor>1777</armor>
+<stamina>134</stamina>
+<strength>68</strength>
+<dodgerating>52</dodgerating>
+<defenserating>64</defenserating>
+<expertiserating>45</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shoulderplates of Frozen Blood</name>
+<id>50234</id>
+<slot>Shoulders</slot>
+</item>

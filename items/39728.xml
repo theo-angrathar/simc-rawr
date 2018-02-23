@@ -1,0 +1,17 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>spell_nature_slowingtotem</iconpath>
+<stats>
+<totemhwbasecost>79</totemhwbasecost>
+</stats>
+<quality>Epic</quality>
+<type>Totem</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Totem of Misery</name>
+<id>39728</id>
+<slot>Ranged</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_85</iconpath>
+<stats>
+<armor>416</armor>
+<agility>120</agility>
+<stamina>120</stamina>
+<attackpower>145</attackpower>
+<critrating>80</critrating>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Shadowblade's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Sanctified Shadowblade Gauntlets</name>
+<id>51188</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65410</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_mail_06</iconpath>
+<stats>
+<armor>1016</armor>
+<agility>120</agility>
+<stamina>95</stamina>
+<attackpower>129</attackpower>
+<armorpenetrationrating>47</armorpenetrationrating>
+<intellect>63</intellect>
+<critrating>80</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Rock-Steady Treads</name>
+<id>49897</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,20 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>9860</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_09</iconpath>
+<stats>
+<stamina>67</stamina>
+<strength>68</strength>
+<armorpenetrationrating>43</armorpenetrationrating>
+<hitrating>34</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Might of the Leviathan</name>
+<id>45285</id>
+<slot>Neck</slot>
+</item>

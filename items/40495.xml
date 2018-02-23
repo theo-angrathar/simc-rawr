@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>578</armor>
+<agility>84</agility>
+<stamina>87</stamina>
+<attackpower>154</attackpower>
+<critrating>44</critrating>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Bonescythe Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Valorous Bonescythe Breastplate</name>
+<id>40495</id>
+<slot>Chest</slot>
+</item>

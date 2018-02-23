@@ -1,0 +1,27 @@
+<item>
+<itemlevel>284</itemlevel>
+<displayid>64313</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_117</iconpath>
+<stats>
+<stamina>113</stamina>
+<strength>64</strength>
+<parryrating>48</parryrating>
+<defenserating>56</defenserating>
+<expertiserating>42</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>296</mindamage>
+<maxdamage>551</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Mithrios, Bronzebeard's Legacy</name>
+<id>50738</id>
+<slot>OneHand</slot>
+</item>

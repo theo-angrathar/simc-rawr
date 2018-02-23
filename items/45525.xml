@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>43095</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_54</iconpath>
+<stats>
+<agility>46</agility>
+<stamina>63</stamina>
+<attackpower>126</attackpower>
+<critrating>42</critrating>
+<expertiserating>36</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Godbane Signet</name>
+<id>45525</id>
+<slot>Finger</slot>
+</item>

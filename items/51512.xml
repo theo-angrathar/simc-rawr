@@ -1,0 +1,28 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_33</iconpath>
+<stats>
+<armor>1319</armor>
+<stamina>195</stamina>
+<intellect>87</intellect>
+<spellpower>182</spellpower>
+<critrating>98</critrating>
+<resilience>114</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Thunderfist</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Wrathful Gladiator's Mail Leggings</name>
+<id>51512</id>
+<slot>Legs</slot>
+</item>

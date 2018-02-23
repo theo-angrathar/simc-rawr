@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52352</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_14</iconpath>
+<stats>
+<armor>758</armor>
+<stamina>49</stamina>
+<intellect>41</intellect>
+<spellpower>68</spellpower>
+<mp5>29</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Lightning-Charged Gloves</name>
+<id>38615</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_58</iconpath>
+<stats>
+<armor>1821</armor>
+<stamina>111</stamina>
+<strength>72</strength>
+<hitrating>30</hitrating>
+<blockvalue>129</blockvalue>
+<defenserating>49</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreadnaught Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Heroes' Dreadnaught Greathelm</name>
+<id>39610</id>
+<slot>Head</slot>
+</item>

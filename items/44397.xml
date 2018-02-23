@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_05</iconpath>
+<stats>
+<armor>329</armor>
+<agility>47</agility>
+<stamina>71</stamina>
+<attackpower>76</attackpower>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Handwraps of Preserved History</name>
+<id>44397</id>
+<slot>Hands</slot>
+</item>

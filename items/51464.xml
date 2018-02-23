@@ -1,0 +1,27 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_95</iconpath>
+<stats>
+<armor>225</armor>
+<stamina>145</stamina>
+<intellect>64</intellect>
+<spellpower>140</spellpower>
+<critrating>77</critrating>
+<resilience>85</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Wrathful Gladiator's Silk Handguards</name>
+<id>51464</id>
+<slot>Hands</slot>
+</item>

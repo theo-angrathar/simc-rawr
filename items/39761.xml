@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54702</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_21</iconpath>
+<stats>
+<armor>506</armor>
+<agility>77</agility>
+<stamina>87</stamina>
+<attackpower>200</attackpower>
+<critrating>72</critrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Infectious Skitterer Leggings</name>
+<id>39761</id>
+<slot>Legs</slot>
+</item>

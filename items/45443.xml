@@ -1,0 +1,24 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>7271</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_amulet_02</iconpath>
+<stats>
+<stamina>61</stamina>
+<intellect>51</intellect>
+<spellpower>75</spellpower>
+<hasterating>40</hasterating>
+<mp5>24</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Charm of Meticulous Timing</name>
+<id>45443</id>
+<slot>Neck</slot>
+</item>

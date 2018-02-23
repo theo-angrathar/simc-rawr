@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_05</iconpath>
+<stats>
+<armor>2011</armor>
+<stamina>127</stamina>
+<strength>80</strength>
+<hitrating>35</hitrating>
+<dodgerating>72</dodgerating>
+<defenserating>50</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgeborne Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Valorous Scourgeborne Legguards</name>
+<id>40567</id>
+<slot>Legs</slot>
+</item>

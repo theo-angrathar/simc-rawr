@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>60674</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_138</iconpath>
+<stats>
+<stamina>87</stamina>
+<strength>66</strength>
+<dodgerating>35</dodgerating>
+<parryrating>35</parryrating>
+<defenserating>27</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Horde</faction>
+<mindamage>242</mindamage>
+<maxdamage>451</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Orgrim's Deflector</name>
+<id>47513</id>
+<slot>OneHand</slot>
+</item>

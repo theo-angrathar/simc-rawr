@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>54817</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_09</iconpath>
+<stats>
+<armor>916</armor>
+<stamina>39</stamina>
+<intellect>26</intellect>
+<spellpower>44</spellpower>
+<critrating>25</critrating>
+<resilience>26</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Ornate Saronite Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Ornate Saronite Bracers</name>
+<id>42723</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,16 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_37</iconpath>
+<stats>
+<armorpenetrationrating>20</armorpenetrationrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Fractured Cardinal Ruby</name>
+<id>40117</id>
+<slot>Red</slot>
+</item>

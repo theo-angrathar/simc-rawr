@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54523</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_07</iconpath>
+<stats>
+<armor>477</armor>
+<agility>48</agility>
+<stamina>99</stamina>
+<attackpower>78</attackpower>
+<expertiserating>54</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Legguards of Swarming Attacks</name>
+<id>43286</id>
+<slot>Legs</slot>
+</item>

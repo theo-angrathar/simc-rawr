@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61235</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_23</iconpath>
+<stats>
+<armor>228</armor>
+<stamina>77</stamina>
+<intellect>77</intellect>
+<spirit>67</spirit>
+<spellpower>109</spellpower>
+<hasterating>59</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Boots of the Mourning Widow</name>
+<id>47092</id>
+<slot>Feet</slot>
+</item>

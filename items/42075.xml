@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_19</iconpath>
+<stats>
+<armor>157</armor>
+<stamina>94</stamina>
+<attackpower>126</attackpower>
+<hitrating>42</hitrating>
+<resilience>42</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Furious Gladiator's Cloak of Victory</name>
+<id>42075</id>
+<slot>Back</slot>
+</item>

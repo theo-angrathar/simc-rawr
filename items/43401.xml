@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55014</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_41</iconpath>
+<stats>
+<armor>290</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>73</spellpower>
+<hitrating>62</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Water-Drenched Robe</name>
+<id>43401</id>
+<slot>Chest</slot>
+</item>

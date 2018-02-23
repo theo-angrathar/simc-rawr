@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51520</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>2166</armor>
+<agility>112</agility>
+<stamina>75</stamina>
+<strength>80</strength>
+<hitrating>45</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Breastplate of Undeath</name>
+<id>37722</id>
+<slot>Chest</slot>
+</item>

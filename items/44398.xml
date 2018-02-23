@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>732</armor>
+<agility>22</agility>
+<stamina>61</stamina>
+<attackpower>102</attackpower>
+<armorpenetrationrating>37</armorpenetrationrating>
+<intellect>29</intellect>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Grips of Chronological Events</name>
+<id>44398</id>
+<slot>Hands</slot>
+</item>

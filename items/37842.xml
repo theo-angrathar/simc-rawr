@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49378</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_26</iconpath>
+<stats>
+<armor>307</armor>
+<stamina>49</stamina>
+<intellect>43</intellect>
+<spirit>58</spirit>
+<spellpower>68</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of Vivacity</name>
+<id>37842</id>
+<slot>Waist</slot>
+</item>

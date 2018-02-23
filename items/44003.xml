@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54865</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>964</armor>
+<agility>50</agility>
+<stamina>61</stamina>
+<attackpower>132</attackpower>
+<intellect>33</intellect>
+<critrating>50</critrating>
+<hasterating>30</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Upstanding Spaulders</name>
+<id>44003</id>
+<slot>Shoulders</slot>
+</item>

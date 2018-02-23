@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52529</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_107</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>54</stamina>
+<intellect>44</intellect>
+<spirit>66</spirit>
+<spellpower>82</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hasterating>8</hasterating>
+</socketbonus>
+<name>Forgotten Shadow Hood</name>
+<id>37684</id>
+<slot>Head</slot>
+</item>

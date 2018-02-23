@@ -1,0 +1,26 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_62</iconpath>
+<stats>
+<armor>1512</armor>
+<stamina>127</stamina>
+<strength>84</strength>
+<dodgerating>44</dodgerating>
+<parryrating>46</parryrating>
+<defenserating>44</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Handguards of Revitalization</name>
+<id>45487</id>
+<slot>Hands</slot>
+</item>

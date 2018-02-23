@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59094</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather01</iconpath>
+<stats>
+<armor>406</armor>
+<stamina>73</stamina>
+<intellect>62</intellect>
+<spirit>60</spirit>
+<spellpower>90</spellpower>
+<critrating>41</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Boots of Hasty Revival</name>
+<id>45260</id>
+<slot>Feet</slot>
+</item>

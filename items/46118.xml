@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate02</iconpath>
+<stats>
+<armor>2348</armor>
+<stamina>147</stamina>
+<strength>97</strength>
+<dodgerating>60</dodgerating>
+<parryrating>52</parryrating>
+<defenserating>64</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Darkruned Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<parryrating>6</parryrating>
+</socketbonus>
+<name>Conqueror's Darkruned Chestguard</name>
+<id>46118</id>
+<slot>Chest</slot>
+</item>

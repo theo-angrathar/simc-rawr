@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate02</iconpath>
+<stats>
+<armor>2298</armor>
+<stamina>100</stamina>
+<strength>73</strength>
+<critrating>92</critrating>
+<hitrating>66</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreadnaught Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Valorous Dreadnaught Battleplate</name>
+<id>40525</id>
+<slot>Chest</slot>
+</item>

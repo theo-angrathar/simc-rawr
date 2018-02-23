@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61561</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_17</iconpath>
+<stats>
+<armor>218</armor>
+<stamina>64</stamina>
+<intellect>69</intellect>
+<spellpower>100</spellpower>
+<critrating>64</critrating>
+<hitrating>40</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Sandals of the Silver Magus</name>
+<id>47721</id>
+<slot>Feet</slot>
+</item>

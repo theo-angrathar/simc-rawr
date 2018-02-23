@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_24</iconpath>
+<stats>
+<armor>2164</armor>
+<stamina>180</stamina>
+<strength>103</strength>
+<hitrating>53</hitrating>
+<blockvalue>270</blockvalue>
+<defenserating>90</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Wrynn's Plate</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Wrynn's Legguards of Triumph</name>
+<id>48446</id>
+<slot>Legs</slot>
+</item>

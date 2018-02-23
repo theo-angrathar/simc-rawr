@@ -1,0 +1,21 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>51529</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_leather_06</iconpath>
+<stats>
+<armor>520</armor>
+<stamina>57</stamina>
+<intellect>68</intellect>
+<spellpower>61</spellpower>
+<critrating>53</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cosmos Vestments</name>
+<id>35677</id>
+<slot>Chest</slot>
+</item>

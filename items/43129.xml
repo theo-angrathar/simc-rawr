@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56722</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>1171</armor>
+<agility>63</agility>
+<stamina>69</stamina>
+<attackpower>102</attackpower>
+<intellect>45</intellect>
+<critrating>46</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Razorstrike Breastplate</name>
+<id>43129</id>
+<slot>Chest</slot>
+</item>

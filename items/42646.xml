@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53566</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_33</iconpath>
+<stats>
+<bonusarmor>350</bonusarmor>
+<stamina>63</stamina>
+<strength>49</strength>
+<defenserating>34</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Titanium Earthguard Chain</name>
+<id>42646</id>
+<slot>Neck</slot>
+</item>

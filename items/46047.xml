@@ -1,0 +1,24 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>48508</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_42</iconpath>
+<stats>
+<stamina>54</stamina>
+<intellect>46</intellect>
+<spellpower>66</spellpower>
+<critrating>36</critrating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Pendant of the Somber Witness</name>
+<id>46047</id>
+<slot>Neck</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56695</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_14</iconpath>
+<stats>
+<armor>527</armor>
+<intellect>34</intellect>
+<spirit>68</spirit>
+<spellpower>80</spellpower>
+<critrating>53</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Wildscale Breastplate</name>
+<id>43257</id>
+<slot>Chest</slot>
+</item>

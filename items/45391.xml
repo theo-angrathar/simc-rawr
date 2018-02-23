@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_crown_01</iconpath>
+<stats>
+<armor>253</armor>
+<stamina>78</stamina>
+<intellect>70</intellect>
+<spellpower>105</spellpower>
+<critrating>65</critrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Sanctification Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<intellect>8</intellect>
+</socketbonus>
+<name>Valorous Circlet of Sanctification</name>
+<id>45391</id>
+<slot>Head</slot>
+</item>

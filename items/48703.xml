@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61676</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_hand_30</iconpath>
+<stats>
+<agility>58</agility>
+<stamina>44</stamina>
+<attackpower>73</attackpower>
+<armorpenetrationrating>31</armorpenetrationrating>
+<critrating>39</critrating>
+</stats>
+<quality>Epic</quality>
+<type>FistWeapon</type>
+<faction>Horde</faction>
+<mindamage>409</mindamage>
+<maxdamage>614</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>The Facebreaker</name>
+<id>48703</id>
+<slot>MainHand</slot>
+</item>

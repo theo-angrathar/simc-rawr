@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35642</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_29</iconpath>
+<stats>
+<stamina>33</stamina>
+<intellect>37</intellect>
+<spellpower>408</spellpower>
+<hasterating>40</hasterating>
+<mp5>14</mp5>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>70</mindamage>
+<maxdamage>227</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Infection Repulser</name>
+<id>39281</id>
+<slot>MainHand</slot>
+</item>

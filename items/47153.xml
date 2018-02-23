@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61962</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_45a</iconpath>
+<stats>
+<armor>814</armor>
+<agility>98</agility>
+<stamina>90</stamina>
+<attackpower>135</attackpower>
+<armorpenetrationrating>68</armorpenetrationrating>
+<intellect>60</intellect>
+<hitrating>60</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Belt of Deathly Dominion</name>
+<id>47153</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_30</iconpath>
+<stats>
+<armor>296</armor>
+<stamina>164</stamina>
+<intellect>73</intellect>
+<spellpower>149</spellpower>
+<critrating>80</critrating>
+<resilience>96</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Felshroud</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Relentless Gladiator's Felweave Trousers</name>
+<id>42006</id>
+<slot>Legs</slot>
+</item>

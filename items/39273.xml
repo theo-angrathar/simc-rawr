@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56612</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_11</iconpath>
+<stats>
+<armor>206</armor>
+<stamina>48</stamina>
+<intellect>50</intellect>
+<spirit>38</spirit>
+<spellpower>76</spellpower>
+<critrating>48</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sullen Cloth Boots</name>
+<id>39273</id>
+<slot>Feet</slot>
+</item>

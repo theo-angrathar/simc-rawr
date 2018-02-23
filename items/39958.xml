@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_20</iconpath>
+<stats>
+<spellpower>7</spellpower>
+<resilience>6</resilience>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Durable Huge Citrine</name>
+<id>39958</id>
+<slot>Orange</slot>
+</item>

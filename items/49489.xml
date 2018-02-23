@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>9823</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_13</iconpath>
+<stats>
+<bonusarmor>800</bonusarmor>
+<stamina>115</stamina>
+<defenserating>55</defenserating>
+<frostresistance>30</frostresistance>
+<natureresistance>30</natureresistance>
+<fireresistance>30</fireresistance>
+<shadowresistance>30</shadowresistance>
+<arcaneresistance>30</arcaneresistance>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Signified Ring of Binding</name>
+<id>49489</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_60</iconpath>
+<stats>
+<stamina>95</stamina>
+<attackpower>126</attackpower>
+<armorpenetrationrating>42</armorpenetrationrating>
+<resilience>42</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Titan-Forged Band of Victory</name>
+<id>49000</id>
+<slot>Finger</slot>
+</item>

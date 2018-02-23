@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_13</iconpath>
+<stats>
+<armor>369</armor>
+<stamina>73</stamina>
+<intellect>60</intellect>
+<spirit>60</spirit>
+<spellpower>100</spellpower>
+<critrating>49</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Grips of the Secret Grove</name>
+<id>45839</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>54950</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_75</iconpath>
+<stats>
+<armor>395</armor>
+<stamina>36</stamina>
+<intellect>38</intellect>
+<spellpower>67</spellpower>
+<hasterating>37</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Purehorn Spaulders</name>
+<id>43258</id>
+<slot>Shoulders</slot>
+</item>

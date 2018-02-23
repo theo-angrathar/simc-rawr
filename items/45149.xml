@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59100</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_30b</iconpath>
+<stats>
+<armor>259</armor>
+<stamina>54</stamina>
+<intellect>46</intellect>
+<spirit>46</spirit>
+<spellpower>74</spellpower>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bracers of the Broodmother</name>
+<id>45149</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55878</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_64</iconpath>
+<stats>
+<armor>192</armor>
+<stamina>85</stamina>
+<intellect>37</intellect>
+<spirit>32</spirit>
+<spellpower>78</spellpower>
+<resilience>39</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Investiture</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Deadly Gladiator's Mooncloth Gloves</name>
+<id>41873</id>
+<slot>Hands</slot>
+</item>

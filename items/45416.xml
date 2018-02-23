@@ -1,0 +1,29 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>1137</armor>
+<agility>62</agility>
+<stamina>71</stamina>
+<attackpower>180</attackpower>
+<intellect>48</intellect>
+<hitrating>56</hitrating>
+<hasterating>76</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Valorous Worldbreaker War-Kilt</name>
+<id>45416</id>
+<slot>Legs</slot>
+</item>

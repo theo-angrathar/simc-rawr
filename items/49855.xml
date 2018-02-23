@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64843</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_94</iconpath>
+<stats>
+<armor>1451</armor>
+<stamina>90</stamina>
+<strength>90</strength>
+<critrating>56</critrating>
+<hasterating>46</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Plated Grips of Korth'azz</name>
+<id>49855</id>
+<slot>Hands</slot>
+</item>

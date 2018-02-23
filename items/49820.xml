@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64696</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_31</iconpath>
+<stats>
+<armor>568</armor>
+<agility>59</agility>
+<stamina>45</stamina>
+<attackpower>90</attackpower>
+<intellect>28</intellect>
+<critrating>33</critrating>
+<hasterating>31</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gondria's Spectral Bracer</name>
+<id>49820</id>
+<slot>Wrist</slot>
+</item>

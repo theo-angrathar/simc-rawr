@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53123</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_49</iconpath>
+<stats>
+<armor>758</armor>
+<agility>37</agility>
+<stamina>57</stamina>
+<attackpower>100</attackpower>
+<intellect>30</intellect>
+<hitrating>40</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Grips of the Beast God</name>
+<id>37639</id>
+<slot>Hands</slot>
+</item>

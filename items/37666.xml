@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51519</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather01</iconpath>
+<stats>
+<armor>375</armor>
+<agility>58</agility>
+<stamina>57</stamina>
+<attackpower>116</attackpower>
+<hitrating>38</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Boots of the Whirling Mist</name>
+<id>37666</id>
+<slot>Feet</slot>
+</item>

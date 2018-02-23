@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53198</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_110</iconpath>
+<stats>
+<armor>1867</armor>
+<stamina>150</stamina>
+<strength>100</strength>
+<critrating>72</critrating>
+<hitrating>59</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Fire-Scorched Greathelm</name>
+<id>39723</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52361</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_63</iconpath>
+<stats>
+<armor>280</armor>
+<stamina>51</stamina>
+<intellect>52</intellect>
+<spirit>59</spirit>
+<spellpower>81</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Raiments of the Titans</name>
+<id>36991</id>
+<slot>Chest</slot>
+</item>

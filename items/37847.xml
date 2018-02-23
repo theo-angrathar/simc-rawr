@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50507</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_08</iconpath>
+<stats>
+<armor>1489</armor>
+<stamina>42</stamina>
+<intellect>44</intellect>
+<spellpower>68</spellpower>
+<critrating>57</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Skywall Striders</name>
+<id>37847</id>
+<slot>Feet</slot>
+</item>

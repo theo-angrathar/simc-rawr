@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_58</iconpath>
+<stats>
+<armor>1821</armor>
+<stamina>67</stamina>
+<intellect>69</intellect>
+<spellpower>85</spellpower>
+<critrating>44</critrating>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Redemption Regalia</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<mp5>3</mp5>
+</socketbonus>
+<name>Heroes' Redemption Headpiece</name>
+<id>39628</id>
+<slot>Head</slot>
+</item>

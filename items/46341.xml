@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_09</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>65</stamina>
+<intellect>37</intellect>
+<spellpower>68</spellpower>
+<critrating>39</critrating>
+<hasterating>30</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Drape of the Spellweaver</name>
+<id>46341</id>
+<slot>Back</slot>
+</item>

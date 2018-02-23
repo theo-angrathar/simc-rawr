@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>58911</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_mace_93</iconpath>
+<stats>
+<stamina>138</stamina>
+<strength>120</strength>
+<critrating>82</critrating>
+<hitrating>66</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandMace</type>
+<faction>Neutral</faction>
+<mindamage>670</mindamage>
+<maxdamage>1005</maxdamage>
+<speed>3.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Hammer of Crushing Whispers</name>
+<id>46067</id>
+<slot>TwoHand</slot>
+</item>

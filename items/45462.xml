@@ -1,0 +1,26 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59121</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_74</iconpath>
+<stats>
+<armor>381</armor>
+<stamina>84</stamina>
+<intellect>69</intellect>
+<spirit>56</spirit>
+<spellpower>92</spellpower>
+<critrating>55</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Gloves of the Frozen Glade</name>
+<id>45462</id>
+<slot>Hands</slot>
+</item>

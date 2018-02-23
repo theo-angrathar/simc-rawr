@@ -1,0 +1,18 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_icediamond_02</iconpath>
+<stats>
+<critrating>21</critrating>
+<bonuscritmultiplier>0.03</bonuscritmultiplier>
+<bonusspellcritmultiplier>0.03</bonusspellcritmultiplier>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Chaotic Skyflare Diamond</name>
+<id>41285</id>
+<slot>Meta</slot>
+</item>

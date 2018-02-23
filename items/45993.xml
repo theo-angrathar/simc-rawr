@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59279</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_gizmo_newgoggles</iconpath>
+<stats>
+<armor>480</armor>
+<agility>97</agility>
+<stamina>90</stamina>
+<attackpower>164</attackpower>
+<critrating>60</critrating>
+<hasterating>66</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hitrating>8</hitrating>
+</socketbonus>
+<name>Mimiron's Flight Goggles</name>
+<id>45993</id>
+<slot>Head</slot>
+</item>

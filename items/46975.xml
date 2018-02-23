@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61927</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_28</iconpath>
+<stats>
+<armor>570</armor>
+<agility>137</agility>
+<stamina>153</stamina>
+<attackpower>172</attackpower>
+<hitrating>86</hitrating>
+<hasterating>102</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<attackpower>16</attackpower>
+</socketbonus>
+<name>Leggings of the Broken Beast</name>
+<id>46975</id>
+<slot>Legs</slot>
+</item>

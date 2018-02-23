@@ -1,0 +1,19 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55572</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_fishingpole_03</iconpath>
+<stats></stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<mindamage>447</mindamage>
+<maxdamage>672</maxdamage>
+<speed>3</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mastercraft Kalu'ak Fishing Pole</name>
+<id>44050</id>
+<slot>TwoHand</slot>
+</item>

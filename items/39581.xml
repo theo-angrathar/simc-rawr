@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>941</armor>
+<agility>58</agility>
+<stamina>54</stamina>
+<attackpower>88</attackpower>
+<intellect>33</intellect>
+<critrating>33</critrating>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Cryptstalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Heroes' Cryptstalker Spaulders</name>
+<id>39581</id>
+<slot>Shoulders</slot>
+</item>

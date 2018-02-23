@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61404</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>173</armor>
+<agility>77</agility>
+<stamina>85</stamina>
+<attackpower>98</attackpower>
+<critrating>57</critrating>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Cloak of the Untamed Predator</name>
+<id>47418</id>
+<slot>Back</slot>
+</item>

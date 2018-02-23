@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60638</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_11</iconpath>
+<stats>
+<armor>1541</armor>
+<stamina>38</stamina>
+<intellect>50</intellect>
+<spellpower>73</spellpower>
+<hasterating>30</hasterating>
+<mp5>20</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Greaves of the Grand Paladin</name>
+<id>47199</id>
+<slot>Feet</slot>
+</item>

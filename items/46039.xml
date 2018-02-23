@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59233</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate20</iconpath>
+<stats>
+<armor>2348</armor>
+<stamina>147</stamina>
+<strength>81</strength>
+<parryrating>50</parryrating>
+<defenserating>81</defenserating>
+<expertiserating>66</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Breastplate of the Timeless</name>
+<id>46039</id>
+<slot>Chest</slot>
+</item>

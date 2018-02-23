@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_73</iconpath>
+<stats>
+<armor>828</armor>
+<agility>60</agility>
+<stamina>102</stamina>
+<attackpower>104</attackpower>
+<intellect>45</intellect>
+<critrating>39</critrating>
+<resilience>47</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Pursuit</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Furious Gladiator's Chain Gauntlets</name>
+<id>41143</id>
+<slot>Hands</slot>
+</item>

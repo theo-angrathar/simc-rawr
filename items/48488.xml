@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_08</iconpath>
+<stats>
+<armor>2102</armor>
+<stamina>174</stamina>
+<strength>150</strength>
+<critrating>94</critrating>
+<expertiserating>86</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Thassarian's Battlegear</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Thassarian's Helmet of Triumph</name>
+<id>48488</id>
+<slot>Head</slot>
+</item>

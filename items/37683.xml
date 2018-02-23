@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>9852</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_04</iconpath>
+<stats>
+<stamina>24</stamina>
+<intellect>41</intellect>
+<spirit>42</spirit>
+<spellpower>50</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Necromancer's Amulet</name>
+<id>37683</id>
+<slot>Neck</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51601</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_23</iconpath>
+<stats>
+<armor>1177</armor>
+<agility>37</agility>
+<stamina>43</stamina>
+<strength>51</strength>
+<hitrating>51</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spiked Metal Cilice</name>
+<id>37088</id>
+<slot>Waist</slot>
+</item>

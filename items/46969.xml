@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>60610</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_95</iconpath>
+<stats>
+<agility>58</agility>
+<stamina>66</stamina>
+<attackpower>84</attackpower>
+<armorpenetrationrating>33</armorpenetrationrating>
+<critrating>50</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Alliance</faction>
+<mindamage>242</mindamage>
+<maxdamage>364</maxdamage>
+<speed>1.4</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Steel Bladebreaker</name>
+<id>46969</id>
+<slot>OneHand</slot>
+</item>

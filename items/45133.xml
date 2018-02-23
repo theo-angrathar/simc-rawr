@@ -1,0 +1,24 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>39211</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_31</iconpath>
+<stats>
+<stamina>61</stamina>
+<intellect>51</intellect>
+<spellpower>75</spellpower>
+<hitrating>46</hitrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Pendant of Fiery Havoc</name>
+<id>45133</id>
+<slot>Neck</slot>
+</item>

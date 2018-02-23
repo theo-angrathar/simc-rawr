@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>517</armor>
+<agility>114</agility>
+<stamina>122</stamina>
+<attackpower>114</attackpower>
+<critrating>70</critrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Nightsong Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Conqueror's Nightsong Legguards</name>
+<id>46160</id>
+<slot>Legs</slot>
+</item>

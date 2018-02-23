@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61842</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_61</iconpath>
+<stats>
+<armor>821</armor>
+<stamina>74</stamina>
+<intellect>62</intellect>
+<spellpower>100</spellpower>
+<critrating>50</critrating>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Gloves of Whispering Winds</name>
+<id>45943</id>
+<slot>Hands</slot>
+</item>

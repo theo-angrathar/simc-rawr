@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54847</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_110</iconpath>
+<stats>
+<armor>1867</armor>
+<stamina>75</stamina>
+<intellect>72</intellect>
+<spellpower>118</spellpower>
+<critrating>77</critrating>
+<mp5>29</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Helm of Diminished Pride</name>
+<id>39760</id>
+<slot>Head</slot>
+</item>

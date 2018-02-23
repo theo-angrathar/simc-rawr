@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54696</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_126</iconpath>
+<stats>
+<armor>250</armor>
+<stamina>75</stamina>
+<intellect>77</intellect>
+<spirit>72</spirit>
+<spellpower>118</spellpower>
+<hitrating>58</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Faerlina's Madness</name>
+<id>39732</id>
+<slot>Head</slot>
+</item>

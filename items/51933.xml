@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>61403</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>177</armor>
+<agility>82</agility>
+<stamina>69</stamina>
+<attackpower>137</attackpower>
+<hitrating>48</hitrating>
+<expertiserating>63</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Shawl of Nerubian Silk</name>
+<id>51933</id>
+<slot>Back</slot>
+</item>

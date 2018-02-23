@@ -1,0 +1,24 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>48157</displayid>
+<displayslot>25</displayslot>
+<iconpath>inv_throwingknife_01</iconpath>
+<stats>
+<agility>45</agility>
+<stamina>41</stamina>
+<attackpower>64</attackpower>
+<critrating>31</critrating>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Thrown</type>
+<faction>Neutral</faction>
+<mindamage>384</mindamage>
+<maxdamage>577</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gluth's Fetching Knife</name>
+<id>50999</id>
+<slot>Ranged</slot>
+</item>

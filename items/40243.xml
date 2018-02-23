@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54775</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_02</iconpath>
+<stats>
+<armor>398</armor>
+<agility>67</agility>
+<stamina>76</stamina>
+<attackpower>112</attackpower>
+<expertiserating>30</expertiserating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Footwraps of Vile Deceit</name>
+<id>40243</id>
+<slot>Feet</slot>
+</item>

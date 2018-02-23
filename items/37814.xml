@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51577</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_92</iconpath>
+<stats>
+<armor>1625</armor>
+<stamina>87</stamina>
+<strength>58</strength>
+<parryrating>40</parryrating>
+<defenserating>36</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Iron Dwarf Smith Pauldrons</name>
+<id>37814</id>
+<slot>Shoulders</slot>
+</item>

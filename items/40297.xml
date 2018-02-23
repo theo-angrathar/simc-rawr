@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55393</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_06</iconpath>
+<stats>
+<armor>1580</armor>
+<stamina>111</stamina>
+<strength>57</strength>
+<dodgerating>43</dodgerating>
+<defenserating>55</defenserating>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sabatons of Endurance</name>
+<id>40297</id>
+<slot>Feet</slot>
+</item>

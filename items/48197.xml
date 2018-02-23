@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_109b</iconpath>
+<stats>
+<armor>467</armor>
+<agility>93</agility>
+<stamina>101</stamina>
+<attackpower>135</attackpower>
+<armorpenetrationrating>59</armorpenetrationrating>
+<hasterating>67</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Battlegear</setname>
+<type>Leather</type>
+<faction>Horde</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Runetotem's Shoulderpads of Triumph</name>
+<id>48197</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,17 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>57051</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_09</iconpath>
+<stats>
+<armor>1158</armor>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Val'kyr Vestments</name>
+<id>44697</id>
+<slot>Chest</slot>
+</item>

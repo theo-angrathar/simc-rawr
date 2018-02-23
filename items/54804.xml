@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>159</armor>
+<stamina>51</stamina>
+<intellect>51</intellect>
+<spellpower>78</spellpower>
+<critrating>45</critrating>
+<hasterating>45</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shroud of Winter's Chill</name>
+<id>54804</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>62110</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_17</iconpath>
+<stats>
+<armor>238</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spellpower>114</spellpower>
+<hitrating>60</hitrating>
+<hasterating>76</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Boots of the Icy Floe</name>
+<id>47482</id>
+<slot>Feet</slot>
+</item>

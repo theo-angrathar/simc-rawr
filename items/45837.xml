@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_30</iconpath>
+<stats>
+<armor>821</armor>
+<stamina>84</stamina>
+<intellect>56</intellect>
+<spellpower>100</spellpower>
+<critrating>60</critrating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of Augury</name>
+<id>45837</id>
+<slot>Hands</slot>
+</item>

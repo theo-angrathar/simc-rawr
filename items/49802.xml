@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64740</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_mace_83</iconpath>
+<stats>
+<stamina>93</stamina>
+<strength>109</strength>
+<critrating>98</critrating>
+<hasterating>53</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandMace</type>
+<faction>Neutral</faction>
+<mindamage>611</mindamage>
+<maxdamage>917</maxdamage>
+<speed>3.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Garfrost's Two-Ton Hammer</name>
+<id>49802</id>
+<slot>TwoHand</slot>
+</item>

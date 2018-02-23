@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_151</iconpath>
+<stats>
+<armor>2239</armor>
+<stamina>209</stamina>
+<strength>185</strength>
+<armorpenetrationrating>106</armorpenetrationrating>
+<critrating>114</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgelord's Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Sanctified Scourgelord Helmet</name>
+<id>51312</id>
+<slot>Head</slot>
+</item>

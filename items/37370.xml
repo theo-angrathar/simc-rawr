@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52329</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_04</iconpath>
+<stats>
+<armor>127</armor>
+<stamina>37</stamina>
+<intellect>31</intellect>
+<spirit>43</spirit>
+<spellpower>50</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cuffs of the Trussed Hall</name>
+<id>37370</id>
+<slot>Wrist</slot>
+</item>

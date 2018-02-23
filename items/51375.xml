@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_chain_07</iconpath>
+<stats>
+<armor>1016</armor>
+<stamina>137</stamina>
+<intellect>61</intellect>
+<spellpower>132</spellpower>
+<critrating>72</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Wrathful Gladiator's Sabatons of Dominance</name>
+<id>51375</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,29 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_100</iconpath>
+<stats>
+<armor>1077</armor>
+<agility>104</agility>
+<stamina>95</stamina>
+<attackpower>129</attackpower>
+<intellect>63</intellect>
+<critrating>63</critrating>
+<hitrating>64</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Battlegear</setname>
+<type>Mail</type>
+<faction>Horde</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<attackpower>16</attackpower>
+</socketbonus>
+<name>Thrall's Faceguard of Conquest</name>
+<id>48368</id>
+<slot>Head</slot>
+</item>

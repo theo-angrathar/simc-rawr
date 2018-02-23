@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52996</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_16</iconpath>
+<stats>
+<armor>1831</armor>
+<stamina>93</stamina>
+<strength>54</strength>
+<defenserating>88</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Daunting Legplates</name>
+<id>41345</id>
+<slot>Legs</slot>
+</item>

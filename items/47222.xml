@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49005</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_79</iconpath>
+<stats>
+<agility>36</agility>
+<stamina>44</stamina>
+<attackpower>100</attackpower>
+<critrating>34</critrating>
+<expertiserating>32</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Uruka's Band of Zeal</name>
+<id>47222</id>
+<slot>Finger</slot>
+</item>

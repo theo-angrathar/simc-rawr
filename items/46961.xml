@@ -1,0 +1,21 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62005</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_27b</iconpath>
+<stats>
+<armor>1082</armor>
+<stamina>86</stamina>
+<strength>86</strength>
+<critrating>50</critrating>
+<expertiserating>50</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Boneshatter Armplates</name>
+<id>46961</id>
+<slot>Wrist</slot>
+</item>

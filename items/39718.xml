@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54622</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_03</iconpath>
+<stats>
+<armor>804</armor>
+<stamina>57</stamina>
+<intellect>57</intellect>
+<spellpower>78</spellpower>
+<critrating>49</critrating>
+<mp5>20</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Corpse Scarab Handguards</name>
+<id>39718</id>
+<slot>Hands</slot>
+</item>

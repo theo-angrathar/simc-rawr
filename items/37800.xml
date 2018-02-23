@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_17</iconpath>
+<stats>
+<armor>1212</armor>
+<agility>60</agility>
+<stamina>60</stamina>
+<attackpower>140</attackpower>
+<intellect>35</intellect>
+<hasterating>38</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Aviary Guardsman's Hauberk</name>
+<id>37800</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64216</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_misc_monsterhorn_03</iconpath>
+<stats>
+<agility>90</agility>
+<stamina>90</stamina>
+<attackpower>105</attackpower>
+<armorpenetrationrating>60</armorpenetrationrating>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Sindragosa's Cruel Claw</name>
+<id>50421</id>
+<slot>Neck</slot>
+</item>

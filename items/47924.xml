@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62008</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_49b</iconpath>
+<stats>
+<armor>1391</armor>
+<stamina>81</stamina>
+<intellect>73</intellect>
+<spellpower>109</spellpower>
+<critrating>45</critrating>
+<hasterating>77</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Belt of the Frozen Reach</name>
+<id>47924</id>
+<slot>Waist</slot>
+</item>

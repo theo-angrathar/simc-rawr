@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_23</iconpath>
+<stats>
+<spellpower>7</spellpower>
+<mp5>3</mp5>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Royal Shadow Crystal</name>
+<id>39943</id>
+<slot>Purple</slot>
+</item>

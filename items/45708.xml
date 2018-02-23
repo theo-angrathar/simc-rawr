@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59300</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_20</iconpath>
+<stats>
+<armor>2032</armor>
+<stamina>159</stamina>
+<strength>78</strength>
+<dodgerating>65</dodgerating>
+<parryrating>52</parryrating>
+<expertiserating>58</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<dodgerating>4</dodgerating>
+</socketbonus>
+<name>Archaedas' Lost Legplates</name>
+<id>45708</id>
+<slot>Legs</slot>
+</item>

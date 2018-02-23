@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56114</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_20</iconpath>
+<stats>
+<armor>150</armor>
+<stamina>63</stamina>
+<strength>36</strength>
+<dodgerating>33</dodgerating>
+<defenserating>32</defenserating>
+<expertiserating>21</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Gale-Proof Cloak</name>
+<id>43988</id>
+<slot>Back</slot>
+</item>

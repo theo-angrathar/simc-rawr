@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_12</iconpath>
+<stats>
+<armor>596</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<critrating>64</critrating>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Regalia</setname>
+<type>Leather</type>
+<faction>Alliance</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Malfurion's Vestments of Conquest</name>
+<id>48159</id>
+<slot>Chest</slot>
+</item>

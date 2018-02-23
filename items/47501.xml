@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>61408</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>52</stamina>
+<intellect>42</intellect>
+<spellpower>70</spellpower>
+<critrating>33</critrating>
+<hitrating>44</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Kurisu's Indecision</name>
+<id>47501</id>
+<slot>Back</slot>
+</item>

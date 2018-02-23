@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51939</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>247</armor>
+<stamina>37</stamina>
+<intellect>38</intellect>
+<spirit>28</spirit>
+<spellpower>59</spellpower>
+<critrating>36</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Plague-Infected Bracers</name>
+<id>37696</id>
+<slot>Wrist</slot>
+</item>

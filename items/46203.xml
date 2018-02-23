@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>985</armor>
+<agility>62</agility>
+<stamina>66</stamina>
+<attackpower>138</attackpower>
+<intellect>52</intellect>
+<critrating>49</critrating>
+<expertiserating>34</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Conqueror's Worldbreaker Shoulderguards</name>
+<id>46203</id>
+<slot>Shoulders</slot>
+</item>

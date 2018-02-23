@@ -1,0 +1,20 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>48510</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_41</iconpath>
+<stats>
+<bonusarmor>336</bonusarmor>
+<stamina>55</stamina>
+<strength>36</strength>
+<dodgerating>25</dodgerating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Amulet of Wills</name>
+<id>35680</id>
+<slot>Neck</slot>
+</item>

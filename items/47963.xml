@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61777</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_69</iconpath>
+<stats>
+<armor>8309</armor>
+<stamina>54</stamina>
+<intellect>51</intellect>
+<spellpower>80</spellpower>
+<critrating>44</critrating>
+<blockvalue>232</blockvalue>
+<mp5>27</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Vigilant Ward</name>
+<id>47963</id>
+<slot>OffHand</slot>
+</item>

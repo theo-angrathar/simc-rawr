@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_plate_08</iconpath>
+<stats>
+<armor>1614</armor>
+<stamina>96</stamina>
+<intellect>42</intellect>
+<spellpower>90</spellpower>
+<resilience>56</resilience>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Furious Gladiator's Greaves of Salvation</name>
+<id>40977</id>
+<slot>Feet</slot>
+</item>

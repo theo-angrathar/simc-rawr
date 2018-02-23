@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>591</armor>
+<stamina>85</stamina>
+<intellect>86</intellect>
+<spirit>60</spirit>
+<spellpower>115</spellpower>
+<hasterating>75</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Nightsong Garb</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Conqueror's Nightsong Vestments</name>
+<id>46194</id>
+<slot>Chest</slot>
+</item>

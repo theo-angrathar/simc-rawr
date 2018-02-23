@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_70</iconpath>
+<stats>
+<armor>596</armor>
+<agility>105</agility>
+<stamina>138</stamina>
+<attackpower>120</attackpower>
+<critrating>64</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Sanctuary</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Furious Gladiator's Dragonhide Robes</name>
+<id>41661</id>
+<slot>Chest</slot>
+</item>

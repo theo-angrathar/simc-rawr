@@ -1,0 +1,9 @@
+<enchant>
+<id>2939</id>
+<name>Cat's Swiftness</name>
+<slot>Feet</slot>
+<stats>
+<agility>6</agility>
+<movementspeed>0.08</movementspeed>
+</stats>
+</enchant>

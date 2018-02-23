@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_40</iconpath>
+<stats>
+<stamina>63</stamina>
+<intellect>42</intellect>
+<spirit>36</spirit>
+<spellpower>74</spellpower>
+<hitrating>46</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pendant of Focused Energies</name>
+<id>45539</id>
+<slot>Neck</slot>
+</item>

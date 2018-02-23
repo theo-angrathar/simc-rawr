@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60596</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_axe_106</iconpath>
+<stats>
+<stamina>155</stamina>
+<strength>147</strength>
+<armorpenetrationrating>82</armorpenetrationrating>
+<critrating>90</critrating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandAxe</type>
+<faction>Horde</faction>
+<mindamage>736</mindamage>
+<maxdamage>1105</maxdamage>
+<speed>3.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Dual-blade Butcher</name>
+<id>47285</id>
+<slot>TwoHand</slot>
+</item>

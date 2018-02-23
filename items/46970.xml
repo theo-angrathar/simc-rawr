@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61403</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>166</armor>
+<agility>76</agility>
+<stamina>76</stamina>
+<attackpower>101</attackpower>
+<critrating>50</critrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Drape of the Untamed Predator</name>
+<id>46970</id>
+<slot>Back</slot>
+</item>

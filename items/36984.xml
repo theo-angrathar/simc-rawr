@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51922</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_91</iconpath>
+<stats>
+<stamina>45</stamina>
+<strength>29</strength>
+<parryrating>16</parryrating>
+<defenserating>22</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>134</mindamage>
+<maxdamage>250</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Eternally Folded Blade</name>
+<id>36984</id>
+<slot>OneHand</slot>
+</item>

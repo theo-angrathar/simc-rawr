@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51608</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_05</iconpath>
+<stats>
+<armor>329</armor>
+<stamina>37</stamina>
+<intellect>40</intellect>
+<spirit>51</spirit>
+<spellpower>60</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of Northern Lordaeron</name>
+<id>37114</id>
+<slot>Hands</slot>
+</item>

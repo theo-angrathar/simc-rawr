@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55986</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_09</iconpath>
+<stats>
+<armor>1489</armor>
+<stamina>85</stamina>
+<strength>44</strength>
+<hitrating>29</hitrating>
+<defenserating>58</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sabatons of Draconic Vigor</name>
+<id>44201</id>
+<slot>Feet</slot>
+</item>

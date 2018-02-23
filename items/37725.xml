@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52398</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_08</iconpath>
+<stats>
+<armor>127</armor>
+<stamina>31</stamina>
+<intellect>32</intellect>
+<spellpower>51</spellpower>
+<hasterating>43</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Savage Wound Wrap</name>
+<id>37725</id>
+<slot>Wrist</slot>
+</item>

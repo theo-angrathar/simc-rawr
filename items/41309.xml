@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56420</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_leather_12</iconpath>
+<stats>
+<armor>578</armor>
+<stamina>115</stamina>
+<intellect>50</intellect>
+<spirit>51</spirit>
+<spellpower>98</spellpower>
+<resilience>66</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Refuge</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Deadly Gladiator's Kodohide Robes</name>
+<id>41309</id>
+<slot>Chest</slot>
+</item>

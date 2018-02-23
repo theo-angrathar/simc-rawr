@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54029</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_15</iconpath>
+<stats>
+<armor>263</armor>
+<stamina>57</stamina>
+<intellect>60</intellect>
+<spirit>72</spirit>
+<spellpower>88</spellpower>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Leggings of Sapphiron</name>
+<id>39408</id>
+<slot>Legs</slot>
+</item>

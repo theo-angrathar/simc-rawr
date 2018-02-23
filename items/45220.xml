@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51519</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather01</iconpath>
+<stats>
+<armor>375</armor>
+<agility>42</agility>
+<stamina>49</stamina>
+<attackpower>116</attackpower>
+<armorpenetrationrating>41</armorpenetrationrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Treads of the Earnest Squire</name>
+<id>45220</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65408</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_26</iconpath>
+<stats>
+<armor>243</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>80</spirit>
+<spellpower>122</spellpower>
+<critrating>64</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Sandals of Consecration</name>
+<id>49893</id>
+<slot>Feet</slot>
+</item>

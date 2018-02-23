@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_87</iconpath>
+<stats>
+<armor>269</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spirit>74</spirit>
+<spellpower>131</spellpower>
+<hitrating>82</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Velen's Regalia</setname>
+<type>Cloth</type>
+<faction>Horde</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Zabra's Circlet of Triumph</name>
+<id>48095</id>
+<slot>Head</slot>
+</item>

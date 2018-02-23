@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spellpower>68</spellpower>
+<critrating>48</critrating>
+<hasterating>30</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Redemption Regalia</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Heroes' Redemption Gloves</name>
+<id>39632</id>
+<slot>Hands</slot>
+</item>

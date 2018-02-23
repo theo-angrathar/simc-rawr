@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_97</iconpath>
+<stats>
+<armor>233</armor>
+<stamina>62</stamina>
+<intellect>56</intellect>
+<spirit>55</spirit>
+<spellpower>92</spellpower>
+<critrating>47</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Iceshear Mantle</name>
+<id>46344</id>
+<slot>Shoulders</slot>
+</item>

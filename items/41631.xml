@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_46b</iconpath>
+<stats>
+<armor>350</armor>
+<stamina>115</stamina>
+<intellect>51</intellect>
+<spellpower>109</spellpower>
+<critrating>59</critrating>
+<resilience>67</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Relentless Gladiator's Belt of Dominance</name>
+<id>41631</id>
+<slot>Waist</slot>
+</item>

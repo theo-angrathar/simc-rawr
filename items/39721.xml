@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54713</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_07</iconpath>
+<stats>
+<armor>173</armor>
+<stamina>64</stamina>
+<intellect>57</intellect>
+<spellpower>88</spellpower>
+<critrating>37</critrating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sash of the Parlor</name>
+<id>39721</id>
+<slot>Waist</slot>
+</item>

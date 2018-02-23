@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55750</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_13</iconpath>
+<stats>
+<armor>173</armor>
+<stamina>85</stamina>
+<intellect>37</intellect>
+<spellpower>78</spellpower>
+<critrating>42</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Deadly Gladiator's Cord of Dominance</name>
+<id>41897</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>35446</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_naxxramas_03</iconpath>
+<stats>
+<armor>157</armor>
+<agility>42</agility>
+<stamina>63</stamina>
+<attackpower>126</attackpower>
+<critrating>49</critrating>
+<hasterating>31</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Drape of the Deadly Foe</name>
+<id>40403</id>
+<slot>Back</slot>
+</item>

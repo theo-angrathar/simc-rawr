@@ -1,0 +1,19 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_rune_11</iconpath>
+<stats>
+<attackpower>190</attackpower>
+<pvptrinket>1</pvptrinket>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Titan-Forged Rune of Determination</name>
+<id>46082</id>
+<slot>Trinket</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56716</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_22</iconpath>
+<stats>
+<armor>659</armor>
+<stamina>48</stamina>
+<intellect>37</intellect>
+<spellpower>54</spellpower>
+<critrating>50</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Nightshock Girdle</name>
+<id>43133</id>
+<slot>Waist</slot>
+</item>

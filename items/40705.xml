@@ -1,0 +1,18 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_relics_libramofgrace</iconpath>
+<stats>
+<holylightmanacostreduction>113</holylightmanacostreduction>
+</stats>
+<quality>Epic</quality>
+<type>Libram</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Libram of Renewal</name>
+<id>40705</id>
+<slot>Ranged</slot>
+</item>

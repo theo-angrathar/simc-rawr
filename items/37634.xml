@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53120</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_16</iconpath>
+<stats>
+<armor>239</armor>
+<stamina>31</stamina>
+<intellect>33</intellect>
+<spellpower>50</spellpower>
+<critrating>43</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bracers of the Divine Elemental</name>
+<id>37634</id>
+<slot>Wrist</slot>
+</item>

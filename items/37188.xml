@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>59543</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_121</iconpath>
+<stats>
+<armor>985</armor>
+<agility>60</agility>
+<stamina>42</stamina>
+<attackpower>124</attackpower>
+<intellect>27</intellect>
+<critrating>36</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Plunderer's Helmet</name>
+<id>37188</id>
+<slot>Head</slot>
+</item>

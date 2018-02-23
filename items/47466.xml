@@ -1,0 +1,24 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>48509</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_44</iconpath>
+<stats>
+<bonusarmor>616</bonusarmor>
+<stamina>116</stamina>
+<strength>85</strength>
+<dodgerating>37</dodgerating>
+<defenserating>45</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Legionnaire's Gorget</name>
+<id>47466</id>
+<slot>Neck</slot>
+</item>

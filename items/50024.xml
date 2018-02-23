@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64569</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_25</iconpath>
+<stats>
+<armor>2641</armor>
+<stamina>207</stamina>
+<strength>123</strength>
+<hitrating>58</hitrating>
+<dodgerating>108</dodgerating>
+<defenserating>108</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Blightborne Warplate</name>
+<id>50024</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54879</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>578</armor>
+<agility>100</agility>
+<stamina>115</stamina>
+<attackpower>132</attackpower>
+<critrating>50</critrating>
+<hasterating>67</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Chestpiece of Suspicion</name>
+<id>40319</id>
+<slot>Chest</slot>
+</item>

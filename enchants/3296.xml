@@ -1,0 +1,9 @@
+<enchant>
+<id>3296</id>
+<name>Wisdom</name>
+<slot>Back</slot>
+<stats>
+<spirit>10</spirit>
+<threatreductionmultiplier>0.02</threatreductionmultiplier>
+</stats>
+</enchant>

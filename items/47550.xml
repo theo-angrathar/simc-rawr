@@ -1,0 +1,25 @@
+<item>
+<itemlevel>272</itemlevel>
+<displayid>61400</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>182</armor>
+<stamina>134</stamina>
+<strength>97</strength>
+<dodgerating>43</dodgerating>
+<parryrating>51</parryrating>
+<defenserating>51</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Cairne's Endurance</name>
+<id>47550</id>
+<slot>Back</slot>
+</item>

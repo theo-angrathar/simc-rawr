@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_100</iconpath>
+<stats>
+<armor>1124</armor>
+<agility>120</agility>
+<stamina>107</stamina>
+<attackpower>149</attackpower>
+<armorpenetrationrating>90</armorpenetrationrating>
+<intellect>71</intellect>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<attackpower>16</attackpower>
+</socketbonus>
+<name>Coif of the Brooding Dragon</name>
+<id>47684</id>
+<slot>Head</slot>
+</item>

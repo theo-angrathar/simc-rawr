@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49362</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_77</iconpath>
+<stats>
+<armor>909</armor>
+<stamina>43</stamina>
+<intellect>44</intellect>
+<spellpower>68</spellpower>
+<critrating>57</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mantle of Discarded Ways</name>
+<id>37398</id>
+<slot>Shoulders</slot>
+</item>

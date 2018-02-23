@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate_25</iconpath>
+<stats>
+<armor>2641</armor>
+<bonusarmor>1176</bonusarmor>
+<stamina>207</stamina>
+<strength>123</strength>
+<defenserating>108</defenserating>
+<expertiserating>82</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Cataclysmic Chestguard</name>
+<id>50968</id>
+<slot>Chest</slot>
+</item>

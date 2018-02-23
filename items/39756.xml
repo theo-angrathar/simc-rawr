@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54803</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_15</iconpath>
+<stats>
+<armor>578</armor>
+<stamina>75</stamina>
+<intellect>77</intellect>
+<spirit>72</spirit>
+<spellpower>118</spellpower>
+<hasterating>58</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Tunic of Prejudice</name>
+<id>39756</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59015</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_94</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>84</stamina>
+<intellect>56</intellect>
+<spirit>62</spirit>
+<spellpower>99</spellpower>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mantle of Wavering Calm</name>
+<id>45253</id>
+<slot>Shoulders</slot>
+</item>

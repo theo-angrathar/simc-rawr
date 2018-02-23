@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52348</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_16</iconpath>
+<stats>
+<armor>181</armor>
+<stamina>42</stamina>
+<intellect>58</intellect>
+<spellpower>68</spellpower>
+<critrating>44</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Giant-Hair Woven Gloves</name>
+<id>37843</id>
+<slot>Hands</slot>
+</item>

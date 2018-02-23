@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61550</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32</iconpath>
+<stats>
+<armor>1082</armor>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spellpower>89</spellpower>
+<critrating>50</critrating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bracers of the Broken Bond</name>
+<id>47294</id>
+<slot>Wrist</slot>
+</item>

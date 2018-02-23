@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_48a</iconpath>
+<stats>
+<armor>1321</armor>
+<stamina>127</stamina>
+<strength>57</strength>
+<hitrating>56</hitrating>
+<dodgerating>60</dodgerating>
+<defenserating>49</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shieldwarder Girdle</name>
+<id>45825</id>
+<slot>Waist</slot>
+</item>

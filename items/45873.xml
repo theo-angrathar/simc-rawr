@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59040</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_13</iconpath>
+<stats>
+<armor>155</armor>
+<agility>60</agility>
+<stamina>51</stamina>
+<attackpower>92</attackpower>
+<critrating>43</critrating>
+<hasterating>29</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Winter's Frigid Embrace</name>
+<id>45873</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64614</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_67</iconpath>
+<stats>
+<armor>175</armor>
+<stamina>60</stamina>
+<intellect>60</intellect>
+<spellpower>92</spellpower>
+<hitrating>45</hitrating>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Essence of Anger</name>
+<id>49796</id>
+<slot>Waist</slot>
+</item>

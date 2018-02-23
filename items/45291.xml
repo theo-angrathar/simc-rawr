@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>58987</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_25a</iconpath>
+<stats>
+<armor>136</armor>
+<stamina>54</stamina>
+<intellect>41</intellect>
+<spirit>44</spirit>
+<spellpower>70</spellpower>
+<hitrating>32</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Combustion Bracers</name>
+<id>45291</id>
+<slot>Wrist</slot>
+</item>

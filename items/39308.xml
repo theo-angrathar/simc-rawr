@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54217</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_25</iconpath>
+<stats>
+<armor>317</armor>
+<stamina>52</stamina>
+<intellect>49</intellect>
+<spirit>48</spirit>
+<spellpower>77</spellpower>
+<hasterating>38</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Girdle of Lenience</name>
+<id>39308</id>
+<slot>Waist</slot>
+</item>

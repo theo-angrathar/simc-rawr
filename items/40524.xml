@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>964</armor>
+<agility>50</agility>
+<stamina>60</stamina>
+<attackpower>134</attackpower>
+<intellect>40</intellect>
+<critrating>41</critrating>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Valorous Earthshatter Shoulderguards</name>
+<id>40524</id>
+<slot>Shoulders</slot>
+</item>

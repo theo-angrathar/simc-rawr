@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>31603</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_16</iconpath>
+<stats>
+<agility>29</agility>
+<stamina>45</stamina>
+<attackpower>86</attackpower>
+<critrating>42</critrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Necklace of Arcane Spheres</name>
+<id>37861</id>
+<slot>Neck</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_13</iconpath>
+<stats>
+<armor>1261</armor>
+<stamina>99</stamina>
+<strength>58</strength>
+<critrating>48</critrating>
+<hasterating>30</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Verdungo's Barbarian Cord</name>
+<id>40688</id>
+<slot>Waist</slot>
+</item>

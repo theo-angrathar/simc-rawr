@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56295</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_16</iconpath>
+<stats>
+<armor>564</armor>
+<agility>88</agility>
+<stamina>67</stamina>
+<attackpower>180</attackpower>
+<armorpenetrationrating>68</armorpenetrationrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Darkheart Chestguard</name>
+<id>44303</id>
+<slot>Chest</slot>
+</item>

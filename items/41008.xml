@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_49</iconpath>
+<stats>
+<armor>883</armor>
+<stamina>122</stamina>
+<intellect>54</intellect>
+<spellpower>116</spellpower>
+<critrating>63</critrating>
+<resilience>71</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Thunderfist</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Relentless Gladiator's Mail Gauntlets</name>
+<id>41008</id>
+<slot>Hands</slot>
+</item>

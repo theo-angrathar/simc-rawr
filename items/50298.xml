@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>65155</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_155</iconpath>
+<stats>
+<armor>258</armor>
+<stamina>80</stamina>
+<intellect>84</intellect>
+<spellpower>122</spellpower>
+<hitrating>62</hitrating>
+<hasterating>78</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Sightless Crown of Ulmaas</name>
+<id>50298</id>
+<slot>Head</slot>
+</item>

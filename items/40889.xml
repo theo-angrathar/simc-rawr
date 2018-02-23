@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>1027</armor>
+<stamina>94</stamina>
+<strength>63</strength>
+<critrating>42</critrating>
+<resilience>42</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Furious Gladiator's Bracers of Triumph</name>
+<id>40889</id>
+<slot>Wrist</slot>
+</item>

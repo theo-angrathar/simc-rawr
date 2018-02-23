@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_mail_02</iconpath>
+<stats>
+<armor>951</armor>
+<agility>67</agility>
+<stamina>115</stamina>
+<attackpower>119</attackpower>
+<intellect>51</intellect>
+<critrating>59</critrating>
+<resilience>67</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Relentless Gladiator's Sabatons of Triumph</name>
+<id>41231</id>
+<slot>Feet</slot>
+</item>

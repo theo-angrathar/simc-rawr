@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_14</iconpath>
+<stats>
+<armor>591</armor>
+<stamina>85</stamina>
+<intellect>86</intellect>
+<spirit>75</spirit>
+<spellpower>124</spellpower>
+<critrating>68</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Phaelia's Vestments of the Sprouting Seed</name>
+<id>45237</id>
+<slot>Chest</slot>
+</item>

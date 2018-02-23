@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53818</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_24</iconpath>
+<stats>
+<armor>705</armor>
+<stamina>57</stamina>
+<intellect>48</intellect>
+<spellpower>77</spellpower>
+<mp5>33</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mail Girdle of the Audient Earth</name>
+<id>37855</id>
+<slot>Waist</slot>
+</item>

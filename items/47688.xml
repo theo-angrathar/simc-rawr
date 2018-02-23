@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_145a</iconpath>
+<stats>
+<armor>506</armor>
+<agility>120</agility>
+<stamina>136</stamina>
+<attackpower>165</attackpower>
+<armorpenetrationrating>74</armorpenetrationrating>
+<hitrating>82</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Mask of Lethal Intent</name>
+<id>47688</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61926</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_28</iconpath>
+<stats>
+<armor>570</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spellpower>151</spellpower>
+<critrating>86</critrating>
+<hasterating>94</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Legwraps of the Awakening</name>
+<id>47190</id>
+<slot>Legs</slot>
+</item>

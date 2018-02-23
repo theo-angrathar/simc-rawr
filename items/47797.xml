@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_61</iconpath>
+<stats>
+<armor>217</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spellpower>124</spellpower>
+<critrating>76</critrating>
+<hitrating>68</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Kel'Thuzad's Regalia</setname>
+<type>Cloth</type>
+<faction>Horde</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Gul'dan's Gloves of Triumph</name>
+<id>47797</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64616</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_79</iconpath>
+<stats>
+<armor>311</armor>
+<stamina>86</stamina>
+<intellect>79</intellect>
+<spellpower>124</spellpower>
+<critrating>71</critrating>
+<hasterating>71</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Palebone Robes</name>
+<id>49825</id>
+<slot>Chest</slot>
+</item>

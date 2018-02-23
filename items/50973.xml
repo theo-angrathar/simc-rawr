@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_21</iconpath>
+<stats>
+<armor>665</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spirit>84</spirit>
+<spellpower>162</spellpower>
+<hasterating>108</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Vestments of Spruce and Fir</name>
+<id>50973</id>
+<slot>Chest</slot>
+</item>

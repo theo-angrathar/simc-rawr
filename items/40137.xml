@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_40</iconpath>
+<stats>
+<attackpower>20</attackpower>
+<mp5>5</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Infused Dreadstone</name>
+<id>40137</id>
+<slot>Purple</slot>
+</item>

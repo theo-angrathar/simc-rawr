@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_05</iconpath>
+<stats>
+<armor>527</armor>
+<agility>55</agility>
+<stamina>66</stamina>
+<attackpower>136</attackpower>
+<hasterating>54</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Hardened Tongue Tunic</name>
+<id>43207</id>
+<slot>Chest</slot>
+</item>

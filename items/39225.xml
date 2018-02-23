@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35446</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_naxxramas_03</iconpath>
+<stats>
+<armor>150</armor>
+<bonusarmor>336</bonusarmor>
+<stamina>50</stamina>
+<strength>39</strength>
+<hitrating>28</hitrating>
+<defenserating>37</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cloak of Armed Strife</name>
+<id>39225</id>
+<slot>Back</slot>
+</item>

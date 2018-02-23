@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52234</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_72</iconpath>
+<stats>
+<armor>210</armor>
+<stamina>37</stamina>
+<intellect>40</intellect>
+<spirit>51</spirit>
+<spellpower>60</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Silken Amice of the Ymirjar</name>
+<id>37055</id>
+<slot>Shoulders</slot>
+</item>

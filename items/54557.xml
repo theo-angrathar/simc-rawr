@@ -1,0 +1,24 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_amulet_06</iconpath>
+<stats>
+<agility>96</agility>
+<stamina>84</stamina>
+<attackpower>138</attackpower>
+<critrating>64</critrating>
+<expertiserating>48</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Baltharus' Gift</name>
+<id>54557</id>
+<slot>Neck</slot>
+</item>

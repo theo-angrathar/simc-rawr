@@ -1,0 +1,19 @@
+<item>
+<itemlevel>1</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_07</iconpath>
+<stats>
+<stamina>103</stamina>
+<attackpower>137</attackpower>
+<hitrating>68</hitrating>
+</stats>
+<quality>Heirloom</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Stained Shadowcraft Tunic</name>
+<id>48689</id>
+<slot>Chest</slot>
+</item>

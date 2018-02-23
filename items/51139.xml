@@ -1,0 +1,28 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_21</iconpath>
+<stats>
+<armor>665</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spirit>108</spirit>
+<spellpower>171</spellpower>
+<critrating>92</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Garb</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Sanctified Lasherweave Robes</name>
+<id>51139</id>
+<slot>Chest</slot>
+</item>

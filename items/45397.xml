@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>365</armor>
+<agility>79</agility>
+<stamina>53</stamina>
+<attackpower>120</attackpower>
+<critrating>40</critrating>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Terrorblade Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Valorous Terrorblade Gauntlets</name>
+<id>45397</id>
+<slot>Hands</slot>
+</item>

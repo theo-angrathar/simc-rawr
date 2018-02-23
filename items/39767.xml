@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54719</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate08</iconpath>
+<stats>
+<armor>2298</armor>
+<stamina>115</stamina>
+<strength>100</strength>
+<hitrating>100</hitrating>
+<expertiserating>51</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Undiminished Battleplate</name>
+<id>39767</id>
+<slot>Chest</slot>
+</item>

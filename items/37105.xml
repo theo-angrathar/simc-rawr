@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52421</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_07</iconpath>
+<stats>
+<armor>805</armor>
+<stamina>39</stamina>
+<intellect>40</intellect>
+<spellpower>60</spellpower>
+<critrating>50</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Treads of Altered History</name>
+<id>37105</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54579</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_20</iconpath>
+<stats>
+<armor>254</armor>
+<stamina>55</stamina>
+<intellect>45</intellect>
+<spellpower>73</spellpower>
+<mp5>31</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Leggings of the Ruins Dweller</name>
+<id>43313</id>
+<slot>Legs</slot>
+</item>

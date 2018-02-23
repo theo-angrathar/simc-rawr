@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53005</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_23</iconpath>
+<stats>
+<armor>1177</armor>
+<stamina>40</stamina>
+<strength>44</strength>
+<critrating>43</critrating>
+<resilience>52</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Saronite Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Savage Saronite Waistguard</name>
+<id>41352</id>
+<slot>Waist</slot>
+</item>

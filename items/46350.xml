@@ -1,0 +1,24 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_staff_94</iconpath>
+<stats>
+<stamina>159</stamina>
+<intellect>106</intellect>
+<spirit>81</spirit>
+<spellpower>487</spellpower>
+<critrating>53</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Staff</type>
+<faction>Neutral</faction>
+<mindamage>291</mindamage>
+<maxdamage>539</maxdamage>
+<speed>2.9</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pillar of Fortitude</name>
+<id>46350</id>
+<slot>TwoHand</slot>
+</item>

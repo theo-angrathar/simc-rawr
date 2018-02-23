@@ -1,0 +1,19 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_trinketpvp_02</iconpath>
+<stats>
+<resilience>108</resilience>
+<pvptrinket>1</pvptrinket>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Medallion of the Horde</name>
+<id>42126</id>
+<slot>Trinket</slot>
+</item>

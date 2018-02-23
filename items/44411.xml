@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>1700</armor>
+<stamina>51</stamina>
+<intellect>68</intellect>
+<spellpower>81</spellpower>
+<hasterating>53</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Platehelm of Irate Revenge</name>
+<id>44411</id>
+<slot>Head</slot>
+</item>

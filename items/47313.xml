@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61175</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_36a</iconpath>
+<stats>
+<armor>272</armor>
+<agility>76</agility>
+<stamina>76</stamina>
+<attackpower>101</attackpower>
+<critrating>50</critrating>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Armbands of Dark Determination</name>
+<id>47313</id>
+<slot>Wrist</slot>
+</item>

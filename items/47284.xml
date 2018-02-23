@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61173</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather_04a</iconpath>
+<stats>
+<armor>428</armor>
+<agility>93</agility>
+<stamina>101</stamina>
+<attackpower>135</attackpower>
+<armorpenetrationrating>59</armorpenetrationrating>
+<hitrating>67</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Icewalker Treads</name>
+<id>47284</id>
+<slot>Feet</slot>
+</item>

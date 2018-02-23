@@ -1,0 +1,21 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64433</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_misc_bone_elfskull_01</iconpath>
+<stats>
+<stamina>61</stamina>
+<intellect>61</intellect>
+<spellpower>94</spellpower>
+<critrating>47</critrating>
+<hitrating>57</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Scourgelord's Baton</name>
+<id>50781</id>
+<slot>OffHand</slot>
+</item>

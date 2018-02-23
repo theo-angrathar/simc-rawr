@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54708</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_75</iconpath>
+<stats>
+<armor>1723</armor>
+<stamina>112</stamina>
+<strength>75</strength>
+<dodgerating>36</dodgerating>
+<blockrating>50</blockrating>
+<defenserating>28</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Burdened Shoulderplates</name>
+<id>40334</id>
+<slot>Shoulders</slot>
+</item>

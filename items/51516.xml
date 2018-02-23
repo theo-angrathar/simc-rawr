@@ -1,0 +1,26 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_axe_116</iconpath>
+<stats>
+<stamina>118</stamina>
+<attackpower>141</attackpower>
+<critrating>44</critrating>
+<resilience>52</resilience>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>456</mindamage>
+<maxdamage>847</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Wrathful Gladiator's Handaxe</name>
+<id>51516</id>
+<slot>OneHand</slot>
+</item>

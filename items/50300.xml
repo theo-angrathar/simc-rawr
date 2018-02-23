@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64559</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_23</iconpath>
+<stats>
+<armor>596</armor>
+<agility>112</agility>
+<stamina>106</stamina>
+<attackpower>172</attackpower>
+<armorpenetrationrating>89</armorpenetrationrating>
+<hitrating>59</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Choking Hauberk</name>
+<id>50300</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_28</iconpath>
+<stats>
+<armor>275</armor>
+<stamina>85</stamina>
+<intellect>86</intellect>
+<spellpower>132</spellpower>
+<hitrating>81</hitrating>
+<hasterating>66</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Overload Legwraps</name>
+<id>45238</id>
+<slot>Legs</slot>
+</item>

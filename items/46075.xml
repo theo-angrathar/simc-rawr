@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_13</iconpath>
+<stats>
+<armor>723</armor>
+<agility>41</agility>
+<stamina>85</stamina>
+<attackpower>84</attackpower>
+<intellect>37</intellect>
+<hitrating>50</hitrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Titan-Forged Waistguard of Triumph</name>
+<id>46075</id>
+<slot>Waist</slot>
+</item>

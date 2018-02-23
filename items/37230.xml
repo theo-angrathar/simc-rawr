@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50979</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>341</armor>
+<stamina>30</stamina>
+<intellect>45</intellect>
+<spirit>59</spirit>
+<spellpower>59</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Grotto Mist Gloves</name>
+<id>37230</id>
+<slot>Hands</slot>
+</item>

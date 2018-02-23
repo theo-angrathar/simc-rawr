@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_05</iconpath>
+<stats>
+<armor>341</armor>
+<stamina>42</stamina>
+<intellect>44</intellect>
+<spellpower>68</spellpower>
+<hasterating>58</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Awakened Handguards</name>
+<id>37858</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55809</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_27</iconpath>
+<stats>
+<armor>1961</armor>
+<stamina>133</stamina>
+<strength>74</strength>
+<critrating>44</critrating>
+<resilience>59</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Hateful Gladiator's Plate Legguards</name>
+<id>40840</id>
+<slot>Legs</slot>
+</item>

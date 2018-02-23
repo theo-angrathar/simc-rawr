@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55815</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_62</iconpath>
+<stats>
+<armor>1723</armor>
+<stamina>111</stamina>
+<strength>67</strength>
+<critrating>42</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Deadly Gladiator's Plate Shoulders</name>
+<id>40862</id>
+<slot>Shoulders</slot>
+</item>

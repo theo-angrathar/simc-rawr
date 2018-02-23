@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61707</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather01</iconpath>
+<stats>
+<armor>448</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spirit>60</spirit>
+<spellpower>114</spellpower>
+<critrating>76</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Boots of the Unrelenting Storm</name>
+<id>46989</id>
+<slot>Feet</slot>
+</item>

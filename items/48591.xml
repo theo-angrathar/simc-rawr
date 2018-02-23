@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_30</iconpath>
+<stats>
+<armor>2164</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>140</spellpower>
+<critrating>74</critrating>
+<mp5>45</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Garb</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Liadrin's Greaves of Triumph</name>
+<id>48591</id>
+<slot>Legs</slot>
+</item>

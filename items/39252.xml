@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56603</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>131</armor>
+<stamina>36</stamina>
+<intellect>38</intellect>
+<spirit>34</spirit>
+<spellpower>59</spellpower>
+<hitrating>33</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Preceptor's Bindings</name>
+<id>39252</id>
+<slot>Wrist</slot>
+</item>

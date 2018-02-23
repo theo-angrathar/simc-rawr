@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_25</iconpath>
+<stats>
+<armor>1150</armor>
+<stamina>99</stamina>
+<intellect>81</intellect>
+<spellpower>133</spellpower>
+<hasterating>75</hasterating>
+<mp5>38</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leggings of the Tortured Earth</name>
+<id>45544</id>
+<slot>Legs</slot>
+</item>

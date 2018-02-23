@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_42</iconpath>
+<stats>
+<stamina>33</stamina>
+<intellect>21</intellect>
+<spirit>50</spirit>
+<spellpower>50</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pendant of Emerald Crusader</name>
+<id>45213</id>
+<slot>Neck</slot>
+</item>

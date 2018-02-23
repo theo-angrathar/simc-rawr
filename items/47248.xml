@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60642</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_mail_01</iconpath>
+<stats>
+<armor>402</armor>
+<agility>73</agility>
+<stamina>54</stamina>
+<attackpower>113</attackpower>
+<critrating>59</critrating>
+<expertiserating>42</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Treads of Dismal Fortune</name>
+<id>47248</id>
+<slot>Feet</slot>
+</item>

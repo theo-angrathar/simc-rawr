@@ -1,0 +1,17 @@
+<item>
+<itemlevel>230</itemlevel>
+<displayid>64928</displayid>
+<displayslot>24</displayslot>
+<iconpath>inv_ammo_arrow_03</iconpath>
+<stats></stats>
+<quality>Epic</quality>
+<type>Arrow</type>
+<faction>Neutral</faction>
+<mindamage>91</mindamage>
+<maxdamage>92</maxdamage>
+<speed>3</speed>
+<socketbonus></socketbonus>
+<name>Iceblade Arrow</name>
+<id>52021</id>
+<slot>Projectile</slot>
+</item>

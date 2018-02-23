@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_08</iconpath>
+<stats>
+<armor>253</armor>
+<stamina>48</stamina>
+<intellect>41</intellect>
+<spirit>28</spirit>
+<spellpower>66</spellpower>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Bands of the Great Tree</name>
+<id>40739</id>
+<slot>Wrist</slot>
+</item>

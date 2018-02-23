@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64478</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_111</iconpath>
+<stats>
+<armor>499</armor>
+<stamina>97</stamina>
+<intellect>89</intellect>
+<spirit>80</spirit>
+<spellpower>122</spellpower>
+<hasterating>64</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Shoulderpads of the Searing Kiss</name>
+<id>51839</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53096</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_11</iconpath>
+<stats>
+<armor>245</armor>
+<stamina>60</stamina>
+<intellect>50</intellect>
+<spellpower>81</spellpower>
+<hasterating>69</hasterating>
+</stats>
+<quality>Rare</quality>
+<setname>Duskweaver</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Black Duskweave Leggings</name>
+<id>41553</id>
+<slot>Legs</slot>
+</item>

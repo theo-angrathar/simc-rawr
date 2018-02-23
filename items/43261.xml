@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56720</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_09</iconpath>
+<stats>
+<armor>428</armor>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spirit>46</spirit>
+<spellpower>81</spellpower>
+<resilience>46</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Overcaster Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Overcast Headguard</name>
+<id>43261</id>
+<slot>Head</slot>
+</item>

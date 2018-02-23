@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_53</iconpath>
+<stats>
+<armor>905</armor>
+<agility>76</agility>
+<stamina>90</stamina>
+<attackpower>211</attackpower>
+<intellect>60</intellect>
+<critrating>60</critrating>
+<expertiserating>68</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Battlegear</setname>
+<type>Mail</type>
+<faction>Horde</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Thrall's Grips of Triumph</name>
+<id>48357</id>
+<slot>Hands</slot>
+</item>

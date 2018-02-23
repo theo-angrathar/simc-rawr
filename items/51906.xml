@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65040</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_169</iconpath>
+<stats>
+<armor>1200</armor>
+<stamina>111</stamina>
+<intellect>117</intellect>
+<spellpower>171</spellpower>
+<hasterating>100</hasterating>
+<mp5>49</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Ice-Reinforced Vrykul Helm</name>
+<id>51906</id>
+<slot>Head</slot>
+</item>

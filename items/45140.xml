@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59210</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_92</iconpath>
+<stats>
+<armor>1761</armor>
+<stamina>64</stamina>
+<intellect>65</intellect>
+<spellpower>99</spellpower>
+<hasterating>60</hasterating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Razorscale Shoulderguards</name>
+<id>45140</id>
+<slot>Shoulders</slot>
+</item>

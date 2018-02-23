@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_131</iconpath>
+<stats>
+<armor>256</armor>
+<stamina>89</stamina>
+<intellect>76</intellect>
+<spirit>41</spirit>
+<spellpower>113</spellpower>
+<critrating>86</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Deathbringer Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Conqueror's Deathbringer Hood</name>
+<id>46140</id>
+<slot>Head</slot>
+</item>

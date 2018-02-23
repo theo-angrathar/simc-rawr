@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51697</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_19</iconpath>
+<stats>
+<armor>705</armor>
+<agility>51</agility>
+<stamina>67</stamina>
+<attackpower>132</attackpower>
+<intellect>33</intellect>
+<hitrating>43</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sovereign's Belt</name>
+<id>37407</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61871</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_133</iconpath>
+<stats>
+<armor>256</armor>
+<stamina>72</stamina>
+<intellect>91</intellect>
+<spirit>57</spirit>
+<spellpower>133</spellpower>
+<hitrating>86</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Cowl of the Absolute</name>
+<id>45435</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53937</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_16</iconpath>
+<stats>
+<armor>1254</armor>
+<stamina>67</stamina>
+<intellect>69</intellect>
+<spellpower>85</spellpower>
+<critrating>61</critrating>
+<mp5>20</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Heinous Mail Chestguard</name>
+<id>39391</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>31899</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_17</iconpath>
+<stats>
+<agility>38</agility>
+<stamina>43</stamina>
+<attackpower>76</attackpower>
+<hasterating>37</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Necklace of the Chrono-Lord</name>
+<id>37096</id>
+<slot>Neck</slot>
+</item>

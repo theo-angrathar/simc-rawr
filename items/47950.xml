@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60607</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_rifle_35</iconpath>
+<stats>
+<agility>40</agility>
+<stamina>23</stamina>
+<attackpower>66</attackpower>
+<critrating>30</critrating>
+<hitrating>18</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Gun</type>
+<faction>Alliance</faction>
+<mindamage>444</mindamage>
+<maxdamage>744</maxdamage>
+<speed>2.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>The Diplomat</name>
+<id>47950</id>
+<slot>Ranged</slot>
+</item>

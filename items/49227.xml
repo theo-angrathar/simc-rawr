@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>61992</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_shortblade_70</iconpath>
+<stats>
+<spellpower>315</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>55</mindamage>
+<maxdamage>179</maxdamage>
+<speed>1.7</speed>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Skoll's Fang</name>
+<id>49227</id>
+<slot>MainHand</slot>
+</item>

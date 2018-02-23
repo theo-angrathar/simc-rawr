@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53654</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_80</iconpath>
+<stats>
+<armor>964</armor>
+<stamina>65</stamina>
+<intellect>51</intellect>
+<spellpower>90</spellpower>
+<hasterating>61</hasterating>
+<mp5>16</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Council Chamber Epaulets</name>
+<id>40438</id>
+<slot>Shoulders</slot>
+</item>

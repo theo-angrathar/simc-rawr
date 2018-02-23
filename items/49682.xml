@@ -1,0 +1,24 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59375</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_94</iconpath>
+<stats>
+<agility>46</agility>
+<stamina>35</stamina>
+<attackpower>70</attackpower>
+<critrating>33</critrating>
+<hitrating>27</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>235</mindamage>
+<maxdamage>353</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Black Knight's Rondel</name>
+<id>49682</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_107</iconpath>
+<stats>
+<armor>228</armor>
+<stamina>51</stamina>
+<intellect>69</intellect>
+<spellpower>81</spellpower>
+<hasterating>52</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cowl of the Vindictive Captain</name>
+<id>44408</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53670</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_75</iconpath>
+<stats>
+<armor>1723</armor>
+<stamina>55</stamina>
+<intellect>57</intellect>
+<spellpower>78</spellpower>
+<hasterating>43</hasterating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Noble Birthright Pauldrons</name>
+<id>40377</id>
+<slot>Shoulders</slot>
+</item>

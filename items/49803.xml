@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>31657</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_39</iconpath>
+<stats>
+<agility>59</agility>
+<stamina>49</stamina>
+<attackpower>87</attackpower>
+<critrating>38</critrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ring of Carnelian and Bone</name>
+<id>49803</id>
+<slot>Finger</slot>
+</item>

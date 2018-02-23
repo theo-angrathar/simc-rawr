@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_sword_157</iconpath>
+<stats>
+<stamina>275</stamina>
+<attackpower>334</attackpower>
+<critrating>106</critrating>
+<resilience>122</resilience>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandSword</type>
+<faction>Neutral</faction>
+<mindamage>938</mindamage>
+<maxdamage>1407</maxdamage>
+<speed>3.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Wrathful Gladiator's Claymore</name>
+<id>51393</id>
+<slot>TwoHand</slot>
+</item>

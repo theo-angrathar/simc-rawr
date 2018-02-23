@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53655</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_21</iconpath>
+<stats>
+<armor>2011</armor>
+<stamina>152</stamina>
+<strength>77</strength>
+<hitrating>50</hitrating>
+<dodgerating>58</dodgerating>
+<defenserating>72</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Dragon Brood Legguards</name>
+<id>40446</id>
+<slot>Legs</slot>
+</item>

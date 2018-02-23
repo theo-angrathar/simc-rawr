@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52235</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_15</iconpath>
+<stats>
+<armor>732</armor>
+<agility>51</agility>
+<stamina>39</stamina>
+<attackpower>102</attackpower>
+<intellect>28</intellect>
+<hitrating>26</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Tear-Linked Gauntlets</name>
+<id>37043</id>
+<slot>Hands</slot>
+</item>

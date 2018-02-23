@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64544</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_sword_152</iconpath>
+<stats>
+<stamina>59</stamina>
+<intellect>59</intellect>
+<spellpower>657</spellpower>
+<hitrating>49</hitrating>
+<hasterating>54</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>102</mindamage>
+<maxdamage>325</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<uniqueid>50771</uniqueid>
+<uniqueid>51932</uniqueid>
+<name>Frost Needle</name>
+<id>50771</id>
+<slot>MainHand</slot>
+</item>

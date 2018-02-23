@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_17</iconpath>
+<stats>
+<armor>188</armor>
+<stamina>66</stamina>
+<intellect>44</intellect>
+<spellpower>59</spellpower>
+<critrating>38</critrating>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Plagueheart Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Heroes' Plagueheart Gloves</name>
+<id>39500</id>
+<slot>Hands</slot>
+</item>

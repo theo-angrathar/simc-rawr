@@ -1,0 +1,27 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_49</iconpath>
+<stats>
+<armor>942</armor>
+<stamina>145</stamina>
+<intellect>64</intellect>
+<spellpower>140</spellpower>
+<resilience>85</resilience>
+<mp5>38</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Wartide</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Wrathful Gladiator's Ringmail Gauntlets</name>
+<id>51498</id>
+<slot>Hands</slot>
+</item>

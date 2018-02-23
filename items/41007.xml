@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_71</iconpath>
+<stats>
+<armor>828</armor>
+<stamina>102</stamina>
+<intellect>45</intellect>
+<spellpower>96</spellpower>
+<critrating>39</critrating>
+<resilience>47</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Thunderfist</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Furious Gladiator's Mail Gauntlets</name>
+<id>41007</id>
+<slot>Hands</slot>
+</item>

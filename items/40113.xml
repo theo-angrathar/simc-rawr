@@ -1,0 +1,16 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_37</iconpath>
+<stats>
+<spellpower>23</spellpower>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Runed Cardinal Ruby</name>
+<id>40113</id>
+<slot>Red</slot>
+</item>

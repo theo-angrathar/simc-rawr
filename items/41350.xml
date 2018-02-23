@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52302</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>1700</armor>
+<stamina>78</stamina>
+<strength>37</strength>
+<critrating>70</critrating>
+<resilience>63</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Saronite Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Savage Saronite Skullshield</name>
+<id>41350</id>
+<slot>Head</slot>
+</item>

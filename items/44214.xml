@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>9063</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_wand_11</iconpath>
+<stats>
+<stamina>21</stamina>
+<spellpower>26</spellpower>
+<mp5>10</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Wand</type>
+<faction>Neutral</faction>
+<mindamage>247</mindamage>
+<maxdamage>459</maxdamage>
+<damagetype>Fire</damagetype>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Purifying Torch</name>
+<id>44214</id>
+<slot>Ranged</slot>
+</item>

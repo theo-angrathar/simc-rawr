@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_15</iconpath>
+<stats>
+<armor>480</armor>
+<agility>107</agility>
+<stamina>75</stamina>
+<attackpower>130</attackpower>
+<critrating>77</critrating>
+<hasterating>59</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Terrorblade Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<attackpower>16</attackpower>
+</socketbonus>
+<name>Conqueror's Terrorblade Helmet</name>
+<id>46125</id>
+<slot>Head</slot>
+</item>

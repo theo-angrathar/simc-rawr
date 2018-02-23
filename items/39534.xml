@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51927</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_92</iconpath>
+<stats>
+<armor>1570</armor>
+<stamina>76</stamina>
+<strength>44</strength>
+<hitrating>42</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Pauldrons of the Lightning Revenant</name>
+<id>39534</id>
+<slot>Shoulders</slot>
+</item>

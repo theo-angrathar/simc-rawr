@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1467</armor>
+<stamina>63</stamina>
+<intellect>64</intellect>
+<spellpower>90</spellpower>
+<hasterating>57</hasterating>
+<mp5>24</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Aegis Regalia</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Conqueror's Aegis Gloves</name>
+<id>46179</id>
+<slot>Hands</slot>
+</item>

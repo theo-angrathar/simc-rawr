@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56267</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_16</iconpath>
+<stats>
+<armor>1254</armor>
+<agility>89</agility>
+<stamina>69</stamina>
+<attackpower>104</attackpower>
+<intellect>68</intellect>
+<hitrating>49</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Polished Regimental Hauberk</name>
+<id>44295</id>
+<slot>Chest</slot>
+</item>

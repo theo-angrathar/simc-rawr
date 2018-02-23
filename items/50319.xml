@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64754</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_61</iconpath>
+<stats>
+<agility>52</agility>
+<stamina>45</stamina>
+<attackpower>74</attackpower>
+<armorpenetrationrating>37</armorpenetrationrating>
+<expertiserating>30</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>200</mindamage>
+<maxdamage>301</maxdamage>
+<speed>1.4</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Unsharpened Ice Razor</name>
+<id>50319</id>
+<slot>OneHand</slot>
+</item>

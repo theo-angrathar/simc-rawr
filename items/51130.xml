@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_130</iconpath>
+<stats>
+<armor>1980</armor>
+<stamina>169</stamina>
+<strength>120</strength>
+<dodgerating>55</dodgerating>
+<parryrating>63</parryrating>
+<defenserating>63</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgelord's Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Sanctified Scourgelord Pauldrons</name>
+<id>51130</id>
+<slot>Shoulders</slot>
+</item>

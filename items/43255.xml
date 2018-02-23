@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56726</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_30</iconpath>
+<stats>
+<armor>329</armor>
+<agility>47</agility>
+<stamina>56</stamina>
+<attackpower>92</attackpower>
+<armorpenetrationrating>38</armorpenetrationrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Seafoam Gauntlets</name>
+<id>43255</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_133</iconpath>
+<stats>
+<armor>256</armor>
+<stamina>62</stamina>
+<intellect>87</intellect>
+<spirit>66</spirit>
+<spellpower>113</spellpower>
+<hitrating>69</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Kirin Tor Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Conqueror's Kirin Tor Hood</name>
+<id>46129</id>
+<slot>Head</slot>
+</item>

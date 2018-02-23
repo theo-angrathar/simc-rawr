@@ -1,0 +1,16 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_42</iconpath>
+<stats>
+<stamina>30</stamina>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Solid Majestic Zircon</name>
+<id>40119</id>
+<slot>Blue</slot>
+</item>

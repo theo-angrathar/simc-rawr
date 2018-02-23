@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_rifle_35</iconpath>
+<stats>
+<agility>32</agility>
+<stamina>31</stamina>
+<attackpower>28</attackpower>
+<hasterating>22</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Gun</type>
+<faction>Alliance</faction>
+<mindamage>300</mindamage>
+<maxdamage>451</maxdamage>
+<speed>2.9</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Blunderbuss of Khaz Modan</name>
+<id>45130</id>
+<slot>Ranged</slot>
+</item>

@@ -1,0 +1,16 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_15</iconpath>
+<stats>
+<resilience>14</resilience>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Perfect Mystic Sun Crystal</name>
+<id>41445</id>
+<slot>Yellow</slot>
+</item>

@@ -1,0 +1,18 @@
+<item>
+<itemlevel>145</itemlevel>
+<displayid>44356</displayid>
+<displayslot>24</displayslot>
+<iconpath>inv_misc_ammo_bullet_02</iconpath>
+<stats></stats>
+<quality>Epic</quality>
+<type>Bullet</type>
+<faction>Neutral</faction>
+<mindamage>53</mindamage>
+<maxdamage>53</maxdamage>
+<speed>3</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Timeless Shell</name>
+<id>31735</id>
+<slot>Projectile</slot>
+</item>

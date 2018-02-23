@@ -1,0 +1,21 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61790</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_offhand_stratholme_a_02</iconpath>
+<stats>
+<stamina>65</stamina>
+<intellect>65</intellect>
+<spellpower>100</spellpower>
+<critrating>57</critrating>
+<hitrating>57</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Talisman of Heedless Sins</name>
+<id>47437</id>
+<slot>OffHand</slot>
+</item>

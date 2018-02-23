@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>44358</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_68</iconpath>
+<stats>
+<stamina>48</stamina>
+<intellect>52</intellect>
+<spellpower>78</spellpower>
+<critrating>36</critrating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Oath of Empress Zoe</name>
+<id>50313</id>
+<slot>Finger</slot>
+</item>

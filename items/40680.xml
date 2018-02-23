@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35373</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_27naxxramas</iconpath>
+<stats>
+<stamina>49</stamina>
+<intellect>38</intellect>
+<spirit>34</spirit>
+<spellpower>59</spellpower>
+<hitrating>25</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Encircling Burnished Gold Chains</name>
+<id>40680</id>
+<slot>Neck</slot>
+</item>

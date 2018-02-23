@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49369</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_78</iconpath>
+<stats>
+<armor>409</armor>
+<agility>58</agility>
+<stamina>61</stamina>
+<attackpower>84</attackpower>
+<hitrating>33</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Spaulders of the Careless Thief</name>
+<id>37139</id>
+<slot>Shoulders</slot>
+</item>

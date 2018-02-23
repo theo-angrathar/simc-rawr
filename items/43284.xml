@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54525</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_crossbow_22</iconpath>
+<stats>
+<agility>28</agility>
+<stamina>25</stamina>
+<attackpower>48</attackpower>
+<hasterating>24</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Crossbow</type>
+<faction>Neutral</faction>
+<mindamage>272</mindamage>
+<maxdamage>409</maxdamage>
+<speed>2.9</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Amanitar Skullbow</name>
+<id>43284</id>
+<slot>Ranged</slot>
+</item>

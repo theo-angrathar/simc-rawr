@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>23018</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>145</armor>
+<stamina>37</stamina>
+<strength>60</strength>
+<critrating>34</critrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Cloak of Bloodied Waters</name>
+<id>37647</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>35430</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_naxxramas_01</iconpath>
+<stats>
+<armor>157</armor>
+<stamina>94</stamina>
+<strength>46</strength>
+<hitrating>36</hitrating>
+<dodgerating>41</dodgerating>
+<defenserating>43</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cloak of the Makers</name>
+<id>45319</id>
+<slot>Back</slot>
+</item>

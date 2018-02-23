@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_79</iconpath>
+<stats>
+<armor>217</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spellpower>124</spellpower>
+<critrating>76</critrating>
+<hasterating>68</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Khadgar's Regalia</setname>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Khadgar's Gauntlets of Triumph</name>
+<id>47762</id>
+<slot>Hands</slot>
+</item>

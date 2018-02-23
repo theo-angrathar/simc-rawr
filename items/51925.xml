@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64422</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_61</iconpath>
+<stats>
+<armor>374</armor>
+<agility>104</agility>
+<stamina>92</stamina>
+<attackpower>183</attackpower>
+<critrating>86</critrating>
+<hitrating>54</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Soulthief's Braided Belt</name>
+<id>51925</id>
+<slot>Waist</slot>
+</item>

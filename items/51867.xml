@@ -1,0 +1,23 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64213</displayid>
+<displayslot>2</displayslot>
+<iconpath>item_icecrownnecklaceb</iconpath>
+<stats>
+<stamina>103</stamina>
+<strength>95</strength>
+<critrating>62</critrating>
+<expertiserating>49</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Infected Choker</name>
+<id>51867</id>
+<slot>Neck</slot>
+</item>

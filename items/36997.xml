@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52340</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_07</iconpath>
+<stats>
+<armor>158</armor>
+<stamina>33</stamina>
+<intellect>27</intellect>
+<spellpower>44</spellpower>
+<mp5>19</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Sash of the Hardened Watcher</name>
+<id>36997</id>
+<slot>Waist</slot>
+</item>

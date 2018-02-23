@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51603</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_jewelry_ring_41</iconpath>
+<stats>
+<armor>296</armor>
+<stamina>37</stamina>
+<intellect>40</intellect>
+<spellpower>60</spellpower>
+<critrating>51</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ouroboros Belt</name>
+<id>37106</id>
+<slot>Waist</slot>
+</item>

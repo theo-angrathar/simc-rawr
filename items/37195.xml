@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>39122</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_56</iconpath>
+<stats>
+<stamina>37</stamina>
+<intellect>31</intellect>
+<spellpower>50</spellpower>
+<mp5>21</mp5>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Band of Enchanted Growth</name>
+<id>37195</id>
+<slot>Finger</slot>
+</item>

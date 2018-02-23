@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61253</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_38</iconpath>
+<stats>
+<armor>605</armor>
+<agility>70</agility>
+<stamina>40</stamina>
+<attackpower>89</attackpower>
+<intellect>40</intellect>
+<hitrating>50</hitrating>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Bracers of the Northern Stalker</name>
+<id>47989</id>
+<slot>Wrist</slot>
+</item>

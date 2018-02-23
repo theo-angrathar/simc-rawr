@@ -1,0 +1,25 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_sword_155</iconpath>
+<stats>
+<agility>62</agility>
+<stamina>54</stamina>
+<attackpower>88</attackpower>
+<armorpenetrationrating>39</armorpenetrationrating>
+<critrating>42</critrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>388</mindamage>
+<maxdamage>722</maxdamage>
+<speed>2.7</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Quel'Delar, Cunning of the Shadows</name>
+<id>50046</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>52491</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_125</iconpath>
+<stats>
+<armor>225</armor>
+<stamina>57</stamina>
+<intellect>68</intellect>
+<spellpower>61</spellpower>
+<critrating>53</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Static Cowl</name>
+<id>35679</id>
+<slot>Head</slot>
+</item>

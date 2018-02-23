@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_40</iconpath>
+<stats>
+<stamina>15</stamina>
+<expertiserating>10</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Guardian's Dreadstone</name>
+<id>40141</id>
+<slot>Purple</slot>
+</item>

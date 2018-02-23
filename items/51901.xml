@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64782</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_43</iconpath>
+<stats>
+<armor>1155</armor>
+<bonusarmor>714</bonusarmor>
+<stamina>124</stamina>
+<strength>82</strength>
+<dodgerating>42</dodgerating>
+<defenserating>48</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Gargoyle Spit Bracers</name>
+<id>51901</id>
+<slot>Wrist</slot>
+</item>

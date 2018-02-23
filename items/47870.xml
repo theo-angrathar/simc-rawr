@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62138</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_50</iconpath>
+<stats>
+<armor>1332</armor>
+<stamina>134</stamina>
+<strength>89</strength>
+<dodgerating>57</dodgerating>
+<parryrating>30</parryrating>
+<defenserating>47</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of the Nether Champion</name>
+<id>47870</id>
+<slot>Waist</slot>
+</item>

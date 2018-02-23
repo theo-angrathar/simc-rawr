@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64837</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_60</iconpath>
+<stats>
+<armor>867</armor>
+<agility>120</agility>
+<stamina>107</stamina>
+<attackpower>181</attackpower>
+<armorpenetrationrating>71</armorpenetrationrating>
+<intellect>71</intellect>
+<critrating>74</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Nerub'ar Stalker's Cord</name>
+<id>50688</id>
+<slot>Waist</slot>
+</item>

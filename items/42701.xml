@@ -1,0 +1,21 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_gem_pearl_10</iconpath>
+<stats>
+<agility>4</agility>
+<stamina>4</stamina>
+<strength>4</strength>
+<intellect>4</intellect>
+<spirit>4</spirit>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<socketbonus></socketbonus>
+<name>Enchanted Pearl</name>
+<id>42701</id>
+<slot>Prismatic</slot>
+</item>

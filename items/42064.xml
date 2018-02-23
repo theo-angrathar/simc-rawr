@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_19</iconpath>
+<stats>
+<armor>154</armor>
+<stamina>66</stamina>
+<intellect>29</intellect>
+<spellpower>66</spellpower>
+<hitrating>38</hitrating>
+<resilience>37</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deadly Gladiator's Cloak of Ascendancy</name>
+<id>42064</id>
+<slot>Back</slot>
+</item>

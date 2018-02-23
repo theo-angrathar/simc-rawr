@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_16</iconpath>
+<stats>
+<armor>1325</armor>
+<stamina>138</stamina>
+<intellect>60</intellect>
+<spellpower>123</spellpower>
+<critrating>64</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Thunderfist</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Furious Gladiator's Mail Armor</name>
+<id>40993</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54762</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_25</iconpath>
+<stats>
+<armor>325</armor>
+<stamina>64</stamina>
+<intellect>53</intellect>
+<spirit>38</spirit>
+<spellpower>88</spellpower>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shackled Cinch</name>
+<id>40341</id>
+<slot>Waist</slot>
+</item>

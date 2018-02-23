@@ -1,0 +1,24 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59167</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate13</iconpath>
+<stats>
+<armor>2322</armor>
+<stamina>120</stamina>
+<strength>113</strength>
+<armorpenetrationrating>45</armorpenetrationrating>
+<hasterating>81</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Chestplate of Vicious Potency</name>
+<id>45676</id>
+<slot>Chest</slot>
+</item>

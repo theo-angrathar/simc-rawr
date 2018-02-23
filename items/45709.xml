@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59105</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_40a</iconpath>
+<stats>
+<armor>329</armor>
+<agility>79</agility>
+<stamina>68</stamina>
+<attackpower>114</attackpower>
+<hitrating>56</hitrating>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Nimble Climber's Belt</name>
+<id>45709</id>
+<slot>Waist</slot>
+</item>

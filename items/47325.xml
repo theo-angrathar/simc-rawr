@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62104</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_07</iconpath>
+<stats>
+<armor>1384</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>140</spellpower>
+<critrating>74</critrating>
+<mp5>45</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Cuirass of Flowing Elements</name>
+<id>47325</id>
+<slot>Chest</slot>
+</item>

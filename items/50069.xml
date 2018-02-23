@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64492</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_59</iconpath>
+<stats>
+<armor>374</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>64</spirit>
+<spellpower>122</spellpower>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Professor's Bloodied Smock</name>
+<id>50069</id>
+<slot>Waist</slot>
+</item>

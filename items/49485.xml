@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>9860</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_09</iconpath>
+<stats>
+<agility>76</agility>
+<stamina>58</stamina>
+<attackpower>96</attackpower>
+<critrating>52</critrating>
+<hitrating>48</hitrating>
+<fireresistance>10</fireresistance>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sparkling Onyxia Tooth Pendant</name>
+<id>49485</id>
+<slot>Neck</slot>
+</item>

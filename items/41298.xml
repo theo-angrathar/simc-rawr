@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_24</iconpath>
+<stats>
+<armor>522</armor>
+<stamina>138</stamina>
+<intellect>60</intellect>
+<spirit>64</spirit>
+<spellpower>123</spellpower>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Refuge</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Furious Gladiator's Kodohide Legguards</name>
+<id>41298</id>
+<slot>Legs</slot>
+</item>

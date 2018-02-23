@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61781</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_69</iconpath>
+<stats>
+<armor>8695</armor>
+<stamina>65</stamina>
+<intellect>65</intellect>
+<spellpower>100</spellpower>
+<critrating>57</critrating>
+<blockvalue>243</blockvalue>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Bastion of Purity</name>
+<id>47085</id>
+<slot>OffHand</slot>
+</item>

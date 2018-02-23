@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_77b</iconpath>
+<stats>
+<armor>407</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spirit>68</spirit>
+<spellpower>124</spellpower>
+<hasterating>76</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Regalia</setname>
+<type>Leather</type>
+<faction>Alliance</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Malfurion's Gloves of Triumph</name>
+<id>48172</id>
+<slot>Hands</slot>
+</item>

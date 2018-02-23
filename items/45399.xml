@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>511</armor>
+<agility>94</agility>
+<stamina>83</stamina>
+<attackpower>152</attackpower>
+<critrating>62</critrating>
+<hasterating>66</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Terrorblade Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Valorous Terrorblade Legplates</name>
+<id>45399</id>
+<slot>Legs</slot>
+</item>

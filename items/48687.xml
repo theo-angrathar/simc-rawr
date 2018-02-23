@@ -1,0 +1,20 @@
+<item>
+<itemlevel>1</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_06</iconpath>
+<stats>
+<stamina>52</stamina>
+<intellect>52</intellect>
+<spirit>68</spirit>
+<spellpower>80</spellpower>
+</stats>
+<quality>Heirloom</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Preened Ironfeather Breastplate</name>
+<id>48687</id>
+<slot>Chest</slot>
+</item>

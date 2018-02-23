@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_08</iconpath>
+<stats>
+<armor>239</armor>
+<agility>43</agility>
+<stamina>42</stamina>
+<attackpower>86</attackpower>
+<hitrating>29</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Drake-Champion's Bracers</name>
+<id>37366</id>
+<slot>Wrist</slot>
+</item>

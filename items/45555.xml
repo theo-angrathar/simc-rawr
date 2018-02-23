@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59111</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_37b</iconpath>
+<stats>
+<armor>333</armor>
+<agility>69</agility>
+<stamina>73</stamina>
+<attackpower>112</attackpower>
+<critrating>56</critrating>
+<hitrating>40</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Death-warmed Belt</name>
+<id>45555</id>
+<slot>Waist</slot>
+</item>

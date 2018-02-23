@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_23</iconpath>
+<stats>
+<stamina>9</stamina>
+<strength>6</strength>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Sovereign Shadow Crystal</name>
+<id>39934</id>
+<slot>Purple</slot>
+</item>

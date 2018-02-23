@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55573</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_87</iconpath>
+<stats>
+<agility>29</agility>
+<stamina>28</stamina>
+<attackpower>58</attackpower>
+<armorpenetrationrating>21</armorpenetrationrating>
+</stats>
+<quality>Rare</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>142</mindamage>
+<maxdamage>265</maxdamage>
+<speed>1.7</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Traditional Flensing Knife</name>
+<id>44051</id>
+<slot>OneHand</slot>
+</item>

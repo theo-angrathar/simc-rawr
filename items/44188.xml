@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55943</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_naxxramas_02</iconpath>
+<stats>
+<armor>140</armor>
+<stamina>64</stamina>
+<strength>31</strength>
+<hitrating>25</hitrating>
+<defenserating>43</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cloak of Peaceful Resolutions</name>
+<id>44188</id>
+<slot>Back</slot>
+</item>

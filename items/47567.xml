@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60574</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_77a</iconpath>
+<stats>
+<armor>1451</armor>
+<stamina>53</stamina>
+<intellect>58</intellect>
+<spellpower>87</spellpower>
+<critrating>45</critrating>
+<mp5>27</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Gauntlets of Revelation</name>
+<id>47567</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51924</displayid>
+<displayslot>25</displayslot>
+<iconpath>inv_axe_03</iconpath>
+<stats>
+<stamina>33</stamina>
+<attackpower>42</attackpower>
+<hitrating>21</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Thrown</type>
+<faction>Neutral</faction>
+<mindamage>274</mindamage>
+<maxdamage>412</maxdamage>
+<speed>2.2</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Hardened Vrykul Throwing Axe</name>
+<id>36981</id>
+<slot>Ranged</slot>
+</item>

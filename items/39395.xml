@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53653</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_110</iconpath>
+<stats>
+<armor>1821</armor>
+<stamina>111</stamina>
+<strength>73</strength>
+<dodgerating>39</dodgerating>
+<parryrating>44</parryrating>
+<defenserating>40</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<defenserating>8</defenserating>
+</socketbonus>
+<name>Thane's Tainted Greathelm</name>
+<id>39395</id>
+<slot>Head</slot>
+</item>

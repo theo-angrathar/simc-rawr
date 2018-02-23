@@ -1,0 +1,25 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64798</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_63</iconpath>
+<stats>
+<armor>1550</armor>
+<stamina>155</stamina>
+<strength>139</strength>
+<armorpenetrationrating>78</armorpenetrationrating>
+<critrating>85</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Coldwraith Links</name>
+<id>50620</id>
+<slot>Waist</slot>
+</item>

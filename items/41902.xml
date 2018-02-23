@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55752</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_12</iconpath>
+<stats>
+<armor>212</armor>
+<stamina>85</stamina>
+<intellect>37</intellect>
+<spellpower>78</spellpower>
+<critrating>42</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Deadly Gladiator's Treads of Dominance</name>
+<id>41902</id>
+<slot>Feet</slot>
+</item>

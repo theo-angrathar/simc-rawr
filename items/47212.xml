@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60539</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_72</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>99</stamina>
+<strength>42</strength>
+<dodgerating>41</dodgerating>
+<defenserating>38</defenserating>
+<expertiserating>35</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<defenserating>4</defenserating>
+</socketbonus>
+<name>Mercy's Hold</name>
+<id>47212</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_17</iconpath>
+<stats>
+<armor>192</armor>
+<stamina>52</stamina>
+<intellect>53</intellect>
+<spellpower>78</spellpower>
+<critrating>56</critrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Garb of Faith</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Valorous Handwraps of Faith</name>
+<id>40454</id>
+<slot>Hands</slot>
+</item>

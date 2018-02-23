@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_39</iconpath>
+<stats>
+<attackpower>20</attackpower>
+<resilience>10</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Empowered Ametrine</name>
+<id>40158</id>
+<slot>Orange</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64648</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>68</stamina>
+<strength>68</strength>
+<critrating>42</critrating>
+<hitrating>35</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Tapestry of the Frozen Throne</name>
+<id>49842</id>
+<slot>Back</slot>
+</item>

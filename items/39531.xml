@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_15</iconpath>
+<stats>
+<armor>458</armor>
+<stamina>67</stamina>
+<intellect>69</intellect>
+<spirit>48</spirit>
+<spellpower>85</spellpower>
+<mp5>18</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Dreamwalker Regalia</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Heroes' Dreamwalker Headpiece</name>
+<id>39531</id>
+<slot>Head</slot>
+</item>

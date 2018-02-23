@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>31906</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_42</iconpath>
+<stats>
+<stamina>68</stamina>
+<strength>68</strength>
+<critrating>42</critrating>
+<hasterating>35</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Purloined Wedding Ring</name>
+<id>49812</id>
+<slot>Finger</slot>
+</item>

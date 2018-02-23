@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52324</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_07</iconpath>
+<stats>
+<armor>163</armor>
+<stamina>43</stamina>
+<intellect>44</intellect>
+<spirit>57</spirit>
+<spellpower>68</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sash of Phantasmal Images</name>
+<id>37289</id>
+<slot>Waist</slot>
+</item>

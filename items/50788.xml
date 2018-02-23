@@ -1,0 +1,25 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64771</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_12</iconpath>
+<stats>
+<armor>1736</armor>
+<stamina>122</stamina>
+<strength>106</strength>
+<armorpenetrationrating>73</armorpenetrationrating>
+<expertiserating>52</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Bone Drake's Enameled Boots</name>
+<id>50788</id>
+<slot>Feet</slot>
+</item>

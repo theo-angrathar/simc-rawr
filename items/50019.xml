@@ -1,0 +1,24 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64307</displayid>
+<displayslot>16</displayslot>
+<iconpath>item_icecrowncape</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>103</stamina>
+<strength>95</strength>
+<critrating>60</critrating>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Winding Sheet</name>
+<id>50019</id>
+<slot>Back</slot>
+</item>

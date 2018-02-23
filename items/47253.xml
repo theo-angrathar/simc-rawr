@@ -1,0 +1,21 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62143</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_30b</iconpath>
+<stats>
+<armor>1082</armor>
+<stamina>86</stamina>
+<strength>86</strength>
+<critrating>50</critrating>
+<expertiserating>50</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Boneshatter Vambraces</name>
+<id>47253</id>
+<slot>Wrist</slot>
+</item>

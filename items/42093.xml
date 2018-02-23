@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51140</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_11</iconpath>
+<stats>
+<armor>245</armor>
+<stamina>60</stamina>
+<intellect>50</intellect>
+<spirit>68</spirit>
+<spellpower>61</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Frostmoon Pants</name>
+<id>42093</id>
+<slot>Legs</slot>
+</item>

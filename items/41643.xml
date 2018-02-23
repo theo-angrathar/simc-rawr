@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55867</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_49</iconpath>
+<stats>
+<armor>341</armor>
+<agility>50</agility>
+<stamina>66</stamina>
+<attackpower>58</attackpower>
+<critrating>22</critrating>
+<resilience>30</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Vestments</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Savage Gladiator's Leather Gloves</name>
+<id>41643</id>
+<slot>Hands</slot>
+</item>

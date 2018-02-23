@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64846</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_14</iconpath>
+<stats>
+<armor>1815</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<critrating>80</critrating>
+<hasterating>64</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Protectors of Life</name>
+<id>49905</id>
+<slot>Feet</slot>
+</item>

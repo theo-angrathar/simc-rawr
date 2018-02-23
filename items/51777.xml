@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64255</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_35</iconpath>
+<stats>
+<armor>296</armor>
+<stamina>97</stamina>
+<intellect>101</intellect>
+<spirit>80</spirit>
+<spellpower>149</spellpower>
+<critrating>96</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Leggings of the Refracted Mind</name>
+<id>51777</id>
+<slot>Legs</slot>
+</item>

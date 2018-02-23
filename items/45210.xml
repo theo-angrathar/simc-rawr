@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>59582</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_rifle_34</iconpath>
+<stats>
+<agility>32</agility>
+<stamina>31</stamina>
+<attackpower>28</attackpower>
+<hasterating>22</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Gun</type>
+<faction>Horde</faction>
+<mindamage>300</mindamage>
+<maxdamage>451</maxdamage>
+<speed>2.9</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sen'jin Beakblade Longrifle</name>
+<id>45210</id>
+<slot>Ranged</slot>
+</item>

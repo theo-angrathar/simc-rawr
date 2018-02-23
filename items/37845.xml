@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52615</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_36</iconpath>
+<stats>
+<armor>682</armor>
+<agility>39</agility>
+<stamina>54</stamina>
+<attackpower>116</attackpower>
+<intellect>33</intellect>
+<hasterating>42</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cord of Swirling Winds</name>
+<id>37845</id>
+<slot>Waist</slot>
+</item>

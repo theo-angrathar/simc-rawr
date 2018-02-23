@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64848</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_32</iconpath>
+<stats>
+<armor>2310</armor>
+<stamina>185</stamina>
+<strength>161</strength>
+<armorpenetrationrating>92</armorpenetrationrating>
+<critrating>100</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Legplates of Painful Death</name>
+<id>49903</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54698</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_06</iconpath>
+<stats>
+<armor>192</armor>
+<stamina>57</stamina>
+<intellect>57</intellect>
+<spirit>53</spirit>
+<spellpower>88</spellpower>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Gloves of Token Respect</name>
+<id>39733</id>
+<slot>Hands</slot>
+</item>

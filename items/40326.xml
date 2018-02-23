@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54789</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_16</iconpath>
+<stats>
+<armor>212</armor>
+<stamina>51</stamina>
+<intellect>50</intellect>
+<spirit>66</spirit>
+<spellpower>78</spellpower>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Boots of Forlorn Wishes</name>
+<id>40326</id>
+<slot>Feet</slot>
+</item>

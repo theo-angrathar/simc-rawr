@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64823</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_84</iconpath>
+<stats>
+<armor>923</armor>
+<agility>112</agility>
+<stamina>95</stamina>
+<attackpower>129</attackpower>
+<intellect>63</intellect>
+<critrating>80</critrating>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Anub'ar Stalker's Gloves</name>
+<id>50188</id>
+<slot>Hands</slot>
+</item>

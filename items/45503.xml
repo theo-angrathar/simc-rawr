@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>31616</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_35</iconpath>
+<stats>
+<agility>62</agility>
+<stamina>63</stamina>
+<attackpower>92</attackpower>
+<critrating>43</critrating>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Metallic Loop of the Sufferer</name>
+<id>45503</id>
+<slot>Finger</slot>
+</item>

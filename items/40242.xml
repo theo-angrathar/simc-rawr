@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54781</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_05</iconpath>
+<stats>
+<armor>804</armor>
+<agility>66</agility>
+<stamina>58</stamina>
+<attackpower>110</attackpower>
+<armorpenetrationrating>31</armorpenetrationrating>
+<intellect>38</intellect>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Grotesque Handgrips</name>
+<id>40242</id>
+<slot>Hands</slot>
+</item>

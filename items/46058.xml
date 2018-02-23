@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate_25</iconpath>
+<stats>
+<armor>2298</armor>
+<stamina>150</stamina>
+<strength>85</strength>
+<hitrating>51</hitrating>
+<resilience>66</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Titan-Forged Breastplate of Triumph</name>
+<id>46058</id>
+<slot>Chest</slot>
+</item>

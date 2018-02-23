@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_23</iconpath>
+<stats>
+<armor>2102</armor>
+<stamina>174</stamina>
+<strength>150</strength>
+<critrating>86</critrating>
+<hitrating>94</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Wrynn's Battlegear</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Wrynn's Helmet of Triumph</name>
+<id>48383</id>
+<slot>Head</slot>
+</item>

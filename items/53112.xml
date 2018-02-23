@@ -1,0 +1,24 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>64779</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_42</iconpath>
+<stats>
+<armor>1132</armor>
+<stamina>97</stamina>
+<strength>89</strength>
+<armorpenetrationrating>49</armorpenetrationrating>
+<critrating>57</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Bracers of the Heir</name>
+<id>53112</id>
+<slot>Wrist</slot>
+</item>

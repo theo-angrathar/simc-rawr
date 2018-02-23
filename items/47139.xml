@@ -1,0 +1,21 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>39162</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_36</iconpath>
+<stats>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spellpower>89</spellpower>
+<critrating>58</critrating>
+<hasterating>38</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wail of the Val'kyr</name>
+<id>47139</id>
+<slot>Neck</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_107</iconpath>
+<stats>
+<armor>1086</armor>
+<agility>68</agility>
+<stamina>90</stamina>
+<attackpower>211</attackpower>
+<intellect>60</intellect>
+<critrating>76</critrating>
+<hitrating>60</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Battlegear</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Nobundo's Shoulderguards of Triumph</name>
+<id>48351</id>
+<slot>Shoulders</slot>
+</item>

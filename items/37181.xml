@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50971</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_72</iconpath>
+<stats>
+<agility>24</agility>
+<stamina>28</stamina>
+<attackpower>66</attackpower>
+<hitrating>32</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>187</mindamage>
+<maxdamage>281</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Dagger of Betrayal</name>
+<id>37181</id>
+<slot>OneHand</slot>
+</item>

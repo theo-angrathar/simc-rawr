@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>980</armor>
+<stamina>75</stamina>
+<strength>50</strength>
+<dodgerating>19</dodgerating>
+<parryrating>24</parryrating>
+<defenserating>32</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Minion Bracers</name>
+<id>39467</id>
+<slot>Wrist</slot>
+</item>

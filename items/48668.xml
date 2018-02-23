@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61400</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>173</armor>
+<agility>85</agility>
+<stamina>85</stamina>
+<attackpower>98</attackpower>
+<armorpenetrationrating>49</armorpenetrationrating>
+<critrating>57</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Cloak of Serrated Blades</name>
+<id>48668</id>
+<slot>Back</slot>
+</item>

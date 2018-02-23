@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_86</iconpath>
+<stats>
+<armor>1579</armor>
+<stamina>122</stamina>
+<strength>114</strength>
+<critrating>71</critrating>
+<hitrating>63</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Ymirjar Lord's Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Ymirjar Lord's Gauntlets</name>
+<id>50079</id>
+<slot>Hands</slot>
+</item>

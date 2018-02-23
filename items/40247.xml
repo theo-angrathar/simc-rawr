@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54769</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_133</iconpath>
+<stats>
+<armor>250</armor>
+<stamina>108</stamina>
+<intellect>77</intellect>
+<spirit>58</spirit>
+<spellpower>118</spellpower>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cowl of Innocent Delight</name>
+<id>40247</id>
+<slot>Head</slot>
+</item>

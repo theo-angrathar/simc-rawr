@@ -1,0 +1,24 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_36</iconpath>
+<stats>
+<stamina>114</stamina>
+<attackpower>135</attackpower>
+<armorpenetrationrating>42</armorpenetrationrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Titan-Forged Pendant of Victory</name>
+<id>51569</id>
+<slot>Neck</slot>
+</item>

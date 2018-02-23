@@ -1,0 +1,20 @@
+<item>
+<itemlevel>1</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_07</iconpath>
+<stats>
+<agility>68</agility>
+<stamina>68</stamina>
+<attackpower>137</attackpower>
+<intellect>45</intellect>
+</stats>
+<quality>Heirloom</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Champion's Deathdealer Breastplate</name>
+<id>48677</id>
+<slot>Chest</slot>
+</item>

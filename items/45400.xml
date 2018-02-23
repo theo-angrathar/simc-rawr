@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>438</armor>
+<agility>79</agility>
+<stamina>69</stamina>
+<attackpower>114</attackpower>
+<critrating>36</critrating>
+<hitrating>52</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Terrorblade Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Valorous Terrorblade Pauldrons</name>
+<id>45400</id>
+<slot>Shoulders</slot>
+</item>

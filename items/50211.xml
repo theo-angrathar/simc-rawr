@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>43085</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_39</iconpath>
+<stats>
+<stamina>59</stamina>
+<intellect>48</intellect>
+<spellpower>78</spellpower>
+<critrating>45</critrating>
+<hasterating>45</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Arcane Loops of Anger</name>
+<id>50211</id>
+<slot>Neck</slot>
+</item>

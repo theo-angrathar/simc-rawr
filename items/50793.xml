@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64675</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_shortblade_103</iconpath>
+<stats>
+<stamina>59</stamina>
+<intellect>59</intellect>
+<spellpower>657</spellpower>
+<hasterating>46</hasterating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>102</mindamage>
+<maxdamage>325</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<uniqueid>50793</uniqueid>
+<uniqueid>51910</uniqueid>
+<name>Midnight Sun</name>
+<id>50793</id>
+<slot>MainHand</slot>
+</item>

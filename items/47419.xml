@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>59003</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_52</iconpath>
+<stats>
+<armor>195</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spirit>76</spirit>
+<spellpower>114</spellpower>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Belt of the Tenebrous Mist</name>
+<id>47419</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_17</iconpath>
+<stats>
+<armor>197</armor>
+<stamina>74</stamina>
+<intellect>62</intellect>
+<spirit>27</spirit>
+<spellpower>99</spellpower>
+<hitrating>65</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Deathbringer Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Conqueror's Deathbringer Gloves</name>
+<id>46135</id>
+<slot>Hands</slot>
+</item>

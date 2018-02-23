@@ -1,0 +1,16 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_21</iconpath>
+<stats>
+<critrating>12</critrating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Smooth Sun Crystal</name>
+<id>39914</id>
+<slot>Yellow</slot>
+</item>

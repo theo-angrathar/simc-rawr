@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_54</iconpath>
+<stats>
+<armor>1451</armor>
+<stamina>119</stamina>
+<strength>79</strength>
+<parryrating>41</parryrating>
+<blockrating>25</blockrating>
+<defenserating>51</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Adamant Handguards</name>
+<id>46340</id>
+<slot>Hands</slot>
+</item>

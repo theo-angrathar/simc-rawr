@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61104</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_07</iconpath>
+<stats>
+<armor>995</armor>
+<agility>98</agility>
+<stamina>90</stamina>
+<attackpower>135</attackpower>
+<armorpenetrationrating>68</armorpenetrationrating>
+<intellect>60</intellect>
+<hitrating>60</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Greaves of Ruthless Judgment</name>
+<id>47457</id>
+<slot>Feet</slot>
+</item>

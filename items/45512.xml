@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59123</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_53</iconpath>
+<stats>
+<armor>369</armor>
+<stamina>64</stamina>
+<intellect>65</intellect>
+<spirit>64</spirit>
+<spellpower>90</spellpower>
+<hasterating>34</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Grips of the Unbroken</name>
+<id>45512</id>
+<slot>Hands</slot>
+</item>

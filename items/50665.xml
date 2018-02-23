@@ -1,0 +1,26 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64489</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather_8</iconpath>
+<stats>
+<armor>477</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spirit>74</spirit>
+<spellpower>140</spellpower>
+<critrating>90</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Boots of Unnatural Growth</name>
+<id>50665</id>
+<slot>Feet</slot>
+</item>

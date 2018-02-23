@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56719</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_07</iconpath>
+<stats>
+<armor>362</armor>
+<stamina>51</stamina>
+<intellect>34</intellect>
+<spirit>34</spirit>
+<spellpower>60</spellpower>
+<resilience>34</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Overcaster Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Overcast Boots</name>
+<id>43273</id>
+<slot>Feet</slot>
+</item>

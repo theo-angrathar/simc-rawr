@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_41</iconpath>
+<stats>
+<intellect>10</intellect>
+<spirit>10</spirit>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Seer's Eye of Zul</name>
+<id>40170</id>
+<slot>Green</slot>
+</item>

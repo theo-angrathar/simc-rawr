@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_plate_09</iconpath>
+<stats>
+<armor>903</armor>
+<stamina>96</stamina>
+<intellect>42</intellect>
+<spellpower>90</spellpower>
+<resilience>56</resilience>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Furious Gladiator's Sabatons of Salvation</name>
+<id>41055</id>
+<slot>Feet</slot>
+</item>

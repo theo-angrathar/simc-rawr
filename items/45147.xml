@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>58909</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_89</iconpath>
+<stats>
+<stamina>36</stamina>
+<intellect>48</intellect>
+<spellpower>550</spellpower>
+<hasterating>49</hasterating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>88</mindamage>
+<maxdamage>283</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Guiding Star</name>
+<id>45147</id>
+<slot>MainHand</slot>
+</item>

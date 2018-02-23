@@ -1,0 +1,28 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_35</iconpath>
+<stats>
+<armor>309</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spirit>108</spirit>
+<spellpower>171</spellpower>
+<hasterating>92</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Crimson Acolyte's Raiment</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Sanctified Crimson Acolyte Leggings</name>
+<id>51177</id>
+<slot>Legs</slot>
+</item>

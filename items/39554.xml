@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>564</armor>
+<agility>74</agility>
+<stamina>90</stamina>
+<attackpower>132</attackpower>
+<critrating>54</critrating>
+<expertiserating>35</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreamwalker Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Heroes' Dreamwalker Raiments</name>
+<id>39554</id>
+<slot>Chest</slot>
+</item>

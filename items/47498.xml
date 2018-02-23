@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_74</iconpath>
+<stats>
+<armor>365</armor>
+<stamina>51</stamina>
+<intellect>63</intellect>
+<spellpower>92</spellpower>
+<critrating>50</critrating>
+<hasterating>54</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of Dismal Fortune</name>
+<id>47498</id>
+<slot>Hands</slot>
+</item>

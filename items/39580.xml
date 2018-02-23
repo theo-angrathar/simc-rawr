@@ -1,0 +1,29 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>1097</armor>
+<agility>60</agility>
+<stamina>60</stamina>
+<attackpower>148</attackpower>
+<armorpenetrationrating>31</armorpenetrationrating>
+<intellect>59</intellect>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Cryptstalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Heroes' Cryptstalker Legguards</name>
+<id>39580</id>
+<slot>Legs</slot>
+</item>

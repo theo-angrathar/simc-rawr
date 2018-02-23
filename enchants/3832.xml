@@ -1,0 +1,12 @@
+<enchant>
+<id>3832</id>
+<name>Powerful Stats</name>
+<slot>Chest</slot>
+<stats>
+<agility>10</agility>
+<stamina>10</stamina>
+<strength>10</strength>
+<intellect>10</intellect>
+<spirit>10</spirit>
+</stats>
+</enchant>

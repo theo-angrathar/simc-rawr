@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53126</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_71</iconpath>
+<stats>
+<armor>290</armor>
+<stamina>58</stamina>
+<intellect>77</intellect>
+<spellpower>91</spellpower>
+<critrating>60</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Arcane Flame Altar-Garb</name>
+<id>37641</id>
+<slot>Chest</slot>
+</item>

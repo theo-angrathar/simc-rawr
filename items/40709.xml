@@ -1,0 +1,18 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_relics_totemoflife</iconpath>
+<stats>
+<totemchbasecost>78</totemchbasecost>
+</stats>
+<quality>Epic</quality>
+<type>Totem</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Totem of Forest Growth</name>
+<id>40709</id>
+<slot>Ranged</slot>
+</item>

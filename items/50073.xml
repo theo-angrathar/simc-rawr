@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64427</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_149</iconpath>
+<stats>
+<armor>540</armor>
+<agility>138</agility>
+<stamina>162</stamina>
+<attackpower>216</attackpower>
+<critrating>108</critrating>
+<hitrating>84</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Geistlord's Punishment Sack</name>
+<id>50073</id>
+<slot>Head</slot>
+</item>

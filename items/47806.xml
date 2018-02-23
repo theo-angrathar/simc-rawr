@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_63</iconpath>
+<stats>
+<armor>331</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spirit>82</spirit>
+<spellpower>140</spellpower>
+<hitrating>82</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Kel'Thuzad's Regalia</setname>
+<type>Cloth</type>
+<faction>Horde</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Gul'dan's Robe of Triumph</name>
+<id>47806</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61658</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_103</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>45</intellect>
+<spellpower>621</spellpower>
+<critrating>50</critrating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Horde</faction>
+<mindamage>97</mindamage>
+<maxdamage>311</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Mace of the Earthborn Chieftain</name>
+<id>48039</id>
+<slot>MainHand</slot>
+</item>

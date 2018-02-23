@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53660</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_16</iconpath>
+<stats>
+<armor>216</armor>
+<stamina>89</stamina>
+<intellect>52</intellect>
+<spirit>62</spirit>
+<spellpower>99</spellpower>
+<hasterating>46</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Arcanic Tramplers</name>
+<id>40558</id>
+<slot>Feet</slot>
+</item>

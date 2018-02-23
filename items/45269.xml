@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59213</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_31a</iconpath>
+<stats>
+<armor>1027</armor>
+<stamina>46</stamina>
+<intellect>49</intellect>
+<spellpower>64</spellpower>
+<hasterating>28</hasterating>
+<mp5>18</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Unfaltering Armguards</name>
+<id>45269</id>
+<slot>Wrist</slot>
+</item>

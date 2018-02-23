@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56932</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_25</iconpath>
+<stats>
+<armor>1061</armor>
+<stamina>88</stamina>
+<intellect>39</intellect>
+<spellpower>73</spellpower>
+<resilience>52</resilience>
+<mp5>18</mp5>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Wartide</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Savage Gladiator's Ringmail Leggings</name>
+<id>41023</id>
+<slot>Legs</slot>
+</item>

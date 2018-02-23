@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_shortblade_106</iconpath>
+<stats>
+<stamina>104</stamina>
+<attackpower>123</attackpower>
+<critrating>38</critrating>
+<resilience>46</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>222</mindamage>
+<maxdamage>413</maxdamage>
+<speed>1.4</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Wrathful Gladiator's Shiv</name>
+<id>51441</id>
+<slot>OffHand</slot>
+</item>

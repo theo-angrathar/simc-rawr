@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>159</armor>
+<stamina>76</stamina>
+<strength>76</strength>
+<critrating>45</critrating>
+<expertiserating>45</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The Frost Lord's Battle Shroud</name>
+<id>54803</id>
+<slot>Back</slot>
+</item>

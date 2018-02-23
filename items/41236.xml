@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_49</iconpath>
+<stats>
+<armor>778</armor>
+<agility>67</agility>
+<stamina>115</stamina>
+<attackpower>119</attackpower>
+<intellect>51</intellect>
+<critrating>59</critrating>
+<resilience>67</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Relentless Gladiator's Waistguard of Triumph</name>
+<id>41236</id>
+<slot>Waist</slot>
+</item>

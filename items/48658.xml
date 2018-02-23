@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_65</iconpath>
+<stats>
+<armor>1545</armor>
+<stamina>139</stamina>
+<strength>101</strength>
+<dodgerating>45</dodgerating>
+<parryrating>53</parryrating>
+<defenserating>53</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Plate</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Liadrin's Handguards of Triumph</name>
+<id>48658</id>
+<slot>Hands</slot>
+</item>

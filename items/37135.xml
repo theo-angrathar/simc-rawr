@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52500</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>1760</armor>
+<stamina>93</stamina>
+<strength>61</strength>
+<dodgerating>52</dodgerating>
+<defenserating>36</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<defenserating>8</defenserating>
+</socketbonus>
+<name>Arcane-Shielded Helm</name>
+<id>37135</id>
+<slot>Head</slot>
+</item>

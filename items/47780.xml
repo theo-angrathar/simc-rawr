@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_33</iconpath>
+<stats>
+<armor>290</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>140</spellpower>
+<critrating>90</critrating>
+<hasterating>74</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Kel'Thuzad's Regalia</setname>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Kel'Thuzad's Leggings of Triumph</name>
+<id>47780</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64458</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_35</iconpath>
+<stats>
+<armor>557</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spellpower>149</spellpower>
+<critrating>96</critrating>
+<hitrating>80</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Regalia</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Lasherweave Trousers</name>
+<id>50820</id>
+<slot>Legs</slot>
+</item>

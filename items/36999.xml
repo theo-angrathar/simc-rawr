@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52342</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_08</iconpath>
+<stats>
+<armor>805</armor>
+<agility>45</agility>
+<stamina>34</stamina>
+<attackpower>92</attackpower>
+<intellect>24</intellect>
+<critrating>23</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Boots of the Terrestrial Guardian</name>
+<id>36999</id>
+<slot>Feet</slot>
+</item>

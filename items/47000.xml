@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61930</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_14</iconpath>
+<stats>
+<armor>623</armor>
+<agility>120</agility>
+<stamina>136</stamina>
+<attackpower>149</attackpower>
+<critrating>90</critrating>
+<hasterating>90</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Cuirass of Calamitous Fate</name>
+<id>47000</id>
+<slot>Chest</slot>
+</item>

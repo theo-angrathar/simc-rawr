@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61884</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_66</iconpath>
+<stats>
+<armor>7890</armor>
+<stamina>94</stamina>
+<strength>42</strength>
+<hitrating>28</hitrating>
+<blockvalue>221</blockvalue>
+<defenserating>63</defenserating>
+<expertiserating>28</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Northern Barrier</name>
+<id>45450</id>
+<slot>OffHand</slot>
+</item>

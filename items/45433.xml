@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_29</iconpath>
+<stats>
+<armor>1741</armor>
+<stamina>90</stamina>
+<strength>83</strength>
+<critrating>50</critrating>
+<hitrating>43</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Siegebreaker Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Valorous Siegebreaker Shoulderplates</name>
+<id>45433</id>
+<slot>Shoulders</slot>
+</item>

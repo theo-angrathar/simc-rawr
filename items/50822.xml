@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64448</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_83</iconpath>
+<stats>
+<armor>398</armor>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spellpower>116</spellpower>
+<critrating>71</critrating>
+<hitrating>63</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Regalia</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Lasherweave Gloves</name>
+<id>50822</id>
+<slot>Hands</slot>
+</item>

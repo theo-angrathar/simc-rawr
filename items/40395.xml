@@ -1,0 +1,24 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>57250</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_82</iconpath>
+<stats>
+<stamina>36</stamina>
+<intellect>49</intellect>
+<spellpower>520</spellpower>
+<hasterating>48</hasterating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>85</mindamage>
+<maxdamage>271</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Torch of Holy Fire</name>
+<id>40395</id>
+<slot>MainHand</slot>
+</item>

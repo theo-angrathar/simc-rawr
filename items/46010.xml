@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>34336</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_ahnqiraj_02</iconpath>
+<stats>
+<stamina>67</stamina>
+<strength>68</strength>
+<critrating>40</critrating>
+<hitrating>40</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Darkstone Ring</name>
+<id>46010</id>
+<slot>Finger</slot>
+</item>

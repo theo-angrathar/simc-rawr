@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61182</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_36b</iconpath>
+<stats>
+<armor>272</armor>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spirit>50</spirit>
+<spellpower>89</spellpower>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bindings of the Autumn Willow</name>
+<id>47277</id>
+<slot>Wrist</slot>
+</item>

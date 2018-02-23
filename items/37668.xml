@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51632</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>980</armor>
+<stamina>73</stamina>
+<strength>50</strength>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bands of the Stoneforge</name>
+<id>37668</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54874</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_16</iconpath>
+<stats>
+<armor>192</armor>
+<stamina>57</stamina>
+<intellect>57</intellect>
+<spellpower>88</spellpower>
+<critrating>49</critrating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wraps of the Persecuted</name>
+<id>40303</id>
+<slot>Hands</slot>
+</item>

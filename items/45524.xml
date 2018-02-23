@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61885</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_03</iconpath>
+<stats>
+<armor>1314</armor>
+<agility>68</agility>
+<stamina>88</stamina>
+<attackpower>196</attackpower>
+<armorpenetrationrating>67</armorpenetrationrating>
+<intellect>59</intellect>
+<hitrating>60</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Chestguard of Insidious Intent</name>
+<id>45524</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52334</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_10</iconpath>
+<stats>
+<armor>254</armor>
+<stamina>66</stamina>
+<intellect>71</intellect>
+<spellpower>82</spellpower>
+<critrating>59</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Sorrowgrave's Breeches</name>
+<id>37369</id>
+<slot>Legs</slot>
+</item>

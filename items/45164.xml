@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59660</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_95</iconpath>
+<stats>
+<armor>1067</armor>
+<agility>67</agility>
+<stamina>88</stamina>
+<attackpower>194</attackpower>
+<intellect>60</intellect>
+<critrating>60</critrating>
+<hasterating>51</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Helm of the Furnace Master</name>
+<id>45164</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59716</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate20</iconpath>
+<stats>
+<armor>2348</armor>
+<stamina>159</stamina>
+<strength>105</strength>
+<blockrating>51</blockrating>
+<blockvalue>153</blockvalue>
+<defenserating>60</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Unbreakable Chestguard</name>
+<id>45334</id>
+<slot>Chest</slot>
+</item>

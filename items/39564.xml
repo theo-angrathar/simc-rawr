@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>494</armor>
+<agility>81</agility>
+<stamina>78</stamina>
+<attackpower>138</attackpower>
+<hitrating>37</hitrating>
+<hasterating>51</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Bonescythe Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Heroes' Bonescythe Legplates</name>
+<id>39564</id>
+<slot>Legs</slot>
+</item>

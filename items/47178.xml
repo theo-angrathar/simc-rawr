@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_mail_03</iconpath>
+<stats>
+<armor>1254</armor>
+<stamina>83</stamina>
+<intellect>46</intellect>
+<spellpower>105</spellpower>
+<critrating>52</critrating>
+<mp5>26</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Carapace of Grim Visions</name>
+<id>47178</id>
+<slot>Chest</slot>
+</item>

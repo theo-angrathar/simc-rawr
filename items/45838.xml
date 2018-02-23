@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_22</iconpath>
+<stats>
+<armor>369</armor>
+<agility>85</agility>
+<stamina>84</stamina>
+<attackpower>120</attackpower>
+<critrating>49</critrating>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of the Blind Stalker</name>
+<id>45838</id>
+<slot>Hands</slot>
+</item>

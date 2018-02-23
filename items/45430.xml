@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1451</armor>
+<stamina>90</stamina>
+<strength>83</strength>
+<hitrating>35</hitrating>
+<expertiserating>56</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Siegebreaker Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Valorous Siegebreaker Gauntlets</name>
+<id>45430</id>
+<slot>Hands</slot>
+</item>

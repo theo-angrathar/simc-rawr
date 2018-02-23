@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64176</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_82</iconpath>
+<stats>
+<stamina>61</stamina>
+<intellect>61</intellect>
+<spellpower>85</spellpower>
+<hasterating>45</hasterating>
+<mp5>27</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<uniqueid>50986</uniqueid>
+<uniqueid>51884</uniqueid>
+<name>Signet of Putrefaction</name>
+<id>50986</id>
+<slot>Finger</slot>
+</item>

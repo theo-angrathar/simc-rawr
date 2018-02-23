@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>985</armor>
+<agility>65</agility>
+<stamina>50</stamina>
+<attackpower>138</attackpower>
+<intellect>44</intellect>
+<hitrating>43</hitrating>
+<hasterating>51</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgestalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Conqueror's Scourgestalker Spaulders</name>
+<id>46145</id>
+<slot>Shoulders</slot>
+</item>

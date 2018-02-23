@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64813</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_121</iconpath>
+<stats>
+<armor>1777</armor>
+<stamina>102</stamina>
+<strength>102</strength>
+<critrating>54</critrating>
+<hasterating>63</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pauldrons of the Souleater</name>
+<id>50208</id>
+<slot>Shoulders</slot>
+</item>

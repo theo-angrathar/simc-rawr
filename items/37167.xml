@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52316</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_09</iconpath>
+<stats>
+<armor>833</armor>
+<agility>42</agility>
+<stamina>38</stamina>
+<attackpower>100</attackpower>
+<intellect>25</intellect>
+<hasterating>30</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Dragon Slayer's Sabatons</name>
+<id>37167</id>
+<slot>Feet</slot>
+</item>

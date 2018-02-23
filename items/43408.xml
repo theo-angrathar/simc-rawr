@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>39126</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_55</iconpath>
+<stats>
+<stamina>37</stamina>
+<intellect>31</intellect>
+<spellpower>50</spellpower>
+<hasterating>43</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Solitaire of Reflecting Beams</name>
+<id>43408</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53822</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>131</armor>
+<stamina>37</stamina>
+<intellect>38</intellect>
+<spirit>32</spirit>
+<spellpower>59</spellpower>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cuffs of Winged Levitation</name>
+<id>37361</id>
+<slot>Wrist</slot>
+</item>

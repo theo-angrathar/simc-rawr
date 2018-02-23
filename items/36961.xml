@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>31498</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_40</iconpath>
+<stats>
+<stamina>58</stamina>
+<strength>26</strength>
+<hitrating>24</hitrating>
+<defenserating>38</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Dragonflight Great-Ring</name>
+<id>36961</id>
+<slot>Finger</slot>
+</item>

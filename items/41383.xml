@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53030</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_87</iconpath>
+<stats>
+<stamina>59</stamina>
+<attackpower>140</attackpower>
+<expertiserating>29</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>251</mindamage>
+<maxdamage>467</maxdamage>
+<speed>2.5</speed>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Titansteel Bonecrusher</name>
+<id>41383</id>
+<slot>MainHand</slot>
+</item>

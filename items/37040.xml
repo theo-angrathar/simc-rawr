@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53002</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>916</armor>
+<stamina>58</stamina>
+<strength>38</strength>
+<dodgerating>24</dodgerating>
+<defenserating>27</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Svala's Bloodied Shackles</name>
+<id>37040</id>
+<slot>Wrist</slot>
+</item>

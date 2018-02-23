@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1308</armor>
+<stamina>76</stamina>
+<strength>52</strength>
+<hitrating>50</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of The Culling</name>
+<id>44399</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56702</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_09</iconpath>
+<stats>
+<armor>230</armor>
+<agility>39</agility>
+<stamina>38</stamina>
+<attackpower>50</attackpower>
+<critrating>26</critrating>
+<resilience>26</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Eviscerator's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Eviscerator's Bindings</name>
+<id>43435</id>
+<slot>Wrist</slot>
+</item>

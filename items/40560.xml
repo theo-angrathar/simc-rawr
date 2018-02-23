@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53664</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_24</iconpath>
+<stats>
+<armor>275</armor>
+<stamina>73</stamina>
+<intellect>92</intellect>
+<spellpower>132</spellpower>
+<hitrating>82</hitrating>
+<hasterating>66</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leggings of the Wanton Spellcaster</name>
+<id>40560</id>
+<slot>Legs</slot>
+</item>

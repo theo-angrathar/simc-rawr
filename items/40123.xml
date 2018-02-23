@@ -1,0 +1,16 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_38</iconpath>
+<stats>
+<intellect>20</intellect>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Brilliant King's Amber</name>
+<id>40123</id>
+<slot>Yellow</slot>
+</item>

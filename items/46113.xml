@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1467</armor>
+<stamina>102</stamina>
+<strength>90</strength>
+<critrating>42</critrating>
+<hitrating>56</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Darkruned Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Conqueror's Darkruned Gauntlets</name>
+<id>46113</id>
+<slot>Hands</slot>
+</item>

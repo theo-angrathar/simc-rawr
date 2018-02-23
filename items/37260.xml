@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50998</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_79</iconpath>
+<stats>
+<stamina>49</stamina>
+<strength>24</strength>
+<defenserating>33</defenserating>
+<expertiserating>19</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>173</mindamage>
+<maxdamage>322</maxdamage>
+<speed>1.9</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cloudstrider's Waraxe</name>
+<id>37260</id>
+<slot>OneHand</slot>
+</item>

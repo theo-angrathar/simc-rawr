@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53940</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>941</armor>
+<agility>44</agility>
+<stamina>66</stamina>
+<attackpower>132</attackpower>
+<intellect>33</intellect>
+<critrating>36</critrating>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pauldrons of Havoc</name>
+<id>39397</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55050</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_13</iconpath>
+<stats>
+<armor>723</armor>
+<stamina>129</stamina>
+<frostresistance>86</frostresistance>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Icy Scale Belt</name>
+<id>43594</id>
+<slot>Waist</slot>
+</item>

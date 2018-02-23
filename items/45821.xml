@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_47</iconpath>
+<stats>
+<stamina>94</stamina>
+<strength>42</strength>
+<hitrating>42</hitrating>
+<dodgerating>43</dodgerating>
+<defenserating>41</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shard of the Crystal Forest</name>
+<id>45821</id>
+<slot>Neck</slot>
+</item>

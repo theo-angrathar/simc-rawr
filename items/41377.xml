@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_icediamond_02</iconpath>
+<stats>
+<stamina>32</stamina>
+<spelldamagetakenmultiplier>-0.02</spelldamagetakenmultiplier>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Effulgent Skyflare Diamond</name>
+<id>41377</id>
+<slot>Meta</slot>
+</item>

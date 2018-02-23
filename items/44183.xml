@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53132</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_31</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>99</stamina>
+<strength>67</strength>
+<dodgerating>38</dodgerating>
+<defenserating>48</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Fireproven Gauntlets</name>
+<id>44183</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_mace_102</iconpath>
+<stats>
+<stamina>46</stamina>
+<intellect>46</intellect>
+<spellpower>487</spellpower>
+<critrating>31</critrating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>80</mindamage>
+<maxdamage>258</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mariel's Sorrow</name>
+<id>47509</id>
+<slot>MainHand</slot>
+</item>

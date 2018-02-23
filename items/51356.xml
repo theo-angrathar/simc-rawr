@@ -1,0 +1,22 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>136</stamina>
+<attackpower>181</attackpower>
+<hitrating>60</hitrating>
+<resilience>60</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Cloak of Victory</name>
+<id>51356</id>
+<slot>Back</slot>
+</item>

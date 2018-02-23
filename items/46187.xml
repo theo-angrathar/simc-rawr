@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>443</armor>
+<stamina>63</stamina>
+<intellect>64</intellect>
+<spirit>57</spirit>
+<spellpower>90</spellpower>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Nightsong Regalia</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Conqueror's Nightsong Spaulders</name>
+<id>46187</id>
+<slot>Shoulders</slot>
+</item>

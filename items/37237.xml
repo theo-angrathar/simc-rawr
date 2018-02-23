@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52995</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_110</iconpath>
+<stats>
+<armor>1760</armor>
+<stamina>93</stamina>
+<strength>63</strength>
+<critrating>60</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Chitin Shell Greathelm</name>
+<id>37237</id>
+<slot>Head</slot>
+</item>

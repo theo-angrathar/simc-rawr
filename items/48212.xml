@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_77b</iconpath>
+<stats>
+<armor>389</armor>
+<agility>93</agility>
+<stamina>101</stamina>
+<attackpower>135</attackpower>
+<critrating>67</critrating>
+<hitrating>59</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Battlegear</setname>
+<type>Leather</type>
+<faction>Alliance</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Malfurion's Handgrips of Triumph</name>
+<id>48212</id>
+<slot>Hands</slot>
+</item>

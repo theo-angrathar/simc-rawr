@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_cloth_05</iconpath>
+<stats>
+<armor>428</armor>
+<agility>93</agility>
+<stamina>115</stamina>
+<attackpower>102</attackpower>
+<critrating>59</critrating>
+<resilience>67</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Relentless Gladiator's Boots of Triumph</name>
+<id>41837</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61717</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_75</iconpath>
+<stats>
+<armor>331</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>131</spellpower>
+<critrating>66</critrating>
+<hasterating>90</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Merlin's Robe</name>
+<id>47603</id>
+<slot>Chest</slot>
+</item>

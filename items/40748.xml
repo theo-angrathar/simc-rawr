@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_08</iconpath>
+<stats>
+<armor>398</armor>
+<agility>37</agility>
+<stamina>85</stamina>
+<attackpower>150</attackpower>
+<critrating>43</critrating>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Boots of Captain Ellis</name>
+<id>40748</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_13</iconpath>
+<stats>
+<stamina>11</stamina>
+<resilience>7</resilience>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Perfect Steady Dark Jade</name>
+<id>41476</id>
+<slot>Green</slot>
+</item>

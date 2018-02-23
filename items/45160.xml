@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_36</iconpath>
+<stats>
+<armor>1218</armor>
+<stamina>75</stamina>
+<strength>50</strength>
+<expertiserating>57</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<expertiserating>4</expertiserating>
+</socketbonus>
+<name>Girdle of Valorous Defeat</name>
+<id>45160</id>
+<slot>Waist</slot>
+</item>

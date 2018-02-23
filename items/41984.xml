@@ -1,0 +1,25 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53250</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_29</iconpath>
+<stats>
+<armor>228</armor>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spellpower>53</spellpower>
+<hitrating>44</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<intellect>8</intellect>
+</socketbonus>
+<name>Hat of Wintry Doom</name>
+<id>41984</id>
+<slot>Head</slot>
+</item>

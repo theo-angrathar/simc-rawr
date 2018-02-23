@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_105</iconpath>
+<stats>
+<armor>438</armor>
+<stamina>78</stamina>
+<intellect>53</intellect>
+<spirit>46</spirit>
+<spellpower>91</spellpower>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shoulderguards of Assimilation</name>
+<id>45974</id>
+<slot>Shoulders</slot>
+</item>

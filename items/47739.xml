@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61930</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_14</iconpath>
+<stats>
+<armor>596</armor>
+<agility>118</agility>
+<stamina>106</stamina>
+<attackpower>140</attackpower>
+<armorpenetrationrating>59</armorpenetrationrating>
+<critrating>81</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Armor of Shifting Shadows</name>
+<id>47739</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59002</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_naxxramas_02</iconpath>
+<stats>
+<armor>162</armor>
+<stamina>61</stamina>
+<intellect>51</intellect>
+<spellpower>75</spellpower>
+<critrating>40</critrating>
+<mp5>24</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Drape of the Sullen Goddess</name>
+<id>45486</id>
+<slot>Back</slot>
+</item>

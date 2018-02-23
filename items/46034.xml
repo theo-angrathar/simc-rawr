@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59720</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_31</iconpath>
+<stats>
+<armor>275</armor>
+<stamina>84</stamina>
+<intellect>82</intellect>
+<spirit>66</spirit>
+<spellpower>132</spellpower>
+<critrating>60</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Leggings of Profound Darkness</name>
+<id>46034</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55325</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_72</iconpath>
+<stats>
+<armor>231</armor>
+<stamina>75</stamina>
+<intellect>50</intellect>
+<spellpower>88</spellpower>
+<hitrating>37</hitrating>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mantle of the Corrupted</name>
+<id>40286</id>
+<slot>Shoulders</slot>
+</item>

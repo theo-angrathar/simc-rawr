@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>34034</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_22</iconpath>
+<stats>
+<agility>67</agility>
+<stamina>54</stamina>
+<attackpower>99</attackpower>
+<critrating>39</critrating>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Barbed Ymirheim Choker</name>
+<id>50228</id>
+<slot>Neck</slot>
+</item>

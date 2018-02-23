@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_crown_01</iconpath>
+<stats>
+<armor>244</armor>
+<stamina>87</stamina>
+<intellect>52</intellect>
+<spirit>46</spirit>
+<spellpower>87</spellpower>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Plagueheart Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>8</hasterating>
+</socketbonus>
+<name>Heroes' Plagueheart Circlet</name>
+<id>39496</id>
+<slot>Head</slot>
+</item>

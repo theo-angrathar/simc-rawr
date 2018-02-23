@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_mail_07</iconpath>
+<stats>
+<armor>1448</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spellpower>160</spellpower>
+<critrating>94</critrating>
+<hasterating>94</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Garb</setname>
+<type>Mail</type>
+<faction>Horde</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Thrall's Tunic of Triumph</name>
+<id>48305</id>
+<slot>Chest</slot>
+</item>

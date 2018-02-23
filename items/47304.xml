@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62122</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_25</iconpath>
+<stats>
+<armor>2164</armor>
+<stamina>155</stamina>
+<strength>139</strength>
+<critrating>90</critrating>
+<hasterating>74</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Legplates of Ascension</name>
+<id>47304</id>
+<slot>Legs</slot>
+</item>

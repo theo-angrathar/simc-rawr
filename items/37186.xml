@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>33808</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_ahnqiraj_01</iconpath>
+<stats>
+<stamina>64</stamina>
+<strength>43</strength>
+<blockvalue>81</blockvalue>
+<defenserating>30</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Unsmashable Heavy Band</name>
+<id>37186</id>
+<slot>Finger</slot>
+</item>

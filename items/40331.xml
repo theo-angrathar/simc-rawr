@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54889</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_06</iconpath>
+<stats>
+<armor>1125</armor>
+<agility>84</agility>
+<stamina>82</stamina>
+<attackpower>134</attackpower>
+<intellect>66</intellect>
+<critrating>52</critrating>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Leggings of Failed Escape</name>
+<id>40331</id>
+<slot>Legs</slot>
+</item>

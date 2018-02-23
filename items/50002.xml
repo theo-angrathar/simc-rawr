@@ -1,0 +1,24 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64795</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_42</iconpath>
+<stats>
+<armor>1155</armor>
+<stamina>103</stamina>
+<strength>95</strength>
+<critrating>60</critrating>
+<hitrating>52</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Polar Bear Claw Bracers</name>
+<id>50002</id>
+<slot>Wrist</slot>
+</item>

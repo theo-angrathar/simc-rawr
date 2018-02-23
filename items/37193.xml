@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53810</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_02</iconpath>
+<stats>
+<armor>1961</armor>
+<stamina>109</stamina>
+<strength>83</strength>
+<hitrating>80</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Staggering Legplates</name>
+<id>37193</id>
+<slot>Legs</slot>
+</item>

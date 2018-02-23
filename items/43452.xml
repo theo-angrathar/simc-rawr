@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>57620</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_15</iconpath>
+<stats>
+<armor>512</armor>
+<stamina>37</stamina>
+<intellect>26</intellect>
+<spellpower>46</spellpower>
+<resilience>26</resilience>
+<mp5>13</mp5>
+</stats>
+<quality>Rare</quality>
+<setname>Stormhide Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Stormhide Wristguards</name>
+<id>43452</id>
+<slot>Wrist</slot>
+</item>

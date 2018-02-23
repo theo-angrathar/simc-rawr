@@ -1,0 +1,20 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>30764</displayid>
+<displayslot>12</displayslot>
+<iconpath>spell_shadow_lifedrain</iconpath>
+<stats>
+<parryrating>95</parryrating>
+<defenserating>60</defenserating>
+<hp5>89</hp5>
+<fireresistance>15</fireresistance>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Purified Onyxia Blood Talisman</name>
+<id>49312</id>
+<slot>Trinket</slot>
+</item>

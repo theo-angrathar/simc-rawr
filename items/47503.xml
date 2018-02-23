@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60560</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_26</iconpath>
+<stats>
+<armor>2032</armor>
+<stamina>98</stamina>
+<intellect>70</intellect>
+<spellpower>124</spellpower>
+<critrating>50</critrating>
+<mp5>38</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Legplates of the Argent Armistice</name>
+<id>47503</id>
+<slot>Legs</slot>
+</item>

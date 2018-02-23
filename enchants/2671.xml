@@ -1,0 +1,9 @@
+<enchant>
+<id>2671</id>
+<name>Sunfire</name>
+<slot>OneHand</slot>
+<stats>
+<spellfiredamagerating>50</spellfiredamagerating>
+<spellarcanedamagerating>50</spellarcanedamagerating>
+</stats>
+</enchant>

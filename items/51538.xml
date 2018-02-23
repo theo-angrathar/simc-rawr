@@ -1,0 +1,28 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_168</iconpath>
+<stats>
+<armor>293</armor>
+<stamina>195</stamina>
+<intellect>87</intellect>
+<spellpower>182</spellpower>
+<critrating>98</critrating>
+<resilience>98</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Felshroud</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<resilience>8</resilience>
+</socketbonus>
+<name>Wrathful Gladiator's Felweave Cowl</name>
+<id>51538</id>
+<slot>Head</slot>
+</item>

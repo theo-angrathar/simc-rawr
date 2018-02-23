@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_05</iconpath>
+<stats>
+<armor>527</armor>
+<agility>49</agility>
+<stamina>103</stamina>
+<attackpower>138</attackpower>
+<expertiserating>39</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Exotic Leather Tunic</name>
+<id>44405</id>
+<slot>Chest</slot>
+</item>

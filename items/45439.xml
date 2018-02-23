@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59184</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_jewelry_necklace_11</iconpath>
+<stats>
+<armor>480</armor>
+<stamina>99</stamina>
+<intellect>81</intellect>
+<spirit>60</spirit>
+<spellpower>115</spellpower>
+<hasterating>59</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Unwavering Stare</name>
+<id>45439</id>
+<slot>Head</slot>
+</item>

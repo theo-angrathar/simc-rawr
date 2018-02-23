@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>35373</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_27naxxramas</iconpath>
+<stats>
+<agility>32</agility>
+<stamina>55</stamina>
+<attackpower>112</attackpower>
+<critrating>41</critrating>
+<hasterating>38</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gem of Imprisoned Vassals</name>
+<id>39421</id>
+<slot>Neck</slot>
+</item>

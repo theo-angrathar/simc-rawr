@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>1027</armor>
+<stamina>73</stamina>
+<intellect>31</intellect>
+<spellpower>73</spellpower>
+<resilience>42</resilience>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Furious Gladiator's Bracers of Salvation</name>
+<id>40983</id>
+<slot>Wrist</slot>
+</item>

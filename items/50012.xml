@@ -1,0 +1,24 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>64480</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_113</iconpath>
+<stats>
+<agility>74</agility>
+<stamina>74</stamina>
+<attackpower>99</attackpower>
+<critrating>49</critrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>435</mindamage>
+<maxdamage>809</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Havoc's Call, Blade of Lordaeron Kings</name>
+<id>50012</id>
+<slot>OneHand</slot>
+</item>

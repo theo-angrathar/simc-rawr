@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64809</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_60</iconpath>
+<stats>
+<armor>795</armor>
+<agility>91</agility>
+<stamina>84</stamina>
+<attackpower>142</attackpower>
+<armorpenetrationrating>71</armorpenetrationrating>
+<intellect>49</intellect>
+<hasterating>44</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Blood-Drinker's Girdle</name>
+<id>51325</id>
+<slot>Waist</slot>
+</item>

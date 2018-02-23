@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57749</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_05</iconpath>
+<stats>
+<armor>388</armor>
+<stamina>57</stamina>
+<intellect>48</intellect>
+<spellpower>77</spellpower>
+<critrating>66</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Windripper Boots</name>
+<id>44930</id>
+<slot>Feet</slot>
+</item>

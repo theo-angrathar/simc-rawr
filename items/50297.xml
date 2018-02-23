@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64703</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_12</iconpath>
+<stats>
+<armor>1325</armor>
+<agility>73</agility>
+<stamina>95</stamina>
+<attackpower>241</attackpower>
+<armorpenetrationrating>63</armorpenetrationrating>
+<intellect>63</intellect>
+<hasterating>71</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Frostsworn Bone Chestpiece</name>
+<id>50297</id>
+<slot>Chest</slot>
+</item>

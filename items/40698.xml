@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_offhand_dalaran_d_01</iconpath>
+<stats>
+<stamina>49</stamina>
+<intellect>34</intellect>
+<spellpower>59</spellpower>
+<critrating>25</critrating>
+<hitrating>38</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ward of the Violet Citadel</name>
+<id>40698</id>
+<slot>OffHand</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53901</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>99</stamina>
+<strength>65</strength>
+<armorpenetrationrating>33</armorpenetrationrating>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of Combined Strength</name>
+<id>39262</id>
+<slot>Hands</slot>
+</item>

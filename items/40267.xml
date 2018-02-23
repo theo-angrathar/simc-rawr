@@ -1,0 +1,17 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>spell_nature_diseasecleansingtotem</iconpath>
+<stats>
+<lightningspellpower>165</lightningspellpower>
+</stats>
+<quality>Epic</quality>
+<type>Totem</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Totem of Hex</name>
+<id>40267</id>
+<slot>Ranged</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60532</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_75</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>64</stamina>
+<strength>76</strength>
+<critrating>46</critrating>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Gauntlets of the Stouthearted Crusader</name>
+<id>47197</id>
+<slot>Hands</slot>
+</item>

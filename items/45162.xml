@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59738</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather_02</iconpath>
+<stats>
+<armor>406</armor>
+<agility>85</agility>
+<stamina>73</stamina>
+<attackpower>112</attackpower>
+<critrating>62</critrating>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Flamestalker Boots</name>
+<id>45162</id>
+<slot>Feet</slot>
+</item>

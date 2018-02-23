@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_95</iconpath>
+<stats>
+<armor>1077</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>113</spellpower>
+<critrating>66</critrating>
+<mp5>35</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Garb</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Nobundo's Headpiece of Conquest</name>
+<id>48280</id>
+<slot>Head</slot>
+</item>

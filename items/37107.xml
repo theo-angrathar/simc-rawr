@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51453</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_49</iconpath>
+<stats>
+<armor>7032</armor>
+<stamina>60</stamina>
+<strength>37</strength>
+<blockvalue>197</blockvalue>
+<defenserating>38</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leeka's Shield</name>
+<id>37107</id>
+<slot>OffHand</slot>
+</item>

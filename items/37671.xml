@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_22</iconpath>
+<stats>
+<armor>1354</armor>
+<stamina>87</stamina>
+<strength>57</strength>
+<blockrating>33</blockrating>
+<defenserating>42</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Refined Ore Gloves</name>
+<id>37671</id>
+<slot>Hands</slot>
+</item>

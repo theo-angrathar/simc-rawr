@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>1925</armor>
+<stamina>137</stamina>
+<strength>113</strength>
+<critrating>72</critrating>
+<expertiserating>64</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Thassarian's Battlegear</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Koltira's Helmet of Conquest</name>
+<id>48503</id>
+<slot>Head</slot>
+</item>

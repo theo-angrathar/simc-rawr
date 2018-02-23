@@ -1,0 +1,25 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59745</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_26</iconpath>
+<stats>
+<armor>267</armor>
+<agility>64</agility>
+<stamina>61</stamina>
+<attackpower>86</attackpower>
+<expertiserating>47</expertiserating>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Solar Bindings</name>
+<id>45611</id>
+<slot>Wrist</slot>
+</item>

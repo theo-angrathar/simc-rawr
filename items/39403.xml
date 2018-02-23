@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53653</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_110</iconpath>
+<stats>
+<armor>1821</armor>
+<stamina>96</stamina>
+<strength>74</strength>
+<hitrating>36</hitrating>
+<hasterating>73</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Helm of the Unsubmissive</name>
+<id>39403</id>
+<slot>Head</slot>
+</item>

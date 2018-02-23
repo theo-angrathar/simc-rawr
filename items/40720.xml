@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_69</iconpath>
+<stats>
+<stamina>48</stamina>
+<intellect>41</intellect>
+<spellpower>66</spellpower>
+<critrating>28</critrating>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Renewal of Life</name>
+<id>40720</id>
+<slot>Finger</slot>
+</item>

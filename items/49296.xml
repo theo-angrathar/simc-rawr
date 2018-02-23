@@ -1,0 +1,19 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62984</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_18</iconpath>
+<stats></stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>325</mindamage>
+<maxdamage>605</maxdamage>
+<speed>2.6</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Singed Vis'kag the Bloodletter</name>
+<id>49296</id>
+<slot>OneHand</slot>
+</item>

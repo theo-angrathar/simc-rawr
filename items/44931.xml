@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57748</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_03</iconpath>
+<stats>
+<armor>494</armor>
+<stamina>78</stamina>
+<intellect>64</intellect>
+<spellpower>105</spellpower>
+<critrating>89</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Windripper Leggings</name>
+<id>44931</id>
+<slot>Legs</slot>
+</item>

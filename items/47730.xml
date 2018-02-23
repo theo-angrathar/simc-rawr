@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_ahnqiraj_01</iconpath>
+<stats>
+<agility>76</agility>
+<stamina>76</stamina>
+<attackpower>101</attackpower>
+<armorpenetrationrating>50</armorpenetrationrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Dexterous Brightstone Ring</name>
+<id>47730</id>
+<slot>Finger</slot>
+</item>

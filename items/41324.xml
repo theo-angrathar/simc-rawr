@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55399</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_141</iconpath>
+<stats>
+<armor>443</armor>
+<stamina>88</stamina>
+<intellect>39</intellect>
+<spellpower>73</spellpower>
+<critrating>36</critrating>
+<resilience>36</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Wildhide</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Savage Gladiator's Wyrmhide Helm</name>
+<id>41324</id>
+<slot>Head</slot>
+</item>

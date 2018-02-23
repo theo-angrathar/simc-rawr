@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55330</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_41</iconpath>
+<stats>
+<armor>300</armor>
+<intellect>64</intellect>
+<spirit>52</spirit>
+<spellpower>104</spellpower>
+<hasterating>90</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Spellweave Robe</name>
+<id>42102</id>
+<slot>Chest</slot>
+</item>

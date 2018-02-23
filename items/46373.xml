@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_36</iconpath>
+<stats>
+<stamina>94</stamina>
+<attackpower>126</attackpower>
+<armorpenetrationrating>42</armorpenetrationrating>
+<resilience>42</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Furious Gladiator's Pendant of Sundering</name>
+<id>46373</id>
+<slot>Neck</slot>
+</item>

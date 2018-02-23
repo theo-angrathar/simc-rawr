@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53852</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_72</iconpath>
+<stats>
+<armor>423</armor>
+<stamina>52</stamina>
+<intellect>49</intellect>
+<spirit>48</spirit>
+<spellpower>78</spellpower>
+<critrating>38</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spaulders of the Monstrosity</name>
+<id>39230</id>
+<slot>Shoulders</slot>
+</item>

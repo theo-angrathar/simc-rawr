@@ -1,0 +1,18 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_inscription_tarotberserker</iconpath>
+<stats>
+<resilience>100</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Darkmoon Card: Berserker!</name>
+<id>42989</id>
+<slot>Trinket</slot>
+</item>

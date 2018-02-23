@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>35358</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_29naxxramas</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>41</intellect>
+<spellpower>66</spellpower>
+<critrating>43</critrating>
+<mp5>16</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ceaseless Pity</name>
+<id>40378</id>
+<slot>Neck</slot>
+</item>

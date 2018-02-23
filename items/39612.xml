@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_05</iconpath>
+<stats>
+<armor>1961</armor>
+<stamina>111</stamina>
+<strength>89</strength>
+<dodgerating>31</dodgerating>
+<parryrating>41</parryrating>
+<defenserating>48</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreadnaught Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<dodgerating>6</dodgerating>
+</socketbonus>
+<name>Heroes' Dreadnaught Legguards</name>
+<id>39612</id>
+<slot>Legs</slot>
+</item>

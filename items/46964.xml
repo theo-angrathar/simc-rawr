@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61780</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_68</iconpath>
+<stats>
+<armor>8695</armor>
+<stamina>108</stamina>
+<strength>80</strength>
+<dodgerating>34</dodgerating>
+<blockvalue>369</blockvalue>
+<defenserating>42</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Crystal Plated Vanguard</name>
+<id>46964</id>
+<slot>OffHand</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_33</iconpath>
+<stats>
+<armor>2210</armor>
+<stamina>164</stamina>
+<strength>148</strength>
+<critrating>96</critrating>
+<expertiserating>80</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Lightsworn Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Lightsworn Legplates</name>
+<id>50325</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54702</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_21</iconpath>
+<stats>
+<armor>506</armor>
+<agility>100</agility>
+<stamina>100</stamina>
+<attackpower>132</attackpower>
+<critrating>77</critrating>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leggings of Fleeting Moments</name>
+<id>40333</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55411</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_141</iconpath>
+<stats>
+<armor>458</armor>
+<agility>73</agility>
+<stamina>103</stamina>
+<attackpower>58</attackpower>
+<critrating>44</critrating>
+<resilience>59</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Sanctuary</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Hateful Gladiator's Dragonhide Helm</name>
+<id>41676</id>
+<slot>Head</slot>
+</item>

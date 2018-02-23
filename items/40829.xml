@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_98</iconpath>
+<stats>
+<armor>2052</armor>
+<stamina>215</stamina>
+<strength>128</strength>
+<critrating>80</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Relentless Gladiator's Plate Helm</name>
+<id>40829</id>
+<slot>Head</slot>
+</item>

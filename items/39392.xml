@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35437</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_30naxxramas</iconpath>
+<stats>
+<stamina>36</stamina>
+<intellect>38</intellect>
+<spirit>34</spirit>
+<spellpower>59</spellpower>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Veiled Amulet of Life</name>
+<id>39392</id>
+<slot>Neck</slot>
+</item>

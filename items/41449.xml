@@ -1,0 +1,16 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_15</iconpath>
+<stats>
+<defenserating>14</defenserating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Perfect Thick Sun Crystal</name>
+<id>41449</id>
+<slot>Yellow</slot>
+</item>

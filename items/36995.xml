@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51932</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_26</iconpath>
+<stats>
+<armor>1308</armor>
+<stamina>76</stamina>
+<strength>52</strength>
+<critrating>32</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Fists of Loken</name>
+<id>36995</id>
+<slot>Hands</slot>
+</item>

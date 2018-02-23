@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54501</displayid>
+<displayslot>15</displayslot>
+<iconpath>inv_weapon_bow_35</iconpath>
+<stats>
+<agility>24</agility>
+<stamina>36</stamina>
+<attackpower>48</attackpower>
+</stats>
+<quality>Rare</quality>
+<type>Bow</type>
+<faction>Neutral</faction>
+<mindamage>238</mindamage>
+<maxdamage>444</maxdamage>
+<speed>2.9</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Titanium Compound Bow</name>
+<id>37615</id>
+<slot>Ranged</slot>
+</item>

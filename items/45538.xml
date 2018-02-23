@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_15</iconpath>
+<stats>
+<stamina>94</stamina>
+<strength>46</strength>
+<dodgerating>43</dodgerating>
+<defenserating>41</defenserating>
+<expertiserating>36</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Titanstone Pendant</name>
+<id>45538</id>
+<slot>Neck</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56302</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_63</iconpath>
+<stats>
+<armorpenetrationrating>32</armorpenetrationrating>
+<critrating>32</critrating>
+<hitrating>32</hitrating>
+<hasterating>32</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>150</mindamage>
+<maxdamage>280</maxdamage>
+<speed>1.5</speed>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Namlak's Supernumerary Sticker</name>
+<id>44310</id>
+<slot>OneHand</slot>
+</item>

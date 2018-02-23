@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64722</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_34</iconpath>
+<stats>
+<armor>2032</armor>
+<stamina>147</stamina>
+<strength>72</strength>
+<hitrating>55</hitrating>
+<parryrating>66</parryrating>
+<defenserating>74</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<parryrating>4</parryrating>
+</socketbonus>
+<name>Legplates of Frozen Granite</name>
+<id>49794</id>
+<slot>Legs</slot>
+</item>

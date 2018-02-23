@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_hand_03</iconpath>
+<stats>
+<agility>22</agility>
+<stamina>39</stamina>
+<attackpower>76</attackpower>
+<hitrating>27</hitrating>
+<hasterating>26</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>FistWeapon</type>
+<faction>Neutral</faction>
+<mindamage>261</mindamage>
+<maxdamage>485</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The Stray</name>
+<id>39468</id>
+<slot>OffHand</slot>
+</item>

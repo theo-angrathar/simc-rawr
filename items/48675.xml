@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61260</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>173</armor>
+<stamina>116</stamina>
+<strength>85</strength>
+<dodgerating>37</dodgerating>
+<parryrating>45</parryrating>
+<defenserating>45</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Cloak of the Unmoving Guardian</name>
+<id>48675</id>
+<slot>Back</slot>
+</item>

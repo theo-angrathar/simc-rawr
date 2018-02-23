@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49369</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_78</iconpath>
+<stats>
+<armor>409</armor>
+<agility>33</agility>
+<stamina>87</stamina>
+<attackpower>116</attackpower>
+<expertiserating>42</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sprinting Shoulderpads</name>
+<id>37593</id>
+<slot>Shoulders</slot>
+</item>

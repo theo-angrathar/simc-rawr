@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59158</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>1886</armor>
+<stamina>120</stamina>
+<strength>97</strength>
+<armorpenetrationrating>46</armorpenetrationrating>
+<critrating>71</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hasterating>8</hasterating>
+</socketbonus>
+<name>Dragonsteel Faceplate</name>
+<id>45299</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64366</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_rifle_39</iconpath>
+<stats>
+<stamina>77</stamina>
+<strength>39</strength>
+<hitrating>26</hitrating>
+<dodgerating>34</dodgerating>
+<parryrating>34</parryrating>
+</stats>
+<quality>Epic</quality>
+<type>Gun</type>
+<faction>Neutral</faction>
+<mindamage>406</mindamage>
+<maxdamage>665</maxdamage>
+<speed>2.1</speed>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Rowan's Rifle of Silver Bullets</name>
+<id>50444</id>
+<slot>Ranged</slot>
+</item>

@@ -1,0 +1,19 @@
+<item>
+<itemlevel>1</itemlevel>
+<displayid>58809</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_spear_05</iconpath>
+<stats></stats>
+<quality>Common</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<mindamage>1</mindamage>
+<maxdamage>3</maxdamage>
+<speed>3</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Alliance Lance</name>
+<id>46069</id>
+<slot>MainHand</slot>
+</item>

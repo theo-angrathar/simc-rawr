@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55839</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_62</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>99</stamina>
+<strength>58</strength>
+<critrating>27</critrating>
+<resilience>35</resilience>
+<crusaderstrikemultiplier>0.05</crusaderstrikemultiplier>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Vindication</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Hateful Gladiator's Scaled Gauntlets</name>
+<id>40802</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>51531</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_13</iconpath>
+<stats>
+<armor>139</armor>
+<agility>25</agility>
+<stamina>31</stamina>
+<attackpower>72</attackpower>
+<hitrating>37</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Embrace of Sorrow</name>
+<id>38614</id>
+<slot>Back</slot>
+</item>

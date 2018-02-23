@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51686</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_34</iconpath>
+<stats>
+<armor>1218</armor>
+<stamina>49</stamina>
+<intellect>42</intellect>
+<spellpower>68</spellpower>
+<critrating>42</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Green</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Girdle of the Warrior Magi</name>
+<id>44176</id>
+<slot>Waist</slot>
+</item>

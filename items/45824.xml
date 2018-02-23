@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_34</iconpath>
+<stats>
+<armor>1321</armor>
+<stamina>124</stamina>
+<strength>87</strength>
+<critrating>60</critrating>
+<hitrating>49</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of the Singing Blade</name>
+<id>45824</id>
+<slot>Waist</slot>
+</item>

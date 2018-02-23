@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>39211</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_31</iconpath>
+<stats>
+<stamina>28</stamina>
+<intellect>29</intellect>
+<spirit>38</spirit>
+<spellpower>46</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Chaotic Spiral Amulet</name>
+<id>36988</id>
+<slot>Neck</slot>
+</item>

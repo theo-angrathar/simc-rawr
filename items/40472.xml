@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>362</armor>
+<agility>59</agility>
+<stamina>75</stamina>
+<attackpower>114</attackpower>
+<critrating>50</critrating>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreamwalker Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Valorous Dreamwalker Handgrips</name>
+<id>40472</id>
+<slot>Hands</slot>
+</item>

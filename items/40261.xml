@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54843</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1436</armor>
+<stamina>82</stamina>
+<strength>75</strength>
+<critrating>43</critrating>
+<hitrating>74</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Crude Discolored Battlegrips</name>
+<id>40261</id>
+<slot>Hands</slot>
+</item>

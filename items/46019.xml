@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59777</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>1137</armor>
+<agility>81</agility>
+<stamina>90</stamina>
+<attackpower>212</attackpower>
+<intellect>53</intellect>
+<hitrating>49</hitrating>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leggings of the Insatiable</name>
+<id>46019</id>
+<slot>Legs</slot>
+</item>

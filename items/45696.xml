@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>31907</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_18</iconpath>
+<stats>
+<bonusarmor>336</bonusarmor>
+<stamina>88</stamina>
+<strength>60</strength>
+<dodgerating>37</dodgerating>
+<defenserating>41</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mark of the Unyielding</name>
+<id>45696</id>
+<slot>Neck</slot>
+</item>

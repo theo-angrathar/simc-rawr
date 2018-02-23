@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53652</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_133</iconpath>
+<stats>
+<armor>256</armor>
+<stamina>96</stamina>
+<intellect>63</intellect>
+<spirit>81</spirit>
+<spellpower>120</spellpower>
+<critrating>50</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Hood of Rationality</name>
+<id>40562</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>64531</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_sword_150</iconpath>
+<stats>
+<stamina>71</stamina>
+<intellect>71</intellect>
+<spellpower>792</spellpower>
+<critrating>63</critrating>
+<hasterating>63</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>128</mindamage>
+<maxdamage>388</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bloodsurge, Kel'Thuzad's Blade of Agony</name>
+<id>50427</id>
+<slot>MainHand</slot>
+</item>

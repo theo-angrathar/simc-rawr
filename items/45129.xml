@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_sword_58</iconpath>
+<stats>
+<stamina>45</stamina>
+<intellect>43</intellect>
+<spellpower>408</spellpower>
+<critrating>22</critrating>
+<hitrating>29</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Alliance</faction>
+<mindamage>70</mindamage>
+<maxdamage>227</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gnomeregan Bonechopper</name>
+<id>45129</id>
+<slot>MainHand</slot>
+</item>

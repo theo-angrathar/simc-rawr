@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>50611</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_104</iconpath>
+<stats>
+<armor>952</armor>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spellpower>80</spellpower>
+<resilience>46</resilience>
+<mp5>23</mp5>
+</stats>
+<quality>Rare</quality>
+<setname>Stormhide Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Stormhide Crown</name>
+<id>43455</id>
+<slot>Head</slot>
+</item>

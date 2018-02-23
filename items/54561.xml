@@ -1,0 +1,27 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_22</iconpath>
+<stats>
+<armor>681</armor>
+<agility>173</agility>
+<stamina>120</stamina>
+<attackpower>231</attackpower>
+<critrating>107</critrating>
+<expertiserating>99</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Gloaming Sark</name>
+<id>54561</id>
+<slot>Chest</slot>
+</item>

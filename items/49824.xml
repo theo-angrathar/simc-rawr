@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64946</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_157</iconpath>
+<stats>
+<armor>1056</armor>
+<agility>90</agility>
+<stamina>81</stamina>
+<attackpower>152</attackpower>
+<armorpenetrationrating>37</armorpenetrationrating>
+<intellect>48</intellect>
+<hitrating>56</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hitrating>8</hitrating>
+</socketbonus>
+<name>Horns of the Spurned Val'kyr</name>
+<id>49824</id>
+<slot>Head</slot>
+</item>

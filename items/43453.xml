@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55018</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_13</iconpath>
+<stats>
+<armor>1171</armor>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spellpower>80</spellpower>
+<resilience>46</resilience>
+<mp5>23</mp5>
+</stats>
+<quality>Rare</quality>
+<setname>Stormhide Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Stormhide Hauberk</name>
+<id>43453</id>
+<slot>Chest</slot>
+</item>

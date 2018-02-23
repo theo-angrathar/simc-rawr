@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_13</iconpath>
+<stats>
+<intellect>7</intellect>
+<spirit>7</spirit>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Perfect Seer's Dark Jade</name>
+<id>41473</id>
+<slot>Green</slot>
+</item>

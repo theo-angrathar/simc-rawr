@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_63</iconpath>
+<stats>
+<armor>317</armor>
+<stamina>138</stamina>
+<intellect>60</intellect>
+<spellpower>123</spellpower>
+<critrating>64</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Felshroud</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Furious Gladiator's Felweave Raiment</name>
+<id>41998</id>
+<slot>Chest</slot>
+</item>

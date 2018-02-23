@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>365</armor>
+<agility>79</agility>
+<stamina>86</stamina>
+<attackpower>120</attackpower>
+<armorpenetrationrating>40</armorpenetrationrating>
+<hasterating>30</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Nightsong Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Valorous Nightsong Handgrips</name>
+<id>45355</id>
+<slot>Hands</slot>
+</item>

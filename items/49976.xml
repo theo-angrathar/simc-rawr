@@ -1,0 +1,23 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65030</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_72</iconpath>
+<stats>
+<armor>8873</armor>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spellpower>106</spellpower>
+<critrating>60</critrating>
+<blockvalue>248</blockvalue>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bulwark of Smouldering Steel</name>
+<id>49976</id>
+<slot>OffHand</slot>
+</item>

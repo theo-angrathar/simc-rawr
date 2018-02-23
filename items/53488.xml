@@ -1,0 +1,27 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>65035</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_83</iconpath>
+<stats>
+<armor>851</armor>
+<stamina>98</stamina>
+<intellect>98</intellect>
+<spellpower>131</spellpower>
+<critrating>70</critrating>
+<hasterating>86</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Split Shape Belt</name>
+<id>53488</id>
+<slot>Waist</slot>
+</item>

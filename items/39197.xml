@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53841</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_62</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>99</stamina>
+<strength>51</strength>
+<hitrating>33</hitrating>
+<dodgerating>48</dodgerating>
+<defenserating>38</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of the Master</name>
+<id>39197</id>
+<slot>Hands</slot>
+</item>

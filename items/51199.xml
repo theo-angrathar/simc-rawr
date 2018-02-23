@@ -1,0 +1,28 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_133</iconpath>
+<stats>
+<armor>1108</armor>
+<agility>120</agility>
+<stamina>95</stamina>
+<attackpower>145</attackpower>
+<intellect>63</intellect>
+<critrating>80</critrating>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Frost Witch's Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Sanctified Frost Witch's Shoulderguards</name>
+<id>51199</id>
+<slot>Shoulders</slot>
+</item>

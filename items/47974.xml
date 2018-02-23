@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61721</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_75</iconpath>
+<stats>
+<armor>331</armor>
+<stamina>103</stamina>
+<intellect>95</intellect>
+<spellpower>140</spellpower>
+<critrating>71</critrating>
+<hitrating>96</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Vestments of the Sleepless</name>
+<id>47974</id>
+<slot>Chest</slot>
+</item>

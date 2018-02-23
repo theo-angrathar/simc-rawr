@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_68</iconpath>
+<stats>
+<armor>199</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>64</spirit>
+<spellpower>122</spellpower>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Circle of Ossus</name>
+<id>50997</id>
+<slot>Waist</slot>
+</item>

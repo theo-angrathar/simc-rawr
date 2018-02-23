@@ -1,0 +1,25 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64405</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_41</iconpath>
+<stats>
+<armor>278</armor>
+<agility>80</agility>
+<stamina>70</stamina>
+<attackpower>98</attackpower>
+<critrating>53</critrating>
+<hasterating>45</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Vambraces of the Frost Wyrm Queen</name>
+<id>51783</id>
+<slot>Wrist</slot>
+</item>

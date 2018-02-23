@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64854</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate23</iconpath>
+<stats>
+<armor>2322</armor>
+<stamina>147</stamina>
+<strength>81</strength>
+<dodgerating>74</dodgerating>
+<parryrating>66</parryrating>
+<expertiserating>46</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Scourgelord's Frigid Chestplate</name>
+<id>49816</id>
+<slot>Chest</slot>
+</item>

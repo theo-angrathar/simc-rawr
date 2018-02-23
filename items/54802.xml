@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>159</armor>
+<agility>67</agility>
+<stamina>67</stamina>
+<attackpower>89</attackpower>
+<critrating>51</critrating>
+<hasterating>34</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The Frost Lord's War Cloak</name>
+<id>54802</id>
+<slot>Back</slot>
+</item>

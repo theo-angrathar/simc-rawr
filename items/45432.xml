@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_05</iconpath>
+<stats>
+<armor>2032</armor>
+<stamina>120</stamina>
+<strength>105</strength>
+<hitrating>68</hitrating>
+<expertiserating>56</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Siegebreaker Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Valorous Siegebreaker Legplates</name>
+<id>45432</id>
+<slot>Legs</slot>
+</item>

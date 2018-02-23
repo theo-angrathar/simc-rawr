@@ -1,0 +1,21 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_gem_pearl_12</iconpath>
+<stats>
+<agility>10</agility>
+<stamina>10</stamina>
+<strength>10</strength>
+<intellect>10</intellect>
+<spirit>10</spirit>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<socketbonus></socketbonus>
+<name>Nightmare Tear</name>
+<id>49110</id>
+<slot>Prismatic</slot>
+</item>

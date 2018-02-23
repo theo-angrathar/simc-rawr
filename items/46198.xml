@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>1314</armor>
+<stamina>85</stamina>
+<intellect>86</intellect>
+<spellpower>115</spellpower>
+<critrating>60</critrating>
+<mp5>38</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Conqueror's Worldbreaker Tunic</name>
+<id>46198</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55008</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>948</armor>
+<agility>28</agility>
+<stamina>64</stamina>
+<strength>43</strength>
+<hitrating>29</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Cast Iron Shackles</name>
+<id>37891</id>
+<slot>Wrist</slot>
+</item>

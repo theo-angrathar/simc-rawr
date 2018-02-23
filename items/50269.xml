@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64553</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_30a</iconpath>
+<stats>
+<armor>522</armor>
+<agility>120</agility>
+<stamina>92</stamina>
+<attackpower>183</attackpower>
+<critrating>80</critrating>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Fleshwerk Leggings</name>
+<id>50269</id>
+<slot>Legs</slot>
+</item>

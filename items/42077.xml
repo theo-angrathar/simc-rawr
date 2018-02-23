@@ -1,0 +1,23 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>166</armor>
+<stamina>86</stamina>
+<intellect>38</intellect>
+<spellpower>89</spellpower>
+<resilience>50</resilience>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Relentless Gladiator's Cloak of Subjugation</name>
+<id>42077</id>
+<slot>Back</slot>
+</item>

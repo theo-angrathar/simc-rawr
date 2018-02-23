@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_27</iconpath>
+<stats>
+<stamina>61</stamina>
+<intellect>56</intellect>
+<spirit>36</spirit>
+<spellpower>89</spellpower>
+<critrating>53</critrating>
+<fireresistance>10</fireresistance>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Polished Dragonslayer's Signet</name>
+<id>49486</id>
+<slot>Finger</slot>
+</item>

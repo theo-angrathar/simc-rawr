@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>53560</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_78</iconpath>
+<stats>
+<stamina>67</stamina>
+<strength>68</strength>
+<armorpenetrationrating>43</armorpenetrationrating>
+<hitrating>35</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Power Enhancing Loop</name>
+<id>45675</id>
+<slot>Finger</slot>
+</item>

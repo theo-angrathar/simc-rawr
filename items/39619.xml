@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_58</iconpath>
+<stats>
+<armor>1821</armor>
+<stamina>90</stamina>
+<strength>74</strength>
+<critrating>81</critrating>
+<hitrating>29</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgeborne Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Heroes' Scourgeborne Helmet</name>
+<id>39619</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_60</iconpath>
+<stats>
+<armor>831</armor>
+<agility>104</agility>
+<stamina>95</stamina>
+<attackpower>161</attackpower>
+<intellect>63</intellect>
+<critrating>80</critrating>
+<hitrating>47</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Band of the Night Raven</name>
+<id>50993</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55751</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_02</iconpath>
+<stats>
+<armor>135</armor>
+<stamina>66</stamina>
+<intellect>29</intellect>
+<spellpower>66</spellpower>
+<critrating>38</critrating>
+<resilience>37</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deadly Gladiator's Cuffs of Dominance</name>
+<id>41908</id>
+<slot>Wrist</slot>
+</item>

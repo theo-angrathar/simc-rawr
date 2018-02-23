@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59204</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_11</iconpath>
+<stats>
+<armor>1614</armor>
+<stamina>73</stamina>
+<intellect>62</intellect>
+<spellpower>90</spellpower>
+<critrating>48</critrating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Greaves of the Rockmender</name>
+<id>45434</id>
+<slot>Feet</slot>
+</item>

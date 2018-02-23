@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_shortblade_71</iconpath>
+<stats>
+<stamina>25</stamina>
+<critrating>26</critrating>
+<hasterating>46</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>135</mindamage>
+<maxdamage>203</maxdamage>
+<speed>1.3</speed>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Librarian's Paper Cutter</name>
+<id>37856</id>
+<slot>OneHand</slot>
+</item>

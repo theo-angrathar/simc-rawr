@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_12</iconpath>
+<stats>
+<armor>333</armor>
+<stamina>96</stamina>
+<intellect>42</intellect>
+<spellpower>90</spellpower>
+<critrating>48</critrating>
+<resilience>56</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Furious Gladiator's Belt of Dominance</name>
+<id>41630</id>
+<slot>Waist</slot>
+</item>

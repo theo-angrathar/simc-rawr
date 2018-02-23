@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_43</iconpath>
+<stats>
+<armor>300</armor>
+<stamina>67</stamina>
+<intellect>60</intellect>
+<spirit>68</spirit>
+<spellpower>85</spellpower>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Regalia of Faith</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Heroes' Robe of Faith</name>
+<id>39515</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55763</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_25</iconpath>
+<stats>
+<armor>1025</armor>
+<stamina>60</stamina>
+<intellect>68</intellect>
+<spellpower>81</spellpower>
+<hasterating>40</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Scavenged Feathery Leggings</name>
+<id>44122</id>
+<slot>Legs</slot>
+</item>

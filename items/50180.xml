@@ -1,0 +1,23 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64201</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_50</iconpath>
+<stats>
+<stamina>103</stamina>
+<strength>95</strength>
+<armorpenetrationrating>65</armorpenetrationrating>
+<expertiserating>45</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Lana'thel's Chain of Flagellation</name>
+<id>50180</id>
+<slot>Neck</slot>
+</item>

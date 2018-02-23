@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_15</iconpath>
+<stats>
+<armor>458</armor>
+<agility>60</agility>
+<stamina>90</stamina>
+<attackpower>146</attackpower>
+<armorpenetrationrating>43</armorpenetrationrating>
+<critrating>44</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreamwalker Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Heroes' Dreamwalker Headguard</name>
+<id>39553</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_17</iconpath>
+<stats>
+<armor>194</armor>
+<stamina>54</stamina>
+<intellect>53</intellect>
+<spirit>57</spirit>
+<spellpower>93</spellpower>
+<hasterating>46</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Sanctification Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Valorous Gloves of Sanctification</name>
+<id>45387</id>
+<slot>Hands</slot>
+</item>

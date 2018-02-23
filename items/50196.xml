@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64207</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_spiritshard_02</iconpath>
+<stats>
+<stamina>51</stamina>
+<intellect>51</intellect>
+<spellpower>78</spellpower>
+<hasterating>34</hasterating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Love's Prisoner</name>
+<id>50196</id>
+<slot>Neck</slot>
+</item>

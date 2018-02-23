@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54767</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate09</iconpath>
+<stats>
+<armor>2298</armor>
+<stamina>150</stamina>
+<strength>85</strength>
+<critrating>64</critrating>
+<hitrating>43</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Breastplate of Frozen Pain</name>
+<id>40365</id>
+<slot>Chest</slot>
+</item>

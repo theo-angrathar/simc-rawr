@@ -1,0 +1,26 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59734</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_61</iconpath>
+<stats>
+<armor>203</armor>
+<stamina>72</stamina>
+<intellect>72</intellect>
+<spellpower>92</spellpower>
+<critrating>64</critrating>
+<hasterating>74</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Pharos Gloves</name>
+<id>45665</id>
+<slot>Hands</slot>
+</item>

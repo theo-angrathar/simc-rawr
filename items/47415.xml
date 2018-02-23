@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61525</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_23</iconpath>
+<stats>
+<armor>2588</armor>
+<stamina>182</stamina>
+<strength>116</strength>
+<dodgerating>86</dodgerating>
+<defenserating>102</defenserating>
+<expertiserating>78</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Hauberk of the Towering Monstrosity</name>
+<id>47415</id>
+<slot>Chest</slot>
+</item>

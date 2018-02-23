@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35444</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_naxxramas_03</iconpath>
+<stats>
+<armor>150</armor>
+<stamina>36</stamina>
+<intellect>38</intellect>
+<spirit>36</spirit>
+<spellpower>60</spellpower>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Dark Shroud of the Scourge</name>
+<id>39241</id>
+<slot>Back</slot>
+</item>

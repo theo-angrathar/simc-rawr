@@ -1,0 +1,23 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64190</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_48</iconpath>
+<stats>
+<stamina>103</stamina>
+<strength>95</strength>
+<critrating>60</critrating>
+<hitrating>52</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Ahn'kahar Onyx Neckguard</name>
+<id>49989</id>
+<slot>Neck</slot>
+</item>

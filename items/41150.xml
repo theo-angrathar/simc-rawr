@@ -1,0 +1,29 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56934</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_140</iconpath>
+<stats>
+<armor>1045</armor>
+<agility>68</agility>
+<stamina>115</stamina>
+<attackpower>102</attackpower>
+<intellect>34</intellect>
+<critrating>51</critrating>
+<resilience>66</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Earthshaker</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Deadly Gladiator's Linked Helm</name>
+<id>41150</id>
+<slot>Head</slot>
+</item>

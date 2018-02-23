@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_30</iconpath>
+<stats>
+<armor>1854</armor>
+<stamina>77</stamina>
+<intellect>77</intellect>
+<spellpower>109</spellpower>
+<critrating>59</critrating>
+<hasterating>67</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Pauldrons of the Cavalier</name>
+<id>47702</id>
+<slot>Shoulders</slot>
+</item>

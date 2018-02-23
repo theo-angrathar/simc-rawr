@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56418</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_58</iconpath>
+<stats>
+<armor>362</armor>
+<stamina>85</stamina>
+<intellect>37</intellect>
+<spellpower>78</spellpower>
+<critrating>32</critrating>
+<resilience>39</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Wildhide</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Deadly Gladiator's Wyrmhide Gloves</name>
+<id>41292</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61827</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32a</iconpath>
+<stats>
+<armor>145</armor>
+<stamina>56</stamina>
+<intellect>58</intellect>
+<spellpower>80</spellpower>
+<hitrating>33</hitrating>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Felspark Bracers</name>
+<id>48000</id>
+<slot>Wrist</slot>
+</item>

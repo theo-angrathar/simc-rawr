@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate22</iconpath>
+<stats>
+<armor>2526</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spellpower>149</spellpower>
+<critrating>96</critrating>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Lightsworn Garb</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Lightsworn Tunic</name>
+<id>50869</id>
+<slot>Chest</slot>
+</item>

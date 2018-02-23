@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50999</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>341</armor>
+<stamina>33</stamina>
+<intellect>52</intellect>
+<spellpower>68</spellpower>
+<hasterating>57</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of Radiant Light</name>
+<id>37261</id>
+<slot>Hands</slot>
+</item>

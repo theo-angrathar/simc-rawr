@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50911</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_50</iconpath>
+<stats>
+<armor>7278</armor>
+<stamina>64</stamina>
+<strength>43</strength>
+<blockrating>25</blockrating>
+<blockvalue>204</blockvalue>
+<defenserating>31</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bulwark of the Noble Protector</name>
+<id>37162</id>
+<slot>OffHand</slot>
+</item>

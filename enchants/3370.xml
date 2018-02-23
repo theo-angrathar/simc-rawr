@@ -1,0 +1,21 @@
+<enchant>
+<id>3370</id>
+<name>Rune of Razorice</name>
+<slot>OneHand</slot>
+<stats>
+<specialeffects>
+<specialeffect>
+<trigger>MeleeHit</trigger>
+<stats>
+<bonusfrostdamagemultiplier>0.02</bonusfrostdamagemultiplier>
+</stats>
+<duration>20</duration>
+<cooldown>0</cooldown>
+<chance>1</chance>
+<maxstack>5</maxstack>
+</specialeffect>
+</specialeffects>
+<specialeffectcount>1</specialeffectcount>
+<bonusfrostweapondamage>0.02</bonusfrostweapondamage>
+</stats>
+</enchant>

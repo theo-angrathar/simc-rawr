@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_cloth_12</iconpath>
+<stats>
+<armor>206</armor>
+<stamina>76</stamina>
+<intellect>33</intellect>
+<spellpower>68</spellpower>
+<resilience>44</resilience>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Titan-Forged Slippers of Salvation</name>
+<id>44900</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52304</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>1700</armor>
+<strength>95</strength>
+<critrating>55</critrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Helm of Command</name>
+<id>41344</id>
+<slot>Head</slot>
+</item>

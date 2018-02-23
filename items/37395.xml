@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51707</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate13</iconpath>
+<stats>
+<armor>2166</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>71</spellpower>
+<mp5>31</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Ornamented Plate Regalia</name>
+<id>37395</id>
+<slot>Chest</slot>
+</item>

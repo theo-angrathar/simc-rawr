@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64775</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_25</iconpath>
+<stats>
+<armor>2526</armor>
+<stamina>179</stamina>
+<strength>144</strength>
+<dodgerating>42</dodgerating>
+<parryrating>76</parryrating>
+<defenserating>81</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<dodgerating>8</dodgerating>
+</socketbonus>
+<name>Ghoul Commander's Cuirass</name>
+<id>50786</id>
+<slot>Chest</slot>
+</item>

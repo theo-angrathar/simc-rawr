@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56126</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_63</iconpath>
+<stats>
+<armor>308</armor>
+<stamina>75</stamina>
+<intellect>77</intellect>
+<spirit>51</spirit>
+<spellpower>99</spellpower>
+<hasterating>66</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>The Sanctum's Flowing Vestments</name>
+<id>44002</id>
+<slot>Chest</slot>
+</item>

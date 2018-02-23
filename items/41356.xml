@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53007</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_26</iconpath>
+<stats>
+<armor>1308</armor>
+<stamina>45</stamina>
+<spellpower>83</spellpower>
+<critrating>30</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Righteous Gauntlets</name>
+<id>41356</id>
+<slot>Hands</slot>
+</item>

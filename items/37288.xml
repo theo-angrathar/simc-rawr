@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50994</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_09</iconpath>
+<stats>
+<armor>948</armor>
+<stamina>31</stamina>
+<intellect>33</intellect>
+<spellpower>50</spellpower>
+<critrating>43</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Catalytic Bands</name>
+<id>37288</id>
+<slot>Wrist</slot>
+</item>

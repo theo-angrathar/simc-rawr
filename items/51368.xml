@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_74</iconpath>
+<stats>
+<armor>374</armor>
+<agility>112</agility>
+<stamina>137</stamina>
+<attackpower>122</attackpower>
+<critrating>72</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Wrathful Gladiator's Belt of Triumph</name>
+<id>51368</id>
+<slot>Waist</slot>
+</item>

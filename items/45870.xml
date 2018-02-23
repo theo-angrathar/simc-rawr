@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>58900</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_rifle_33</iconpath>
+<stats>
+<agility>29</agility>
+<stamina>30</stamina>
+<attackpower>66</attackpower>
+<hitrating>27</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Gun</type>
+<faction>Neutral</faction>
+<mindamage>415</mindamage>
+<maxdamage>708</maxdamage>
+<speed>3</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Magnetized Projectile Emitter</name>
+<id>45870</id>
+<slot>Ranged</slot>
+</item>

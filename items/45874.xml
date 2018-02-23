@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>31616</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_35</iconpath>
+<stats>
+<bonusarmor>448</bonusarmor>
+<stamina>89</stamina>
+<strength>60</strength>
+<dodgerating>43</dodgerating>
+<parryrating>34</parryrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Signet of Winter</name>
+<id>45874</id>
+<slot>Finger</slot>
+</item>

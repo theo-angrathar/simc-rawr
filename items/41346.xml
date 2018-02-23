@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52999</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_16</iconpath>
+<stats>
+<armor>1831</armor>
+<stamina>93</stamina>
+<spellpower>103</spellpower>
+<critrating>54</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Righteous Greaves</name>
+<id>41346</id>
+<slot>Legs</slot>
+</item>

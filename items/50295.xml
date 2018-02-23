@@ -1,0 +1,23 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64701</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_13</iconpath>
+<stats>
+<armor>911</armor>
+<agility>89</agility>
+<stamina>68</stamina>
+<attackpower>136</attackpower>
+<armorpenetrationrating>47</armorpenetrationrating>
+<intellect>41</intellect>
+<critrating>50</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spiked Toestompers</name>
+<id>50295</id>
+<slot>Feet</slot>
+</item>

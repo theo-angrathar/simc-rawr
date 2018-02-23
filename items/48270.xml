@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_100</iconpath>
+<stats>
+<armor>1038</armor>
+<agility>93</agility>
+<stamina>80</stamina>
+<attackpower>119</attackpower>
+<intellect>53</intellect>
+<critrating>67</critrating>
+<hitrating>53</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Windrunner's Battlegear</setname>
+<type>Mail</type>
+<faction>Horde</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Windrunner's Spaulders of Triumph</name>
+<id>48270</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_29</iconpath>
+<stats>
+<stamina>12</stamina>
+<parryrating>8</parryrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Defender's Twilight Opal</name>
+<id>40032</id>
+<slot>Purple</slot>
+</item>

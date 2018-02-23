@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_naxxramas_02</iconpath>
+<stats>
+<armor>154</armor>
+<stamina>55</stamina>
+<intellect>43</intellect>
+<spellpower>65</spellpower>
+<critrating>38</critrating>
+<hasterating>28</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shroud of Luminosity</name>
+<id>40251</id>
+<slot>Back</slot>
+</item>

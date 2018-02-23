@@ -1,0 +1,29 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_mail_07</iconpath>
+<stats>
+<armor>1384</armor>
+<agility>74</agility>
+<stamina>107</stamina>
+<attackpower>271</attackpower>
+<intellect>71</intellect>
+<critrating>82</critrating>
+<hitrating>63</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Windrunner's Battlegear</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Windrunner's Tunic of Triumph</name>
+<id>48255</id>
+<slot>Chest</slot>
+</item>

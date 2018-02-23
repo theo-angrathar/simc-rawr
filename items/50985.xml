@@ -1,0 +1,25 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64455</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_40</iconpath>
+<stats>
+<armor>278</armor>
+<stamina>61</stamina>
+<intellect>61</intellect>
+<spirit>56</spirit>
+<spellpower>85</spellpower>
+<critrating>41</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Wrists of Septic Shock</name>
+<id>50985</id>
+<slot>Wrist</slot>
+</item>

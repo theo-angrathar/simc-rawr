@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59327</displayid>
+<displayslot>11</displayslot>
+<iconpath>achievement_dungeon_ulduarraid_misc_02</iconpath>
+<stats>
+<bonusarmor>448</bonusarmor>
+<stamina>72</stamina>
+<strength>40</strength>
+<parryrating>35</parryrating>
+<expertiserating>22</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<parryrating>4</parryrating>
+</socketbonus>
+<name>Seal of Ulduar</name>
+<id>45871</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_55</iconpath>
+<stats>
+<armor>198</armor>
+<stamina>68</stamina>
+<intellect>68</intellect>
+<spirit>52</spirit>
+<spellpower>96</spellpower>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Velen's Raiment</setname>
+<type>Cloth</type>
+<faction>Horde</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Zabra's Gloves of Conquest</name>
+<id>48067</id>
+<slot>Hands</slot>
+</item>

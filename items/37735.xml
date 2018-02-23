@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52338</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate13</iconpath>
+<stats>
+<armor>2166</armor>
+<stamina>117</stamina>
+<strength>76</strength>
+<parryrating>56</parryrating>
+<defenserating>49</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ziggurat Imprinted Chestguard</name>
+<id>37735</id>
+<slot>Chest</slot>
+</item>

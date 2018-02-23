@@ -1,0 +1,24 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56970</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>563</armor>
+<agility>38</agility>
+<stamina>66</stamina>
+<attackpower>74</attackpower>
+<intellect>29</intellect>
+<critrating>38</critrating>
+<resilience>37</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deadly Gladiator's Wristguards of Triumph</name>
+<id>41224</id>
+<slot>Wrist</slot>
+</item>

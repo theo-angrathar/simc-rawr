@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_72</iconpath>
+<stats>
+<armor>373</armor>
+<agility>82</agility>
+<stamina>102</stamina>
+<attackpower>90</attackpower>
+<critrating>39</critrating>
+<resilience>47</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Sanctuary</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Furious Gladiator's Dragonhide Gloves</name>
+<id>41773</id>
+<slot>Hands</slot>
+</item>

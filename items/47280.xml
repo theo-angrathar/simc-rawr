@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61113</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_29</iconpath>
+<stats>
+<armor>605</armor>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spellpower>89</spellpower>
+<critrating>50</critrating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wristwraps of Cloudy Omen</name>
+<id>47280</id>
+<slot>Wrist</slot>
+</item>

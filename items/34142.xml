@@ -1,0 +1,20 @@
+<item>
+<itemlevel>75</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_enchant_prismaticsphere</iconpath>
+<stats>
+<frostresistance>5</frostresistance>
+<natureresistance>5</natureresistance>
+<fireresistance>5</fireresistance>
+<shadowresistance>5</shadowresistance>
+<arcaneresistance>5</arcaneresistance>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Infinite Sphere</name>
+<id>34142</id>
+<slot>Prismatic</slot>
+</item>

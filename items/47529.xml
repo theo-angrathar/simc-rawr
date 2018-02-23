@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60510</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_141</iconpath>
+<stats>
+<armor>475</armor>
+<agility>98</agility>
+<stamina>74</stamina>
+<attackpower>142</attackpower>
+<critrating>61</critrating>
+<hitrating>64</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Mask of Distant Memory</name>
+<id>47529</id>
+<slot>Head</slot>
+</item>

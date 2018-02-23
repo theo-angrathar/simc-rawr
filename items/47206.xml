@@ -1,0 +1,24 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61660</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_107</iconpath>
+<stats>
+<stamina>66</stamina>
+<intellect>66</intellect>
+<spellpower>701</spellpower>
+<critrating>44</critrating>
+<hasterating>66</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Alliance</faction>
+<mindamage>108</mindamage>
+<maxdamage>343</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Misery's End</name>
+<id>47206</id>
+<slot>MainHand</slot>
+</item>

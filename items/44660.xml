@@ -1,0 +1,24 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_05</iconpath>
+<stats>
+<stamina>72</stamina>
+<strength>56</strength>
+<parryrating>30</parryrating>
+<blockrating>24</blockrating>
+<defenserating>25</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Drakescale Collar</name>
+<id>44660</id>
+<slot>Neck</slot>
+</item>

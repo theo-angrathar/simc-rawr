@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_mace_119</iconpath>
+<stats>
+<stamina>243</stamina>
+<attackpower>324</attackpower>
+<critrating>92</critrating>
+<resilience>92</resilience>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandMace</type>
+<faction>Neutral</faction>
+<mindamage>848</mindamage>
+<maxdamage>1273</maxdamage>
+<speed>3.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Wrathful Gladiator's Bonegrinder</name>
+<id>51390</id>
+<slot>TwoHand</slot>
+</item>

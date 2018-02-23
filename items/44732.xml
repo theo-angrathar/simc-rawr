@@ -1,0 +1,17 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>57302</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_86</iconpath>
+<stats>
+<armor>423</armor>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Azure Dragonleather Helm</name>
+<id>44732</id>
+<slot>Head</slot>
+</item>

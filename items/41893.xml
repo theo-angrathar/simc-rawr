@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_02</iconpath>
+<stats>
+<armor>138</armor>
+<stamina>73</stamina>
+<intellect>31</intellect>
+<spirit>42</spirit>
+<spellpower>73</spellpower>
+<resilience>42</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Furious Gladiator's Cuffs of Salvation</name>
+<id>41893</id>
+<slot>Wrist</slot>
+</item>

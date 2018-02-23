@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_05</iconpath>
+<stats>
+<armor>272</armor>
+<stamina>80</stamina>
+<intellect>81</intellect>
+<spirit>44</spirit>
+<spellpower>124</spellpower>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Deathbringer Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Valorous Deathbringer Leggings</name>
+<id>45420</id>
+<slot>Legs</slot>
+</item>

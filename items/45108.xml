@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59741</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_23b</iconpath>
+<stats>
+<armor>259</armor>
+<agility>63</agility>
+<stamina>63</stamina>
+<attackpower>84</attackpower>
+<critrating>39</critrating>
+<hasterating>44</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mechanist's Bindings</name>
+<id>45108</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>49373</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_71</iconpath>
+<stats>
+<agility>29</agility>
+<attackpower>58</attackpower>
+<hasterating>30</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>134</mindamage>
+<maxdamage>202</maxdamage>
+<speed>1.4</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ritualistic Athame</name>
+<id>37037</id>
+<slot>OneHand</slot>
+</item>

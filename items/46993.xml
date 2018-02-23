@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61722</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_75</iconpath>
+<stats>
+<armor>347</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spirit>94</spirit>
+<spellpower>151</spellpower>
+<hasterating>86</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Flowing Vestments of Ascent</name>
+<id>46993</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64665</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_11</iconpath>
+<stats>
+<armor>911</armor>
+<stamina>78</stamina>
+<intellect>64</intellect>
+<spellpower>105</spellpower>
+<critrating>61</critrating>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mudslide Boots</name>
+<id>50283</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55397</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_58</iconpath>
+<stats>
+<armor>353</armor>
+<stamina>76</stamina>
+<intellect>33</intellect>
+<spirit>27</spirit>
+<spellpower>68</spellpower>
+<resilience>35</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Refuge</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Hateful Gladiator's Kodohide Gloves</name>
+<id>41284</id>
+<slot>Hands</slot>
+</item>

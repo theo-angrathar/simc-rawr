@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53097</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_19</iconpath>
+<stats>
+<armor>280</armor>
+<stamina>67</stamina>
+<intellect>46</intellect>
+<spellpower>80</spellpower>
+<hasterating>70</hasterating>
+</stats>
+<quality>Rare</quality>
+<setname>Duskweaver</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Black Duskweave Robe</name>
+<id>41554</id>
+<slot>Chest</slot>
+</item>

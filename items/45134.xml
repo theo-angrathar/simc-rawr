@@ -1,0 +1,26 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59702</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_25</iconpath>
+<stats>
+<armor>2117</armor>
+<stamina>145</stamina>
+<strength>122</strength>
+<critrating>85</critrating>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Plated Leggings of Ruination</name>
+<id>45134</id>
+<slot>Legs</slot>
+</item>

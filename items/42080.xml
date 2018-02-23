@@ -1,0 +1,23 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_20</iconpath>
+<stats>
+<armor>166</armor>
+<stamina>86</stamina>
+<intellect>38</intellect>
+<spirit>50</spirit>
+<spellpower>89</spellpower>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Relentless Gladiator's Cloak of Deliverance</name>
+<id>42080</id>
+<slot>Back</slot>
+</item>

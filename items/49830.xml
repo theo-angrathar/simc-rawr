@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64949</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_153</iconpath>
+<stats>
+<armor>475</armor>
+<stamina>87</stamina>
+<intellect>64</intellect>
+<spellpower>105</spellpower>
+<critrating>73</critrating>
+<hasterating>46</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Fallen Sentry's Hood</name>
+<id>49830</id>
+<slot>Head</slot>
+</item>

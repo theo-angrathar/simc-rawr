@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54212</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_08</iconpath>
+<stats>
+<armor>131</armor>
+<stamina>37</stamina>
+<intellect>32</intellect>
+<spirit>38</spirit>
+<spellpower>59</spellpower>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Resurgent Phantom Bindings</name>
+<id>39390</id>
+<slot>Wrist</slot>
+</item>

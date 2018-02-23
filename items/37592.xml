@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57540</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_121</iconpath>
+<stats>
+<armor>985</armor>
+<stamina>46</stamina>
+<intellect>51</intellect>
+<spellpower>70</spellpower>
+<critrating>60</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Brood Plague Helmet</name>
+<id>37592</id>
+<slot>Head</slot>
+</item>

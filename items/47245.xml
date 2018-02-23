@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60505</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_102</iconpath>
+<stats>
+<armor>974</armor>
+<agility>75</agility>
+<stamina>55</stamina>
+<attackpower>113</attackpower>
+<intellect>38</intellect>
+<critrating>42</critrating>
+<hitrating>37</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<armorpenetrationrating>4</armorpenetrationrating>
+</socketbonus>
+<name>Pauldrons of Concealed Loathing</name>
+<id>47245</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64568</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_32</iconpath>
+<stats>
+<armor>2210</armor>
+<stamina>179</stamina>
+<strength>109</strength>
+<dodgerating>96</dodgerating>
+<defenserating>96</defenserating>
+<expertiserating>49</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Deathforged Legplates</name>
+<id>50808</id>
+<slot>Legs</slot>
+</item>

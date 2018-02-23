@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64558</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_115</iconpath>
+<stats>
+<armor>447</armor>
+<agility>89</agility>
+<stamina>78</stamina>
+<attackpower>128</attackpower>
+<critrating>61</critrating>
+<hitrating>57</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spaulders of Black Betrayal</name>
+<id>50293</id>
+<slot>Shoulders</slot>
+</item>

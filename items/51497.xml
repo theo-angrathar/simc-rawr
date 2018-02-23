@@ -1,0 +1,28 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_mail_02</iconpath>
+<stats>
+<armor>1507</armor>
+<stamina>195</stamina>
+<intellect>87</intellect>
+<spellpower>182</spellpower>
+<resilience>114</resilience>
+<mp5>49</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Wartide</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Wrathful Gladiator's Ringmail Armor</name>
+<id>51497</id>
+<slot>Chest</slot>
+</item>

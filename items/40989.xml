@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56925</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_02</iconpath>
+<stats>
+<armor>1254</armor>
+<stamina>102</stamina>
+<intellect>45</intellect>
+<spellpower>87</spellpower>
+<critrating>44</critrating>
+<resilience>59</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Thunderfist</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Hateful Gladiator's Mail Armor</name>
+<id>40989</id>
+<slot>Chest</slot>
+</item>

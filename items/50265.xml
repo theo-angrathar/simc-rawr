@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64662</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_33</iconpath>
+<stats>
+<armor>1160</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>141</spellpower>
+<hasterating>84</hasterating>
+<mp5>37</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Blackened Ghoul Skin Leggings</name>
+<id>50265</id>
+<slot>Legs</slot>
+</item>

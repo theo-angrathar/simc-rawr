@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55663</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_19</iconpath>
+<stats>
+<armor>154</armor>
+<stamina>66</stamina>
+<intellect>29</intellect>
+<spellpower>66</spellpower>
+<resilience>37</resilience>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deadly Gladiator's Cloak of Salvation</name>
+<id>42065</id>
+<slot>Back</slot>
+</item>

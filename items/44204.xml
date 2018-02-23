@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55991</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_73</iconpath>
+<stats>
+<armor>784</armor>
+<stamina>57</stamina>
+<intellect>48</intellect>
+<spellpower>77</spellpower>
+<mp5>33</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Grips of Fierce Pronouncements</name>
+<id>44204</id>
+<slot>Hands</slot>
+</item>

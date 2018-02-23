@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51886</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_16</iconpath>
+<stats>
+<armor>512</armor>
+<agility>28</agility>
+<stamina>23</stamina>
+<attackpower>78</attackpower>
+<intellect>14</intellect>
+<critrating>39</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Tornado Cuffs</name>
+<id>39657</id>
+<slot>Wrist</slot>
+</item>

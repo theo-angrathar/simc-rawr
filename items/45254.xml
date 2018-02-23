@@ -1,0 +1,19 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shield_56</iconpath>
+<stats>
+<bonusdeathcoildamage>380</bonusdeathcoildamage>
+<bonusfroststrikedamage>113</bonusfroststrikedamage>
+</stats>
+<quality>Epic</quality>
+<type>Sigil</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sigil of the Vengeful Heart</name>
+<id>45254</id>
+<slot>Ranged</slot>
+</item>

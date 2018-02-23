@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>65231</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_kilt_mail_01</iconpath>
+<stats>
+<armor>1237</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spellpower>140</spellpower>
+<critrating>84</critrating>
+<hasterating>84</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Rippling Flesh Kilt</name>
+<id>51019</id>
+<slot>Legs</slot>
+</item>

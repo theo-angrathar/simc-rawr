@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55046</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_22</iconpath>
+<stats>
+<armor>325</armor>
+<stamina>129</stamina>
+<frostresistance>86</frostresistance>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Polar Cord</name>
+<id>43591</id>
+<slot>Waist</slot>
+</item>

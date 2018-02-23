@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_naxxramas_03</iconpath>
+<stats>
+<armor>154</armor>
+<stamina>48</stamina>
+<intellect>41</intellect>
+<spellpower>66</spellpower>
+<critrating>38</critrating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cloak of Averted Crisis</name>
+<id>40254</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_05</iconpath>
+<stats>
+<armor>269</armor>
+<stamina>87</stamina>
+<intellect>77</intellect>
+<spellpower>99</spellpower>
+<hitrating>43</hitrating>
+<hasterating>67</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Frostfire Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Valorous Frostfire Leggings</name>
+<id>40417</id>
+<slot>Legs</slot>
+</item>

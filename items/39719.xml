@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55324</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_72</iconpath>
+<stats>
+<armor>231</armor>
+<stamina>57</stamina>
+<intellect>39</intellect>
+<spirit>67</spirit>
+<spellpower>78</spellpower>
+<hasterating>39</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Mantle of the Locusts</name>
+<id>39719</id>
+<slot>Shoulders</slot>
+</item>

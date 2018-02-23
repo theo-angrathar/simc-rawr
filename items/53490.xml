@@ -1,0 +1,27 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>64230</displayid>
+<displayslot>11</displayslot>
+<iconpath>item_icecrownringb</iconpath>
+<stats>
+<stamina>73</stamina>
+<intellect>73</intellect>
+<spellpower>104</spellpower>
+<critrating>56</critrating>
+<mp5>32</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<uniqueid>53490</uniqueid>
+<uniqueid>54585</uniqueid>
+<name>Ring of Phased Regeneration</name>
+<id>53490</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53289</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>434</armor>
+<agility>50</agility>
+<stamina>75</stamina>
+<attackpower>150</attackpower>
+<critrating>57</critrating>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Spaulders of Egotism</name>
+<id>40305</id>
+<slot>Shoulders</slot>
+</item>

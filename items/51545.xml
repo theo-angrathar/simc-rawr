@@ -1,0 +1,26 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_132</iconpath>
+<stats>
+<armor>2020</armor>
+<stamina>191</stamina>
+<strength>119</strength>
+<critrating>77</critrating>
+<resilience>85</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Wrathful Gladiator's Plate Shoulders</name>
+<id>51545</id>
+<slot>Shoulders</slot>
+</item>

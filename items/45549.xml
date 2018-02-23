@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_31b</iconpath>
+<stats>
+<armor>138</armor>
+<stamina>46</stamina>
+<intellect>49</intellect>
+<spirit>46</spirit>
+<spellpower>74</spellpower>
+<hitrating>36</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Grips of Chaos</name>
+<id>45549</id>
+<slot>Wrist</slot>
+</item>

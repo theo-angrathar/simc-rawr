@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35359</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_28naxxramas</iconpath>
+<stats>
+<stamina>37</stamina>
+<intellect>38</intellect>
+<spellpower>59</spellpower>
+<critrating>34</critrating>
+<mp5>16</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Lattice Choker of Light</name>
+<id>40681</id>
+<slot>Neck</slot>
+</item>

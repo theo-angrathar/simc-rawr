@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64668</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_85</iconpath>
+<stats>
+<armor>1650</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<critrating>64</critrating>
+<mp5>40</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Festergut's Gaseous Gloves</name>
+<id>51886</id>
+<slot>Hands</slot>
+</item>

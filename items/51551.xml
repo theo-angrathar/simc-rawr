@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>65228</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_15</iconpath>
+<stats>
+<armor>1413</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spellpower>140</spellpower>
+<hasterating>96</hasterating>
+<mp5>36</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Chestguard of Siphoned Elements</name>
+<id>51551</id>
+<slot>Chest</slot>
+</item>

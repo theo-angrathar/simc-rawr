@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>48510</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_41</iconpath>
+<stats>
+<stamina>94</stamina>
+<strength>63</strength>
+<blockrating>28</blockrating>
+<blockvalue>84</blockvalue>
+<defenserating>42</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Necklace of Unerring Mettle</name>
+<id>45262</id>
+<slot>Neck</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>32008</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_14</iconpath>
+<stats>
+<agility>33</agility>
+<stamina>51</stamina>
+<attackpower>84</attackpower>
+<armorpenetrationrating>42</armorpenetrationrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Titanium Impact Choker</name>
+<id>42645</id>
+<slot>Neck</slot>
+</item>

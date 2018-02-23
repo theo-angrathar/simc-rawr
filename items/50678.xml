@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64225</displayid>
+<displayslot>11</displayslot>
+<iconpath>item_icecrownringc</iconpath>
+<stats>
+<agility>102</agility>
+<stamina>102</stamina>
+<attackpower>120</attackpower>
+<critrating>68</critrating>
+<expertiserating>60</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<uniqueid>50025</uniqueid>
+<uniqueid>50678</uniqueid>
+<name>Seal of Many Mouths</name>
+<id>50678</id>
+<slot>Finger</slot>
+</item>

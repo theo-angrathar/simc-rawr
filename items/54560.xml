@@ -1,0 +1,26 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_83</iconpath>
+<stats>
+<armor>425</armor>
+<stamina>98</stamina>
+<intellect>98</intellect>
+<spellpower>131</spellpower>
+<critrating>78</critrating>
+<hasterating>78</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Changeling Gloves</name>
+<id>54560</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59712</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_20</iconpath>
+<stats>
+<armor>2117</armor>
+<stamina>156</stamina>
+<strength>128</strength>
+<dodgerating>51</dodgerating>
+<parryrating>67</parryrating>
+<defenserating>59</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Legplates of the Endless Void</name>
+<id>45594</id>
+<slot>Legs</slot>
+</item>

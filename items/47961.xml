@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62093</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_73</iconpath>
+<stats>
+<armor>865</armor>
+<stamina>77</stamina>
+<intellect>77</intellect>
+<spellpower>99</spellpower>
+<critrating>70</critrating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Gloves of the Azure Prophet</name>
+<id>47961</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_79</iconpath>
+<stats>
+<armor>1617</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spellpower>124</spellpower>
+<hasterating>76</hasterating>
+<mp5>34</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Garb</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Turalyon's Gloves of Triumph</name>
+<id>48583</id>
+<slot>Hands</slot>
+</item>

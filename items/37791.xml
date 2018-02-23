@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53814</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_13</iconpath>
+<stats>
+<armor>494</armor>
+<stamina>67</stamina>
+<intellect>68</intellect>
+<spellpower>104</spellpower>
+<hasterating>90</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leggings of the Winged Serpent</name>
+<id>37791</id>
+<slot>Legs</slot>
+</item>

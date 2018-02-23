@@ -1,0 +1,25 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_sword_155</iconpath>
+<stats>
+<stamina>59</stamina>
+<intellect>59</intellect>
+<spellpower>657</spellpower>
+<critrating>54</critrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>119</mindamage>
+<maxdamage>379</maxdamage>
+<speed>2.1</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Quel'Delar, Lens of the Mind</name>
+<id>50047</id>
+<slot>MainHand</slot>
+</item>

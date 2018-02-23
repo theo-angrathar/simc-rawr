@@ -1,0 +1,28 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_83</iconpath>
+<stats>
+<armor>361</armor>
+<stamina>195</stamina>
+<intellect>87</intellect>
+<spirit>98</spirit>
+<spellpower>182</spellpower>
+<resilience>114</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Investiture</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Wrathful Gladiator's Mooncloth Robe</name>
+<id>51482</id>
+<slot>Chest</slot>
+</item>

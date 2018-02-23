@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54740</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_offhand_naxxramas_d_01</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>41</intellect>
+<spirit>43</spirit>
+<spellpower>66</spellpower>
+<hasterating>32</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Matriarch's Spawn</name>
+<id>39766</id>
+<slot>OffHand</slot>
+</item>

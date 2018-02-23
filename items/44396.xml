@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_06</iconpath>
+<stats>
+<armor>175</armor>
+<stamina>33</stamina>
+<intellect>41</intellect>
+<spirit>51</spirit>
+<spellpower>60</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of the Time Guardian</name>
+<id>44396</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>8090</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_18</iconpath>
+<stats>
+<agility>36</agility>
+<stamina>42</stamina>
+<attackpower>70</attackpower>
+<armorpenetrationrating>28</armorpenetrationrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>261</mindamage>
+<maxdamage>485</maxdamage>
+<speed>2.6</speed>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Krol Cleaver</name>
+<id>43611</id>
+<slot>OneHand</slot>
+</item>

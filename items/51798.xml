@@ -1,0 +1,24 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>64518</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_115</iconpath>
+<stats>
+<stamina>65</stamina>
+<intellect>63</intellect>
+<spellpower>701</spellpower>
+<critrating>56</critrating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>131</mindamage>
+<maxdamage>419</maxdamage>
+<speed>2.2</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Valius, Gavel of the Lightbringer</name>
+<id>51798</id>
+<slot>MainHand</slot>
+</item>

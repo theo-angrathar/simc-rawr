@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>35430</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_naxxramas_01</iconpath>
+<stats>
+<armor>154</armor>
+<agility>38</agility>
+<stamina>57</stamina>
+<attackpower>110</attackpower>
+<armorpenetrationrating>28</armorpenetrationrating>
+<critrating>43</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Aged Winter Cloak</name>
+<id>40250</id>
+<slot>Back</slot>
+</item>

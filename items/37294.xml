@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52492</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_107</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>46</stamina>
+<intellect>62</intellect>
+<spirit>52</spirit>
+<spellpower>81</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Crown of Unbridled Magic</name>
+<id>37294</id>
+<slot>Head</slot>
+</item>

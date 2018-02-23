@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64311</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_kilt_cloth_02</iconpath>
+<stats>
+<armor>309</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>162</spellpower>
+<critrating>96</critrating>
+<hasterating>96</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Kilt of Untreated Wounds</name>
+<id>51882</id>
+<slot>Legs</slot>
+</item>

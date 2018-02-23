@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53811</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_09</iconpath>
+<stats>
+<armor>549</armor>
+<agility>35</agility>
+<stamina>54</stamina>
+<attackpower>100</attackpower>
+<intellect>29</intellect>
+<critrating>32</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Interwoven Scale Bracers</name>
+<id>37170</id>
+<slot>Wrist</slot>
+</item>

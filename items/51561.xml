@@ -1,0 +1,24 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64365</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_rifle_39</iconpath>
+<stats>
+<stamina>68</stamina>
+<strength>45</strength>
+<blockrating>26</blockrating>
+<blockvalue>63</blockvalue>
+<defenserating>24</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Gun</type>
+<faction>Neutral</faction>
+<mindamage>433</mindamage>
+<maxdamage>724</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Dreamhunter's Carbine</name>
+<id>51561</id>
+<slot>Ranged</slot>
+</item>

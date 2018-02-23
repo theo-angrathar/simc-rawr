@@ -1,0 +1,27 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_128</iconpath>
+<stats>
+<armor>509</armor>
+<agility>119</agility>
+<stamina>145</stamina>
+<attackpower>129</attackpower>
+<critrating>77</critrating>
+<resilience>85</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Sanctuary</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Wrathful Gladiator's Dragonhide Spaulders</name>
+<id>51430</id>
+<slot>Shoulders</slot>
+</item>

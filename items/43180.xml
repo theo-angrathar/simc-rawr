@@ -1,0 +1,20 @@
+<item>
+<itemlevel>175</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_19</iconpath>
+<stats>
+<stamina>29</stamina>
+<intellect>20</intellect>
+<spirit>20</spirit>
+<spellpower>55</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Lion's Head Ring</name>
+<id>43180</id>
+<slot>Finger</slot>
+</item>

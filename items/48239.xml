@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_30a</iconpath>
+<stats>
+<armor>545</armor>
+<agility>120</agility>
+<stamina>136</stamina>
+<attackpower>165</attackpower>
+<armorpenetrationrating>82</armorpenetrationrating>
+<hitrating>74</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>VanCleef's Battlegear</setname>
+<type>Leather</type>
+<faction>Horde</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Garona's Legplates of Triumph</name>
+<id>48239</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,19 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>26374</displayid>
+<displayslot>12</displayslot>
+<iconpath>inv_misc_monsterscales_15</iconpath>
+<stats>
+<mp5>85</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Purified Shard of the Gods</setname>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Purified Shard of the Scale</name>
+<id>49310</id>
+<slot>Trinket</slot>
+</item>

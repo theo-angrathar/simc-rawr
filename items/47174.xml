@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60457</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_11</iconpath>
+<stats>
+<armor>317</armor>
+<stamina>61</stamina>
+<intellect>46</intellect>
+<spirit>49</spirit>
+<spellpower>69</spellpower>
+<hasterating>28</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Binding of the Tranquil Glade</name>
+<id>47174</id>
+<slot>Waist</slot>
+</item>

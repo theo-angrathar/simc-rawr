@@ -1,0 +1,29 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56925</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_02</iconpath>
+<stats>
+<armor>1254</armor>
+<agility>60</agility>
+<stamina>103</stamina>
+<attackpower>88</attackpower>
+<intellect>29</intellect>
+<critrating>60</critrating>
+<resilience>59</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Earthshaker</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Hateful Gladiator's Linked Armor</name>
+<id>41079</id>
+<slot>Chest</slot>
+</item>

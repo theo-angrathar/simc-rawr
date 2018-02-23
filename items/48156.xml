@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_18b</iconpath>
+<stats>
+<armor>596</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>72</spirit>
+<spellpower>122</spellpower>
+<critrating>72</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Garb</setname>
+<type>Leather</type>
+<faction>Horde</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Runetotem's Robe of Conquest</name>
+<id>48156</id>
+<slot>Chest</slot>
+</item>

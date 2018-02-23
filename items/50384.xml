@@ -1,0 +1,26 @@
+<item>
+<itemlevel>259</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_83</iconpath>
+<stats>
+<stamina>66</stamina>
+<intellect>66</intellect>
+<spellpower>101</spellpower>
+<hitrating>50</hitrating>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<uniqueid>50377</uniqueid>
+<uniqueid>50398</uniqueid>
+<uniqueid>50384</uniqueid>
+<uniqueid>50397</uniqueid>
+<name>Ashen Band of Greater Destruction</name>
+<id>50384</id>
+<slot>Finger</slot>
+</item>

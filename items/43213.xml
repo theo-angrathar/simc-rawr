@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_26</iconpath>
+<stats>
+<armor>1308</armor>
+<agility>34</agility>
+<stamina>76</stamina>
+<strength>51</strength>
+<defenserating>34</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of Vigilance</name>
+<id>43213</id>
+<slot>Hands</slot>
+</item>

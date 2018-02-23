@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>43421</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_12</iconpath>
+<stats>
+<armor>309</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spirit>108</spirit>
+<spellpower>162</spellpower>
+<critrating>84</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Lightweave Leggings</name>
+<id>49892</id>
+<slot>Legs</slot>
+</item>

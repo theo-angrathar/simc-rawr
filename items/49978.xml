@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64347</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_66</iconpath>
+<stats>
+<armor>199</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<critrating>64</critrating>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Crushing Coldwraith Belt</name>
+<id>49978</id>
+<slot>Waist</slot>
+</item>

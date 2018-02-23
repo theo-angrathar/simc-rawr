@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53925</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_126</iconpath>
+<stats>
+<armor>244</armor>
+<stamina>67</stamina>
+<intellect>68</intellect>
+<spellpower>85</spellpower>
+<hasterating>48</hasterating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Cowl of Sheet Lightning</name>
+<id>39295</id>
+<slot>Head</slot>
+</item>

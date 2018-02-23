@@ -1,0 +1,19 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62984</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_18</iconpath>
+<stats></stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>357</mindamage>
+<maxdamage>665</maxdamage>
+<speed>2.6</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Tempered Vis'kag the Bloodletter</name>
+<id>49501</id>
+<slot>OneHand</slot>
+</item>

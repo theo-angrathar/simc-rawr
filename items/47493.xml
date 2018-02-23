@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60562</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_axe_76</iconpath>
+<stats>
+<stamina>97</stamina>
+<strength>121</strength>
+<armorpenetrationrating>76</armorpenetrationrating>
+<critrating>62</critrating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>594</mindamage>
+<maxdamage>892</maxdamage>
+<speed>3.5</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Edge of Ruin</name>
+<id>47493</id>
+<slot>TwoHand</slot>
+</item>

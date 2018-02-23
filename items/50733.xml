@@ -1,0 +1,27 @@
+<item>
+<itemlevel>284</itemlevel>
+<displayid>64371</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_crossbow_38</iconpath>
+<stats>
+<agility>62</agility>
+<stamina>62</stamina>
+<attackpower>66</attackpower>
+<armorpenetrationrating>33</armorpenetrationrating>
+<critrating>41</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Crossbow</type>
+<faction>Neutral</faction>
+<mindamage>782</mindamage>
+<maxdamage>1071</maxdamage>
+<speed>3</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Fal'inrush, Defender of Quel'thalas</name>
+<id>50733</id>
+<slot>Ranged</slot>
+</item>

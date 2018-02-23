@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62137</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_46b</iconpath>
+<stats>
+<armor>1332</armor>
+<stamina>102</stamina>
+<strength>94</strength>
+<armorpenetrationrating>58</armorpenetrationrating>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<armorpenetrationrating>4</armorpenetrationrating>
+</socketbonus>
+<name>Belt of the Impaler</name>
+<id>47859</id>
+<slot>Waist</slot>
+</item>

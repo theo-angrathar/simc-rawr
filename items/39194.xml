@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53838</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_59</iconpath>
+<stats>
+<armor>784</armor>
+<agility>48</agility>
+<stamina>51</stamina>
+<attackpower>116</attackpower>
+<intellect>36</intellect>
+<critrating>30</critrating>
+<hitrating>34</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Rusted-Link Spiked Gauntlets</name>
+<id>39194</id>
+<slot>Hands</slot>
+</item>

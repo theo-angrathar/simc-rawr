@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59289</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_64</iconpath>
+<stats>
+<armor>7802</armor>
+<stamina>45</stamina>
+<intellect>45</intellect>
+<spellpower>69</spellpower>
+<critrating>42</critrating>
+<blockvalue>218</blockvalue>
+<hasterating>34</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pulsing Spellshield</name>
+<id>45682</id>
+<slot>OffHand</slot>
+</item>

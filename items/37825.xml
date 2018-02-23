@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52364</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_06</iconpath>
+<stats>
+<armor>181</armor>
+<stamina>42</stamina>
+<intellect>53</intellect>
+<spellpower>59</spellpower>
+<hasterating>44</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Traditionally Dyed Handguards</name>
+<id>37825</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,20 @@
+<enchant>
+<id>3604</id>
+<name>Hyperspeed Accelerators</name>
+<slot>Hands</slot>
+<stats>
+<specialeffects>
+<specialeffect>
+<trigger>Use</trigger>
+<stats>
+<hasterating>340</hasterating>
+</stats>
+<duration>12</duration>
+<cooldown>60</cooldown>
+<chance>1</chance>
+<maxstack>1</maxstack>
+</specialeffect>
+</specialeffects>
+<specialeffectcount>1</specialeffectcount>
+</stats>
+</enchant>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_21</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>90</stamina>
+<strength>49</strength>
+<blockrating>40</blockrating>
+<defenserating>32</defenserating>
+<expertiserating>26</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Cloak of the Iron Council</name>
+<id>45322</id>
+<slot>Back</slot>
+</item>

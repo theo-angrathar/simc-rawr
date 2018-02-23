@@ -1,0 +1,21 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>39210</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_34</iconpath>
+<stats>
+<agility>76</agility>
+<stamina>76</stamina>
+<attackpower>101</attackpower>
+<critrating>54</critrating>
+<hasterating>44</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Charge of the Demon Lord</name>
+<id>47043</id>
+<slot>Neck</slot>
+</item>

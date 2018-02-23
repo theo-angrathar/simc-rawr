@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_95</iconpath>
+<stats>
+<armor>1124</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>131</spellpower>
+<critrating>80</critrating>
+<hasterating>84</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Regalia</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Nobundo's Helm of Triumph</name>
+<id>48318</id>
+<slot>Head</slot>
+</item>

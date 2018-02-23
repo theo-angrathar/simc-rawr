@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>35313</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_50naxxramas</iconpath>
+<stats>
+<stamina>94</stamina>
+<strength>42</strength>
+<dodgerating>36</dodgerating>
+<defenserating>46</defenserating>
+<expertiserating>42</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Platinum Band of the Aesir</name>
+<id>45326</id>
+<slot>Finger</slot>
+</item>

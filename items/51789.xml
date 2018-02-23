@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64448</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_83</iconpath>
+<stats>
+<armor>398</armor>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spirit>71</spirit>
+<spellpower>106</spellpower>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Icicle Shapers</name>
+<id>51789</id>
+<slot>Hands</slot>
+</item>

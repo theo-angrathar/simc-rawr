@@ -1,0 +1,26 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59744</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_51</iconpath>
+<stats>
+<armor>457</armor>
+<agility>87</agility>
+<stamina>96</stamina>
+<attackpower>122</attackpower>
+<hitrating>55</hitrating>
+<expertiserating>47</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Shoulderpads of the Intruder</name>
+<id>45245</id>
+<slot>Shoulders</slot>
+</item>

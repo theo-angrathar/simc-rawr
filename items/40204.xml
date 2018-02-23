@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>51008</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_20</iconpath>
+<stats>
+<armor>2011</armor>
+<stamina>75</stamina>
+<intellect>77</intellect>
+<spellpower>118</spellpower>
+<critrating>58</critrating>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Legguards of the Apostle</name>
+<id>40204</id>
+<slot>Legs</slot>
+</item>

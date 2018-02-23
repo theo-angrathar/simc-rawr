@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59631</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_51</iconpath>
+<stats>
+<armor>821</armor>
+<agility>84</agility>
+<stamina>67</stamina>
+<attackpower>114</attackpower>
+<armorpenetrationrating>45</armorpenetrationrating>
+<intellect>44</intellect>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of the Fiery Behemoth</name>
+<id>45109</id>
+<slot>Hands</slot>
+</item>

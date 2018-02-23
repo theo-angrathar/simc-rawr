@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_23</iconpath>
+<stats>
+<spirit>6</spirit>
+<spellpower>7</spellpower>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Purified Shadow Crystal</name>
+<id>39941</id>
+<slot>Purple</slot>
+</item>

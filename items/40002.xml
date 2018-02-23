@@ -1,0 +1,16 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_28</iconpath>
+<stats>
+<armorpenetrationrating>16</armorpenetrationrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Fractured Scarlet Ruby</name>
+<id>40002</id>
+<slot>Red</slot>
+</item>

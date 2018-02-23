@@ -1,0 +1,23 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_33</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>103</stamina>
+<intellect>46</intellect>
+<spirit>60</spirit>
+<spellpower>106</spellpower>
+<resilience>60</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Cuffs of Salvation</name>
+<id>51367</id>
+<slot>Wrist</slot>
+</item>

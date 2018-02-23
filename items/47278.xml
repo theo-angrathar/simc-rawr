@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>50376</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_80</iconpath>
+<stats>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spellpower>89</spellpower>
+<hasterating>50</hasterating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Circle of the Darkmender</name>
+<id>47278</id>
+<slot>Finger</slot>
+</item>

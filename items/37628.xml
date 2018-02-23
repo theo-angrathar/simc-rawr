@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53118</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_13</iconpath>
+<stats>
+<armor>682</armor>
+<stamina>45</stamina>
+<intellect>43</intellect>
+<spellpower>68</spellpower>
+<mp5>29</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Slad'ran's Coiled Cord</name>
+<id>37628</id>
+<slot>Waist</slot>
+</item>

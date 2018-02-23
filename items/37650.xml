@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51459</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_20</iconpath>
+<stats>
+<armor>1895</armor>
+<stamina>67</stamina>
+<intellect>55</intellect>
+<spellpower>82</spellpower>
+<hasterating>70</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Shardling Legguards</name>
+<id>37650</id>
+<slot>Legs</slot>
+</item>

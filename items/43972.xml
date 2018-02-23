@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55363</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_51</iconpath>
+<stats>
+<armor>280</armor>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spellpower>81</spellpower>
+<critrating>46</critrating>
+<resilience>46</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Frostsavage Battlegear</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Frostsavage Robe</name>
+<id>43972</id>
+<slot>Chest</slot>
+</item>

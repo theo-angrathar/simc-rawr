@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52500</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>1760</armor>
+<stamina>59</stamina>
+<intellect>60</intellect>
+<spellpower>90</spellpower>
+<mp5>38</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Faceguard of the Hammer Clan</name>
+<id>43280</id>
+<slot>Head</slot>
+</item>

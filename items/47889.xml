@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61865</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_61</iconpath>
+<stats>
+<armor>198</armor>
+<stamina>68</stamina>
+<intellect>60</intellect>
+<spellpower>96</spellpower>
+<hitrating>44</hitrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Looming Shadow Wraps</name>
+<id>47889</id>
+<slot>Hands</slot>
+</item>

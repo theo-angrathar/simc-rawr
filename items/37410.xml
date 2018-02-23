@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51708</displayid>
+<displayslot>25</displayslot>
+<iconpath>inv_misc_coin_10</iconpath>
+<stats>
+<stamina>39</stamina>
+<attackpower>52</attackpower>
+<critrating>26</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Thrown</type>
+<faction>Neutral</faction>
+<mindamage>270</mindamage>
+<maxdamage>406</maxdamage>
+<speed>2</speed>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Tracker's Balanced Knives</name>
+<id>37410</id>
+<slot>Ranged</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61233</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_52</iconpath>
+<stats>
+<armor>186</armor>
+<stamina>77</stamina>
+<intellect>77</intellect>
+<spirit>67</spirit>
+<spellpower>109</spellpower>
+<hasterating>59</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Cord of the Tenebrous Mist</name>
+<id>46972</id>
+<slot>Waist</slot>
+</item>

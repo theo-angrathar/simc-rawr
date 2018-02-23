@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55539</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_28</iconpath>
+<stats>
+<armor>254</armor>
+<stamina>88</stamina>
+<intellect>39</intellect>
+<spirit>36</spirit>
+<spellpower>73</spellpower>
+<resilience>52</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Investiture</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Savage Gladiator's Mooncloth Leggings</name>
+<id>41849</id>
+<slot>Legs</slot>
+</item>

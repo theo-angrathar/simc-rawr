@@ -1,0 +1,25 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64152</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_sword_155</iconpath>
+<stats>
+<agility>144</agility>
+<stamina>136</stamina>
+<attackpower>197</attackpower>
+<armorpenetrationrating>91</armorpenetrationrating>
+<critrating>99</critrating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandSword</type>
+<faction>Neutral</faction>
+<mindamage>727</mindamage>
+<maxdamage>1091</maxdamage>
+<speed>3.4</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Quel'Delar, Ferocity of the Scorned</name>
+<id>50049</id>
+<slot>TwoHand</slot>
+</item>

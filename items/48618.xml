@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_65</iconpath>
+<stats>
+<armor>1617</armor>
+<stamina>130</stamina>
+<strength>122</strength>
+<critrating>76</critrating>
+<hitrating>68</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Battlegear</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Liadrin's Gauntlets of Triumph</name>
+<id>48618</id>
+<slot>Hands</slot>
+</item>

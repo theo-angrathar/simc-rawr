@@ -1,0 +1,29 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62974</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_146</iconpath>
+<stats>
+<armor>1925</armor>
+<stamina>154</stamina>
+<strength>83</strength>
+<hitrating>59</hitrating>
+<parryrating>77</parryrating>
+<defenserating>70</defenserating>
+<frostresistance>10</frostresistance>
+<shadowresistance>10</shadowresistance>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Frostforged Ringhelm</name>
+<id>49332</id>
+<slot>Head</slot>
+</item>

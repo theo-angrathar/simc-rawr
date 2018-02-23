@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55009</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_17</iconpath>
+<stats>
+<armor>682</armor>
+<stamina>49</stamina>
+<intellect>41</intellect>
+<spellpower>59</spellpower>
+<hasterating>50</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Girdle of the Ethereal</name>
+<id>37868</id>
+<slot>Waist</slot>
+</item>

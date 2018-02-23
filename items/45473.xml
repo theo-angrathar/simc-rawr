@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59737</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_16</iconpath>
+<stats>
+<armor>609</armor>
+<agility>112</agility>
+<stamina>127</stamina>
+<attackpower>140</attackpower>
+<critrating>70</critrating>
+<hasterating>85</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Embrace of the Gladiator</name>
+<id>45473</id>
+<slot>Chest</slot>
+</item>

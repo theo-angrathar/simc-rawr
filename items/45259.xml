@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59271</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate19</iconpath>
+<stats>
+<armor>1314</armor>
+<stamina>99</stamina>
+<intellect>81</intellect>
+<spellpower>113</spellpower>
+<hasterating>66</hasterating>
+<mp5>33</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Quartz-studded Harness</name>
+<id>45259</id>
+<slot>Chest</slot>
+</item>

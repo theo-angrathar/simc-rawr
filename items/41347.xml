@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53003</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_20</iconpath>
+<stats>
+<armor>1831</armor>
+<stamina>99</stamina>
+<strength>59</strength>
+<critrating>44</critrating>
+<resilience>58</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Saronite Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Savage Saronite Legplates</name>
+<id>41347</id>
+<slot>Legs</slot>
+</item>

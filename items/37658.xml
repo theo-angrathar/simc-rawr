@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51520</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>2166</armor>
+<stamina>117</stamina>
+<strength>53</strength>
+<hitrating>51</hitrating>
+<defenserating>60</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Sun-Emblazoned Chestplate</name>
+<id>37658</id>
+<slot>Chest</slot>
+</item>

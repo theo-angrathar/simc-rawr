@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_17</iconpath>
+<stats>
+<armor>194</armor>
+<stamina>69</stamina>
+<intellect>57</intellect>
+<spirit>25</spirit>
+<spellpower>92</spellpower>
+<hitrating>59</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Deathbringer Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Valorous Deathbringer Gloves</name>
+<id>45419</id>
+<slot>Hands</slot>
+</item>

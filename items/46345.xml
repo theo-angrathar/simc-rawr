@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_29</iconpath>
+<stats>
+<armor>1016</armor>
+<stamina>53</stamina>
+<intellect>43</intellect>
+<spellpower>52</spellpower>
+<hasterating>29</hasterating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Bracers of Righteous Reformation</name>
+<id>46345</id>
+<slot>Wrist</slot>
+</item>

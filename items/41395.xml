@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_shadowspirit_02</iconpath>
+<stats>
+<spellpower>25</spellpower>
+<threatreductionmultiplier>0.02</threatreductionmultiplier>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Bracing Earthsiege Diamond</name>
+<id>41395</id>
+<slot>Meta</slot>
+</item>

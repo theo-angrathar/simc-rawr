@@ -1,0 +1,28 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_149</iconpath>
+<stats>
+<armor>564</armor>
+<agility>183</agility>
+<stamina>183</stamina>
+<attackpower>196</attackpower>
+<armorpenetrationrating>106</armorpenetrationrating>
+<critrating>114</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Shadowblade's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Sanctified Shadowblade Helmet</name>
+<id>51252</id>
+<slot>Head</slot>
+</item>

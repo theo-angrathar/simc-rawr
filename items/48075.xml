@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_75</iconpath>
+<stats>
+<armor>317</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>72</spirit>
+<spellpower>122</spellpower>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Velen's Regalia</setname>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Velen's Raiments of Conquest</name>
+<id>48075</id>
+<slot>Chest</slot>
+</item>

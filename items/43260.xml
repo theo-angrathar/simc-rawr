@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56701</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_04</iconpath>
+<stats>
+<armor>428</armor>
+<agility>69</agility>
+<stamina>69</stamina>
+<attackpower>92</attackpower>
+<critrating>46</critrating>
+<resilience>46</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Eviscerator's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Eviscerator's Facemask</name>
+<id>43260</id>
+<slot>Head</slot>
+</item>

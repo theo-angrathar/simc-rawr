@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>58895</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_hand_22</iconpath>
+<stats>
+<agility>42</agility>
+<stamina>45</stamina>
+<attackpower>80</attackpower>
+<critrating>30</critrating>
+<hitrating>34</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>FistWeapon</type>
+<faction>Neutral</faction>
+<mindamage>386</mindamage>
+<maxdamage>580</maxdamage>
+<speed>2.7</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>The Masticator</name>
+<id>45449</id>
+<slot>MainHand</slot>
+</item>

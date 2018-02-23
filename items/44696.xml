@@ -1,0 +1,17 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>56516</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_15</iconpath>
+<stats>
+<armor>228</armor>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Giant's Toewrap</name>
+<id>44696</id>
+<slot>Wrist</slot>
+</item>

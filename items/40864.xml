@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55826</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_62</iconpath>
+<stats>
+<armor>1723</armor>
+<stamina>111</stamina>
+<strength>67</strength>
+<critrating>42</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Vindication</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Deadly Gladiator's Scaled Shoulders</name>
+<id>40864</id>
+<slot>Shoulders</slot>
+</item>

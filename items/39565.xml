@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>423</armor>
+<agility>45</agility>
+<stamina>64</stamina>
+<attackpower>88</attackpower>
+<critrating>50</critrating>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Bonescythe Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Heroes' Bonescythe Pauldrons</name>
+<id>39565</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_58</iconpath>
+<stats>
+<armor>1867</armor>
+<stamina>127</stamina>
+<strength>80</strength>
+<blockvalue>153</blockvalue>
+<defenserating>66</defenserating>
+<expertiserating>35</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Redemption Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<expertiserating>6</expertiserating>
+</socketbonus>
+<name>Valorous Redemption Faceguard</name>
+<id>40581</id>
+<slot>Head</slot>
+</item>

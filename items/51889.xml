@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64416</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_34</iconpath>
+<stats>
+<armor>582</armor>
+<agility>162</agility>
+<stamina>162</stamina>
+<attackpower>168</attackpower>
+<critrating>84</critrating>
+<hasterating>108</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<hasterating>8</hasterating>
+</socketbonus>
+<name>Plague-Soaked Leather Leggings</name>
+<id>51889</id>
+<slot>Legs</slot>
+</item>

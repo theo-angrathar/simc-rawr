@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54516</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_65</iconpath>
+<stats>
+<armor>758</armor>
+<agility>38</agility>
+<stamina>57</stamina>
+<attackpower>116</attackpower>
+<intellect>29</intellect>
+<critrating>44</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of the Plundering Geist</name>
+<id>37614</id>
+<slot>Hands</slot>
+</item>

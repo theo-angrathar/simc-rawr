@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52568</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_08</iconpath>
+<stats>
+<armor>1439</armor>
+<stamina>51</stamina>
+<intellect>34</intellect>
+<spellpower>60</spellpower>
+<resilience>34</resilience>
+<mp5>18</mp5>
+</stats>
+<quality>Rare</quality>
+<setname>Ornate Saronite Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Ornate Saronite Walkers</name>
+<id>42730</id>
+<slot>Feet</slot>
+</item>

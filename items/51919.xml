@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65035</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_83</iconpath>
+<stats>
+<armor>831</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<hasterating>84</hasterating>
+<mp5>29</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus></socketbonus>
+<uniqueid>50784</uniqueid>
+<uniqueid>51919</uniqueid>
+<name>Deathspeaker Disciple's Belt</name>
+<id>51919</id>
+<slot>Waist</slot>
+</item>

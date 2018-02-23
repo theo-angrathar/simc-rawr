@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61985</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_95</iconpath>
+<stats>
+<armor>1077</armor>
+<stamina>92</stamina>
+<intellect>84</intellect>
+<spellpower>122</spellpower>
+<critrating>84</critrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Helmet of the Crypt Lord</name>
+<id>47813</id>
+<slot>Head</slot>
+</item>

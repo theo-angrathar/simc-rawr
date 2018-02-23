@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_leather_02</iconpath>
+<stats>
+<armor>402</armor>
+<stamina>69</stamina>
+<intellect>57</intellect>
+<spirit>52</spirit>
+<spellpower>93</spellpower>
+<hasterating>53</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Boots of the Petrified Forest</name>
+<id>45378</id>
+<slot>Feet</slot>
+</item>

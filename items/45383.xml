@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1451</armor>
+<stamina>106</stamina>
+<strength>78</strength>
+<parryrating>32</parryrating>
+<blockvalue>129</blockvalue>
+<defenserating>41</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Aegis Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Valorous Aegis Handguards</name>
+<id>45383</id>
+<slot>Hands</slot>
+</item>

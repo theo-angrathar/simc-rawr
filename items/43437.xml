@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56709</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_04</iconpath>
+<stats>
+<armor>296</armor>
+<agility>51</agility>
+<stamina>51</stamina>
+<attackpower>68</attackpower>
+<critrating>34</critrating>
+<resilience>34</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Eviscerator's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Eviscerator's Waistguard</name>
+<id>43437</id>
+<slot>Waist</slot>
+</item>

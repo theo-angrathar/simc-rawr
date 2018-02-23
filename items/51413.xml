@@ -1,0 +1,27 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate_25</iconpath>
+<stats>
+<armor>2694</armor>
+<stamina>257</stamina>
+<strength>155</strength>
+<critrating>98</critrating>
+<resilience>114</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Desecration</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Wrathful Gladiator's Dreadplate Chestpiece</name>
+<id>51413</id>
+<slot>Chest</slot>
+</item>

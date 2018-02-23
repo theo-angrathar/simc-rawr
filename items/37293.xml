@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51003</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_104</iconpath>
+<stats>
+<armor>443</armor>
+<agility>36</agility>
+<stamina>66</stamina>
+<attackpower>140</attackpower>
+<expertiserating>62</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Mask of the Watcher</name>
+<id>37293</id>
+<slot>Head</slot>
+</item>

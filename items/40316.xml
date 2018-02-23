@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54881</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_15</iconpath>
+<stats>
+<armor>1436</armor>
+<stamina>57</stamina>
+<intellect>57</intellect>
+<spellpower>78</spellpower>
+<hasterating>47</hasterating>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Gauntlets of Guiding Touch</name>
+<id>40316</id>
+<slot>Hands</slot>
+</item>

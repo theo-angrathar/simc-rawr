@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_27</iconpath>
+<stats>
+<armor>511</armor>
+<agility>106</agility>
+<stamina>92</stamina>
+<attackpower>162</attackpower>
+<critrating>53</critrating>
+<hasterating>76</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leggings of Swift Reflexes</name>
+<id>45324</id>
+<slot>Legs</slot>
+</item>

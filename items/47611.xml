@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62001</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32</iconpath>
+<stats>
+<armor>1036</armor>
+<stamina>100</stamina>
+<strength>48</strength>
+<hitrating>39</hitrating>
+<parryrating>51</parryrating>
+<defenserating>34</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Dreadscale Armguards</name>
+<id>47611</id>
+<slot>Wrist</slot>
+</item>

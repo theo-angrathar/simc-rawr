@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64312</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_77</iconpath>
+<stats>
+<armor>354</armor>
+<stamina>123</stamina>
+<intellect>115</intellect>
+<spellpower>162</spellpower>
+<critrating>87</critrating>
+<hasterating>108</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Robes of Azure Downfall</name>
+<id>51813</id>
+<slot>Chest</slot>
+</item>

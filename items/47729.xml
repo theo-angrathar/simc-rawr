@@ -1,0 +1,21 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_71</iconpath>
+<stats>
+<stamina>86</stamina>
+<strength>86</strength>
+<critrating>54</critrating>
+<hitrating>44</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bloodshed Band</name>
+<id>47729</id>
+<slot>Finger</slot>
+</item>

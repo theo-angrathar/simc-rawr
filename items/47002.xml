@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61342</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_49c</iconpath>
+<stats>
+<armor>1455</armor>
+<stamina>129</stamina>
+<strength>114</strength>
+<critrating>68</critrating>
+<expertiserating>68</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Bloodbath Belt</name>
+<id>47002</id>
+<slot>Waist</slot>
+</item>

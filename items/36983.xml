@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51925</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_20</iconpath>
+<stats>
+<armor>140</armor>
+<stamina>28</stamina>
+<intellect>38</intellect>
+<spellpower>46</spellpower>
+<hitrating>29</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cape of Seething Steam</name>
+<id>36983</id>
+<slot>Back</slot>
+</item>

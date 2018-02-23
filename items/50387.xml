@@ -1,0 +1,26 @@
+<item>
+<itemlevel>259</itemlevel>
+<displayid>63958</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_81</iconpath>
+<stats>
+<agility>86</agility>
+<stamina>76</stamina>
+<attackpower>123</attackpower>
+<critrating>57</critrating>
+<hitrating>57</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<uniqueid>50402</uniqueid>
+<uniqueid>50387</uniqueid>
+<uniqueid>50401</uniqueid>
+<uniqueid>50376</uniqueid>
+<name>Ashen Band of Greater Vengeance</name>
+<id>50387</id>
+<slot>Finger</slot>
+</item>

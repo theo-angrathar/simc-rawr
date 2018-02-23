@@ -1,0 +1,29 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_kilt_mail_01</iconpath>
+<stats>
+<armor>1237</armor>
+<agility>144</agility>
+<stamina>113</stamina>
+<attackpower>159</attackpower>
+<intellect>76</intellect>
+<critrating>88</critrating>
+<hitrating>68</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Frost Witch's Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Frost Witch's War-Kilt</name>
+<id>50833</id>
+<slot>Legs</slot>
+</item>

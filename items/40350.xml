@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54614</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_offhand_naxxramas_04</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>32</intellect>
+<spellpower>66</spellpower>
+<critrating>41</critrating>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Urn of Lost Memories</name>
+<id>40350</id>
+<slot>OffHand</slot>
+</item>

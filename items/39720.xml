@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54703</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_14</iconpath>
+<stats>
+<armor>269</armor>
+<stamina>75</stamina>
+<intellect>78</intellect>
+<spellpower>118</spellpower>
+<critrating>76</critrating>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leggings of Atrophy</name>
+<id>39720</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>57074</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_12</iconpath>
+<stats>
+<armor>563</armor>
+<stamina>55</stamina>
+<intellect>38</intellect>
+<spellpower>56</spellpower>
+<critrating>43</critrating>
+<hasterating>20</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Bands of Mutual Respect</name>
+<id>40324</id>
+<slot>Wrist</slot>
+</item>

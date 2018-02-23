@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54710</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_17</iconpath>
+<stats>
+<armor>1286</armor>
+<stamina>75</stamina>
+<intellect>77</intellect>
+<spellpower>118</spellpower>
+<hasterating>67</hasterating>
+<mp5>33</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Quivering Tunic</name>
+<id>40061</id>
+<slot>Chest</slot>
+</item>

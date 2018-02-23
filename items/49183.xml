@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_cloth_23</iconpath>
+<stats>
+<armor>228</armor>
+<stamina>115</stamina>
+<intellect>51</intellect>
+<spellpower>109</spellpower>
+<resilience>67</resilience>
+<hasterating>59</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Relentless Gladiator's Treads of Alacrity</name>
+<id>49183</id>
+<slot>Feet</slot>
+</item>

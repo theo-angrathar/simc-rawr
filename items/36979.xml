@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>31905</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_43</iconpath>
+<stats>
+<agility>38</agility>
+<stamina>33</stamina>
+<attackpower>78</attackpower>
+<hasterating>27</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bjarngrim Family Signet</name>
+<id>36979</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>57091</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_12</iconpath>
+<stats>
+<armor>884</armor>
+<stamina>55</stamina>
+<intellect>57</intellect>
+<spellpower>88</spellpower>
+<hasterating>43</hasterating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Atonement Greaves</name>
+<id>39734</id>
+<slot>Feet</slot>
+</item>

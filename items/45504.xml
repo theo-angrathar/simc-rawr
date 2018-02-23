@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59185</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_09</iconpath>
+<stats>
+<armor>1150</armor>
+<agility>106</agility>
+<stamina>88</stamina>
+<attackpower>120</attackpower>
+<intellect>59</intellect>
+<hitrating>52</hitrating>
+<hasterating>75</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Darkcore Leggings</name>
+<id>45504</id>
+<slot>Legs</slot>
+</item>

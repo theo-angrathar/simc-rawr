@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62009</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_20</iconpath>
+<stats>
+<armor>1777</armor>
+<stamina>134</stamina>
+<strength>81</strength>
+<parryrating>41</parryrating>
+<blockvalue>151</blockvalue>
+<defenserating>39</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<parryrating>4</parryrating>
+</socketbonus>
+<name>Pauldrons of the Silver Defender</name>
+<id>47720</id>
+<slot>Shoulders</slot>
+</item>

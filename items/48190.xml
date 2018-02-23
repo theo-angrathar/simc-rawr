@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_30b</iconpath>
+<stats>
+<armor>522</armor>
+<agility>104</agility>
+<stamina>120</stamina>
+<attackpower>129</attackpower>
+<critrating>80</critrating>
+<hitrating>64</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Battlegear</setname>
+<type>Leather</type>
+<faction>Horde</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Runetotem's Legguards of Conquest</name>
+<id>48190</id>
+<slot>Legs</slot>
+</item>

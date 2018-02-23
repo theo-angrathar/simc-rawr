@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64343</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_25</iconpath>
+<stats>
+<armor>243</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<critrating>80</critrating>
+<hitrating>64</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Deathfrost Boots</name>
+<id>49890</id>
+<slot>Feet</slot>
+</item>

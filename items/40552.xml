@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1436</armor>
+<stamina>111</stamina>
+<strength>67</strength>
+<critrating>49</critrating>
+<hitrating>39</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgeborne Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Valorous Scourgeborne Gauntlets</name>
+<id>40552</id>
+<slot>Hands</slot>
+</item>

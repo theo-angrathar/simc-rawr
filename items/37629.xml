@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53116</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_15</iconpath>
+<stats>
+<armor>199</armor>
+<stamina>43</stamina>
+<intellect>44</intellect>
+<spellpower>68</spellpower>
+<critrating>57</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Slithering Slippers</name>
+<id>37629</id>
+<slot>Feet</slot>
+</item>

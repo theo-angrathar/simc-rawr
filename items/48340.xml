@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_67</iconpath>
+<stats>
+<armor>994</armor>
+<stamina>68</stamina>
+<intellect>68</intellect>
+<spellpower>96</spellpower>
+<critrating>52</critrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Regalia</setname>
+<type>Mail</type>
+<faction>Horde</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Thrall's Shoulderpads of Conquest</name>
+<id>48340</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61234</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_52</iconpath>
+<stats>
+<armor>195</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spellpower>114</spellpower>
+<critrating>73</critrating>
+<hitrating>58</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Cord of Biting Cold</name>
+<id>47084</id>
+<slot>Waist</slot>
+</item>

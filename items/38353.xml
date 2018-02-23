@@ -1,0 +1,20 @@
+<item>
+<itemlevel>150</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_06</iconpath>
+<stats>
+<armor>113</armor>
+<stamina>30</stamina>
+<attackpower>64</attackpower>
+<critrating>28</critrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Venture Bay Buccaneer's Cape</name>
+<id>38353</id>
+<slot>Back</slot>
+</item>

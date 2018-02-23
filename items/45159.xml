@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_leather_02</iconpath>
+<stats>
+<armor>375</armor>
+<agility>42</agility>
+<stamina>49</stamina>
+<attackpower>116</attackpower>
+<armorpenetrationrating>41</armorpenetrationrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Treads of Nimble Evasion</name>
+<id>45159</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_shortblade_74</iconpath>
+<stats>
+<agility>52</agility>
+<stamina>55</stamina>
+<attackpower>68</attackpower>
+<armorpenetrationrating>29</armorpenetrationrating>
+<hasterating>34</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>257</mindamage>
+<maxdamage>387</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Daschal's Bite</name>
+<id>45605</id>
+<slot>OneHand</slot>
+</item>

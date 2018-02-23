@@ -1,0 +1,20 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_enchant_prismaticsphere</iconpath>
+<stats>
+<agility>4</agility>
+<stamina>4</stamina>
+<strength>4</strength>
+<intellect>4</intellect>
+<spirit>4</spirit>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Chromatic Sphere</name>
+<id>34143</id>
+<slot>Prismatic</slot>
+</item>

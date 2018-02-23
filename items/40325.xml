@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54876</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_13</iconpath>
+<stats>
+<armor>135</armor>
+<stamina>55</stamina>
+<intellect>38</intellect>
+<spellpower>65</spellpower>
+<critrating>43</critrating>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bindings of the Expansive Mind</name>
+<id>40325</id>
+<slot>Wrist</slot>
+</item>

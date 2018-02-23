@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62136</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_51</iconpath>
+<stats>
+<armor>1391</armor>
+<stamina>77</stamina>
+<intellect>77</intellect>
+<spellpower>109</spellpower>
+<critrating>59</critrating>
+<mp5>34</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Girdle of the Forgotten Martyr</name>
+<id>47323</id>
+<slot>Waist</slot>
+</item>

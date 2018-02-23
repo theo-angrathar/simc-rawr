@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>57263</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_63</iconpath>
+<stats>
+<armor>7890</armor>
+<stamina>49</stamina>
+<intellect>49</intellect>
+<spellpower>74</spellpower>
+<critrating>46</critrating>
+<blockvalue>221</blockvalue>
+<hasterating>31</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Voice of Reason</name>
+<id>40401</id>
+<slot>OffHand</slot>
+</item>

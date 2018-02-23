@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>39212</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_32</iconpath>
+<stats>
+<stamina>38</stamina>
+<intellect>34</intellect>
+<spellpower>53</spellpower>
+<critrating>36</critrating>
+<hitrating>21</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Brilliant Hailstone Amulet</name>
+<id>47219</id>
+<slot>Neck</slot>
+</item>

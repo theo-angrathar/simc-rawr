@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_cloth_19</iconpath>
+<stats>
+<armor>406</armor>
+<agility>77</agility>
+<stamina>90</stamina>
+<attackpower>98</attackpower>
+<armorpenetrationrating>49</armorpenetrationrating>
+<expertiserating>56</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Runed Ironhide Boots</name>
+<id>45232</id>
+<slot>Feet</slot>
+</item>

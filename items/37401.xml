@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51695</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_117</iconpath>
+<stats>
+<stamina>58</stamina>
+<strength>25</strength>
+<hitrating>26</hitrating>
+<defenserating>38</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>160</mindamage>
+<maxdamage>299</maxdamage>
+<speed>1.6</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Red Sword of Courage</name>
+<id>37401</id>
+<slot>OneHand</slot>
+</item>

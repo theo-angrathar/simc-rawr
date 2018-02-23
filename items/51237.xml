@@ -1,0 +1,28 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_169</iconpath>
+<stats>
+<armor>1253</armor>
+<stamina>139</stamina>
+<intellect>139</intellect>
+<spellpower>185</spellpower>
+<critrating>114</critrating>
+<hasterating>106</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Frost Witch's Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Sanctified Frost Witch's Helm</name>
+<id>51237</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59248</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_07</iconpath>
+<stats>
+<armor>903</armor>
+<agility>85</agility>
+<stamina>66</stamina>
+<attackpower>114</attackpower>
+<armorpenetrationrating>57</armorpenetrationrating>
+<intellect>45</intellect>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Brass-lined Boots</name>
+<id>45249</id>
+<slot>Feet</slot>
+</item>

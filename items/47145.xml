@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61639</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_38a</iconpath>
+<stats>
+<armor>367</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spirit>76</spirit>
+<spellpower>114</spellpower>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Cord of Pale Thorns</name>
+<id>47145</id>
+<slot>Waist</slot>
+</item>

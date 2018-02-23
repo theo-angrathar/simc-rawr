@@ -1,0 +1,19 @@
+<item>
+<itemlevel>154</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_28</iconpath>
+<stats>
+<stamina>31</stamina>
+<intellect>22</intellect>
+<spellpower>37</spellpower>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Band of the Tender</name>
+<id>38743</id>
+<slot>Finger</slot>
+</item>

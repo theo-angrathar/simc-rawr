@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_naxxramas_02</iconpath>
+<stats>
+<armor>154</armor>
+<stamina>42</stamina>
+<intellect>43</intellect>
+<spirit>38</spirit>
+<spellpower>66</spellpower>
+<critrating>37</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shawl of the Old Maid</name>
+<id>40253</id>
+<slot>Back</slot>
+</item>

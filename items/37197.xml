@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_02</iconpath>
+<stats>
+<armor>145</armor>
+<stamina>66</stamina>
+<strength>42</strength>
+<blockvalue>84</blockvalue>
+<defenserating>29</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Tattered Castle Drape</name>
+<id>37197</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>974</armor>
+<agility>60</agility>
+<stamina>47</stamina>
+<attackpower>126</attackpower>
+<intellect>41</intellect>
+<hitrating>40</hitrating>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgestalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Valorous Scourgestalker Spaulders</name>
+<id>45363</id>
+<slot>Shoulders</slot>
+</item>

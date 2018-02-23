@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61806</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_52</iconpath>
+<stats>
+<armor>178</armor>
+<stamina>68</stamina>
+<intellect>64</intellect>
+<spirit>64</spirit>
+<spellpower>105</spellpower>
+<critrating>40</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Belt of the Eternal</name>
+<id>47909</id>
+<slot>Waist</slot>
+</item>

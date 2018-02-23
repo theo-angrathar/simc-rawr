@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61226</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_67</iconpath>
+<stats>
+<armor>994</armor>
+<stamina>68</stamina>
+<intellect>65</intellect>
+<spellpower>96</spellpower>
+<critrating>64</critrating>
+<hasterating>47</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Pauldrons of the Spirit Walker</name>
+<id>47860</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>35437</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_30naxxramas</iconpath>
+<stats>
+<stamina>70</stamina>
+<intellect>48</intellect>
+<spirit>47</spirit>
+<spellpower>75</spellpower>
+<hasterating>35</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Sapphire Amulet of Renewal</name>
+<id>45243</id>
+<slot>Neck</slot>
+</item>

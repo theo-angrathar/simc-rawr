@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51597</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_99</iconpath>
+<stats>
+<agility>29</agility>
+<stamina>24</stamina>
+<attackpower>60</attackpower>
+<armorpenetrationrating>22</armorpenetrationrating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>134</mindamage>
+<maxdamage>250</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Meathook's Slicer</name>
+<id>37081</id>
+<slot>OneHand</slot>
+</item>

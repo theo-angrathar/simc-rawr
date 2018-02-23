@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52313</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_11</iconpath>
+<stats>
+<armor>1061</armor>
+<agility>52</agility>
+<stamina>52</stamina>
+<attackpower>154</attackpower>
+<intellect>34</intellect>
+<critrating>78</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Azure Ringmail Leggings</name>
+<id>37262</id>
+<slot>Legs</slot>
+</item>

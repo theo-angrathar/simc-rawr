@@ -1,0 +1,28 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_kilt_mail_01</iconpath>
+<stats>
+<armor>1293</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>171</spellpower>
+<critrating>108</critrating>
+<hitrating>92</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Frost Witch's Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Sanctified Frost Witch's Kilt</name>
+<id>51203</id>
+<slot>Legs</slot>
+</item>

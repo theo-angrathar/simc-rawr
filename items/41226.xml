@@ -1,0 +1,24 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_28</iconpath>
+<stats>
+<armor>605</armor>
+<agility>50</agility>
+<stamina>86</stamina>
+<attackpower>101</attackpower>
+<intellect>38</intellect>
+<critrating>50</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Relentless Gladiator's Wristguards of Triumph</name>
+<id>41226</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>52632</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_74</iconpath>
+<stats>
+<stamina>94</stamina>
+<strength>63</strength>
+<blockrating>32</blockrating>
+<blockvalue>102</blockvalue>
+<defenserating>33</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Signet of the Earthshaker</name>
+<id>45247</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_18</iconpath>
+<stats>
+<stamina>11</stamina>
+<armorpenetrationrating>7</armorpenetrationrating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Perfect Puissant Shadow Crystal</name>
+<id>41456</id>
+<slot>Purple</slot>
+</item>

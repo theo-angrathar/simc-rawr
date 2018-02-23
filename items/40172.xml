@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_41</iconpath>
+<stats>
+<spirit>10</spirit>
+<hitrating>10</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Shining Eye of Zul</name>
+<id>40172</id>
+<slot>Green</slot>
+</item>

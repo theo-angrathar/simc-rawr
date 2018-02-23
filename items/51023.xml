@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64399</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather_07</iconpath>
+<stats>
+<armor>437</armor>
+<agility>91</agility>
+<stamina>94</stamina>
+<attackpower>153</attackpower>
+<armorpenetrationrating>71</armorpenetrationrating>
+<critrating>55</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Taldaram's Soft Slippers</name>
+<id>51023</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51613</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_21</iconpath>
+<stats>
+<armor>341</armor>
+<agility>42</agility>
+<stamina>85</stamina>
+<attackpower>116</attackpower>
+<critrating>33</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bile-Cured Gloves</name>
+<id>37678</id>
+<slot>Hands</slot>
+</item>

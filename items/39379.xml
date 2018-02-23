@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54219</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_19</iconpath>
+<stats>
+<armor>705</armor>
+<agility>36</agility>
+<stamina>51</stamina>
+<attackpower>132</attackpower>
+<intellect>34</intellect>
+<critrating>51</critrating>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spectral Rider's Girdle</name>
+<id>39379</id>
+<slot>Waist</slot>
+</item>

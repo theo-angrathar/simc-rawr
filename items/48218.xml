@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_139</iconpath>
+<stats>
+<armor>485</armor>
+<agility>104</agility>
+<stamina>120</stamina>
+<attackpower>129</attackpower>
+<critrating>80</critrating>
+<expertiserating>64</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>VanCleef's Battlegear</setname>
+<type>Leather</type>
+<faction>Alliance</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>VanCleef's Helmet of Conquest</name>
+<id>48218</id>
+<slot>Head</slot>
+</item>

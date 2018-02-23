@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54769</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_133</iconpath>
+<stats>
+<armor>250</armor>
+<stamina>67</stamina>
+<intellect>79</intellect>
+<spirit>63</spirit>
+<spellpower>99</spellpower>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hasterating>8</hasterating>
+</socketbonus>
+<name>Cowl of Vanity</name>
+<id>40287</id>
+<slot>Head</slot>
+</item>

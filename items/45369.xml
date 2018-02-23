@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_25</iconpath>
+<stats>
+<armor>233</armor>
+<stamina>60</stamina>
+<intellect>60</intellect>
+<spirit>30</spirit>
+<spellpower>91</spellpower>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Kirin Tor Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Valorous Kirin Tor Shoulderpads</name>
+<id>45369</id>
+<slot>Shoulders</slot>
+</item>

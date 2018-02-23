@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_102</iconpath>
+<stats>
+<armor>258</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>113</spellpower>
+<hitrating>64</hitrating>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Khadgar's Regalia</setname>
+<type>Cloth</type>
+<faction>Horde</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Sunstrider's Hood of Conquest</name>
+<id>47774</id>
+<slot>Head</slot>
+</item>

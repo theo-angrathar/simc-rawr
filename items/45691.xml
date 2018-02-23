@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_73</iconpath>
+<stats>
+<stamina>55</stamina>
+<intellect>38</intellect>
+<spellpower>66</spellpower>
+<critrating>37</critrating>
+<hasterating>38</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Inscribed Signet of the Kirin Tor</name>
+<id>45691</id>
+<slot>Finger</slot>
+</item>

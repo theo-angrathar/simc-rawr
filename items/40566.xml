@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53667</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_25</iconpath>
+<stats>
+<armor>333</armor>
+<stamina>97</stamina>
+<intellect>43</intellect>
+<spirit>62</spirit>
+<spellpower>98</spellpower>
+<mp5>24</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Unravelling Strands of Sanity</name>
+<id>40566</id>
+<slot>Waist</slot>
+</item>

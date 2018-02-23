@@ -1,0 +1,18 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_relics_idolofrejuvenation</iconpath>
+<stats>
+<starfiredmg>165</starfiredmg>
+</stats>
+<quality>Epic</quality>
+<type>Idol</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Idol of the Shooting Star</name>
+<id>40321</id>
+<slot>Ranged</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>369</armor>
+<agility>85</agility>
+<stamina>59</stamina>
+<attackpower>130</attackpower>
+<critrating>43</critrating>
+<hitrating>54</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Terrorblade Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Conqueror's Terrorblade Gauntlets</name>
+<id>46124</id>
+<slot>Hands</slot>
+</item>

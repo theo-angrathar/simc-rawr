@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_05</iconpath>
+<stats>
+<armor>263</armor>
+<stamina>78</stamina>
+<intellect>64</intellect>
+<spellpower>87</spellpower>
+<critrating>43</critrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Plagueheart Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Heroes' Plagueheart Leggings</name>
+<id>39498</id>
+<slot>Legs</slot>
+</item>

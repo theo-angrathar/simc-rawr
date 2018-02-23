@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59000</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_06</iconpath>
+<stats>
+<armor>157</armor>
+<stamina>45</stamina>
+<intellect>36</intellect>
+<spellpower>74</spellpower>
+<critrating>49</critrating>
+<hitrating>31</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Drape of the Messenger</name>
+<id>46042</id>
+<slot>Back</slot>
+</item>

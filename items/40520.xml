@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>804</armor>
+<agility>53</agility>
+<stamina>60</stamina>
+<attackpower>134</attackpower>
+<intellect>43</intellect>
+<critrating>39</critrating>
+<hasterating>31</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Valorous Earthshatter Grips</name>
+<id>40520</id>
+<slot>Hands</slot>
+</item>

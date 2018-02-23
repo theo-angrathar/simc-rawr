@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>369</armor>
+<agility>85</agility>
+<stamina>93</stamina>
+<attackpower>130</attackpower>
+<armorpenetrationrating>43</armorpenetrationrating>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Nightsong Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Conqueror's Nightsong Handgrips</name>
+<id>46158</id>
+<slot>Hands</slot>
+</item>

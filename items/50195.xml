@@ -1,0 +1,24 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64211</displayid>
+<displayslot>2</displayslot>
+<iconpath>item_icecrownnecklacec</iconpath>
+<stats>
+<stamina>124</stamina>
+<strength>69</strength>
+<hitrating>46</hitrating>
+<dodgerating>52</dodgerating>
+<defenserating>60</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Noose of Malachite</name>
+<id>50195</id>
+<slot>Neck</slot>
+</item>

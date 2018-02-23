@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>65276</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_104</iconpath>
+<stats>
+<armor>883</armor>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spellpower>106</spellpower>
+<critrating>74</critrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Stormbringer Gloves</name>
+<id>51583</id>
+<slot>Hands</slot>
+</item>

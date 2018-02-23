@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60528</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_25</iconpath>
+<stats>
+<armor>2241</armor>
+<stamina>96</stamina>
+<strength>90</strength>
+<armorpenetrationrating>52</armorpenetrationrating>
+<hitrating>48</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Breastplate of the Imperial Joust</name>
+<id>47176</id>
+<slot>Chest</slot>
+</item>

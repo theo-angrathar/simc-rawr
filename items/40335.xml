@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54977</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_mace_80</iconpath>
+<stats>
+<stamina>22</stamina>
+<intellect>17</intellect>
+<spellpower>37</spellpower>
+<critrating>16</critrating>
+<mp5>15</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Wand</type>
+<faction>Neutral</faction>
+<mindamage>402</mindamage>
+<maxdamage>748</maxdamage>
+<damagetype>Holy</damagetype>
+<speed>2</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Touch of Horror</name>
+<id>40335</id>
+<slot>Ranged</slot>
+</item>

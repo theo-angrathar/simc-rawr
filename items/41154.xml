@@ -1,0 +1,29 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56967</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet128</iconpath>
+<stats>
+<armor>985</armor>
+<agility>52</agility>
+<stamina>90</stamina>
+<attackpower>72</attackpower>
+<intellect>23</intellect>
+<critrating>36</critrating>
+<resilience>51</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Pursuit</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Savage Gladiator's Chain Helm</name>
+<id>41154</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61341</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_49c</iconpath>
+<stats>
+<armor>1455</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spellpower>114</spellpower>
+<critrating>60</critrating>
+<mp5>38</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Belt of the Forgotten Martyr</name>
+<id>47207</id>
+<slot>Waist</slot>
+</item>

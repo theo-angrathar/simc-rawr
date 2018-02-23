@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60536</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_141</iconpath>
+<stats>
+<armor>458</armor>
+<stamina>65</stamina>
+<intellect>52</intellect>
+<spirit>56</spirit>
+<spellpower>86</spellpower>
+<critrating>52</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Gaze of the Somber Keeper</name>
+<id>47217</id>
+<slot>Head</slot>
+</item>

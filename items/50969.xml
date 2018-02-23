@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate22</iconpath>
+<stats>
+<armor>2641</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>162</spellpower>
+<critrating>100</critrating>
+<mp5>46</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Chestplate of Unspoken Truths</name>
+<id>50969</id>
+<slot>Chest</slot>
+</item>

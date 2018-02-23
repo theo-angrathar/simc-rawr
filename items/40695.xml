@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_05</iconpath>
+<stats>
+<armor>317</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spirit>38</spirit>
+<spellpower>68</spellpower>
+<critrating>40</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Vine Belt of the Woodland Dryad</name>
+<id>40695</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59236</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_25</iconpath>
+<stats>
+<armor>575</armor>
+<agility>46</agility>
+<stamina>49</stamina>
+<attackpower>126</attackpower>
+<intellect>33</intellect>
+<critrating>36</critrating>
+<hitrating>33</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Frost-bound Chain Bracers</name>
+<id>45454</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61995</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_107</iconpath>
+<stats>
+<armor>994</armor>
+<agility>89</agility>
+<stamina>78</stamina>
+<attackpower>120</attackpower>
+<intellect>37</intellect>
+<critrating>47</critrating>
+<hasterating>42</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Pauldrons of the Timeless Hunter</name>
+<id>47829</id>
+<slot>Shoulders</slot>
+</item>

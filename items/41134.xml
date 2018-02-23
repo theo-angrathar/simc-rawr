@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56940</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_65</iconpath>
+<stats>
+<armor>758</armor>
+<agility>39</agility>
+<stamina>66</stamina>
+<attackpower>60</attackpower>
+<intellect>21</intellect>
+<critrating>30</critrating>
+<resilience>30</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Earthshaker</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Savage Gladiator's Linked Gauntlets</name>
+<id>41134</id>
+<slot>Hands</slot>
+</item>

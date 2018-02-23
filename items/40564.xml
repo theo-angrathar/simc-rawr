@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53666</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_15</iconpath>
+<stats>
+<armor>821</armor>
+<stamina>71</stamina>
+<intellect>62</intellect>
+<spellpower>99</spellpower>
+<hasterating>48</hasterating>
+<mp5>31</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Winter Spectacle Gloves</name>
+<id>40564</id>
+<slot>Hands</slot>
+</item>

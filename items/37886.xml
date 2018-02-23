@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55006</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_26</iconpath>
+<stats>
+<armor>784</armor>
+<agility>65</agility>
+<stamina>52</stamina>
+<attackpower>132</attackpower>
+<intellect>34</intellect>
+<critrating>36</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Handgrips of the Savage Emissary</name>
+<id>37886</id>
+<slot>Hands</slot>
+</item>

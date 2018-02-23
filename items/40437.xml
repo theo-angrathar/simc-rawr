@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53289</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>434</armor>
+<agility>54</agility>
+<stamina>77</stamina>
+<attackpower>132</attackpower>
+<armorpenetrationrating>45</armorpenetrationrating>
+<expertiserating>53</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Concealment Shoulderpads</name>
+<id>40437</id>
+<slot>Shoulders</slot>
+</item>

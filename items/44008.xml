@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>56215</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>138</armor>
+<stamina>54</stamina>
+<intellect>46</intellect>
+<spirit>42</spirit>
+<spellpower>64</spellpower>
+<hasterating>34</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Unsullied Cuffs</name>
+<id>44008</id>
+<slot>Wrist</slot>
+</item>

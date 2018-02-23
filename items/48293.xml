@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_73</iconpath>
+<stats>
+<armor>905</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spellpower>124</spellpower>
+<hasterating>68</hasterating>
+<mp5>38</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Garb</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Nobundo's Handguards of Triumph</name>
+<id>48293</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_75</iconpath>
+<stats>
+<armor>1579</armor>
+<stamina>160</stamina>
+<strength>99</strength>
+<critrating>63</critrating>
+<resilience>71</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Desecration</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Relentless Gladiator's Dreadplate Gauntlets</name>
+<id>40811</id>
+<slot>Hands</slot>
+</item>

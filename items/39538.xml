@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>564</armor>
+<stamina>67</stamina>
+<intellect>64</intellect>
+<spirit>69</spirit>
+<spellpower>85</spellpower>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreamwalker Regalia</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Heroes' Dreamwalker Robe</name>
+<id>39538</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate21</iconpath>
+<stats>
+<armor>2348</armor>
+<stamina>147</stamina>
+<strength>113</strength>
+<dodgerating>51</dodgerating>
+<parryrating>51</parryrating>
+<defenserating>60</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Aegis Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Conqueror's Aegis Breastplate</name>
+<id>46173</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35431</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_53naxxramas</iconpath>
+<stats>
+<agility>36</agility>
+<stamina>43</stamina>
+<attackpower>100</attackpower>
+<critrating>38</critrating>
+<hasterating>24</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sealing Ring of Grobbulus</name>
+<id>39277</id>
+<slot>Finger</slot>
+</item>

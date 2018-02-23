@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61872</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_52</iconpath>
+<stats>
+<armor>186</armor>
+<stamina>77</stamina>
+<intellect>77</intellect>
+<spellpower>109</spellpower>
+<critrating>72</critrating>
+<hitrating>51</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Belt of Biting Cold</name>
+<id>47286</id>
+<slot>Waist</slot>
+</item>

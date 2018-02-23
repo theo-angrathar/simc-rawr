@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64304</displayid>
+<displayslot>16</displayslot>
+<iconpath>item_icecrowncloak</iconpath>
+<stats>
+<armor>177</armor>
+<agility>90</agility>
+<stamina>90</stamina>
+<attackpower>105</attackpower>
+<critrating>52</critrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Shadowvault Slayer's Cloak</name>
+<id>49998</id>
+<slot>Back</slot>
+</item>

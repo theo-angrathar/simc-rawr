@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52323</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_25</iconpath>
+<stats>
+<armor>1061</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>73</spellpower>
+<mp5>31</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Frozen Forest Kilt</name>
+<id>37155</id>
+<slot>Legs</slot>
+</item>

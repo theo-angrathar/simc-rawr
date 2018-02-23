@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56708</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_08</iconpath>
+<stats>
+<armor>362</armor>
+<agility>51</agility>
+<stamina>51</stamina>
+<attackpower>58</attackpower>
+<critrating>34</critrating>
+<resilience>34</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Eviscerator's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Eviscerator's Treads</name>
+<id>43439</id>
+<slot>Feet</slot>
+</item>

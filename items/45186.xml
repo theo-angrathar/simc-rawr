@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61862</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_97</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>64</stamina>
+<intellect>65</intellect>
+<spirit>49</spirit>
+<spellpower>90</spellpower>
+<hitrating>52</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Soot-Covered Mantle</name>
+<id>45186</id>
+<slot>Shoulders</slot>
+</item>

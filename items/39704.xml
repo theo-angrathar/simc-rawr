@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54708</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_75</iconpath>
+<stats>
+<armor>1723</armor>
+<stamina>100</stamina>
+<strength>57</strength>
+<parryrating>53</parryrating>
+<defenserating>43</defenserating>
+<expertiserating>30</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<defenserating>4</defenserating>
+</socketbonus>
+<name>Pauldrons of Unnatural Death</name>
+<id>39704</id>
+<slot>Shoulders</slot>
+</item>

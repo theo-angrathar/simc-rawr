@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_141</iconpath>
+<stats>
+<armor>458</armor>
+<agility>73</agility>
+<stamina>103</stamina>
+<attackpower>58</attackpower>
+<armorpenetrationrating>44</armorpenetrationrating>
+<resilience>59</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Titan-Forged Leather Helm of Triumph</name>
+<id>44908</id>
+<slot>Head</slot>
+</item>

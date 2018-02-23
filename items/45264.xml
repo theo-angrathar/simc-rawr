@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61876</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_26b</iconpath>
+<stats>
+<armor>1027</armor>
+<stamina>72</stamina>
+<strength>72</strength>
+<armorpenetrationrating>46</armorpenetrationrating>
+<hitrating>36</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Decimator's Armguards</name>
+<id>45264</id>
+<slot>Wrist</slot>
+</item>

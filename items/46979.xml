@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60577</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_shortblade_99</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>58</intellect>
+<spellpower>621</spellpower>
+<hitrating>45</hitrating>
+<hasterating>58</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Alliance</faction>
+<mindamage>97</mindamage>
+<maxdamage>311</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Blade of Tarasque</name>
+<id>46979</id>
+<slot>MainHand</slot>
+</item>

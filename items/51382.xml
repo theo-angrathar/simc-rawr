@@ -1,0 +1,25 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64323</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_20</iconpath>
+<stats>
+<armor>169</armor>
+<stamina>61</stamina>
+<intellect>61</intellect>
+<spellpower>85</spellpower>
+<hasterating>45</hasterating>
+<mp5>27</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Heartsick Mender's Cape</name>
+<id>51382</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>52632</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_74</iconpath>
+<stats>
+<stamina>38</stamina>
+<intellect>48</intellect>
+<spirit>43</spirit>
+<spellpower>70</spellpower>
+<hitrating>34</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Emerald Signet Ring</name>
+<id>45702</id>
+<slot>Finger</slot>
+</item>

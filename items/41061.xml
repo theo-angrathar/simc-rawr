@@ -1,0 +1,23 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_32b</iconpath>
+<stats>
+<armor>605</armor>
+<stamina>86</stamina>
+<intellect>38</intellect>
+<spellpower>89</spellpower>
+<resilience>50</resilience>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Relentless Gladiator's Wristguards of Salvation</name>
+<id>41061</id>
+<slot>Wrist</slot>
+</item>

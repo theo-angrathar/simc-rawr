@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64613</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_51</iconpath>
+<stats>
+<armor>194</armor>
+<stamina>67</stamina>
+<intellect>57</intellect>
+<spellpower>92</spellpower>
+<critrating>56</critrating>
+<hitrating>47</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cold Sweat Grips</name>
+<id>49788</id>
+<slot>Hands</slot>
+</item>

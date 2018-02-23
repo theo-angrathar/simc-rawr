@@ -1,0 +1,8 @@
+<enchant>
+<id>1400</id>
+<name>Superior Nature Resistance</name>
+<slot>Back</slot>
+<stats>
+<natureresistance>20</natureresistance>
+</stats>
+</enchant>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55310</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_134</iconpath>
+<stats>
+<armor>1821</armor>
+<strength>97</strength>
+<critrating>44</critrating>
+<hitrating>60</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Spiked Titansteel Helm</name>
+<id>41386</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55874</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_23</iconpath>
+<stats>
+<armor>477</armor>
+<agility>62</agility>
+<stamina>90</stamina>
+<attackpower>78</attackpower>
+<critrating>36</critrating>
+<resilience>51</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Sanctuary</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Savage Gladiator's Dragonhide Legguards</name>
+<id>41664</id>
+<slot>Legs</slot>
+</item>

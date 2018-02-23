@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60550</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_23</iconpath>
+<stats>
+<armor>511</armor>
+<stamina>83</stamina>
+<intellect>80</intellect>
+<spellpower>124</spellpower>
+<critrating>52</critrating>
+<hasterating>69</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Leggings of the Snowy Bramble</name>
+<id>47249</id>
+<slot>Legs</slot>
+</item>

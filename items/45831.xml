@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_10</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>73</stamina>
+<intellect>60</intellect>
+<spirit>60</spirit>
+<spellpower>100</spellpower>
+<critrating>40</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sash of Potent Incantations</name>
+<id>45831</id>
+<slot>Waist</slot>
+</item>

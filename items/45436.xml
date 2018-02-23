@@ -1,0 +1,17 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_relics_libramoftruth</iconpath>
+<stats>
+<holylightspellpower>160</holylightspellpower>
+</stats>
+<quality>Epic</quality>
+<type>Libram</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Libram of the Resolute</name>
+<id>45436</id>
+<slot>Ranged</slot>
+</item>

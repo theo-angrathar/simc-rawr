@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>812</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>83</spellpower>
+<critrating>45</critrating>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Garb</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Valorous Worldbreaker Gloves</name>
+<id>45406</id>
+<slot>Hands</slot>
+</item>

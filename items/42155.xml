@@ -1,0 +1,18 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_dragonseye04</iconpath>
+<stats>
+<spellpenetration>43</spellpenetration>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Stormy Dragon's Eye</name>
+<id>42155</id>
+<slot>Blue</slot>
+</item>

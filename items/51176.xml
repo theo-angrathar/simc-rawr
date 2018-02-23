@@ -1,0 +1,28 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_80</iconpath>
+<stats>
+<armor>354</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spirit>100</spirit>
+<spellpower>171</spellpower>
+<critrating>100</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Crimson Acolyte's Raiment</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Sanctified Crimson Acolyte Robe</name>
+<id>51176</id>
+<slot>Chest</slot>
+</item>

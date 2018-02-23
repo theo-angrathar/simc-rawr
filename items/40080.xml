@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_51naxxramas</iconpath>
+<stats>
+<stamina>45</stamina>
+<intellect>38</intellect>
+<spirit>37</spirit>
+<spellpower>65</spellpower>
+<critrating>42</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Lost Jewel</name>
+<id>40080</id>
+<slot>Finger</slot>
+</item>

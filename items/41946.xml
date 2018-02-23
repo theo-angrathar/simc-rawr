@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_86</iconpath>
+<stats>
+<armor>258</armor>
+<stamina>138</stamina>
+<intellect>60</intellect>
+<spellpower>123</spellpower>
+<critrating>64</critrating>
+<resilience>64</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<resilience>8</resilience>
+</socketbonus>
+<name>Furious Gladiator's Silk Cowl</name>
+<id>41946</id>
+<slot>Head</slot>
+</item>

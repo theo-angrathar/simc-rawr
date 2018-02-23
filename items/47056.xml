@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62050</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32a</iconpath>
+<stats>
+<armor>605</armor>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spellpower>89</spellpower>
+<critrating>50</critrating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bracers of Cloudy Omen</name>
+<id>47056</id>
+<slot>Wrist</slot>
+</item>

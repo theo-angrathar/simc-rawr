@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_27</iconpath>
+<stats>
+<armor>557</armor>
+<agility>128</agility>
+<stamina>164</stamina>
+<attackpower>145</attackpower>
+<critrating>80</critrating>
+<resilience>96</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Sanctuary</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Relentless Gladiator's Dragonhide Legguards</name>
+<id>41668</id>
+<slot>Legs</slot>
+</item>

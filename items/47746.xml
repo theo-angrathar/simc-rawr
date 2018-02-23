@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62159</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_139</iconpath>
+<stats>
+<armor>485</armor>
+<stamina>74</stamina>
+<intellect>86</intellect>
+<spirit>78</spirit>
+<spellpower>122</spellpower>
+<critrating>62</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<intellect>8</intellect>
+</socketbonus>
+<name>Helm of the Snowy Grotto</name>
+<id>47746</id>
+<slot>Head</slot>
+</item>

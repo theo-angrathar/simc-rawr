@@ -1,0 +1,16 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_26</iconpath>
+<stats>
+<intellect>16</intellect>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Brilliant Autumn's Glow</name>
+<id>40012</id>
+<slot>Yellow</slot>
+</item>

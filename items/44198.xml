@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55983</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate12</iconpath>
+<stats>
+<armor>2166</armor>
+<stamina>117</stamina>
+<strength>49</strength>
+<defenserating>76</defenserating>
+<expertiserating>56</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Breastplate of the Solemn Council</name>
+<id>44198</id>
+<slot>Chest</slot>
+</item>

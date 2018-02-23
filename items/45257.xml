@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>59389</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_wand_28</iconpath>
+<stats>
+<stamina>33</stamina>
+<intellect>25</intellect>
+<spirit>24</spirit>
+<spellpower>44</spellpower>
+<hitrating>27</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Wand</type>
+<faction>Neutral</faction>
+<mindamage>414</mindamage>
+<maxdamage>769</maxdamage>
+<damagetype>Fire</damagetype>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Quartz Crystal Wand</name>
+<id>45257</id>
+<slot>Ranged</slot>
+</item>

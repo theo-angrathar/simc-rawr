@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>494</armor>
+<agility>73</agility>
+<stamina>90</stamina>
+<attackpower>138</attackpower>
+<critrating>51</critrating>
+<expertiserating>37</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreamwalker Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Heroes' Dreamwalker Legguards</name>
+<id>39555</id>
+<slot>Legs</slot>
+</item>

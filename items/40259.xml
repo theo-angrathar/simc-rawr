@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54784</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_28</iconpath>
+<stats>
+<armor>1293</armor>
+<stamina>64</stamina>
+<intellect>57</intellect>
+<spellpower>88</spellpower>
+<critrating>37</critrating>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Waistguard of Divine Grace</name>
+<id>40259</id>
+<slot>Waist</slot>
+</item>

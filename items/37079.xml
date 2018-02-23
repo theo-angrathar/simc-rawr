@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>9835</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_07</iconpath>
+<stats>
+<stamina>33</stamina>
+<intellect>27</intellect>
+<spirit>38</spirit>
+<spellpower>46</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Enchanted Wire Stitching</name>
+<id>37079</id>
+<slot>Finger</slot>
+</item>

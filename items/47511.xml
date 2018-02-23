@@ -1,0 +1,24 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>63410</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_11</iconpath>
+<stats>
+<armor>1596</armor>
+<stamina>78</stamina>
+<strength>86</strength>
+<armorpenetrationrating>59</armorpenetrationrating>
+<critrating>38</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Plated Greaves of Providence</name>
+<id>47511</id>
+<slot>Feet</slot>
+</item>

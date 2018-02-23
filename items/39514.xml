@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_crown_01</iconpath>
+<stats>
+<armor>244</armor>
+<stamina>54</stamina>
+<intellect>60</intellect>
+<spirit>64</spirit>
+<spellpower>85</spellpower>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Regalia of Faith</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Heroes' Crown of Faith</name>
+<id>39514</id>
+<slot>Head</slot>
+</item>

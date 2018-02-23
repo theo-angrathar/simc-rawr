@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>50991</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>2093</armor>
+<stamina>105</stamina>
+<strength>72</strength>
+<critrating>37</critrating>
+<resilience>37</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Saronite Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Savage Saronite Hauberk</name>
+<id>41353</id>
+<slot>Chest</slot>
+</item>

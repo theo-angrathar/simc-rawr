@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35430</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_naxxramas_01</iconpath>
+<stats>
+<armor>150</armor>
+<stamina>42</stamina>
+<intellect>38</intellect>
+<spellpower>59</spellpower>
+<hasterating>25</hasterating>
+<mp5>18</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Drape of Surgery</name>
+<id>39272</id>
+<slot>Back</slot>
+</item>

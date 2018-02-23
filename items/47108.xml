@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62000</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_31</iconpath>
+<stats>
+<armor>1082</armor>
+<stamina>114</stamina>
+<strength>58</strength>
+<parryrating>50</parryrating>
+<defenserating>50</defenserating>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bracers of the Shieldmaiden</name>
+<id>47108</id>
+<slot>Wrist</slot>
+</item>

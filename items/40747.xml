@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_chain_05</iconpath>
+<stats>
+<armor>884</armor>
+<stamina>64</stamina>
+<intellect>53</intellect>
+<spellpower>88</spellpower>
+<critrating>50</critrating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Treads of Coastal Wandering</name>
+<id>40747</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64447</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_ore_feliron_01</iconpath>
+<stats>
+<stamina>54</stamina>
+<intellect>34</intellect>
+<spellpower>78</spellpower>
+<critrating>51</critrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shriveled Heart</name>
+<id>50309</id>
+<slot>OffHand</slot>
+</item>

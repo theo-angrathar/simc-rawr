@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56737</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_14</iconpath>
+<stats>
+<armor>150</armor>
+<stamina>75</stamina>
+<strength>41</strength>
+<dodgerating>49</dodgerating>
+<expertiserating>21</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Durable Nerubhide Cape</name>
+<id>43565</id>
+<slot>Back</slot>
+</item>

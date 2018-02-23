@@ -1,0 +1,16 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_15</iconpath>
+<stats>
+<hitrating>14</hitrating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Perfect Rigid Sun Crystal</name>
+<id>41447</id>
+<slot>Yellow</slot>
+</item>

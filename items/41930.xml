@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55549</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_100</iconpath>
+<stats>
+<armor>218</armor>
+<stamina>66</stamina>
+<intellect>28</intellect>
+<spellpower>59</spellpower>
+<critrating>31</critrating>
+<resilience>38</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Raiment</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Savage Gladiator's Satin Mantle</name>
+<id>41930</id>
+<slot>Shoulders</slot>
+</item>

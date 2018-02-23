@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_41</iconpath>
+<stats>
+<spellpenetration>13</spellpenetration>
+<hitrating>10</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Tense Eye of Zul</name>
+<id>40181</id>
+<slot>Green</slot>
+</item>

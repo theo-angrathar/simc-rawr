@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53663</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_10</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>66</stamina>
+<intellect>60</intellect>
+<spirit>48</spirit>
+<spellpower>103</spellpower>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leash of Heedless Magic</name>
+<id>40561</id>
+<slot>Waist</slot>
+</item>

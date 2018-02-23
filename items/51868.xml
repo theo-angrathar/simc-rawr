@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64657</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_102</iconpath>
+<stats>
+<agility>42</agility>
+<stamina>61</stamina>
+<attackpower>139</attackpower>
+<armorpenetrationrating>50</armorpenetrationrating>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>253</mindamage>
+<maxdamage>381</maxdamage>
+<speed>1.4</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Flesh-Carving Scalpel</name>
+<id>51868</id>
+<slot>OneHand</slot>
+</item>

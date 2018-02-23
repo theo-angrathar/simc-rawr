@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54028</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_126</iconpath>
+<stats>
+<armor>244</armor>
+<stamina>88</stamina>
+<intellect>60</intellect>
+<spirit>45</spirit>
+<spellpower>87</spellpower>
+<critrating>36</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Cowl of Winged Fear</name>
+<id>39409</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_53</iconpath>
+<stats>
+<armor>1480</armor>
+<stamina>102</stamina>
+<strength>94</strength>
+<critrating>60</critrating>
+<hitrating>52</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Wrynn's Battlegear</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Hellscream's Gauntlets of Conquest</name>
+<id>48387</id>
+<slot>Hands</slot>
+</item>

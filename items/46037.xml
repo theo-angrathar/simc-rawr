@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59143</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_49</iconpath>
+<stats>
+<armor>1761</armor>
+<stamina>96</stamina>
+<strength>82</strength>
+<armorpenetrationrating>34</armorpenetrationrating>
+<critrating>56</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Shoulderplates of the Celestial Watch</name>
+<id>46037</id>
+<slot>Shoulders</slot>
+</item>

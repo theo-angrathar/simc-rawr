@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>28695</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_21</iconpath>
+<stats>
+<armor>140</armor>
+<bonusarmor>364</bonusarmor>
+<stamina>39</stamina>
+<strength>37</strength>
+<defenserating>26</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Flowing Cloak of Command</name>
+<id>37084</id>
+<slot>Back</slot>
+</item>

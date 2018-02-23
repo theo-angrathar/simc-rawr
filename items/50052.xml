@@ -1,0 +1,25 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64158</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_mace_87</iconpath>
+<stats>
+<agility>144</agility>
+<stamina>144</stamina>
+<attackpower>191</attackpower>
+<critrating>103</critrating>
+<expertiserating>84</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandMace</type>
+<faction>Neutral</faction>
+<mindamage>684</mindamage>
+<maxdamage>1026</maxdamage>
+<speed>3.2</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Lightborn Spire</name>
+<id>50052</id>
+<slot>TwoHand</slot>
+</item>

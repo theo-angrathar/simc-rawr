@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59770</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_12</iconpath>
+<stats>
+<armor>1137</armor>
+<stamina>114</stamina>
+<intellect>76</intellect>
+<spellpower>109</spellpower>
+<hasterating>62</hasterating>
+<mp5>38</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ironscale Leggings</name>
+<id>45307</id>
+<slot>Legs</slot>
+</item>

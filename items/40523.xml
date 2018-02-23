@@ -1,0 +1,29 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>1286</armor>
+<agility>67</agility>
+<stamina>87</stamina>
+<attackpower>170</attackpower>
+<intellect>45</intellect>
+<hitrating>58</hitrating>
+<expertiserating>44</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Valorous Earthshatter Chestguard</name>
+<id>40523</id>
+<slot>Chest</slot>
+</item>

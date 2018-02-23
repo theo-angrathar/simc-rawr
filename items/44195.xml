@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49876</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_92</iconpath>
+<stats>
+<armor>1625</armor>
+<stamina>64</stamina>
+<strength>66</strength>
+<critrating>58</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spaulders of the Giant Lords</name>
+<id>44195</id>
+<slot>Shoulders</slot>
+</item>

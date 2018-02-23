@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_94</iconpath>
+<stats>
+<armor>1777</armor>
+<stamina>102</stamina>
+<intellect>45</intellect>
+<spellpower>96</spellpower>
+<critrating>51</critrating>
+<resilience>60</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Redemption</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Furious Gladiator's Ornamented Spaulders</name>
+<id>40963</id>
+<slot>Shoulders</slot>
+</item>

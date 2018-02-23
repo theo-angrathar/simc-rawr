@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64819</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_113</iconpath>
+<stats>
+<armor>1108</armor>
+<agility>120</agility>
+<stamina>95</stamina>
+<attackpower>130</attackpower>
+<armorpenetrationrating>70</armorpenetrationrating>
+<intellect>56</intellect>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Pauldrons of Lost Hope</name>
+<id>51911</id>
+<slot>Shoulders</slot>
+</item>

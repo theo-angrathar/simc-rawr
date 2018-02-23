@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59248</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_07</iconpath>
+<stats>
+<armor>931</armor>
+<agility>69</agility>
+<stamina>55</stamina>
+<attackpower>114</attackpower>
+<intellect>49</intellect>
+<critrating>42</critrating>
+<hitrating>42</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Greaves of Swift Vengeance</name>
+<id>45244</id>
+<slot>Feet</slot>
+</item>

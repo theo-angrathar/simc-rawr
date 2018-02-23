@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59768</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_07</iconpath>
+<stats>
+<armor>893</armor>
+<stamina>50</stamina>
+<intellect>63</intellect>
+<spellpower>88</spellpower>
+<critrating>47</critrating>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Greaves of the Earthbinder</name>
+<id>45701</id>
+<slot>Feet</slot>
+</item>

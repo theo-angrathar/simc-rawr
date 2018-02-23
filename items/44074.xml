@@ -1,0 +1,17 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>34188</displayid>
+<displayslot>12</displayslot>
+<iconpath>inv_misc_rune_05</iconpath>
+<stats>
+<critrating>71</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Oracle Talisman of Ablution</name>
+<id>44074</id>
+<slot>Trinket</slot>
+</item>

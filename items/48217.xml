@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_89</iconpath>
+<stats>
+<armor>447</armor>
+<agility>81</agility>
+<stamina>89</stamina>
+<attackpower>119</attackpower>
+<armorpenetrationrating>52</armorpenetrationrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Battlegear</setname>
+<type>Leather</type>
+<faction>Alliance</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Malfurion's Shoulderpads of Conquest</name>
+<id>48217</id>
+<slot>Shoulders</slot>
+</item>

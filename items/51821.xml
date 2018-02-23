@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64786</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_63</iconpath>
+<stats>
+<armor>1485</armor>
+<stamina>137</stamina>
+<strength>121</strength>
+<critrating>86</critrating>
+<expertiserating>54</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Etched Dragonbone Girdle</name>
+<id>51821</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_23</iconpath>
+<stats>
+<armor>1925</armor>
+<stamina>137</stamina>
+<strength>113</strength>
+<critrating>64</critrating>
+<hitrating>72</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Wrynn's Battlegear</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Wrynn's Helmet of Conquest</name>
+<id>48371</id>
+<slot>Head</slot>
+</item>

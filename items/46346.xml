@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_chain_07</iconpath>
+<stats>
+<armor>893</armor>
+<agility>57</agility>
+<stamina>63</stamina>
+<attackpower>158</attackpower>
+<armorpenetrationrating>41</armorpenetrationrating>
+<intellect>42</intellect>
+<critrating>46</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Boots of Unsettled Prey</name>
+<id>46346</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52233</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>2093</armor>
+<stamina>51</stamina>
+<intellect>53</intellect>
+<spellpower>81</spellpower>
+<critrating>52</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Eregos' Ornamented Chestguard</name>
+<id>36974</id>
+<slot>Chest</slot>
+</item>

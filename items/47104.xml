@@ -1,0 +1,24 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60610</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_95</iconpath>
+<stats>
+<agility>58</agility>
+<stamina>58</stamina>
+<attackpower>89</attackpower>
+<hitrating>39</hitrating>
+<hasterating>39</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Alliance</faction>
+<mindamage>283</mindamage>
+<maxdamage>425</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Twin Spike</name>
+<id>47104</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,17 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>18275</displayid>
+<displayslot>24</displayslot>
+<iconpath>inv_ammo_arrow_01</iconpath>
+<stats></stats>
+<quality>Rare</quality>
+<type>Arrow</type>
+<faction>Neutral</faction>
+<mindamage>67</mindamage>
+<maxdamage>68</maxdamage>
+<speed>3</speed>
+<socketbonus></socketbonus>
+<name>Saronite Razorheads</name>
+<id>41165</id>
+<slot>Projectile</slot>
+</item>

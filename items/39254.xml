@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54227</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_16</iconpath>
+<stats>
+<armor>206</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spirit>51</spirit>
+<spellpower>77</spellpower>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Saltarello Shoes</name>
+<id>39254</id>
+<slot>Feet</slot>
+</item>

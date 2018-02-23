@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>59371</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_79</iconpath>
+<stats>
+<agility>44</agility>
+<stamina>40</stamina>
+<attackpower>74</attackpower>
+<critrating>32</critrating>
+<hasterating>34</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>200</mindamage>
+<maxdamage>301</maxdamage>
+<speed>1.4</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Combatant's Bootblade</name>
+<id>45930</id>
+<slot>OneHand</slot>
+</item>

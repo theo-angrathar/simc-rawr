@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64536</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_154</iconpath>
+<stats>
+<agility>70</agility>
+<stamina>78</stamina>
+<attackpower>104</attackpower>
+<armorpenetrationrating>44</armorpenetrationrating>
+<hitrating>52</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>456</mindamage>
+<maxdamage>847</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Bloodvenom Blade</name>
+<id>50672</id>
+<slot>OneHand</slot>
+</item>

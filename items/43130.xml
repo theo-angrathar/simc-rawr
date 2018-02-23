@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52333</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_69</iconpath>
+<stats>
+<armor>878</armor>
+<agility>38</agility>
+<stamina>48</stamina>
+<attackpower>94</attackpower>
+<intellect>33</intellect>
+<critrating>34</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Virulent Spaulders</name>
+<id>43130</id>
+<slot>Shoulders</slot>
+</item>

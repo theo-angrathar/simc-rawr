@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64476</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_leather_21</iconpath>
+<stats>
+<armor>665</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spirit>84</spirit>
+<spellpower>162</spellpower>
+<critrating>108</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Chestguard of the Failed Experiment</name>
+<id>51870</id>
+<slot>Chest</slot>
+</item>

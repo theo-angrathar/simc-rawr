@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55840</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_62</iconpath>
+<stats>
+<armor>1354</armor>
+<stamina>85</stamina>
+<strength>50</strength>
+<critrating>23</critrating>
+<resilience>30</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Desecration</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Savage Gladiator's Dreadplate Gauntlets</name>
+<id>40799</id>
+<slot>Hands</slot>
+</item>

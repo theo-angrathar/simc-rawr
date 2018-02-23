@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_plate_09</iconpath>
+<stats>
+<armor>862</armor>
+<agility>44</agility>
+<stamina>76</stamina>
+<attackpower>50</attackpower>
+<intellect>36</intellect>
+<hitrating>44</hitrating>
+<resilience>44</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Titan-Forged Sabatons of Triumph</name>
+<id>44898</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>59307</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_46</iconpath>
+<stats>
+<stamina>52</stamina>
+<intellect>50</intellect>
+<spellpower>78</spellpower>
+<critrating>45</critrating>
+<mp5>22</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Amulet of Binding Elements</name>
+<id>47619</id>
+<slot>Neck</slot>
+</item>

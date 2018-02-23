@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_11</iconpath>
+<stats>
+<armor>512</armor>
+<stamina>28</stamina>
+<intellect>29</intellect>
+<spellpower>46</spellpower>
+<critrating>38</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Dragonflayer Seer's Bindings</name>
+<id>37069</id>
+<slot>Wrist</slot>
+</item>

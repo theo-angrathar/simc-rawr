@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51598</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_26</iconpath>
+<stats>
+<armor>461</armor>
+<stamina>51</stamina>
+<intellect>69</intellect>
+<spellpower>81</spellpower>
+<critrating>52</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Kilt of Sewn Flesh</name>
+<id>37083</id>
+<slot>Legs</slot>
+</item>

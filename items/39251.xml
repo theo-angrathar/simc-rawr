@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57073</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_15</iconpath>
+<stats>
+<armor>705</armor>
+<stamina>57</stamina>
+<intellect>48</intellect>
+<spellpower>77</spellpower>
+<critrating>44</critrating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Necrogenic Belt</name>
+<id>39251</id>
+<slot>Waist</slot>
+</item>

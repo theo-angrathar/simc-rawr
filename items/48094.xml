@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_06</iconpath>
+<stats>
+<armor>290</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>140</spellpower>
+<hitrating>90</hitrating>
+<hasterating>74</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Velen's Regalia</setname>
+<type>Cloth</type>
+<faction>Horde</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Zabra's Pants of Triumph</name>
+<id>48094</id>
+<slot>Legs</slot>
+</item>

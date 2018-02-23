@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54835</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_05</iconpath>
+<stats>
+<armor>804</armor>
+<stamina>73</stamina>
+<intellect>57</intellect>
+<spellpower>88</spellpower>
+<critrating>38</critrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Benefactor's Gauntlets</name>
+<id>40302</id>
+<slot>Hands</slot>
+</item>

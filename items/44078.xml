@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_icediamond_02</iconpath>
+<stats>
+<spellpower>20</spellpower>
+<movementspeed>0.08</movementspeed>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Tireless Starflare Diamond</name>
+<id>44078</id>
+<slot>Meta</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54844</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_offhand_stratholme_a_02</iconpath>
+<stats>
+<stamina>55</stamina>
+<intellect>38</intellect>
+<spellpower>65</spellpower>
+<hitrating>32</hitrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Surplus Limb</name>
+<id>40273</id>
+<slot>OffHand</slot>
+</item>

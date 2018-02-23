@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_18</iconpath>
+<stats>
+<armor>739</armor>
+<agility>85</agility>
+<stamina>67</stamina>
+<attackpower>120</attackpower>
+<intellect>44</intellect>
+<hitrating>44</hitrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of the Ardent Marksman</name>
+<id>45827</id>
+<slot>Waist</slot>
+</item>

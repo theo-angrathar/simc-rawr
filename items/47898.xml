@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>60603</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_104</iconpath>
+<stats>
+<agility>52</agility>
+<stamina>39</stamina>
+<attackpower>78</attackpower>
+<critrating>38</critrating>
+<hasterating>29</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Horde</faction>
+<mindamage>325</mindamage>
+<maxdamage>605</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Frostblade Hatchet</name>
+<id>47898</id>
+<slot>OneHand</slot>
+</item>

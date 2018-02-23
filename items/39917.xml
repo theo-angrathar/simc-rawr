@@ -1,0 +1,16 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_21</iconpath>
+<stats>
+<resilience>12</resilience>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Mystic Sun Crystal</name>
+<id>39917</id>
+<slot>Yellow</slot>
+</item>

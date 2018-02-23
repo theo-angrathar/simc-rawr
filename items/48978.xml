@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>1027</armor>
+<stamina>95</stamina>
+<strength>63</strength>
+<hitrating>42</hitrating>
+<resilience>42</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Titan-Forged Bracers of Triumph</name>
+<id>48978</id>
+<slot>Wrist</slot>
+</item>

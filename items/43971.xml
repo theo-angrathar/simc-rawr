@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52493</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_125</iconpath>
+<stats>
+<armor>228</armor>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spellpower>81</spellpower>
+<critrating>46</critrating>
+<resilience>46</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Frostsavage Battlegear</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Frostsavage Cowl</name>
+<id>43971</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53132</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_31</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>97</stamina>
+<strength>38</strength>
+<defenserating>48</defenserating>
+<expertiserating>67</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Horn-Tipped Gauntlets</name>
+<id>37645</id>
+<slot>Hands</slot>
+</item>

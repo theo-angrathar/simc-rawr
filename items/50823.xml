@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64730</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_leather_21</iconpath>
+<stats>
+<armor>636</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spellpower>149</spellpower>
+<critrating>96</critrating>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Regalia</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Lasherweave Vestment</name>
+<id>50823</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,21 @@
+<enchant>
+<id>3606</id>
+<name>Nitro Boosts</name>
+<slot>Feet</slot>
+<stats>
+<specialeffects>
+<specialeffect>
+<trigger>Use</trigger>
+<stats>
+<movementspeed>1.5</movementspeed>
+</stats>
+<duration>5</duration>
+<cooldown>180</cooldown>
+<chance>1</chance>
+<maxstack>1</maxstack>
+</specialeffect>
+</specialeffects>
+<specialeffectcount>1</specialeffectcount>
+<critrating>24</critrating>
+</stats>
+</enchant>

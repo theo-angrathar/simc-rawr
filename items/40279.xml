@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54767</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate09</iconpath>
+<stats>
+<armor>2298</armor>
+<stamina>126</stamina>
+<strength>84</strength>
+<parryrating>49</parryrating>
+<blockrating>39</blockrating>
+<defenserating>67</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Chestguard of the Exhausted</name>
+<id>40279</id>
+<slot>Chest</slot>
+</item>

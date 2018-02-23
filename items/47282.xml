@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>39127</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_65</iconpath>
+<stats>
+<agility>76</agility>
+<stamina>76</stamina>
+<attackpower>101</attackpower>
+<critrating>54</critrating>
+<hasterating>44</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Band of Callous Aggression</name>
+<id>47282</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,10 @@
+<enchant>
+<id>2583</id>
+<name>Presence of Might</name>
+<slot>Legs</slot>
+<stats>
+<stamina>10</stamina>
+<blockvalue>30</blockvalue>
+<defenserating>10</defenserating>
+</stats>
+</enchant>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52343</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_26</iconpath>
+<stats>
+<armor>659</armor>
+<agility>40</agility>
+<stamina>51</stamina>
+<attackpower>102</attackpower>
+<intellect>34</intellect>
+<critrating>25</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Waistband of the Thuzadin</name>
+<id>37095</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,20 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>9854</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_02</iconpath>
+<stats>
+<stamina>36</stamina>
+<intellect>25</intellect>
+<spellpower>42</spellpower>
+<mp5>19</mp5>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Chain of Fiery Orbs</name>
+<id>38613</id>
+<slot>Neck</slot>
+</item>

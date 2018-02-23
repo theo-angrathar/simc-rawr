@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>58747</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_15</iconpath>
+<stats>
+<armor>333</armor>
+<agility>77</agility>
+<stamina>84</stamina>
+<attackpower>114</attackpower>
+<critrating>43</critrating>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Waistguard of the Creator</name>
+<id>45491</id>
+<slot>Waist</slot>
+</item>

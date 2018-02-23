@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_139</iconpath>
+<stats>
+<armor>529</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spellpower>151</spellpower>
+<critrating>86</critrating>
+<hitrating>94</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Regalia</setname>
+<type>Leather</type>
+<faction>Alliance</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Malfurion's Cover of Triumph</name>
+<id>48171</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_crown_01</iconpath>
+<stats>
+<armor>250</armor>
+<stamina>99</stamina>
+<intellect>59</intellect>
+<spirit>50</spirit>
+<spellpower>99</spellpower>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Plagueheart Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>8</hasterating>
+</socketbonus>
+<name>Valorous Plagueheart Circlet</name>
+<id>40421</id>
+<slot>Head</slot>
+</item>

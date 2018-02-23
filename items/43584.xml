@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55048</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_31</iconpath>
+<stats>
+<armor>173</armor>
+<stamina>130</stamina>
+<frostresistance>85</frostresistance>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Glacial Waistband</name>
+<id>43584</id>
+<slot>Waist</slot>
+</item>

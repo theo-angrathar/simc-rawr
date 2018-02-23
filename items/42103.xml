@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51587</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_06</iconpath>
+<stats>
+<armor>188</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spirit>67</spirit>
+<spellpower>76</spellpower>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Moonshroud Gloves</name>
+<id>42103</id>
+<slot>Hands</slot>
+</item>

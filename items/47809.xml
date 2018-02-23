@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61659</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_107</iconpath>
+<stats>
+<stamina>37</stamina>
+<intellect>40</intellect>
+<spellpower>550</spellpower>
+<critrating>52</critrating>
+<mp5>26</mp5>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Alliance</faction>
+<mindamage>88</mindamage>
+<maxdamage>283</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Argent Resolve</name>
+<id>47809</id>
+<slot>MainHand</slot>
+</item>

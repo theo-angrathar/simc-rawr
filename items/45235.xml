@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_64</iconpath>
+<stats>
+<stamina>63</stamina>
+<intellect>42</intellect>
+<spellpower>74</spellpower>
+<hasterating>46</hasterating>
+<mp5>18</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Radiant Seal</name>
+<id>45235</id>
+<slot>Finger</slot>
+</item>

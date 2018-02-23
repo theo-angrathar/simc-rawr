@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_87</iconpath>
+<stats>
+<armor>258</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>72</spirit>
+<spellpower>113</spellpower>
+<critrating>64</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Velen's Raiment</setname>
+<type>Cloth</type>
+<faction>Horde</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Zabra's Cowl of Conquest</name>
+<id>48068</id>
+<slot>Head</slot>
+</item>

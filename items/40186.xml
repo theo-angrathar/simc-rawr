@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54714</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>253</armor>
+<agility>56</agility>
+<stamina>57</stamina>
+<attackpower>76</attackpower>
+<hitrating>36</hitrating>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Thrusting Bands</name>
+<id>40186</id>
+<slot>Wrist</slot>
+</item>

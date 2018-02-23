@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>60682</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_sword_140</iconpath>
+<stats>
+<agility>112</agility>
+<stamina>92</stamina>
+<attackpower>183</attackpower>
+<armorpenetrationrating>86</armorpenetrationrating>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandSword</type>
+<faction>Horde</faction>
+<mindamage>651</mindamage>
+<maxdamage>977</maxdamage>
+<speed>3.5</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<armorpenetrationrating>4</armorpenetrationrating>
+</socketbonus>
+<name>Edge of Agony</name>
+<id>47884</id>
+<slot>TwoHand</slot>
+</item>

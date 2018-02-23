@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>575</armor>
+<stamina>72</stamina>
+<intellect>32</intellect>
+<spellpower>74</spellpower>
+<hitrating>42</hitrating>
+<resilience>42</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Titan-Forged Wristguards of Dominance</name>
+<id>48980</id>
+<slot>Wrist</slot>
+</item>

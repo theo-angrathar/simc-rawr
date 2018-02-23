@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_chain_01</iconpath>
+<stats>
+<armor>398</armor>
+<stamina>46</stamina>
+<intellect>57</intellect>
+<spirit>38</spirit>
+<spellpower>88</spellpower>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Boots of the Escaped Captive</name>
+<id>40409</id>
+<slot>Feet</slot>
+</item>

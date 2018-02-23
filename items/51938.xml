@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64471</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_113</iconpath>
+<stats>
+<agility>61</agility>
+<stamina>69</stamina>
+<attackpower>93</attackpower>
+<armorpenetrationrating>38</armorpenetrationrating>
+<hasterating>46</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>238</mindamage>
+<maxdamage>442</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Bone Warden's Splitter</name>
+<id>51938</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61827</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32a</iconpath>
+<stats>
+<armor>145</armor>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spellpower>80</spellpower>
+<critrating>42</critrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Bejeweled Wizard's Bracers</name>
+<id>47586</id>
+<slot>Wrist</slot>
+</item>

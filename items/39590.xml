@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>941</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spellpower>68</spellpower>
+<critrating>44</critrating>
+<mp5>16</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Heroes' Earthshatter Spaulders</name>
+<id>39590</id>
+<slot>Shoulders</slot>
+</item>

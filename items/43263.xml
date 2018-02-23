@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>54924</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_14</iconpath>
+<stats>
+<armor>527</armor>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spirit>46</spirit>
+<spellpower>81</spellpower>
+<resilience>46</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Overcaster Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Overcast Chestguard</name>
+<id>43263</id>
+<slot>Chest</slot>
+</item>

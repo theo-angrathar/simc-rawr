@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_43</iconpath>
+<stats>
+<armor>300</armor>
+<stamina>90</stamina>
+<intellect>59</intellect>
+<spirit>64</spirit>
+<spellpower>87</spellpower>
+<hitrating>36</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Plagueheart Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Heroes' Plagueheart Robe</name>
+<id>39497</id>
+<slot>Chest</slot>
+</item>

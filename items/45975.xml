@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59749</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_49</iconpath>
+<stats>
+<armor>1306</armor>
+<stamina>69</stamina>
+<intellect>57</intellect>
+<spellpower>92</spellpower>
+<hasterating>49</hasterating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Cable of the Metrognome</name>
+<id>45975</id>
+<slot>Waist</slot>
+</item>

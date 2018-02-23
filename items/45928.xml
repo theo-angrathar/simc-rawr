@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59751</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_62</iconpath>
+<stats>
+<armor>1467</armor>
+<stamina>51</stamina>
+<intellect>56</intellect>
+<spellpower>99</spellpower>
+<critrating>41</critrating>
+<hasterating>54</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Gauntlets of the Thunder God</name>
+<id>45928</id>
+<slot>Hands</slot>
+</item>

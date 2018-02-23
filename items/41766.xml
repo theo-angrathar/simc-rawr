@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55865</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_49</iconpath>
+<stats>
+<armor>362</armor>
+<agility>67</agility>
+<stamina>85</stamina>
+<attackpower>74</attackpower>
+<critrating>31</critrating>
+<resilience>39</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Vestments</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Deadly Gladiator's Leather Gloves</name>
+<id>41766</id>
+<slot>Hands</slot>
+</item>

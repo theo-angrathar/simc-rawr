@@ -1,0 +1,29 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_15</iconpath>
+<stats>
+<armor>1019</armor>
+<agility>60</agility>
+<stamina>70</stamina>
+<attackpower>146</attackpower>
+<intellect>47</intellect>
+<critrating>44</critrating>
+<hitrating>30</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Heroes' Earthshatter Faceguard</name>
+<id>39602</id>
+<slot>Head</slot>
+</item>

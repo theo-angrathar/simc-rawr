@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_36</iconpath>
+<stats>
+<stamina>86</stamina>
+<intellect>38</intellect>
+<spellpower>89</spellpower>
+<resilience>50</resilience>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Relentless Gladiator's Pendant of Subjugation</name>
+<id>42045</id>
+<slot>Neck</slot>
+</item>

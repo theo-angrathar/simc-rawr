@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_cloth_05</iconpath>
+<stats>
+<armor>388</armor>
+<agility>58</agility>
+<stamina>76</stamina>
+<attackpower>66</attackpower>
+<armorpenetrationrating>36</armorpenetrationrating>
+<resilience>44</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Titan-Forged Boots of Triumph</name>
+<id>44893</id>
+<slot>Feet</slot>
+</item>

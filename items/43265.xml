@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>57622</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_02</iconpath>
+<stats>
+<armor>329</armor>
+<stamina>51</stamina>
+<intellect>34</intellect>
+<spirit>34</spirit>
+<spellpower>60</spellpower>
+<resilience>34</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Overcaster Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Overcast Handwraps</name>
+<id>43265</id>
+<slot>Hands</slot>
+</item>

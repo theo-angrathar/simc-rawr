@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59284</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_24</iconpath>
+<stats>
+<armor>575</armor>
+<stamina>54</stamina>
+<intellect>46</intellect>
+<spellpower>74</spellpower>
+<critrating>46</critrating>
+<mp5>18</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wristguards of the Firetender</name>
+<id>45187</id>
+<slot>Wrist</slot>
+</item>

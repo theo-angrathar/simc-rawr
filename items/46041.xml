@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59140</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_48a</iconpath>
+<stats>
+<armor>1321</armor>
+<stamina>96</stamina>
+<strength>82</strength>
+<critrating>40</critrating>
+<expertiserating>56</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Starfall Girdle</name>
+<id>46041</id>
+<slot>Waist</slot>
+</item>

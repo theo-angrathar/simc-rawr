@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59020</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_66</iconpath>
+<stats>
+<armor>311</armor>
+<stamina>105</stamina>
+<intellect>62</intellect>
+<spellpower>117</spellpower>
+<critrating>61</critrating>
+<hitrating>76</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Raiments of the Corrupted</name>
+<id>45865</id>
+<slot>Chest</slot>
+</item>

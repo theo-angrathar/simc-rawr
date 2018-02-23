@@ -1,0 +1,25 @@
+<item>
+<itemlevel>272</itemlevel>
+<displayid>61260</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>182</armor>
+<stamina>74</stamina>
+<intellect>74</intellect>
+<spellpower>105</spellpower>
+<critrating>65</critrating>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Jaina's Radiance</name>
+<id>47552</id>
+<slot>Back</slot>
+</item>

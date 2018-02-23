@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>31899</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_17</iconpath>
+<stats>
+<stamina>58</stamina>
+<intellect>40</intellect>
+<spellpower>70</spellpower>
+<critrating>29</critrating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pendant of Endless Despair</name>
+<id>46015</id>
+<slot>Neck</slot>
+</item>

@@ -1,0 +1,18 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_platnumdisks</iconpath>
+<stats>
+<resilience>95</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Platinum Disks of Sorcery</name>
+<id>46087</id>
+<slot>Trinket</slot>
+</item>

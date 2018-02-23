@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61999</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_29a</iconpath>
+<stats>
+<armor>1036</armor>
+<stamina>76</stamina>
+<strength>76</strength>
+<armorpenetrationrating>48</armorpenetrationrating>
+<critrating>39</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Armguards of the Nether Lord</name>
+<id>47680</id>
+<slot>Wrist</slot>
+</item>

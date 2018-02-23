@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>60621</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_93</iconpath>
+<stats>
+<agility>52</agility>
+<stamina>52</stamina>
+<attackpower>62</attackpower>
+<hitrating>37</hitrating>
+<hasterating>22</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Horde</faction>
+<mindamage>200</mindamage>
+<maxdamage>301</maxdamage>
+<speed>1.4</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Orcish Deathblade</name>
+<id>47871</id>
+<slot>OneHand</slot>
+</item>

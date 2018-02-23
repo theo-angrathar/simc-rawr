@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>159</armor>
+<stamina>51</stamina>
+<intellect>51</intellect>
+<spirit>45</spirit>
+<spellpower>78</spellpower>
+<hasterating>45</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cloak of the Frigid Winds</name>
+<id>54805</id>
+<slot>Back</slot>
+</item>

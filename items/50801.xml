@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64523</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_25</iconpath>
+<stats>
+<armor>2526</armor>
+<stamina>164</stamina>
+<strength>152</strength>
+<critrating>72</critrating>
+<hasterating>84</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Blade-Scored Carapace</name>
+<id>50801</id>
+<slot>Chest</slot>
+</item>

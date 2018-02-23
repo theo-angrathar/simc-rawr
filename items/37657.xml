@@ -1,0 +1,18 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51518</displayid>
+<displayslot>12</displayslot>
+<iconpath>inv_misc_enggizmos_06</iconpath>
+<stats>
+<hasterating>73</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spark of Life</name>
+<id>37657</id>
+<slot>Trinket</slot>
+</item>

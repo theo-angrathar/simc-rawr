@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54715</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_08</iconpath>
+<stats>
+<armor>253</armor>
+<stamina>42</stamina>
+<intellect>43</intellect>
+<spirit>32</spirit>
+<spellpower>66</spellpower>
+<critrating>41</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Swarm Bindings</name>
+<id>39722</id>
+<slot>Wrist</slot>
+</item>

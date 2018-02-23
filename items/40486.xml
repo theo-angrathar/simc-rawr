@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>39212</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_32</iconpath>
+<stats>
+<stamina>51</stamina>
+<intellect>34</intellect>
+<spirit>38</spirit>
+<spellpower>69</spellpower>
+<critrating>37</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Necklace of the Glittering Chamber</name>
+<id>40486</id>
+<slot>Neck</slot>
+</item>

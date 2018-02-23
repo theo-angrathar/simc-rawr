@@ -1,0 +1,19 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>spell_arcane_arcane03</iconpath>
+<stats>
+<wrathdmg>70</wrathdmg>
+</stats>
+<quality>Epic</quality>
+<type>Idol</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Idol of Steadfast Renewal</name>
+<id>40712</id>
+<slot>Ranged</slot>
+</item>

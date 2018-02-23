@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_28</iconpath>
+<stats>
+<armor>739</armor>
+<stamina>84</stamina>
+<intellect>56</intellect>
+<spellpower>100</spellpower>
+<hasterating>60</hasterating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Windchill Binding</name>
+<id>45828</id>
+<slot>Waist</slot>
+</item>

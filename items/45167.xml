@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59207</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate19</iconpath>
+<stats>
+<armor>2348</armor>
+<stamina>99</stamina>
+<intellect>84</intellect>
+<spellpower>123</spellpower>
+<critrating>68</critrating>
+<mp5>38</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Lifeforge Breastplate</name>
+<id>45167</id>
+<slot>Chest</slot>
+</item>

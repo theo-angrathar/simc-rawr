@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61550</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32</iconpath>
+<stats>
+<armor>1082</armor>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spellpower>80</spellpower>
+<hasterating>50</hasterating>
+<mp5>17</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Sunforged Bracers</name>
+<id>47575</id>
+<slot>Wrist</slot>
+</item>

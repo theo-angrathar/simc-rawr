@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64466</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_hand_34</iconpath>
+<stats>
+<agility>61</agility>
+<stamina>53</stamina>
+<attackpower>106</attackpower>
+<armorpenetrationrating>33</armorpenetrationrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>FistWeapon</type>
+<faction>Neutral</faction>
+<mindamage>471</mindamage>
+<maxdamage>707</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Abomination Knuckles</name>
+<id>51876</id>
+<slot>MainHand</slot>
+</item>

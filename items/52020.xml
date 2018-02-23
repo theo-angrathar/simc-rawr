@@ -1,0 +1,17 @@
+<item>
+<itemlevel>230</itemlevel>
+<displayid>64870</displayid>
+<displayslot>24</displayslot>
+<iconpath>inv_ammo_bullet_07</iconpath>
+<stats></stats>
+<quality>Epic</quality>
+<type>Bullet</type>
+<faction>Neutral</faction>
+<mindamage>91</mindamage>
+<maxdamage>92</maxdamage>
+<speed>3</speed>
+<socketbonus></socketbonus>
+<name>Shatter Rounds</name>
+<id>52020</id>
+<slot>Projectile</slot>
+</item>

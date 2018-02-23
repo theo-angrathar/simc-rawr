@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61113</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_29</iconpath>
+<stats>
+<armor>605</armor>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spellpower>80</spellpower>
+<hasterating>50</hasterating>
+<mp5>17</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Black Chitin Bracers</name>
+<id>47580</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_09</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>68</stamina>
+<intellect>30</intellect>
+<spellpower>69</spellpower>
+<critrating>29</critrating>
+<mp5>24</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cloak of the Dormant Blaze</name>
+<id>46347</id>
+<slot>Back</slot>
+</item>

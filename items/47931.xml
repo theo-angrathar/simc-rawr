@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61170</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_33</iconpath>
+<stats>
+<armor>290</armor>
+<stamina>119</stamina>
+<intellect>89</intellect>
+<spirit>89</spirit>
+<spellpower>150</spellpower>
+<critrating>71</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Leggings of the Demonic Messenger</name>
+<id>47931</id>
+<slot>Legs</slot>
+</item>

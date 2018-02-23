@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61887</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_27</iconpath>
+<stats>
+<armor>275</armor>
+<stamina>99</stamina>
+<intellect>81</intellect>
+<spirit>86</spirit>
+<spellpower>115</spellpower>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Leggings of Lost Love</name>
+<id>45468</id>
+<slot>Legs</slot>
+</item>

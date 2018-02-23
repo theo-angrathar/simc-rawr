@@ -1,0 +1,26 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64510</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_83</iconpath>
+<stats>
+<armor>434</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spirit>90</spirit>
+<spellpower>140</spellpower>
+<hasterating>74</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Handguards of Winter's Respite</name>
+<id>50615</id>
+<slot>Hands</slot>
+</item>

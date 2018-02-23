@@ -1,0 +1,19 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>4841</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_amulet_03</iconpath>
+<stats>
+<stamina>57</stamina>
+<strength>47</strength>
+<critrating>43</critrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gold Amulet of Kings</name>
+<id>37397</id>
+<slot>Neck</slot>
+</item>

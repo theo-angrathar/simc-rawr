@@ -1,0 +1,22 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_74</iconpath>
+<stats>
+<agility>80</agility>
+<stamina>80</stamina>
+<attackpower>107</attackpower>
+<critrating>55</critrating>
+<hasterating>51</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Runed Band of the Kirin Tor</name>
+<id>51560</id>
+<slot>Finger</slot>
+</item>

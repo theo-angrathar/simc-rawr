@@ -1,0 +1,18 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59328</displayid>
+<displayslot>12</displayslot>
+<iconpath>achievement_dungeon_ulduarraid_misc_04</iconpath>
+<stats>
+<intellect>111</intellect>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Meteorite Crystal</name>
+<id>46051</id>
+<slot>Trinket</slot>
+</item>

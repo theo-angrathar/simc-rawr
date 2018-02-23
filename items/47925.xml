@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62007</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_50</iconpath>
+<stats>
+<armor>1391</armor>
+<stamina>115</stamina>
+<strength>99</strength>
+<armorpenetrationrating>63</armorpenetrationrating>
+<hasterating>54</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<armorpenetrationrating>4</armorpenetrationrating>
+</socketbonus>
+<name>Girdle of the Impaler</name>
+<id>47925</id>
+<slot>Waist</slot>
+</item>

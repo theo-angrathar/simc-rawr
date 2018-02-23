@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61933</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_89</iconpath>
+<stats>
+<armor>467</armor>
+<agility>91</agility>
+<stamina>79</stamina>
+<attackpower>132</attackpower>
+<critrating>52</critrating>
+<hasterating>69</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Spaulders of the Snow Bandit</name>
+<id>47972</id>
+<slot>Shoulders</slot>
+</item>

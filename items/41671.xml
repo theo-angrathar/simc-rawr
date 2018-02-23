@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55432</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_misc_bandana_03</iconpath>
+<stats>
+<armor>470</armor>
+<agility>84</agility>
+<stamina>115</stamina>
+<attackpower>70</attackpower>
+<critrating>51</critrating>
+<resilience>66</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Vestments</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Deadly Gladiator's Leather Helm</name>
+<id>41671</id>
+<slot>Head</slot>
+</item>

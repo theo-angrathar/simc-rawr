@@ -1,0 +1,21 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64440</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_misc_thread_01</iconpath>
+<stats>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spellpower>106</spellpower>
+<critrating>60</critrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shadow Silk Spindle</name>
+<id>50173</id>
+<slot>OffHand</slot>
+</item>

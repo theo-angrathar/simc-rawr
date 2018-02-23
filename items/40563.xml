@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1436</armor>
+<stamina>99</stamina>
+<strength>57</strength>
+<hitrating>38</hitrating>
+<dodgerating>40</dodgerating>
+<defenserating>50</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgeborne Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<parryrating>4</parryrating>
+</socketbonus>
+<name>Valorous Scourgeborne Handguards</name>
+<id>40563</id>
+<slot>Hands</slot>
+</item>

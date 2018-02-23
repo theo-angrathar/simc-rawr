@@ -1,0 +1,28 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_169</iconpath>
+<stats>
+<armor>1200</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>161</spellpower>
+<critrating>100</critrating>
+<hasterating>92</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Frost Witch's Garb</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Sanctified Frost Witch's Headpiece</name>
+<id>51192</id>
+<slot>Head</slot>
+</item>

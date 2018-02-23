@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_08</iconpath>
+<stats>
+<armor>169</armor>
+<stamina>53</stamina>
+<intellect>49</intellect>
+<spellpower>78</spellpower>
+<critrating>35</critrating>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of the Churning Blaze</name>
+<id>47181</id>
+<slot>Waist</slot>
+</item>

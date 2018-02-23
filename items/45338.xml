@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_05</iconpath>
+<stats>
+<armor>2032</armor>
+<stamina>135</stamina>
+<strength>71</strength>
+<parryrating>76</parryrating>
+<defenserating>62</defenserating>
+<expertiserating>54</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Darkruned Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Valorous Darkruned Legguards</name>
+<id>45338</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_98</iconpath>
+<stats>
+<armor>2009</armor>
+<stamina>168</stamina>
+<strength>103</strength>
+<dodgerating>74</dodgerating>
+<defenserating>82</defenserating>
+<expertiserating>69</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Headplate of the Honorbound</name>
+<id>47678</id>
+<slot>Head</slot>
+</item>

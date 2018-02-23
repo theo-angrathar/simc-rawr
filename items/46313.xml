@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_11</iconpath>
+<stats>
+<armor>475</armor>
+<stamina>79</stamina>
+<intellect>81</intellect>
+<spirit>54</spirit>
+<spellpower>105</spellpower>
+<hitrating>55</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Nightsong Garb</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<intellect>8</intellect>
+</socketbonus>
+<name>Valorous Nightsong Cover</name>
+<id>46313</id>
+<slot>Head</slot>
+</item>

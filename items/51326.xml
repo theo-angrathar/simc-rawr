@@ -1,0 +1,25 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64995</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_wand_34</iconpath>
+<stats>
+<stamina>43</stamina>
+<intellect>31</intellect>
+<spellpower>53</spellpower>
+<hitrating>33</hitrating>
+<hasterating>25</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Wand</type>
+<faction>Neutral</faction>
+<mindamage>502</mindamage>
+<maxdamage>933</maxdamage>
+<damagetype>Frost</damagetype>
+<speed>1.9</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wand of Ruby Claret</name>
+<id>51326</id>
+<slot>Ranged</slot>
+</item>

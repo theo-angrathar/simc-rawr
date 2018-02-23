@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>60659</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_104</iconpath>
+<stats>
+<agility>66</agility>
+<stamina>66</stamina>
+<attackpower>72</attackpower>
+<armorpenetrationrating>44</armorpenetrationrating>
+<critrating>36</critrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Horde</faction>
+<mindamage>227</mindamage>
+<maxdamage>423</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Blood Fury</name>
+<id>47427</id>
+<slot>OneHand</slot>
+</item>

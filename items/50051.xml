@@ -1,0 +1,25 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_mace_86</iconpath>
+<stats>
+<stamina>59</stamina>
+<intellect>59</intellect>
+<spellpower>657</spellpower>
+<critrating>54</critrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>102</mindamage>
+<maxdamage>325</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Hammer of Purified Flame</name>
+<id>50051</id>
+<slot>MainHand</slot>
+</item>

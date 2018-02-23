@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64230</displayid>
+<displayslot>11</displayslot>
+<iconpath>item_icecrownringb</iconpath>
+<stats>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spellpower>97</spellpower>
+<hasterating>60</hasterating>
+<mp5>26</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<uniqueid>49967</uniqueid>
+<uniqueid>50610</uniqueid>
+<name>Marrowgar's Frigid Eye</name>
+<id>49967</id>
+<slot>Finger</slot>
+</item>

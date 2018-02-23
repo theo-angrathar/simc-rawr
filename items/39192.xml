@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53836</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_64</iconpath>
+<stats>
+<armor>188</armor>
+<stamina>49</stamina>
+<intellect>52</intellect>
+<spirit>50</spirit>
+<spellpower>68</spellpower>
+<hitrating>25</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Gloves of Dark Gestures</name>
+<id>39192</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_25</iconpath>
+<stats>
+<armor>2009</armor>
+<stamina>155</stamina>
+<strength>131</strength>
+<critrating>82</critrating>
+<hasterating>74</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Battlegear</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Turalyon's Helm of Triumph</name>
+<id>48609</id>
+<slot>Head</slot>
+</item>

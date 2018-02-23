@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64683</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_105</iconpath>
+<stats>
+<agility>78</agility>
+<stamina>78</stamina>
+<attackpower>88</attackpower>
+<critrating>52</critrating>
+<hasterating>44</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>360</mindamage>
+<maxdamage>541</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Rib Spreader</name>
+<id>50676</id>
+<slot>OneHand</slot>
+</item>

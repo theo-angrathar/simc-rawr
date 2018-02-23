@@ -1,0 +1,24 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>54935</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_19</iconpath>
+<stats>
+<armor>659</armor>
+<agility>34</agility>
+<stamina>51</stamina>
+<attackpower>68</attackpower>
+<intellect>34</intellect>
+<critrating>34</critrating>
+<resilience>34</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Swiftarrow Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Swiftarrow Belt</name>
+<id>43442</id>
+<slot>Waist</slot>
+</item>

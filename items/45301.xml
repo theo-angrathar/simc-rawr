@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59773</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_27b</iconpath>
+<stats>
+<armor>568</armor>
+<agility>43</agility>
+<stamina>59</stamina>
+<attackpower>92</attackpower>
+<armorpenetrationrating>29</armorpenetrationrating>
+<intellect>35</intellect>
+<hitrating>40</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Bracers of the Smothering Inferno</name>
+<id>45301</id>
+<slot>Wrist</slot>
+</item>

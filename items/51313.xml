@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_31</iconpath>
+<stats>
+<armor>2412</armor>
+<stamina>209</stamina>
+<strength>193</strength>
+<critrating>122</critrating>
+<expertiserating>106</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgelord's Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Sanctified Scourgelord Legplates</name>
+<id>51313</id>
+<slot>Legs</slot>
+</item>

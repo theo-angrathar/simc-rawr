@@ -1,0 +1,20 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64237</displayid>
+<displayslot>12</displayslot>
+<iconpath>inv_jewelcrafting_gem_28</iconpath>
+<stats>
+<mp5>76</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<uniqueid>50354</uniqueid>
+<uniqueid>50726</uniqueid>
+<name>Bauble of True Blood</name>
+<id>50354</id>
+<slot>Trinket</slot>
+</item>

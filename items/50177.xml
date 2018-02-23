@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65039</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_15</iconpath>
+<stats>
+<armor>1477</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>162</spellpower>
+<hasterating>84</hasterating>
+<mp5>54</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Mail of Crimson Coins</name>
+<id>50177</id>
+<slot>Chest</slot>
+</item>

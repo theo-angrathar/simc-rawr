@@ -1,0 +1,26 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64797</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_13</iconpath>
+<stats>
+<armor>1895</armor>
+<stamina>180</stamina>
+<strength>103</strength>
+<dodgerating>82</dodgerating>
+<defenserating>90</defenserating>
+<expertiserating>61</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Grinning Skull Greatboots</name>
+<id>50625</id>
+<slot>Feet</slot>
+</item>

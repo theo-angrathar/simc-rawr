@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53194</displayid>
+<displayslot>2</displayslot>
+<iconpath>spell_arcane_blast</iconpath>
+<stats>
+<stamina>48</stamina>
+<intellect>37</intellect>
+<spellpower>53</spellpower>
+<critrating>35</critrating>
+<hitrating>31</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Circle of Arcane Streams</name>
+<id>40427</id>
+<slot>Neck</slot>
+</item>

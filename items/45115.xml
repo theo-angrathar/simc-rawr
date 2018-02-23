@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61864</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_offhand_ulduarraid_d_02</iconpath>
+<stats>
+<stamina>49</stamina>
+<intellect>46</intellect>
+<spirit>42</spirit>
+<spellpower>75</spellpower>
+<hitrating>41</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leviathan Fueling Manual</name>
+<id>45115</id>
+<slot>OffHand</slot>
+</item>

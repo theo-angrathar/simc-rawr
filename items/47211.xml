@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60537</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_23b</iconpath>
+<stats>
+<armor>549</armor>
+<agility>38</agility>
+<stamina>32</stamina>
+<attackpower>51</attackpower>
+<armorpenetrationrating>25</armorpenetrationrating>
+<intellect>36</intellect>
+<critrating>29</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Wristguards of Ceaseless Regret</name>
+<id>47211</id>
+<slot>Wrist</slot>
+</item>

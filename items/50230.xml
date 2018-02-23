@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64833</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_49</iconpath>
+<stats>
+<armor>1036</armor>
+<stamina>76</stamina>
+<strength>76</strength>
+<critrating>45</critrating>
+<hitrating>45</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Malykriss Vambraces</name>
+<id>50230</id>
+<slot>Wrist</slot>
+</item>

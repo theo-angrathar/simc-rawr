@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_74</iconpath>
+<stats>
+<stamina>84</stamina>
+<strength>56</strength>
+<critrating>38</critrating>
+<expertiserating>37</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Inscribed Ring of the Kirin Tor</name>
+<id>45690</id>
+<slot>Finger</slot>
+</item>

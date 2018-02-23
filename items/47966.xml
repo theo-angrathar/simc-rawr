@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60613</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_105</iconpath>
+<stats>
+<agility>50</agility>
+<stamina>44</stamina>
+<attackpower>89</attackpower>
+<critrating>43</critrating>
+<hasterating>24</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Alliance</faction>
+<mindamage>357</mindamage>
+<maxdamage>665</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>The Lion's Maw</name>
+<id>47966</id>
+<slot>OneHand</slot>
+</item>

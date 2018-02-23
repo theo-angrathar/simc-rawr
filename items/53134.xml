@@ -1,0 +1,25 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>64484</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_40</iconpath>
+<stats>
+<armor>298</armor>
+<stamina>73</stamina>
+<intellect>73</intellect>
+<spellpower>104</spellpower>
+<critrating>64</critrating>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Phaseshifter's Bracers</name>
+<id>53134</id>
+<slot>Wrist</slot>
+</item>

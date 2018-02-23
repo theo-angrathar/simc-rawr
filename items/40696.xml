@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_07</iconpath>
+<stats>
+<armor>169</armor>
+<stamina>49</stamina>
+<intellect>52</intellect>
+<spellpower>68</spellpower>
+<hitrating>33</hitrating>
+<hasterating>42</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Plush Sash of Guzbah</name>
+<id>40696</id>
+<slot>Waist</slot>
+</item>

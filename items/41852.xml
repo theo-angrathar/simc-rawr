@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55560</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_136</iconpath>
+<stats>
+<armor>244</armor>
+<stamina>102</stamina>
+<intellect>45</intellect>
+<spirit>44</spirit>
+<spellpower>87</spellpower>
+<resilience>43</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Investiture</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Hateful Gladiator's Mooncloth Hood</name>
+<id>41852</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52350</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_21</iconpath>
+<stats>
+<armor>1025</armor>
+<agility>61</agility>
+<stamina>52</stamina>
+<attackpower>122</attackpower>
+<intellect>35</intellect>
+<critrating>37</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Leather-Braced Chain Leggings</name>
+<id>36992</id>
+<slot>Legs</slot>
+</item>

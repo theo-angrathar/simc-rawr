@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>60595</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_crossbow_35</iconpath>
+<stats>
+<agility>40</agility>
+<stamina>48</stamina>
+<attackpower>49</attackpower>
+<armorpenetrationrating>32</armorpenetrationrating>
+<hasterating>32</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Crossbow</type>
+<faction>Horde</faction>
+<mindamage>564</mindamage>
+<maxdamage>784</maxdamage>
+<speed>2.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Death's Head Crossbow</name>
+<id>47428</id>
+<slot>Ranged</slot>
+</item>

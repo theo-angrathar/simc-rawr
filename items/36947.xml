@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>50974</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_20</iconpath>
+<stats>
+<armor>140</armor>
+<agility>39</agility>
+<stamina>28</stamina>
+<attackpower>58</attackpower>
+<hasterating>38</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Centrifuge Core Cloak</name>
+<id>36947</id>
+<slot>Back</slot>
+</item>

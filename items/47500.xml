@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_sword_142</iconpath>
+<stats>
+<stamina>69</stamina>
+<strength>31</strength>
+<dodgerating>29</dodgerating>
+<parryrating>23</parryrating>
+<expertiserating>21</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>171</mindamage>
+<maxdamage>318</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<expertiserating>4</expertiserating>
+</socketbonus>
+<name>Peacekeeper Blade</name>
+<id>47500</id>
+<slot>OneHand</slot>
+</item>

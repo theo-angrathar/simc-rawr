@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate02</iconpath>
+<stats>
+<armor>2241</armor>
+<stamina>67</stamina>
+<intellect>69</intellect>
+<spellpower>85</spellpower>
+<hasterating>60</hasterating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Redemption Regalia</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Heroes' Redemption Tunic</name>
+<id>39629</id>
+<slot>Chest</slot>
+</item>

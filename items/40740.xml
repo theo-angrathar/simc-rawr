@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>135</armor>
+<stamina>48</stamina>
+<intellect>41</intellect>
+<spirit>43</spirit>
+<spellpower>65</spellpower>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Wraps of the Astral Traveler</name>
+<id>40740</id>
+<slot>Wrist</slot>
+</item>

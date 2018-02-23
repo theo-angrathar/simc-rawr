@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61849</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_22</iconpath>
+<stats>
+<armor>2369</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<critrating>64</critrating>
+<mp5>40</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Garb</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Turalyon's Tunic of Conquest</name>
+<id>48566</id>
+<slot>Chest</slot>
+</item>

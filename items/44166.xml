@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55818</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_71</iconpath>
+<stats>
+<agility>29</agility>
+<attackpower>58</attackpower>
+<hasterating>30</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>134</mindamage>
+<maxdamage>202</maxdamage>
+<speed>1.4</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Lightblade Rivener</name>
+<id>44166</id>
+<slot>OneHand</slot>
+</item>

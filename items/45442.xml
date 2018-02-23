@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>58908</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_91</iconpath>
+<stats>
+<stamina>70</stamina>
+<strength>40</strength>
+<parryrating>36</parryrating>
+<defenserating>29</defenserating>
+<expertiserating>32</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>210</mindamage>
+<maxdamage>392</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Sorthalis, Hammer of the Watchers</name>
+<id>45442</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52333</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_69</iconpath>
+<stats>
+<armor>909</armor>
+<agility>41</agility>
+<stamina>57</stamina>
+<attackpower>116</attackpower>
+<intellect>39</intellect>
+<hitrating>33</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Massive Spaulders of the Jormungar</name>
+<id>37373</id>
+<slot>Shoulders</slot>
+</item>

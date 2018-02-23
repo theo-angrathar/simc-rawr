@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_43</iconpath>
+<stats>
+<armor>300</armor>
+<stamina>57</stamina>
+<intellect>60</intellect>
+<spirit>60</spirit>
+<spellpower>87</spellpower>
+<critrating>51</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Frostfire Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Heroes' Frostfire Robe</name>
+<id>39492</id>
+<slot>Chest</slot>
+</item>

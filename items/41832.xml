@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59304</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_12</iconpath>
+<stats>
+<armor>333</armor>
+<agility>77</agility>
+<stamina>96</stamina>
+<attackpower>84</attackpower>
+<critrating>48</critrating>
+<resilience>56</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Furious Gladiator's Belt of Triumph</name>
+<id>41832</id>
+<slot>Waist</slot>
+</item>

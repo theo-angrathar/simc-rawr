@@ -1,0 +1,26 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64831</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_40</iconpath>
+<stats>
+<armor>675</armor>
+<agility>102</agility>
+<stamina>80</stamina>
+<attackpower>120</attackpower>
+<armorpenetrationrating>46</armorpenetrationrating>
+<intellect>54</intellect>
+<critrating>68</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Scourge Hunter's Vambraces</name>
+<id>50655</id>
+<slot>Wrist</slot>
+</item>

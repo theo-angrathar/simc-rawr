@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56160</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_64</iconpath>
+<stats>
+<armor>192</armor>
+<stamina>85</stamina>
+<intellect>37</intellect>
+<spellpower>78</spellpower>
+<critrating>32</critrating>
+<resilience>39</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Felshroud</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Deadly Gladiator's Felweave Handguards</name>
+<id>42016</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35437</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_30naxxramas</iconpath>
+<stats>
+<stamina>51</stamina>
+<intellect>34</intellect>
+<spellpower>50</spellpower>
+<mp5>18</mp5>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Amulet of Dazzling Light</name>
+<id>37141</id>
+<slot>Neck</slot>
+</item>

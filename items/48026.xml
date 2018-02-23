@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61208</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_18a</iconpath>
+<stats>
+<armor>623</armor>
+<agility>126</agility>
+<stamina>107</stamina>
+<attackpower>162</attackpower>
+<armorpenetrationrating>67</armorpenetrationrating>
+<critrating>93</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Vest of Shifting Shadows</name>
+<id>48026</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64218</displayid>
+<displayslot>2</displayslot>
+<iconpath>item_icecrownnecklacea</iconpath>
+<stats>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spellpower>97</spellpower>
+<critrating>62</critrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Soulcleave Pendant</name>
+<id>51894</id>
+<slot>Neck</slot>
+</item>

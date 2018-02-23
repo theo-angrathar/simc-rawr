@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>51374</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_02</iconpath>
+<stats>
+<armor>157</armor>
+<agility>63</agility>
+<stamina>63</stamina>
+<attackpower>84</attackpower>
+<hitrating>36</hitrating>
+<hasterating>46</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Drape of the Lithe</name>
+<id>45224</id>
+<slot>Back</slot>
+</item>

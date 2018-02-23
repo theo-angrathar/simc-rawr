@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64845</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate23</iconpath>
+<stats>
+<armor>2322</armor>
+<stamina>121</stamina>
+<strength>121</strength>
+<critrating>66</critrating>
+<hitrating>74</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Lost Reliquary Chestguard</name>
+<id>49791</id>
+<slot>Chest</slot>
+</item>

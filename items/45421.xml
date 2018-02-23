@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_43</iconpath>
+<stats>
+<armor>311</armor>
+<stamina>77</stamina>
+<intellect>71</intellect>
+<spellpower>115</spellpower>
+<critrating>62</critrating>
+<hitrating>68</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Deathbringer Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Valorous Deathbringer Robe</name>
+<id>45421</id>
+<slot>Chest</slot>
+</item>

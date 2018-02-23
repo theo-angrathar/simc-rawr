@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_05</iconpath>
+<stats>
+<armor>275</armor>
+<stamina>99</stamina>
+<intellect>82</intellect>
+<spirit>52</spirit>
+<spellpower>113</spellpower>
+<hasterating>76</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Sanctification Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Conqueror's Pants of Sanctification</name>
+<id>46170</id>
+<slot>Legs</slot>
+</item>

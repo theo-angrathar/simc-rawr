@@ -1,0 +1,24 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64205</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_talisman_16</iconpath>
+<stats>
+<stamina>71</stamina>
+<intellect>68</intellect>
+<spellpower>97</spellpower>
+<critrating>60</critrating>
+<hitrating>52</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Pendant of Split Veins</name>
+<id>51863</id>
+<slot>Neck</slot>
+</item>

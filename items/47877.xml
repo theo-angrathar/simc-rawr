@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62129</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>1777</armor>
+<stamina>134</stamina>
+<strength>81</strength>
+<parryrating>41</parryrating>
+<blockvalue>151</blockvalue>
+<defenserating>39</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<parryrating>4</parryrating>
+</socketbonus>
+<name>Sunreaver Defender's Pauldrons</name>
+<id>47877</id>
+<slot>Shoulders</slot>
+</item>

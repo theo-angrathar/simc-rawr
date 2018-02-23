@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51727</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_15</iconpath>
+<stats>
+<armor>545</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>73</spellpower>
+<hasterating>64</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Insect Vestments</name>
+<id>37236</id>
+<slot>Chest</slot>
+</item>

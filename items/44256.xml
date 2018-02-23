@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56260</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_17</iconpath>
+<stats>
+<armor>181</armor>
+<stamina>49</stamina>
+<intellect>58</intellect>
+<spirit>41</spirit>
+<spellpower>68</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sterile Flesh-Handling Gloves</name>
+<id>44256</id>
+<slot>Hands</slot>
+</item>

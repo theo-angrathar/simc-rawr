@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>35367</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_49naxxramas</iconpath>
+<stats>
+<stamina>46</stamina>
+<intellect>49</intellect>
+<spirit>44</spirit>
+<spellpower>74</spellpower>
+<critrating>39</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Glowing Ring of Reclamation</name>
+<id>45113</id>
+<slot>Finger</slot>
+</item>

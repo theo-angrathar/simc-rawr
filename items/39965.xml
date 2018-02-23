@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_20</iconpath>
+<stats>
+<parryrating>6</parryrating>
+<defenserating>6</defenserating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Glimmering Huge Citrine</name>
+<id>39965</id>
+<slot>Orange</slot>
+</item>

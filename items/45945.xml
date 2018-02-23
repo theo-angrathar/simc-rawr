@@ -1,0 +1,24 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59308</displayid>
+<displayslot>2</displayslot>
+<iconpath>spell_nature_wispsplodegreen</iconpath>
+<stats>
+<agility>57</agility>
+<stamina>54</stamina>
+<attackpower>92</attackpower>
+<armorpenetrationrating>38</armorpenetrationrating>
+<hitrating>32</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Seed of Budding Carnage</name>
+<id>45945</id>
+<slot>Neck</slot>
+</item>

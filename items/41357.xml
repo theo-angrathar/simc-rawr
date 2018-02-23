@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53008</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_26</iconpath>
+<stats>
+<armor>1308</armor>
+<stamina>60</stamina>
+<strength>30</strength>
+<defenserating>71</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Daunting Handguards</name>
+<id>41357</id>
+<slot>Hands</slot>
+</item>

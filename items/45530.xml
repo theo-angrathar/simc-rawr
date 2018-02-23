@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>50376</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_80</iconpath>
+<stats>
+<stamina>63</stamina>
+<intellect>42</intellect>
+<spellpower>74</spellpower>
+<hasterating>31</hasterating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sanity's Bond</name>
+<id>45530</id>
+<slot>Finger</slot>
+</item>

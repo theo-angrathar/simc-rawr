@@ -1,0 +1,25 @@
+<item>
+<itemlevel>272</itemlevel>
+<displayid>61260</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>182</armor>
+<stamina>74</stamina>
+<intellect>74</intellect>
+<spirit>65</spirit>
+<spellpower>105</spellpower>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Bolvar's Devotion</name>
+<id>47553</id>
+<slot>Back</slot>
+</item>

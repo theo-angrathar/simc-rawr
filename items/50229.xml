@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64722</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_34</iconpath>
+<stats>
+<armor>2073</armor>
+<stamina>92</stamina>
+<intellect>88</intellect>
+<spellpower>132</spellpower>
+<hasterating>76</hasterating>
+<mp5>40</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Legguards of the Frosty Depths</name>
+<id>50229</id>
+<slot>Legs</slot>
+</item>

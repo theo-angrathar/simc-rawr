@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64768</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_77</iconpath>
+<stats>
+<agility>52</agility>
+<stamina>39</stamina>
+<attackpower>78</attackpower>
+<critrating>30</critrating>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>257</mindamage>
+<maxdamage>387</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Blood Weeper</name>
+<id>50203</id>
+<slot>OneHand</slot>
+</item>

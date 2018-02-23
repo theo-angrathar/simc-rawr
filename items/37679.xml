@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57604</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_69</iconpath>
+<stats>
+<armor>909</armor>
+<agility>50</agility>
+<stamina>45</stamina>
+<attackpower>100</attackpower>
+<intellect>29</intellect>
+<critrating>30</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Spaulders of the Abomination</name>
+<id>37679</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55389</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_34</iconpath>
+<stats>
+<armor>1293</armor>
+<stamina>85</stamina>
+<strength>75</strength>
+<critrating>74</critrating>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Girdle of Razuvious</name>
+<id>40317</id>
+<slot>Waist</slot>
+</item>

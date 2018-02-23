@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55385</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_15</iconpath>
+<stats>
+<armor>1005</armor>
+<stamina>61</stamina>
+<strength>57</strength>
+<expertiserating>32</expertiserating>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bracers of the Tyrant</name>
+<id>39729</id>
+<slot>Wrist</slot>
+</item>

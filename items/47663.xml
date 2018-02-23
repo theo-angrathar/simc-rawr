@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61241</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_37</iconpath>
+<stats>
+<armor>139</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spellpower>78</spellpower>
+<hitrating>36</hitrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Felspark Bindings</name>
+<id>47663</id>
+<slot>Wrist</slot>
+</item>

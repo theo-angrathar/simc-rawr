@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64753</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_sword_85</iconpath>
+<stats>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spellpower>487</spellpower>
+<critrating>31</critrating>
+<hasterating>31</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>71</mindamage>
+<maxdamage>230</maxdamage>
+<speed>1.6</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Splintered Icecrown Parapet</name>
+<id>49833</id>
+<slot>MainHand</slot>
+</item>

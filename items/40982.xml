@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55726</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>1005</armor>
+<stamina>66</stamina>
+<intellect>29</intellect>
+<spellpower>66</spellpower>
+<resilience>37</resilience>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deadly Gladiator's Bracers of Salvation</name>
+<id>40982</id>
+<slot>Wrist</slot>
+</item>

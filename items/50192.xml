@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64572</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_32</iconpath>
+<stats>
+<armor>2310</armor>
+<stamina>185</stamina>
+<strength>161</strength>
+<critrating>108</critrating>
+<hasterating>84</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Scourge Reaver's Legplates</name>
+<id>50192</id>
+<slot>Legs</slot>
+</item>

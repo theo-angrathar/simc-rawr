@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53825</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_55</iconpath>
+<stats>
+<armor>188</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spirit>66</spirit>
+<spellpower>77</spellpower>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Overlook Handguards</name>
+<id>37798</id>
+<slot>Hands</slot>
+</item>

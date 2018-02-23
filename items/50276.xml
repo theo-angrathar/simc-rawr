@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_150purple</iconpath>
+<stats>
+<armor>275</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spellpower>140</spellpower>
+<critrating>96</critrating>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Bloodmage's Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Bloodmage Hood</name>
+<id>50276</id>
+<slot>Head</slot>
+</item>

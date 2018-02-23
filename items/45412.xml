@@ -1,0 +1,29 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_69</iconpath>
+<stats>
+<armor>1056</armor>
+<agility>50</agility>
+<stamina>69</stamina>
+<attackpower>188</attackpower>
+<intellect>56</intellect>
+<critrating>68</critrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Valorous Worldbreaker Faceguard</name>
+<id>45412</id>
+<slot>Head</slot>
+</item>

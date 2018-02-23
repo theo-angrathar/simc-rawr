@@ -1,0 +1,9 @@
+<enchant>
+<id>3253</id>
+<name>Armsman</name>
+<slot>Hands</slot>
+<stats>
+<parryrating>10</parryrating>
+<threatincreasemultiplier>0.02</threatincreasemultiplier>
+</stats>
+</enchant>

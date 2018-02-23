@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59735</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_16</iconpath>
+<stats>
+<armor>216</armor>
+<stamina>73</stamina>
+<intellect>60</intellect>
+<spellpower>99</spellpower>
+<critrating>56</critrating>
+<hitrating>57</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sandals of Rash Temperament</name>
+<id>45258</id>
+<slot>Feet</slot>
+</item>

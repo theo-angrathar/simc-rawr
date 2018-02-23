@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55897</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_63</iconpath>
+<stats>
+<armor>290</armor>
+<stamina>88</stamina>
+<intellect>39</intellect>
+<spirit>36</spirit>
+<spellpower>73</spellpower>
+<resilience>51</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Investiture</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Savage Gladiator's Mooncloth Robe</name>
+<id>41851</id>
+<slot>Chest</slot>
+</item>

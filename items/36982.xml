@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51199</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_79</iconpath>
+<stats>
+<armor>210</armor>
+<stamina>37</stamina>
+<intellect>40</intellect>
+<spirit>51</spirit>
+<spellpower>60</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mantle of Electrical Charges</name>
+<id>36982</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>54674</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>155</armor>
+<agility>60</agility>
+<stamina>51</stamina>
+<attackpower>86</attackpower>
+<critrating>44</critrating>
+<hitrating>32</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Shawl of the Shattered Giant</name>
+<id>45704</id>
+<slot>Back</slot>
+</item>

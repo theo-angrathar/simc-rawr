@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>58901</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_rifle_33</iconpath>
+<stats>
+<stamina>42</stamina>
+<armorpenetrationrating>31</armorpenetrationrating>
+<critrating>29</critrating>
+<hitrating>24</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Gun</type>
+<faction>Neutral</faction>
+<mindamage>289</mindamage>
+<maxdamage>537</maxdamage>
+<speed>2.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Rifle of the Platinum Guard</name>
+<id>45309</id>
+<slot>Ranged</slot>
+</item>

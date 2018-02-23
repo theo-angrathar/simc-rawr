@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55862</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_leather_12</iconpath>
+<stats>
+<armor>545</armor>
+<stamina>88</stamina>
+<intellect>39</intellect>
+<spirit>36</spirit>
+<spellpower>73</spellpower>
+<resilience>51</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Refuge</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Savage Gladiator's Kodohide Robes</name>
+<id>41272</id>
+<slot>Chest</slot>
+</item>

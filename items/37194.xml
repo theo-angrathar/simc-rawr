@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53821</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_24</iconpath>
+<stats>
+<armor>317</armor>
+<agility>45</agility>
+<stamina>75</stamina>
+<attackpower>132</attackpower>
+<expertiserating>43</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<expertiserating>4</expertiserating>
+</socketbonus>
+<name>Sharp-Barbed Leather Belt</name>
+<id>37194</id>
+<slot>Waist</slot>
+</item>

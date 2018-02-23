@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>35373</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_27naxxramas</iconpath>
+<stats>
+<stamina>48</stamina>
+<intellect>38</intellect>
+<spellpower>65</spellpower>
+<critrating>37</critrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cosmic Lights</name>
+<id>40374</id>
+<slot>Neck</slot>
+</item>

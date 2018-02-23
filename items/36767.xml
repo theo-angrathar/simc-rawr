@@ -1,0 +1,18 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_dragonseye04</iconpath>
+<stats>
+<stamina>51</stamina>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Solid Dragon's Eye</name>
+<id>36767</id>
+<slot>Blue</slot>
+</item>

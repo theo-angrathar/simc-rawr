@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65036</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_mail_10</iconpath>
+<stats>
+<armor>1016</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<critrating>72</critrating>
+<mp5>36</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Necrophotic Greaves</name>
+<id>49993</id>
+<slot>Feet</slot>
+</item>

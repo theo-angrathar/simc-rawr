@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61939</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_47a</iconpath>
+<stats>
+<armor>778</armor>
+<stamina>75</stamina>
+<intellect>71</intellect>
+<spellpower>109</spellpower>
+<critrating>51</critrating>
+<mp5>38</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Girdle of the Farseer</name>
+<id>47932</id>
+<slot>Waist</slot>
+</item>

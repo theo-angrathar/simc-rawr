@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>62127</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_30</iconpath>
+<stats>
+<armor>2264</armor>
+<stamina>194</stamina>
+<strength>116</strength>
+<parryrating>86</parryrating>
+<defenserating>94</defenserating>
+<expertiserating>78</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Legplates of Feverish Dedication</name>
+<id>47434</id>
+<slot>Legs</slot>
+</item>

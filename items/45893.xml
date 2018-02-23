@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59092</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_100</iconpath>
+<stats>
+<armor>475</armor>
+<agility>101</agility>
+<stamina>77</stamina>
+<attackpower>146</attackpower>
+<critrating>60</critrating>
+<expertiserating>53</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<attackpower>32</attackpower>
+</socketbonus>
+<name>Guise of the Midgard Serpent</name>
+<id>45893</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_gem_diamond_06</iconpath>
+<stats>
+<defenserating>12</defenserating>
+<bonusblockvaluemultiplier>0.05</bonusblockvaluemultiplier>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Eternal Earthstorm Diamond</name>
+<id>35501</id>
+<slot>Meta</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_15</iconpath>
+<stats>
+<armor>458</armor>
+<agility>60</agility>
+<stamina>81</stamina>
+<attackpower>146</attackpower>
+<critrating>52</critrating>
+<expertiserating>37</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Bonescythe Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Heroes' Bonescythe Helmet</name>
+<id>39561</id>
+<slot>Head</slot>
+</item>

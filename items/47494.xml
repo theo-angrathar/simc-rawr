@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>39162</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_36</iconpath>
+<stats>
+<agility>42</agility>
+<stamina>52</stamina>
+<attackpower>119</attackpower>
+<armorpenetrationrating>33</armorpenetrationrating>
+<critrating>44</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ancient Pendant of Arathor</name>
+<id>47494</id>
+<slot>Neck</slot>
+</item>

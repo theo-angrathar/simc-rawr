@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>26064</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>173</armor>
+<stamina>116</stamina>
+<strength>65</strength>
+<dodgerating>49</dodgerating>
+<defenserating>57</defenserating>
+<expertiserating>43</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Pride of the Eredar</name>
+<id>47063</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64562</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_65</iconpath>
+<stats>
+<armor>329</armor>
+<agility>71</agility>
+<stamina>60</stamina>
+<attackpower>120</attackpower>
+<critrating>56</critrating>
+<expertiserating>39</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<expertiserating>4</expertiserating>
+</socketbonus>
+<name>Flayer's Black Belt</name>
+<id>49806</id>
+<slot>Waist</slot>
+</item>

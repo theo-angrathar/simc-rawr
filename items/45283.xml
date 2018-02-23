@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59302</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_31a</iconpath>
+<stats>
+<armor>1016</armor>
+<stamina>88</stamina>
+<strength>47</strength>
+<hitrating>28</hitrating>
+<dodgerating>35</dodgerating>
+<defenserating>43</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Flamewatch Armguards</name>
+<id>45283</id>
+<slot>Wrist</slot>
+</item>

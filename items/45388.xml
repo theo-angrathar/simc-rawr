@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_05</iconpath>
+<stats>
+<armor>272</armor>
+<stamina>69</stamina>
+<intellect>76</intellect>
+<spirit>54</spirit>
+<spellpower>124</spellpower>
+<hasterating>66</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Sanctification Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Valorous Leggings of Sanctification</name>
+<id>45388</id>
+<slot>Legs</slot>
+</item>

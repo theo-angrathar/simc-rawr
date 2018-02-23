@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_67</iconpath>
+<stats>
+<armor>1467</armor>
+<stamina>127</stamina>
+<strength>84</strength>
+<blockrating>44</blockrating>
+<blockvalue>135</blockvalue>
+<defenserating>45</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Handguards of the Enclave</name>
+<id>45228</id>
+<slot>Hands</slot>
+</item>

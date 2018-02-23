@@ -1,0 +1,17 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>spell_nature_slowingtotem</iconpath>
+<stats>
+<totemchbaseheal>243</totemchbaseheal>
+</stats>
+<quality>Epic</quality>
+<type>Totem</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Steamcaller's Totem</name>
+<id>45114</id>
+<slot>Ranged</slot>
+</item>

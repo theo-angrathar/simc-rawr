@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59658</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_92</iconpath>
+<stats>
+<armor>1100</armor>
+<agility>70</agility>
+<stamina>100</stamina>
+<attackpower>224</attackpower>
+<intellect>68</intellect>
+<critrating>69</critrating>
+<hitrating>66</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Boundless Gaze</name>
+<id>45610</id>
+<slot>Head</slot>
+</item>

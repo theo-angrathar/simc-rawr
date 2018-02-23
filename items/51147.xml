@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_111</iconpath>
+<stats>
+<armor>499</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>132</spellpower>
+<critrating>80</critrating>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Regalia</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Sanctified Lasherweave Mantle</name>
+<id>51147</id>
+<slot>Shoulders</slot>
+</item>

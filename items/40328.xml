@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53198</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_110</iconpath>
+<stats>
+<armor>1867</armor>
+<stamina>126</stamina>
+<strength>68</strength>
+<parryrating>56</parryrating>
+<defenserating>59</defenserating>
+<expertiserating>36</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Helm of Vital Protection</name>
+<id>40328</id>
+<slot>Head</slot>
+</item>

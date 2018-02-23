@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59212</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_01</iconpath>
+<stats>
+<armor>1614</armor>
+<stamina>73</stamina>
+<intellect>60</intellect>
+<spellpower>81</spellpower>
+<hasterating>49</hasterating>
+<mp5>24</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Treads of Destiny</name>
+<id>45561</id>
+<slot>Feet</slot>
+</item>

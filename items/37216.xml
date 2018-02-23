@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51721</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_51</iconpath>
+<stats>
+<armor>7278</armor>
+<stamina>40</stamina>
+<intellect>30</intellect>
+<spellpower>50</spellpower>
+<blockvalue>204</blockvalue>
+<mp5>21</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Facade Shield of Glyphs</name>
+<id>37216</id>
+<slot>OffHand</slot>
+</item>

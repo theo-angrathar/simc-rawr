@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_70</iconpath>
+<stats>
+<armor>1455</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spellpower>114</spellpower>
+<critrating>76</critrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Surrogate Belt</name>
+<id>53121</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_86</iconpath>
+<stats>
+<armor>1650</armor>
+<bonusarmor>1008</bonusarmor>
+<stamina>157</stamina>
+<strength>120</strength>
+<parryrating>48</parryrating>
+<defenserating>63</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Gauntlets of the Kraken</name>
+<id>50978</id>
+<slot>Hands</slot>
+</item>

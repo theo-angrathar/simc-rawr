@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54522</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_05</iconpath>
+<stats>
+<armor>145</armor>
+<stamina>31</stamina>
+<intellect>26</intellect>
+<spirit>54</spirit>
+<spellpower>43</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Subterranean Waterfall Shroud</name>
+<id>43283</id>
+<slot>Back</slot>
+</item>

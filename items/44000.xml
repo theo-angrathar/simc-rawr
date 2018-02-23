@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56127</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate20</iconpath>
+<stats>
+<armor>2298</armor>
+<stamina>127</stamina>
+<strength>100</strength>
+<dodgerating>37</dodgerating>
+<parryrating>58</parryrating>
+<defenserating>44</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Dragonstorm Breastplate</name>
+<id>44000</id>
+<slot>Chest</slot>
+</item>

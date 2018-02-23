@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64689</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_46</iconpath>
+<stats>
+<armor>1155</armor>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spellpower>97</spellpower>
+<critrating>52</critrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Crypt Keeper's Bracers</name>
+<id>50175</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>44358</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_68</iconpath>
+<stats>
+<agility>57</agility>
+<stamina>39</stamina>
+<attackpower>98</attackpower>
+<armorpenetrationrating>31</armorpenetrationrating>
+<hitrating>46</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Band of Lights</name>
+<id>46048</id>
+<slot>Finger</slot>
+</item>

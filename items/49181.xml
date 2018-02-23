@@ -1,0 +1,23 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_33</iconpath>
+<stats>
+<armor>145</armor>
+<stamina>86</stamina>
+<intellect>38</intellect>
+<spellpower>89</spellpower>
+<resilience>50</resilience>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Relentless Gladiator's Cuffs of Alacrity</name>
+<id>49181</id>
+<slot>Wrist</slot>
+</item>

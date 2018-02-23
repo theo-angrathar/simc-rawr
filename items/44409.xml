@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_04</iconpath>
+<stats>
+<armor>428</armor>
+<agility>69</agility>
+<stamina>75</stamina>
+<attackpower>138</attackpower>
+<critrating>40</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Headguard of Retaliation</name>
+<id>44409</id>
+<slot>Head</slot>
+</item>

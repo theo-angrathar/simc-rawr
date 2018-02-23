@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_04</iconpath>
+<stats>
+<armor>1854</armor>
+<stamina>139</stamina>
+<strength>77</strength>
+<hitrating>43</hitrating>
+<parryrating>67</parryrating>
+<defenserating>67</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Thassarian's Plate</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Thassarian's Pauldrons of Triumph</name>
+<id>48542</id>
+<slot>Shoulders</slot>
+</item>

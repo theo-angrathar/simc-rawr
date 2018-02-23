@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_cloth_09</iconpath>
+<stats>
+<armor>212</armor>
+<stamina>64</stamina>
+<intellect>55</intellect>
+<spirit>57</spirit>
+<spellpower>88</spellpower>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Slippers of the Holy Light</name>
+<id>40751</id>
+<slot>Feet</slot>
+</item>

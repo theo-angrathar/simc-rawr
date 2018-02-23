@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_25</iconpath>
+<stats>
+<armor>231</armor>
+<stamina>57</stamina>
+<intellect>57</intellect>
+<spellpower>78</spellpower>
+<hitrating>41</hitrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Garb of Faith</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Valorous Mantle of Faith</name>
+<id>40459</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_03</iconpath>
+<stats>
+<armor>398</armor>
+<stamina>64</stamina>
+<intellect>57</intellect>
+<spirit>55</spirit>
+<spellpower>88</spellpower>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Rainey's Chewed Boots</name>
+<id>40749</id>
+<slot>Feet</slot>
+</item>

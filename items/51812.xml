@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64417</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_74</iconpath>
+<stats>
+<armor>8873</armor>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spellpower>97</spellpower>
+<blockvalue>248</blockvalue>
+<hasterating>52</hasterating>
+<mp5>30</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Lost Pavise of the Blue Flight</name>
+<id>51812</id>
+<slot>OffHand</slot>
+</item>

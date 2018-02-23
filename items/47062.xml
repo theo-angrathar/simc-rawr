@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61170</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_33</iconpath>
+<stats>
+<armor>303</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spirit>94</spirit>
+<spellpower>151</spellpower>
+<hasterating>86</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Leggings of the Soothing Touch</name>
+<id>47062</id>
+<slot>Legs</slot>
+</item>

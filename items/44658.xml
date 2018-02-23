@@ -1,0 +1,24 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_32</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>43</intellect>
+<spellpower>56</spellpower>
+<hitrating>30</hitrating>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Chain of the Ancient Wyrm</name>
+<id>44658</id>
+<slot>Neck</slot>
+</item>

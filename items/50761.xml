@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64396</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_sword_153</iconpath>
+<stats>
+<stamina>164</stamina>
+<strength>156</strength>
+<critrating>76</critrating>
+<hitrating>103</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandSword</type>
+<faction>Neutral</faction>
+<mindamage>727</mindamage>
+<maxdamage>1091</maxdamage>
+<speed>3.4</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Citadel Enforcer's Claymore</name>
+<id>50761</id>
+<slot>TwoHand</slot>
+</item>

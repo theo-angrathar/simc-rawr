@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52328</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_19</iconpath>
+<stats>
+<armor>254</armor>
+<stamina>58</stamina>
+<intellect>74</intellect>
+<spirit>52</spirit>
+<spellpower>73</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Breeches of the Caller</name>
+<id>37189</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64242</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_78</iconpath>
+<stats>
+<armor>354</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>162</spellpower>
+<critrating>108</critrating>
+<hitrating>84</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Robe of the Waking Nightmare</name>
+<id>50418</id>
+<slot>Chest</slot>
+</item>

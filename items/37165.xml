@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49354</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_08</iconpath>
+<stats>
+<armor>545</armor>
+<agility>53</agility>
+<stamina>64</stamina>
+<attackpower>138</attackpower>
+<hitrating>51</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Crystal-Infused Tunic</name>
+<id>37165</id>
+<slot>Chest</slot>
+</item>

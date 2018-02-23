@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64688</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_154</iconpath>
+<stats>
+<armor>2145</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>171</spellpower>
+<critrating>92</critrating>
+<mp5>46</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Faceplate of the Forgotten</name>
+<id>50060</id>
+<slot>Head</slot>
+</item>

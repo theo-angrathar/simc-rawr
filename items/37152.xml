@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50910</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_22</iconpath>
+<stats>
+<armor>1218</armor>
+<stamina>43</stamina>
+<intellect>44</intellect>
+<spellpower>68</spellpower>
+<critrating>41</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Girdle of Ice</name>
+<id>37152</id>
+<slot>Waist</slot>
+</item>

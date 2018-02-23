@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59772</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_14</iconpath>
+<stats>
+<armor>731</armor>
+<agility>53</agility>
+<stamina>67</stamina>
+<attackpower>158</attackpower>
+<armorpenetrationrating>36</armorpenetrationrating>
+<intellect>45</intellect>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of the Blood Pit</name>
+<id>45895</id>
+<slot>Waist</slot>
+</item>

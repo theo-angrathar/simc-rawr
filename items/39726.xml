@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54620</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_62</iconpath>
+<stats>
+<armor>1436</armor>
+<stamina>112</stamina>
+<strength>74</strength>
+<dodgerating>28</dodgerating>
+<parryrating>50</parryrating>
+<defenserating>36</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Callous-Hearted Gauntlets</name>
+<id>39726</id>
+<slot>Hands</slot>
+</item>

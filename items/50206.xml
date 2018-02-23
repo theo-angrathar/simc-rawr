@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>65136</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_153</iconpath>
+<stats>
+<armor>485</armor>
+<agility>104</agility>
+<stamina>80</stamina>
+<attackpower>167</attackpower>
+<critrating>47</critrating>
+<hasterating>90</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>8</hasterating>
+</socketbonus>
+<name>Frayed Scoundrel's Cap</name>
+<id>50206</id>
+<slot>Head</slot>
+</item>

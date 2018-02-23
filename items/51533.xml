@@ -1,0 +1,20 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shield_71</iconpath>
+<stats>
+<armor>9051</armor>
+<stamina>181</stamina>
+<blockvalue>253</blockvalue>
+<resilience>121</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Shield Wall</name>
+<id>51533</id>
+<slot>OffHand</slot>
+</item>

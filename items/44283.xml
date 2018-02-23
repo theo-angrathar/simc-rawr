@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>44357</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_70</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>50</intellect>
+<spellpower>58</spellpower>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Signet of Hopeful Light</name>
+<id>44283</id>
+<slot>Finger</slot>
+</item>

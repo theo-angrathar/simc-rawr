@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>31603</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_16</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>29</intellect>
+<spellpower>50</spellpower>
+<critrating>28</critrating>
+<resilience>29</resilience>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Sky Sapphire Amulet</name>
+<id>45813</id>
+<slot>Neck</slot>
+</item>

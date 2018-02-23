@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55755</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_01</iconpath>
+<stats>
+<armor>1580</armor>
+<stamina>111</stamina>
+<strength>67</strength>
+<critrating>42</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Deadly Gladiator's Greaves of Triumph</name>
+<id>40880</id>
+<slot>Feet</slot>
+</item>

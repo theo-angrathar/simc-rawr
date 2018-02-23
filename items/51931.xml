@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64664</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_14</iconpath>
+<stats>
+<armor>1815</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<critrating>80</critrating>
+<mp5>32</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Ancient Skeletal Boots</name>
+<id>51931</id>
+<slot>Feet</slot>
+</item>

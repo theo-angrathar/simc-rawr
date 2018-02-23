@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64605</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_118</iconpath>
+<stats>
+<armor>238</armor>
+<stamina>68</stamina>
+<intellect>68</intellect>
+<spellpower>105</spellpower>
+<hitrating>62</hitrating>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Very Fashionable Shoulders</name>
+<id>50193</id>
+<slot>Shoulders</slot>
+</item>

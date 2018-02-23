@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60518</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_31</iconpath>
+<stats>
+<armor>225</armor>
+<stamina>60</stamina>
+<intellect>47</intellect>
+<spellpower>78</spellpower>
+<critrating>37</critrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mantle of Inconsolable Fear</name>
+<id>47226</id>
+<slot>Shoulders</slot>
+</item>

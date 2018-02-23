@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_mace_111</iconpath>
+<stats>
+<stamina>88</stamina>
+<intellect>59</intellect>
+<spellpower>738</spellpower>
+<resilience>51</resilience>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>120</mindamage>
+<maxdamage>340</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Wrathful Gladiator's Gavel</name>
+<id>51453</id>
+<slot>MainHand</slot>
+</item>

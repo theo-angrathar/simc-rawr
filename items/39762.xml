@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54716</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_22</iconpath>
+<stats>
+<armor>723</armor>
+<agility>50</agility>
+<stamina>75</stamina>
+<attackpower>150</attackpower>
+<intellect>36</intellect>
+<critrating>49</critrating>
+<hitrating>29</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Torn Web Wrapping</name>
+<id>39762</id>
+<slot>Waist</slot>
+</item>

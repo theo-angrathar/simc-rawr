@@ -1,0 +1,22 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64294</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_45purple</iconpath>
+<stats>
+<armor>148</armor>
+<stamina>61</stamina>
+<intellect>61</intellect>
+<spellpower>94</spellpower>
+<hitrating>40</hitrating>
+<hasterating>61</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ether-Soaked Bracers</name>
+<id>51007</id>
+<slot>Wrist</slot>
+</item>

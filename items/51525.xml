@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_axe_116</iconpath>
+<stats>
+<stamina>104</stamina>
+<attackpower>123</attackpower>
+<critrating>38</critrating>
+<resilience>46</resilience>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>412</mindamage>
+<maxdamage>766</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Wrathful Gladiator's Chopper</name>
+<id>51525</id>
+<slot>OffHand</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_09</iconpath>
+<stats>
+<armor>253</armor>
+<agility>56</agility>
+<stamina>66</stamina>
+<attackpower>58</attackpower>
+<critrating>38</critrating>
+<resilience>37</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deadly Gladiator's Armwraps of Triumph</name>
+<id>41839</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_16</iconpath>
+<stats>
+<armor>636</armor>
+<stamina>164</stamina>
+<intellect>73</intellect>
+<spellpower>149</spellpower>
+<critrating>80</critrating>
+<resilience>96</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Wildhide</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Relentless Gladiator's Wyrmhide Robes</name>
+<id>41317</id>
+<slot>Chest</slot>
+</item>

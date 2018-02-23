@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61866</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_64</iconpath>
+<stats>
+<armor>347</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spellpower>151</spellpower>
+<hitrating>86</hitrating>
+<hasterating>94</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Skyweaver Vestments</name>
+<id>47462</id>
+<slot>Chest</slot>
+</item>

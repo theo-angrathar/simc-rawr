@@ -1,0 +1,29 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_92</iconpath>
+<stats>
+<armor>1056</armor>
+<agility>76</agility>
+<stamina>75</stamina>
+<attackpower>180</attackpower>
+<armorpenetrationrating>46</armorpenetrationrating>
+<intellect>45</intellect>
+<critrating>56</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgestalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<attackpower>16</attackpower>
+</socketbonus>
+<name>Valorous Scourgestalker Headpiece</name>
+<id>45361</id>
+<slot>Head</slot>
+</item>

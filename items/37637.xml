@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53121</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_14</iconpath>
+<stats>
+<armor>163</armor>
+<stamina>45</stamina>
+<intellect>54</intellect>
+<spellpower>59</spellpower>
+<critrating>42</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Living Mojo Belt</name>
+<id>37637</id>
+<slot>Waist</slot>
+</item>

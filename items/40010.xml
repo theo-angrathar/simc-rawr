@@ -1,0 +1,16 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_27</iconpath>
+<stats>
+<mp5>8</mp5>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Lustrous Sky Sapphire</name>
+<id>40010</id>
+<slot>Blue</slot>
+</item>

@@ -1,0 +1,29 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_95</iconpath>
+<stats>
+<armor>1176</armor>
+<agility>137</agility>
+<stamina>121</stamina>
+<attackpower>172</attackpower>
+<intellect>80</intellect>
+<critrating>80</critrating>
+<hitrating>86</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Battlegear</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<attackpower>16</attackpower>
+</socketbonus>
+<name>Nobundo's Faceguard of Triumph</name>
+<id>48353</id>
+<slot>Head</slot>
+</item>

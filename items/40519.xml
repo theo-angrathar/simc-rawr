@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53659</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_13</iconpath>
+<stats>
+<armor>398</armor>
+<stamina>63</stamina>
+<intellect>52</intellect>
+<spellpower>90</spellpower>
+<critrating>41</critrating>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Footsteps of Malygos</name>
+<id>40519</id>
+<slot>Feet</slot>
+</item>

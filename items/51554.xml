@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64892</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_150purple</iconpath>
+<stats>
+<armor>275</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spellpower>140</spellpower>
+<critrating>72</critrating>
+<hasterating>96</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Cowl of Malefic Repose</name>
+<id>51554</id>
+<slot>Head</slot>
+</item>

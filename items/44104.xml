@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55691</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_03</iconpath>
+<stats>
+<armor>158</armor>
+<stamina>42</stamina>
+<intellect>37</intellect>
+<spirit>51</spirit>
+<spellpower>60</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Fishy Cinch</name>
+<id>44104</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51600</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_misc_book_11</iconpath>
+<stats>
+<stamina>28</stamina>
+<intellect>21</intellect>
+<spirit>19</spirit>
+<spellpower>46</spellpower>
+<critrating>38</critrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Tome of Salramm</name>
+<id>37086</id>
+<slot>OffHand</slot>
+</item>

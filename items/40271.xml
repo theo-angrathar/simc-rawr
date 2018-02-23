@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54713</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_07</iconpath>
+<stats>
+<armor>173</armor>
+<stamina>57</stamina>
+<intellect>58</intellect>
+<spirit>37</spirit>
+<spellpower>78</spellpower>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Sash of Solitude</name>
+<id>40271</id>
+<slot>Waist</slot>
+</item>

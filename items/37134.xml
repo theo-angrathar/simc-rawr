@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50990</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_misc_book_06</iconpath>
+<stats>
+<stamina>24</stamina>
+<intellect>43</intellect>
+<spellpower>50</spellpower>
+<hitrating>39</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Telestra's Journal</name>
+<id>37134</id>
+<slot>OffHand</slot>
+</item>

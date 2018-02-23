@@ -1,0 +1,18 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>34132</displayid>
+<displayslot>12</displayslot>
+<iconpath>inv_misc_ahnqirajtrinket_05</iconpath>
+<stats>
+<critrating>136</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Vanquished Clutches of Yogg-Saron</name>
+<id>46312</id>
+<slot>Trinket</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64565</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_48</iconpath>
+<stats>
+<armor>317</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>86</spirit>
+<spellpower>141</spellpower>
+<critrating>70</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mord'rethar Robes</name>
+<id>50213</id>
+<slot>Chest</slot>
+</item>

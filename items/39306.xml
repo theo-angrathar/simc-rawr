@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53850</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_52</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spellpower>68</spellpower>
+<critrating>30</critrating>
+<mp5>24</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Plated Gloves of Relief</name>
+<id>39306</id>
+<slot>Hands</slot>
+</item>

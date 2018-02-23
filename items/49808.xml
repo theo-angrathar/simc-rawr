@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64847</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_70</iconpath>
+<stats>
+<armor>1306</armor>
+<stamina>90</stamina>
+<strength>90</strength>
+<critrating>47</critrating>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bent Gold Belt</name>
+<id>49808</id>
+<slot>Waist</slot>
+</item>

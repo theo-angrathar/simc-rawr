@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59374</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_shortblade_80</iconpath>
+<stats>
+<stamina>34</stamina>
+<intellect>45</intellect>
+<spirit>46</spirit>
+<spellpower>487</spellpower>
+<critrating>35</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>80</mindamage>
+<maxdamage>258</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Plasma Foil</name>
+<id>45685</id>
+<slot>MainHand</slot>
+</item>

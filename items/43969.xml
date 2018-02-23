@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55370</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_16</iconpath>
+<stats>
+<armor>158</armor>
+<stamina>51</stamina>
+<intellect>34</intellect>
+<spellpower>60</spellpower>
+<critrating>34</critrating>
+<resilience>34</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Frostsavage Battlegear</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Frostsavage Belt</name>
+<id>43969</id>
+<slot>Waist</slot>
+</item>

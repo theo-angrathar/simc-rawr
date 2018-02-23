@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55331</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_06</iconpath>
+<stats>
+<armor>188</armor>
+<intellect>48</intellect>
+<spirit>39</spirit>
+<spellpower>77</spellpower>
+<hasterating>65</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Spellweave Gloves</name>
+<id>42113</id>
+<slot>Hands</slot>
+</item>

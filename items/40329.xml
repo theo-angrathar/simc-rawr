@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54841</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_108</iconpath>
+<stats>
+<armor>470</armor>
+<agility>84</agility>
+<stamina>115</stamina>
+<attackpower>134</attackpower>
+<expertiserating>35</expertiserating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Hood of the Exodus</name>
+<id>40329</id>
+<slot>Head</slot>
+</item>

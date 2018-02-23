@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64682</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_62</iconpath>
+<stats>
+<armor>812</armor>
+<stamina>60</stamina>
+<intellect>60</intellect>
+<spellpower>92</spellpower>
+<hitrating>54</hitrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mitts of Burning Hail</name>
+<id>49837</id>
+<slot>Hands</slot>
+</item>

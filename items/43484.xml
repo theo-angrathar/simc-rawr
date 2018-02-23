@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55207</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_23</iconpath>
+<stats>
+<armor>317</armor>
+<agility>66</agility>
+<stamina>72</stamina>
+<attackpower>132</attackpower>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Trollwoven Girdle</name>
+<id>43484</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,18 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>43434</displayid>
+<displayslot>28</displayslot>
+<iconpath>inv_misc_thegoldencheep</iconpath>
+<stats>
+<reducerejuvenationcost>106</reducerejuvenationcost>
+</stats>
+<quality>Epic</quality>
+<type>Idol</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Idol of Awakening</name>
+<id>40342</id>
+<slot>Ranged</slot>
+</item>

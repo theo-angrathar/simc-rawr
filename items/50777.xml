@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64810</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_84</iconpath>
+<stats>
+<armor>883</armor>
+<agility>91</agility>
+<stamina>84</stamina>
+<attackpower>142</attackpower>
+<armorpenetrationrating>49</armorpenetrationrating>
+<intellect>60</intellect>
+<hitrating>55</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Handgrips of Frost and Sleet</name>
+<id>50777</id>
+<slot>Hands</slot>
+</item>

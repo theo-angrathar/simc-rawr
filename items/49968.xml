@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64646</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_shortblade_101</iconpath>
+<stats>
+<stamina>67</stamina>
+<intellect>67</intellect>
+<spirit>59</spirit>
+<spellpower>741</spellpower>
+<critrating>59</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>112</mindamage>
+<maxdamage>359</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<uniqueid>49968</uniqueid>
+<uniqueid>50608</uniqueid>
+<name>Frozen Bonespike</name>
+<id>49968</id>
+<slot>MainHand</slot>
+</item>

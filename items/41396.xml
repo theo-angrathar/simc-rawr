@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_shadowspirit_02</iconpath>
+<stats>
+<defenserating>21</defenserating>
+<bonusblockvaluemultiplier>0.05</bonusblockvaluemultiplier>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Eternal Earthsiege Diamond</name>
+<id>41396</id>
+<slot>Meta</slot>
+</item>

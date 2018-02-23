@@ -1,0 +1,27 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_24</iconpath>
+<stats>
+<armor>2694</armor>
+<stamina>257</stamina>
+<strength>155</strength>
+<critrating>98</critrating>
+<resilience>114</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Wrathful Gladiator's Plate Chestpiece</name>
+<id>51541</id>
+<slot>Chest</slot>
+</item>

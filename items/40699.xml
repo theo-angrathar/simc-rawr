@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_book_06</iconpath>
+<stats>
+<stamina>43</stamina>
+<intellect>36</intellect>
+<spirit>38</spirit>
+<spellpower>59</spellpower>
+<hasterating>25</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Handbook of Obscure Remedies</name>
+<id>40699</id>
+<slot>OffHand</slot>
+</item>

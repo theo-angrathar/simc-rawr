@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56261</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_102</iconpath>
+<stats>
+<armor>909</armor>
+<agility>58</agility>
+<stamina>42</stamina>
+<attackpower>88</attackpower>
+<intellect>44</intellect>
+<critrating>33</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spaulders of the Black Arrow</name>
+<id>44257</id>
+<slot>Shoulders</slot>
+</item>

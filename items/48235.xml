@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_145a</iconpath>
+<stats>
+<armor>529</armor>
+<agility>137</agility>
+<stamina>153</stamina>
+<attackpower>172</attackpower>
+<critrating>102</critrating>
+<expertiserating>86</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>VanCleef's Battlegear</setname>
+<type>Leather</type>
+<faction>Horde</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Garona's Helmet of Triumph</name>
+<id>48235</id>
+<slot>Head</slot>
+</item>

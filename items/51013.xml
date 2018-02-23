@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>63690</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_149</iconpath>
+<stats>
+<armor>517</armor>
+<agility>136</agility>
+<stamina>97</stamina>
+<attackpower>202</attackpower>
+<armorpenetrationrating>88</armorpenetrationrating>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<armorpenetrationrating>8</armorpenetrationrating>
+</socketbonus>
+<name>Discarded Bag of Entrails</name>
+<id>51013</id>
+<slot>Head</slot>
+</item>

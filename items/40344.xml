@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>57545</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_18</iconpath>
+<stats>
+<armor>1045</armor>
+<agility>51</agility>
+<stamina>78</stamina>
+<attackpower>170</attackpower>
+<armorpenetrationrating>53</armorpenetrationrating>
+<intellect>52</intellect>
+<critrating>49</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Helm of the Grave</name>
+<id>40344</id>
+<slot>Head</slot>
+</item>

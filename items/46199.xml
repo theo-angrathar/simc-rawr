@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59481</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>821</armor>
+<stamina>63</stamina>
+<intellect>64</intellect>
+<spellpower>90</spellpower>
+<critrating>48</critrating>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Conqueror's Worldbreaker Handguards</name>
+<id>46199</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64665</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_11</iconpath>
+<stats>
+<armor>893</armor>
+<stamina>79</stamina>
+<intellect>53</intellect>
+<spellpower>92</spellpower>
+<hasterating>45</hasterating>
+<mp5>29</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Soul Screaming Boots</name>
+<id>49798</id>
+<slot>Feet</slot>
+</item>

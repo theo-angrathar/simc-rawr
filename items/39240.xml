@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53885</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_108</iconpath>
+<stats>
+<armor>458</armor>
+<stamina>67</stamina>
+<intellect>65</intellect>
+<spirit>52</spirit>
+<spellpower>85</spellpower>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Noth's Curse</name>
+<id>39240</id>
+<slot>Head</slot>
+</item>

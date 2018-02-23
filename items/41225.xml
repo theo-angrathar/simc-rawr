@@ -1,0 +1,24 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>575</armor>
+<agility>42</agility>
+<stamina>73</stamina>
+<attackpower>84</attackpower>
+<intellect>31</intellect>
+<critrating>43</critrating>
+<resilience>41</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Furious Gladiator's Wristguards of Triumph</name>
+<id>41225</id>
+<slot>Wrist</slot>
+</item>

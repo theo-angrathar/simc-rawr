@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55695</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_98</iconpath>
+<stats>
+<armor>1570</armor>
+<stamina>57</stamina>
+<strength>50</strength>
+<critrating>58</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gold Star Spaulders</name>
+<id>44111</id>
+<slot>Shoulders</slot>
+</item>

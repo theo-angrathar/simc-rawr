@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>63691</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_34</iconpath>
+<stats>
+<armor>557</armor>
+<agility>120</agility>
+<stamina>126</stamina>
+<attackpower>206</attackpower>
+<armorpenetrationrating>60</armorpenetrationrating>
+<critrating>103</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Ivory-Inlaid Leggings</name>
+<id>51550</id>
+<slot>Legs</slot>
+</item>

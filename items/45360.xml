@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>812</armor>
+<agility>44</agility>
+<stamina>62</stamina>
+<attackpower>158</attackpower>
+<intellect>41</intellect>
+<hitrating>40</hitrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgestalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Valorous Scourgestalker Handguards</name>
+<id>45360</id>
+<slot>Hands</slot>
+</item>

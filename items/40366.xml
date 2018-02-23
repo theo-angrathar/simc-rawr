@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53198</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_110</iconpath>
+<stats>
+<armor>1867</armor>
+<stamina>151</stamina>
+<strength>100</strength>
+<dodgerating>38</dodgerating>
+<blockrating>67</blockrating>
+<defenserating>48</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Platehelm of the Great Wyrm</name>
+<id>40366</id>
+<slot>Head</slot>
+</item>

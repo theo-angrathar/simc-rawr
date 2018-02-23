@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_shortblade_98</iconpath>
+<stats>
+<stamina>104</stamina>
+<strength>101</strength>
+<hitrating>67</hitrating>
+<hasterating>45</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandSword</type>
+<faction>Horde</faction>
+<mindamage>492</mindamage>
+<maxdamage>739</maxdamage>
+<speed>3.3</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Greatsword of the Sin'dorei</name>
+<id>45205</id>
+<slot>TwoHand</slot>
+</item>

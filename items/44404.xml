@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_29</iconpath>
+<stats>
+<armor>280</armor>
+<stamina>43</stamina>
+<intellect>55</intellect>
+<spirit>68</spirit>
+<spellpower>81</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bauble-Woven Gown</name>
+<id>44404</id>
+<slot>Chest</slot>
+</item>

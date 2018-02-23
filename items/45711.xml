@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59776</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_102</iconpath>
+<stats>
+<armor>974</armor>
+<agility>56</agility>
+<stamina>61</stamina>
+<attackpower>158</attackpower>
+<intellect>44</intellect>
+<critrating>39</critrating>
+<hasterating>45</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ironaya's Discarded Mantle</name>
+<id>45711</id>
+<slot>Shoulders</slot>
+</item>

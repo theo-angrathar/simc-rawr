@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54800</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_samurai</iconpath>
+<stats>
+<armor>1286</armor>
+<agility>100</agility>
+<stamina>72</stamina>
+<attackpower>132</attackpower>
+<intellect>66</intellect>
+<critrating>67</critrating>
+<hasterating>39</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Tunic of Masked Suffering</name>
+<id>40193</id>
+<slot>Chest</slot>
+</item>

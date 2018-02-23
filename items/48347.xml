@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_73</iconpath>
+<stats>
+<armor>865</armor>
+<agility>67</agility>
+<stamina>80</stamina>
+<attackpower>186</attackpower>
+<intellect>53</intellect>
+<critrating>53</critrating>
+<expertiserating>59</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Battlegear</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Nobundo's Grips of Triumph</name>
+<id>48347</id>
+<slot>Hands</slot>
+</item>

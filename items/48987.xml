@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_27</iconpath>
+<stats>
+<armor>522</armor>
+<stamina>137</stamina>
+<intellect>61</intellect>
+<spellpower>122</spellpower>
+<resilience>80</resilience>
+<hasterating>64</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Titan-Forged Leather Legguards of Salvation</name>
+<id>48987</id>
+<slot>Legs</slot>
+</item>

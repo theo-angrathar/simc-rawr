@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53668</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_11</iconpath>
+<stats>
+<armor>1314</armor>
+<stamina>81</stamina>
+<intellect>82</intellect>
+<spellpower>137</spellpower>
+<critrating>70</critrating>
+<mp5>29</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Tunic of the Artifact Guardian</name>
+<id>40588</id>
+<slot>Chest</slot>
+</item>

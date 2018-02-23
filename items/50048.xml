@@ -1,0 +1,24 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64152</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_sword_155</iconpath>
+<stats>
+<stamina>164</stamina>
+<strength>164</strength>
+<critrating>99</critrating>
+<hasterating>91</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandSword</type>
+<faction>Neutral</faction>
+<mindamage>769</mindamage>
+<maxdamage>1155</maxdamage>
+<speed>3.6</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Quel'Delar, Might of the Faithful</name>
+<id>50048</id>
+<slot>TwoHand</slot>
+</item>

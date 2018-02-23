@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_05</iconpath>
+<stats>
+<armor>263</armor>
+<stamina>67</stamina>
+<intellect>68</intellect>
+<spellpower>87</spellpower>
+<hitrating>36</hitrating>
+<hasterating>64</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Frostfire Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Heroes' Frostfire Leggings</name>
+<id>39493</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60639</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_11</iconpath>
+<stats>
+<armor>1541</armor>
+<stamina>99</stamina>
+<strength>41</strength>
+<dodgerating>39</dodgerating>
+<defenserating>47</defenserating>
+<expertiserating>29</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Boots of Heartfelt Repentance</name>
+<id>47201</id>
+<slot>Feet</slot>
+</item>

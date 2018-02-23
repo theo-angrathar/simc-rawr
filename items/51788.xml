@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64645</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_shortblade_101</iconpath>
+<stats>
+<stamina>44</stamina>
+<intellect>61</intellect>
+<spellpower>657</spellpower>
+<critrating>47</critrating>
+<hitrating>61</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>102</mindamage>
+<maxdamage>325</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<uniqueid>51788</uniqueid>
+<uniqueid>51815</uniqueid>
+<name>Bleak Coldarra Carver</name>
+<id>51788</id>
+<slot>MainHand</slot>
+</item>

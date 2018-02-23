@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_47</iconpath>
+<stats>
+<agility>28</agility>
+<stamina>55</stamina>
+<attackpower>112</attackpower>
+<critrating>43</critrating>
+<hasterating>38</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ring of Invincibility</name>
+<id>40717</id>
+<slot>Finger</slot>
+</item>

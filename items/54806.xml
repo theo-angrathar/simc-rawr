@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_staff_78</iconpath>
+<stats>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>550</spellpower>
+<critrating>80</critrating>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Staff</type>
+<faction>Neutral</faction>
+<mindamage>343</mindamage>
+<maxdamage>643</maxdamage>
+<speed>3.2</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Frostscythe of Lord Ahune</name>
+<id>54806</id>
+<slot>TwoHand</slot>
+</item>

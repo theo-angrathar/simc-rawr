@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54839</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_19</iconpath>
+<stats>
+<armor>1005</armor>
+<stamina>48</stamina>
+<intellect>43</intellect>
+<spellpower>66</spellpower>
+<critrating>41</critrating>
+<hasterating>28</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bracers of Liberation</name>
+<id>40274</id>
+<slot>Wrist</slot>
+</item>

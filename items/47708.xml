@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_89</iconpath>
+<stats>
+<armor>467</armor>
+<agility>93</agility>
+<stamina>101</stamina>
+<attackpower>135</attackpower>
+<armorpenetrationrating>59</armorpenetrationrating>
+<critrating>67</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Duskstalker Shoulderpads</name>
+<id>47708</id>
+<slot>Shoulders</slot>
+</item>

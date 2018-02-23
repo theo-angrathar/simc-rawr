@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62974</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_146</iconpath>
+<stats>
+<armor>2009</armor>
+<stamina>125</stamina>
+<strength>143</strength>
+<armorpenetrationrating>76</armorpenetrationrating>
+<hitrating>82</hitrating>
+<frostresistance>10</frostresistance>
+<shadowresistance>10</shadowresistance>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Frostforged Helm</name>
+<id>49466</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59483</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>821</armor>
+<agility>57</agility>
+<stamina>51</stamina>
+<attackpower>170</attackpower>
+<intellect>45</intellect>
+<expertiserating>40</expertiserating>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Conqueror's Worldbreaker Grips</name>
+<id>46200</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64269</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_34purple</iconpath>
+<stats>
+<armor>296</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spellpower>140</spellpower>
+<critrating>84</critrating>
+<hasterating>84</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Kilt of Untreated Wounds</name>
+<id>50990</id>
+<slot>Legs</slot>
+</item>

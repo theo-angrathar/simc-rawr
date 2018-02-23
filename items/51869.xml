@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64539</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_154</iconpath>
+<stats>
+<stamina>92</stamina>
+<strength>42</strength>
+<parryrating>46</parryrating>
+<defenserating>46</defenserating>
+<expertiserating>41</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>253</mindamage>
+<maxdamage>472</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<dodgerating>4</dodgerating>
+</socketbonus>
+<name>The Facelifter</name>
+<id>51869</id>
+<slot>OneHand</slot>
+</item>

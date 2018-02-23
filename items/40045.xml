@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_30</iconpath>
+<stats>
+<agility>8</agility>
+<resilience>8</resilience>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Lucent Monarch Topaz</name>
+<id>40045</id>
+<slot>Orange</slot>
+</item>

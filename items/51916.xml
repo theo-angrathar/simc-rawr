@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64472</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_113</iconpath>
+<stats>
+<agility>61</agility>
+<stamina>53</stamina>
+<attackpower>106</attackpower>
+<armorpenetrationrating>31</armorpenetrationrating>
+<critrating>50</critrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>412</mindamage>
+<maxdamage>766</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Frost Giant's Cleaver</name>
+<id>51916</id>
+<slot>OneHand</slot>
+</item>

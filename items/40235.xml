@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>57544</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_18</iconpath>
+<stats>
+<armor>1045</armor>
+<stamina>75</stamina>
+<intellect>77</intellect>
+<spellpower>118</spellpower>
+<critrating>67</critrating>
+<mp5>33</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Helm of Pilgrimage</name>
+<id>40235</id>
+<slot>Head</slot>
+</item>

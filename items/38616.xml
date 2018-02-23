@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51514</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_24</iconpath>
+<stats>
+<armor>307</armor>
+<stamina>58</stamina>
+<intellect>40</intellect>
+<spellpower>68</spellpower>
+<critrating>58</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Maiden's Girdle</name>
+<id>38616</id>
+<slot>Waist</slot>
+</item>

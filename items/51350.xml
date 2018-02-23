@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_72</iconpath>
+<stats>
+<armor>831</armor>
+<agility>80</agility>
+<stamina>137</stamina>
+<attackpower>145</attackpower>
+<intellect>61</intellect>
+<critrating>72</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Wrathful Gladiator's Waistguard of Triumph</name>
+<id>51350</id>
+<slot>Waist</slot>
+</item>

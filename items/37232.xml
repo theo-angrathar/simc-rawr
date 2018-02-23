@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>31657</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_39</iconpath>
+<stats>
+<stamina>27</stamina>
+<intellect>34</intellect>
+<spellpower>51</spellpower>
+<critrating>43</critrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ring of the Traitor King</name>
+<id>37232</id>
+<slot>Finger</slot>
+</item>

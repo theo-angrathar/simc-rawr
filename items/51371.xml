@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_46</iconpath>
+<stats>
+<armor>831</armor>
+<stamina>137</stamina>
+<intellect>61</intellect>
+<spellpower>132</spellpower>
+<resilience>80</resilience>
+<mp5>36</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Wrathful Gladiator's Waistguard of Salvation</name>
+<id>51371</id>
+<slot>Waist</slot>
+</item>

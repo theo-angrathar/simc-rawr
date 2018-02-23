@@ -1,0 +1,18 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>34954</displayid>
+<displayslot>28</displayslot>
+<iconpath>inv_relics_idolofrejuvenation</iconpath>
+<stats>
+<nourishspellpower>187</nourishspellpower>
+</stats>
+<quality>Epic</quality>
+<type>Idol</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Idol of the Flourishing Life</name>
+<id>46138</id>
+<slot>Ranged</slot>
+</item>

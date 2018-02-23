@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_126</iconpath>
+<stats>
+<armor>485</armor>
+<stamina>138</stamina>
+<intellect>60</intellect>
+<spirit>64</spirit>
+<spellpower>123</spellpower>
+<resilience>64</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Refuge</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Furious Gladiator's Kodohide Helm</name>
+<id>41321</id>
+<slot>Head</slot>
+</item>

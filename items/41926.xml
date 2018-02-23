@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55885</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_28</iconpath>
+<stats>
+<armor>269</armor>
+<stamina>115</stamina>
+<intellect>50</intellect>
+<spellpower>99</spellpower>
+<critrating>51</critrating>
+<resilience>66</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Raiment</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Deadly Gladiator's Satin Leggings</name>
+<id>41926</id>
+<slot>Legs</slot>
+</item>

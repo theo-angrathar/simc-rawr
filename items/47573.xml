@@ -1,0 +1,24 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62142</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_26b</iconpath>
+<stats>
+<armor>1082</armor>
+<stamina>86</stamina>
+<strength>78</strength>
+<armorpenetrationrating>50</armorpenetrationrating>
+<critrating>42</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Titanium Spikeguards</name>
+<id>47573</id>
+<slot>Wrist</slot>
+</item>

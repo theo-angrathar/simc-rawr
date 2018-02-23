@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_20</iconpath>
+<stats>
+<attackpower>12</attackpower>
+<hasterating>6</hasterating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Stark Huge Citrine</name>
+<id>39963</id>
+<slot>Orange</slot>
+</item>

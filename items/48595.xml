@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_62</iconpath>
+<stats>
+<armor>1777</armor>
+<stamina>68</stamina>
+<intellect>68</intellect>
+<spellpower>96</spellpower>
+<critrating>60</critrating>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Garb</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Liadrin's Spaulders of Conquest</name>
+<id>48595</id>
+<slot>Shoulders</slot>
+</item>

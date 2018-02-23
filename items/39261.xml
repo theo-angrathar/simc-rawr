@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54220</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_12</iconpath>
+<stats>
+<armor>1261</armor>
+<stamina>57</stamina>
+<intellect>48</intellect>
+<spellpower>77</spellpower>
+<critrating>44</critrating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Tainted Girdle of Mending</name>
+<id>39261</id>
+<slot>Waist</slot>
+</item>

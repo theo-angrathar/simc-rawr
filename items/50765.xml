@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_156</iconpath>
+<stats>
+<armor>275</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spirit>80</spirit>
+<spellpower>140</spellpower>
+<critrating>88</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Crimson Acolyte's Raiment</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Crimson Acolyte Hood</name>
+<id>50765</id>
+<slot>Head</slot>
+</item>

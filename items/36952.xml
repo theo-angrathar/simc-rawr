@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>50982</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_33</iconpath>
+<stats>
+<armor>1177</armor>
+<stamina>76</stamina>
+<strength>51</strength>
+<parryrating>37</parryrating>
+<defenserating>29</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Girdle of Obscuring</name>
+<id>36952</id>
+<slot>Waist</slot>
+</item>

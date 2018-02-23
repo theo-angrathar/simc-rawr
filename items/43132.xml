@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56718</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_121</iconpath>
+<stats>
+<armor>952</armor>
+<stamina>66</stamina>
+<intellect>51</intellect>
+<spellpower>74</spellpower>
+<critrating>67</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Nightshock Hood</name>
+<id>43132</id>
+<slot>Head</slot>
+</item>

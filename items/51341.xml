@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_cloth_05</iconpath>
+<stats>
+<armor>457</armor>
+<stamina>137</stamina>
+<intellect>61</intellect>
+<spirit>72</spirit>
+<spellpower>132</spellpower>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Wrathful Gladiator's Boots of Salvation</name>
+<id>51341</id>
+<slot>Feet</slot>
+</item>

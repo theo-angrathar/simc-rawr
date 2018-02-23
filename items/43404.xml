@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>39212</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_32</iconpath>
+<stats>
+<stamina>64</stamina>
+<intellect>28</intellect>
+<spirit>29</spirit>
+<spellpower>50</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Zuramat's Necklace</name>
+<id>43404</id>
+<slot>Neck</slot>
+</item>

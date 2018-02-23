@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54848</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_16</iconpath>
+<stats>
+<armor>1286</armor>
+<stamina>75</stamina>
+<intellect>72</intellect>
+<spellpower>99</spellpower>
+<critrating>61</critrating>
+<hasterating>58</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Fallout Impervious Tunic</name>
+<id>40283</id>
+<slot>Chest</slot>
+</item>

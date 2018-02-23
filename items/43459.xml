@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56711</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_15</iconpath>
+<stats>
+<armor>549</armor>
+<agility>50</agility>
+<stamina>43</stamina>
+<attackpower>72</attackpower>
+<armorpenetrationrating>36</armorpenetrationrating>
+<intellect>29</intellect>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Giantmaim Bracers</name>
+<id>43459</id>
+<slot>Wrist</slot>
+</item>

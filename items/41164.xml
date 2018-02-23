@@ -1,0 +1,17 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>62931</displayid>
+<displayslot>24</displayslot>
+<iconpath>inv_ammo_bullet_05</iconpath>
+<stats></stats>
+<quality>Rare</quality>
+<type>Bullet</type>
+<faction>Neutral</faction>
+<mindamage>67</mindamage>
+<maxdamage>68</maxdamage>
+<speed>3</speed>
+<socketbonus></socketbonus>
+<name>Mammoth Cutters</name>
+<id>41164</id>
+<slot>Projectile</slot>
+</item>

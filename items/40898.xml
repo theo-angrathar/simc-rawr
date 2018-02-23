@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55821</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_23</iconpath>
+<stats>
+<armor>2166</armor>
+<stamina>88</stamina>
+<intellect>39</intellect>
+<spellpower>73</spellpower>
+<critrating>36</critrating>
+<resilience>51</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Redemption</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Savage Gladiator's Ornamented Chestguard</name>
+<id>40898</id>
+<slot>Chest</slot>
+</item>

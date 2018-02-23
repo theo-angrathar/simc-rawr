@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52334</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_10</iconpath>
+<stats>
+<armor>254</armor>
+<stamina>58</stamina>
+<intellect>59</intellect>
+<spirit>78</spirit>
+<spellpower>91</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cyanigosa's Leggings</name>
+<id>37876</id>
+<slot>Legs</slot>
+</item>

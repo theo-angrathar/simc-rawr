@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>28693</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>145</armor>
+<agility>43</agility>
+<stamina>64</stamina>
+<attackpower>56</attackpower>
+<hitrating>29</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cloak of the Gushing Wound</name>
+<id>43406</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51301</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_72</iconpath>
+<stats>
+<armor>210</armor>
+<stamina>51</stamina>
+<intellect>34</intellect>
+<spellpower>60</spellpower>
+<critrating>34</critrating>
+<resilience>34</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Frostsavage Battlegear</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Frostsavage Shoulders</name>
+<id>43973</id>
+<slot>Shoulders</slot>
+</item>

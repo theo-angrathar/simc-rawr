@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_plate_01</iconpath>
+<stats>
+<armor>1614</armor>
+<stamina>126</stamina>
+<strength>77</strength>
+<critrating>49</critrating>
+<resilience>56</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Furious Gladiator's Greaves of Triumph</name>
+<id>40882</id>
+<slot>Feet</slot>
+</item>

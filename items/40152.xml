@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_39</iconpath>
+<stats>
+<spellpower>12</spellpower>
+<critrating>10</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Potent Ametrine</name>
+<id>40152</id>
+<slot>Orange</slot>
+</item>

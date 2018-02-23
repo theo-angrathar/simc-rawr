@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53562</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_60</iconpath>
+<stats>
+<armor>7722</armor>
+<stamina>84</stamina>
+<strength>43</strength>
+<parryrating>32</parryrating>
+<blockvalue>216</blockvalue>
+<defenserating>41</defenserating>
+<expertiserating>28</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Barricade of Eternity</name>
+<id>40475</id>
+<slot>OffHand</slot>
+</item>

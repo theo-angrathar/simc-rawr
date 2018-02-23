@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55366</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>123</armor>
+<stamina>39</stamina>
+<intellect>26</intellect>
+<spellpower>44</spellpower>
+<critrating>25</critrating>
+<resilience>26</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Frostsavage Battlegear</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Frostsavage Bracers</name>
+<id>43974</id>
+<slot>Wrist</slot>
+</item>

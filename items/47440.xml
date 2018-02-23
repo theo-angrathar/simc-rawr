@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>62119</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_30</iconpath>
+<stats>
+<armor>2264</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spellpower>151</spellpower>
+<critrating>88</critrating>
+<hasterating>92</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Leggings of Failing Light</name>
+<id>47440</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53815</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_11</iconpath>
+<stats>
+<armor>317</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spellpower>77</spellpower>
+<hasterating>66</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sash of Blood Removal</name>
+<id>37643</id>
+<slot>Waist</slot>
+</item>

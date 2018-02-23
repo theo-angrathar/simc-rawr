@@ -1,0 +1,29 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>1314</armor>
+<agility>86</agility>
+<stamina>65</stamina>
+<attackpower>194</attackpower>
+<intellect>60</intellect>
+<critrating>59</critrating>
+<hitrating>57</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgestalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Conqueror's Scourgestalker Tunic</name>
+<id>46141</id>
+<slot>Chest</slot>
+</item>

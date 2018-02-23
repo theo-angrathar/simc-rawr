@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_30</iconpath>
+<stats>
+<agility>8</agility>
+<critrating>8</critrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Deadly Monarch Topaz</name>
+<id>40043</id>
+<slot>Orange</slot>
+</item>

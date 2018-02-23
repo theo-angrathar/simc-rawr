@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51715</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_87</iconpath>
+<stats>
+<armor>423</armor>
+<agility>72</agility>
+<stamina>79</stamina>
+<attackpower>114</attackpower>
+<expertiserating>28</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Trollwoven Spaulders</name>
+<id>43481</id>
+<slot>Shoulders</slot>
+</item>

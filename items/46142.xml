@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61840</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>821</armor>
+<agility>49</agility>
+<stamina>66</stamina>
+<attackpower>170</attackpower>
+<intellect>44</intellect>
+<hitrating>43</hitrating>
+<hasterating>44</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgestalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Conqueror's Scourgestalker Handguards</name>
+<id>46142</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,16 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_21</iconpath>
+<stats>
+<intellect>12</intellect>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Brilliant Sun Crystal</name>
+<id>39912</id>
+<slot>Yellow</slot>
+</item>

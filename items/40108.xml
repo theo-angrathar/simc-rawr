@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_49naxxramas</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>43</intellect>
+<spellpower>66</spellpower>
+<critrating>38</critrating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Seized Beauty</name>
+<id>40108</id>
+<slot>Finger</slot>
+</item>

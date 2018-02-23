@@ -1,0 +1,23 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_20</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>103</stamina>
+<intellect>46</intellect>
+<spirit>60</spirit>
+<spellpower>106</spellpower>
+<resilience>60</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Cloak of Deliverance</name>
+<id>51348</id>
+<slot>Back</slot>
+</item>

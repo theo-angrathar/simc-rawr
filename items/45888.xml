@@ -1,0 +1,24 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59170</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32</iconpath>
+<stats>
+<armor>1027</armor>
+<stamina>72</stamina>
+<strength>64</strength>
+<armorpenetrationrating>34</armorpenetrationrating>
+<critrating>42</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Bitter Cold Armguards</name>
+<id>45888</id>
+<slot>Wrist</slot>
+</item>

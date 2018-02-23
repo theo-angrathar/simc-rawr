@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64345</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_45</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spellpower>97</spellpower>
+<critrating>65</critrating>
+<hitrating>45</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>The Lady's Brittle Bracers</name>
+<id>49994</id>
+<slot>Wrist</slot>
+</item>

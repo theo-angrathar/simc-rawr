@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64572</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_32</iconpath>
+<stats>
+<armor>2310</armor>
+<stamina>207</stamina>
+<strength>123</strength>
+<hitrating>74</hitrating>
+<dodgerating>108</dodgerating>
+<defenserating>92</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Legguards of Lost Hope</name>
+<id>49964</id>
+<slot>Legs</slot>
+</item>

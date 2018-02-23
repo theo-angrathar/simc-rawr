@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>1941</armor>
+<stamina>130</stamina>
+<strength>122</strength>
+<armorpenetrationrating>68</armorpenetrationrating>
+<critrating>76</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Wrynn's Battlegear</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Hellscream's Shoulderplates of Triumph</name>
+<id>48400</id>
+<slot>Shoulders</slot>
+</item>

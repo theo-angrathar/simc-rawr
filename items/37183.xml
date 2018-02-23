@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51689</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_02</iconpath>
+<stats>
+<armor>239</armor>
+<agility>31</agility>
+<stamina>67</stamina>
+<attackpower>84</attackpower>
+<expertiserating>25</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bindings of the Tunneler</name>
+<id>37183</id>
+<slot>Wrist</slot>
+</item>

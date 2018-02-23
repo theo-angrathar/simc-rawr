@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>57003</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_32</iconpath>
+<stats>
+<armor>7890</armor>
+<stamina>94</stamina>
+<strength>63</strength>
+<dodgerating>24</dodgerating>
+<blockrating>31</blockrating>
+<blockvalue>221</blockvalue>
+<defenserating>42</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wall of Terror</name>
+<id>40400</id>
+<slot>OffHand</slot>
+</item>

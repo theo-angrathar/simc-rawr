@@ -1,0 +1,24 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55040</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_08</iconpath>
+<stats>
+<armor>308</armor>
+<stamina>169</stamina>
+<frostresistance>115</frostresistance>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Glacial Robe</name>
+<id>43583</id>
+<slot>Chest</slot>
+</item>

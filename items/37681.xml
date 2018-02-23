@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50603</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_60</iconpath>
+<stats>
+<stamina>49</stamina>
+<intellect>33</intellect>
+<spellpower>355</spellpower>
+<mp5>16</mp5>
+</stats>
+<quality>Rare</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>82</mindamage>
+<maxdamage>263</maxdamage>
+<speed>2.3</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gavel of the Fleshcrafter</name>
+<id>37681</id>
+<slot>MainHand</slot>
+</item>

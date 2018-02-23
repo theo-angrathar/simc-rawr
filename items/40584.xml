@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_29</iconpath>
+<stats>
+<armor>1723</armor>
+<stamina>100</stamina>
+<strength>68</strength>
+<dodgerating>37</dodgerating>
+<parryrating>39</parryrating>
+<defenserating>40</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Redemption Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Valorous Redemption Shoulderguards</name>
+<id>40584</id>
+<slot>Shoulders</slot>
+</item>

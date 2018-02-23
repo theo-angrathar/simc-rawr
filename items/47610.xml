@@ -1,0 +1,23 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62051</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32a</iconpath>
+<stats>
+<armor>580</armor>
+<agility>67</agility>
+<stamina>35</stamina>
+<attackpower>89</attackpower>
+<intellect>35</intellect>
+<hitrating>45</hitrating>
+<hasterating>35</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Armbands of the Northern Stalker</name>
+<id>47610</id>
+<slot>Wrist</slot>
+</item>

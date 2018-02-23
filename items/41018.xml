@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56934</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_140</iconpath>
+<stats>
+<armor>1045</armor>
+<stamina>115</stamina>
+<intellect>50</intellect>
+<spellpower>99</spellpower>
+<critrating>51</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Thunderfist</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<mp5>3</mp5>
+</socketbonus>
+<name>Deadly Gladiator's Mail Helm</name>
+<id>41018</id>
+<slot>Head</slot>
+</item>

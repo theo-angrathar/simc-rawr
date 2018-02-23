@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_35</iconpath>
+<stats>
+<armor>260</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spirit>68</spirit>
+<spellpower>124</spellpower>
+<critrating>76</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Kel'Thuzad's Regalia</setname>
+<type>Cloth</type>
+<faction>Horde</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Gul'dan's Shoulderpads of Triumph</name>
+<id>47793</id>
+<slot>Shoulders</slot>
+</item>

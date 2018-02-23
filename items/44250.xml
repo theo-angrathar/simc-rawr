@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52928</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_97</iconpath>
+<stats>
+<stamina>24</stamina>
+<attackpower>66</attackpower>
+<critrating>26</critrating>
+<hitrating>33</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>281</mindamage>
+<maxdamage>422</maxdamage>
+<speed>2.7</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Reaper of Dark Souls</name>
+<id>44250</id>
+<slot>OneHand</slot>
+</item>

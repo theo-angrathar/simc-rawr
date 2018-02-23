@@ -1,0 +1,20 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>34274</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_ahnqiraj_02</iconpath>
+<stats>
+<stamina>68</stamina>
+<strength>67</strength>
+<critrating>43</critrating>
+<hitrating>35</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pendant of a Thousand Maws</name>
+<id>46022</id>
+<slot>Neck</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_25</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>53</stamina>
+<intellect>65</intellect>
+<spirit>49</spirit>
+<spellpower>90</spellpower>
+<critrating>62</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Sanctification Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Conqueror's Mantle of Sanctification</name>
+<id>46165</id>
+<slot>Shoulders</slot>
+</item>

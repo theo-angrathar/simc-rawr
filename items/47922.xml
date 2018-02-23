@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60605</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_wand_15</iconpath>
+<stats>
+<stamina>40</stamina>
+<intellect>29</intellect>
+<spellpower>50</spellpower>
+<critrating>31</critrating>
+<hasterating>24</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Wand</type>
+<faction>Alliance</faction>
+<mindamage>455</mindamage>
+<maxdamage>846</maxdamage>
+<damagetype>Nature</damagetype>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Rod of Imprisoned Souls</name>
+<id>47922</id>
+<slot>Ranged</slot>
+</item>

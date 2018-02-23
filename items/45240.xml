@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_65</iconpath>
+<stats>
+<armor>314</armor>
+<stamina>99</stamina>
+<intellect>81</intellect>
+<spirit>57</spirit>
+<spellpower>115</spellpower>
+<hasterating>70</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Raiments of the Iron Council</name>
+<id>45240</id>
+<slot>Chest</slot>
+</item>

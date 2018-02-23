@@ -1,0 +1,19 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_relics_idolofferocity</iconpath>
+<stats>
+<bonusshreddamage>203</bonusshreddamage>
+</stats>
+<quality>Epic</quality>
+<type>Idol</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Idol of the Ravenous Beast</name>
+<id>40713</id>
+<slot>Ranged</slot>
+</item>

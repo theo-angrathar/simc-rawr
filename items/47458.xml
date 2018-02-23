@@ -1,0 +1,23 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>39209</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_33</iconpath>
+<stats>
+<stamina>97</stamina>
+<strength>89</strength>
+<critrating>57</critrating>
+<hitrating>49</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>The Executioner's Vice</name>
+<id>47458</id>
+<slot>Neck</slot>
+</item>

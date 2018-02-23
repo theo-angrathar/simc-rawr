@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62115</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>1925</armor>
+<stamina>125</stamina>
+<strength>121</strength>
+<critrating>59</critrating>
+<hasterating>76</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Sunreaver Champion's Faceplate</name>
+<id>47876</id>
+<slot>Head</slot>
+</item>

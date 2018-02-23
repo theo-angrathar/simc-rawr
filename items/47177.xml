@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_68</iconpath>
+<stats>
+<armor>353</armor>
+<agility>66</agility>
+<stamina>61</stamina>
+<attackpower>73</attackpower>
+<armorpenetrationrating>34</armorpenetrationrating>
+<critrating>45</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Gloves of the Argent Fanatic</name>
+<id>47177</id>
+<slot>Hands</slot>
+</item>

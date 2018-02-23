@@ -1,0 +1,24 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64354</displayid>
+<displayslot>15</displayslot>
+<iconpath>inv_weapon_bow_56</iconpath>
+<stats>
+<agility>45</agility>
+<stamina>34</stamina>
+<attackpower>69</attackpower>
+<critrating>31</critrating>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Bow</type>
+<faction>Neutral</faction>
+<mindamage>490</mindamage>
+<maxdamage>814</maxdamage>
+<speed>2.9</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Njorndar Bone Bow</name>
+<id>50776</id>
+<slot>Ranged</slot>
+</item>

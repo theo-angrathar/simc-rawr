@@ -1,0 +1,16 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_28</iconpath>
+<stats>
+<agility>16</agility>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Delicate Scarlet Ruby</name>
+<id>39997</id>
+<slot>Red</slot>
+</item>

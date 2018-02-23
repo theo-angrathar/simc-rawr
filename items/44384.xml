@@ -1,0 +1,21 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_05</iconpath>
+<stats>
+<armor>1158</armor>
+<stamina>49</stamina>
+<intellect>66</intellect>
+<spellpower>77</spellpower>
+<critrating>51</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Chestguard of Unwanted Success</name>
+<id>44384</id>
+<slot>Chest</slot>
+</item>

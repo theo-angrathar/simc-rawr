@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64816</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_mail_06</iconpath>
+<stats>
+<armor>972</armor>
+<agility>91</agility>
+<stamina>84</stamina>
+<attackpower>162</attackpower>
+<intellect>50</intellect>
+<critrating>54</critrating>
+<hitrating>44</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Wyrmwing Treads</name>
+<id>51785</id>
+<slot>Feet</slot>
+</item>

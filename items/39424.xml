@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54036</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_knife_1h_stratholme_d_02</iconpath>
+<stats>
+<stamina>39</stamina>
+<intellect>44</intellect>
+<spirit>42</spirit>
+<spellpower>461</spellpower>
+<hitrating>30</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>87</mindamage>
+<maxdamage>258</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The Soulblade</name>
+<id>39424</id>
+<slot>MainHand</slot>
+</item>

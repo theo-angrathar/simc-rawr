@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>50979</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>329</armor>
+<agility>51</agility>
+<stamina>51</stamina>
+<attackpower>102</attackpower>
+<hasterating>34</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sidestepping Handguards</name>
+<id>36951</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55007</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_21</iconpath>
+<stats>
+<armor>477</armor>
+<agility>55</agility>
+<stamina>117</stamina>
+<attackpower>156</attackpower>
+<hitrating>45</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Chain Gang Legguards</name>
+<id>37890</id>
+<slot>Legs</slot>
+</item>

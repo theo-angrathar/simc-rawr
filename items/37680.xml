@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52347</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_30</iconpath>
+<stats>
+<armor>163</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spellpower>68</spellpower>
+<hitrating>42</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of Unified Souls</name>
+<id>37680</id>
+<slot>Waist</slot>
+</item>

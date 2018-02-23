@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64597</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_91</iconpath>
+<stats>
+<armor>194</armor>
+<stamina>69</stamina>
+<intellect>56</intellect>
+<spirit>53</spirit>
+<spellpower>83</spellpower>
+<critrating>45</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Marwyn's Macabre Fingertips</name>
+<id>49828</id>
+<slot>Hands</slot>
+</item>

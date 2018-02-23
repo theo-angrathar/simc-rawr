@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_15</iconpath>
+<stats>
+<armor>1261</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spellpower>68</spellpower>
+<critrating>38</critrating>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Magroth's Meditative Cincture</name>
+<id>40691</id>
+<slot>Waist</slot>
+</item>

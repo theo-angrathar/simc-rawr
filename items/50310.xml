@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64197</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_misc_shell_04</iconpath>
+<stats>
+<stamina>100</stamina>
+<strength>67</strength>
+<dodgerating>35</dodgerating>
+<parryrating>35</parryrating>
+<defenserating>35</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Fossilized Ammonite Choker</name>
+<id>50310</id>
+<slot>Neck</slot>
+</item>

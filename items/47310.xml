@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61499</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_23</iconpath>
+<stats>
+<armor>2473</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>140</spellpower>
+<critrating>74</critrating>
+<hasterating>90</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Chestplate of the Frozen Lake</name>
+<id>47310</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,36 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>52784</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_01</iconpath>
+<stats>
+<specialeffects>
+<specialeffect>
+<trigger>MeleeHit</trigger>
+<stats>
+<bonusarmor>1400</bonusarmor>
+<defenserating>100</defenserating>
+</stats>
+<duration>10</duration>
+<cooldown>0</cooldown>
+<chance>-2</chance>
+<maxstack>1</maxstack>
+</specialeffect>
+</specialeffects>
+<specialeffectcount>1</specialeffectcount>
+<stamina>65</stamina>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>250</mindamage>
+<maxdamage>465</maxdamage>
+<speed>2</speed>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gleaming Quel'Serrar</name>
+<id>49303</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_12</iconpath>
+<stats>
+<armor>732</armor>
+<stamina>54</stamina>
+<intellect>43</intellect>
+<spellpower>62</spellpower>
+<critrating>28</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of the Windreacher</name>
+<id>43212</id>
+<slot>Hands</slot>
+</item>

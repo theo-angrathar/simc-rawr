@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>60579</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_crossbow_34</iconpath>
+<stats>
+<agility>38</agility>
+<stamina>38</stamina>
+<attackpower>50</attackpower>
+<critrating>26</critrating>
+<hasterating>23</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Crossbow</type>
+<faction>Alliance</faction>
+<mindamage>448</mindamage>
+<maxdamage>637</maxdamage>
+<speed>2.9</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Baelgun's Heavy Crossbow</name>
+<id>47741</id>
+<slot>Ranged</slot>
+</item>

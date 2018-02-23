@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51460</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>409</armor>
+<stamina>42</stamina>
+<intellect>44</intellect>
+<spellpower>59</spellpower>
+<critrating>58</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spaulders of Krystallus</name>
+<id>37652</id>
+<slot>Shoulders</slot>
+</item>

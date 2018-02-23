@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53657</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>434</armor>
+<stamina>45</stamina>
+<intellect>56</intellect>
+<spellpower>91</spellpower>
+<critrating>61</critrating>
+<hasterating>32</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Mantle of the Eternal Sentinel</name>
+<id>40439</id>
+<slot>Shoulders</slot>
+</item>

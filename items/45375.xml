@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate21</iconpath>
+<stats>
+<armor>2322</armor>
+<stamina>120</stamina>
+<strength>105</strength>
+<critrating>45</critrating>
+<hitrating>73</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Aegis Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Valorous Aegis Battleplate</name>
+<id>45375</id>
+<slot>Chest</slot>
+</item>

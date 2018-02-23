@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50907</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>530</armor>
+<stamina>31</stamina>
+<intellect>33</intellect>
+<spellpower>50</spellpower>
+<mp5>21</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bands of Channeled Energy</name>
+<id>37138</id>
+<slot>Wrist</slot>
+</item>

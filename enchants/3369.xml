@@ -1,0 +1,20 @@
+<enchant>
+<id>3369</id>
+<name>Rune of Cinderglacier</name>
+<slot>OneHand</slot>
+<stats>
+<specialeffects>
+<specialeffect>
+<trigger>DamageDone</trigger>
+<stats>
+<cinderglacierproc>2</cinderglacierproc>
+</stats>
+<duration>0</duration>
+<cooldown>0</cooldown>
+<chance>-1.5</chance>
+<maxstack>1</maxstack>
+</specialeffect>
+</specialeffects>
+<specialeffectcount>1</specialeffectcount>
+</stats>
+</enchant>

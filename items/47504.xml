@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60643</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather01</iconpath>
+<stats>
+<armor>402</armor>
+<stamina>58</stamina>
+<intellect>61</intellect>
+<spellpower>92</spellpower>
+<critrating>63</critrating>
+<hitrating>34</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Barkhide Treads</name>
+<id>47504</id>
+<slot>Feet</slot>
+</item>

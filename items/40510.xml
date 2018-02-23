@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_15</iconpath>
+<stats>
+<armor>1045</armor>
+<stamina>76</stamina>
+<intellect>72</intellect>
+<spellpower>99</spellpower>
+<hasterating>58</hasterating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<intellect>8</intellect>
+</socketbonus>
+<name>Valorous Earthshatter Headpiece</name>
+<id>40510</id>
+<slot>Head</slot>
+</item>

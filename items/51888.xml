@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>35430</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_naxxramas_01</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>124</stamina>
+<strength>82</strength>
+<dodgerating>42</dodgerating>
+<parryrating>48</parryrating>
+<defenserating>51</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<dodgerating>4</dodgerating>
+</socketbonus>
+<name>Cloak of Many Skins</name>
+<id>51888</id>
+<slot>Back</slot>
+</item>

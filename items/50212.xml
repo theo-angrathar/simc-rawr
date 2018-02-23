@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64550</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>373</armor>
+<stamina>72</stamina>
+<intellect>66</intellect>
+<spirit>62</spirit>
+<spellpower>105</spellpower>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Essence of Desire</name>
+<id>50212</id>
+<slot>Hands</slot>
+</item>

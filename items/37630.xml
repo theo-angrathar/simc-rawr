@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>47068</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_19</iconpath>
+<stats>
+<armor>145</armor>
+<stamina>31</stamina>
+<intellect>43</intellect>
+<spirit>32</spirit>
+<spellpower>51</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shroud of Moorabi</name>
+<id>37630</id>
+<slot>Back</slot>
+</item>

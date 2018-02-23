@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>65233</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_133</iconpath>
+<stats>
+<armor>1060</armor>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spellpower>106</spellpower>
+<critrating>71</critrating>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Shoulderguards of Crystalline Bone</name>
+<id>51792</id>
+<slot>Shoulders</slot>
+</item>

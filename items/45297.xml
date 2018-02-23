@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>39124</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_63</iconpath>
+<stats>
+<stamina>63</stamina>
+<intellect>42</intellect>
+<spirit>22</spirit>
+<spellpower>74</spellpower>
+<hitrating>42</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Shimmering Seal</name>
+<id>45297</id>
+<slot>Finger</slot>
+</item>

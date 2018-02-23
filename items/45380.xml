@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_22</iconpath>
+<stats>
+<armor>1741</armor>
+<stamina>90</stamina>
+<strength>83</strength>
+<critrating>52</critrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Aegis Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Valorous Aegis Shoulderplates</name>
+<id>45380</id>
+<slot>Shoulders</slot>
+</item>

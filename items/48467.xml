@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_53</iconpath>
+<stats>
+<armor>1617</armor>
+<stamina>158</stamina>
+<strength>114</strength>
+<dodgerating>52</dodgerating>
+<parryrating>60</parryrating>
+<defenserating>60</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Wrynn's Plate</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Hellscream's Handguards of Triumph</name>
+<id>48467</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64723</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_94</iconpath>
+<stats>
+<armor>1480</armor>
+<stamina>68</stamina>
+<intellect>68</intellect>
+<spellpower>105</spellpower>
+<critrating>60</critrating>
+<mp5>30</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Rusty Frozen Fingerguards</name>
+<id>50284</id>
+<slot>Hands</slot>
+</item>

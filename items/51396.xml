@@ -1,0 +1,21 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_book_06</iconpath>
+<stats>
+<stamina>109</stamina>
+<intellect>48</intellect>
+<spellpower>111</spellpower>
+<critrating>63</critrating>
+<resilience>63</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Endgame</name>
+<id>51396</id>
+<slot>OffHand</slot>
+</item>

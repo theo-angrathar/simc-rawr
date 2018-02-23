@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60561</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_100</iconpath>
+<stats>
+<agility>46</agility>
+<stamina>30</stamina>
+<attackpower>73</attackpower>
+<armorpenetrationrating>31</armorpenetrationrating>
+<hitrating>13</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>297</mindamage>
+<maxdamage>552</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Aledar's Battlestar</name>
+<id>47508</id>
+<slot>OneHand</slot>
+</item>

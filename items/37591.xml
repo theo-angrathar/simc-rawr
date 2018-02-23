@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54513</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_ahnqiraj_01</iconpath>
+<stats>
+<bonusarmor>462</bonusarmor>
+<stamina>64</stamina>
+<strength>43</strength>
+<defenserating>21</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Nerubian Shield Ring</name>
+<id>37591</id>
+<slot>Finger</slot>
+</item>

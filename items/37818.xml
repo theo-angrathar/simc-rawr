@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52359</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_03</iconpath>
+<stats>
+<armor>1061</armor>
+<stamina>58</stamina>
+<intellect>59</intellect>
+<spellpower>82</spellpower>
+<critrating>70</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Patroller's War-Kilt</name>
+<id>37818</id>
+<slot>Legs</slot>
+</item>

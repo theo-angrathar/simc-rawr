@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53848</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_21</iconpath>
+<stats>
+<armor>494</armor>
+<agility>90</agility>
+<stamina>67</stamina>
+<attackpower>126</attackpower>
+<critrating>68</critrating>
+<expertiserating>53</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leggings of Discord</name>
+<id>39224</id>
+<slot>Legs</slot>
+</item>

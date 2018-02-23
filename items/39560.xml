@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>353</armor>
+<agility>58</agility>
+<stamina>54</stamina>
+<attackpower>102</attackpower>
+<critrating>44</critrating>
+<hitrating>33</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Bonescythe Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Heroes' Bonescythe Gauntlets</name>
+<id>39560</id>
+<slot>Hands</slot>
+</item>

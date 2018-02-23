@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64243</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_116</iconpath>
+<stats>
+<armor>265</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<hitrating>64</hitrating>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Shoulders of Mercy Killing</name>
+<id>49991</id>
+<slot>Shoulders</slot>
+</item>

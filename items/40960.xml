@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55828</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_62</iconpath>
+<stats>
+<armor>1625</armor>
+<stamina>66</stamina>
+<intellect>28</intellect>
+<spellpower>59</spellpower>
+<critrating>31</critrating>
+<resilience>38</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Redemption</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Savage Gladiator's Ornamented Spaulders</name>
+<id>40960</id>
+<slot>Shoulders</slot>
+</item>

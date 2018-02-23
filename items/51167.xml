@@ -1,0 +1,28 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_154</iconpath>
+<stats>
+<armor>2145</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>162</spellpower>
+<critrating>100</critrating>
+<hasterating>92</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Lightsworn Garb</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Sanctified Lightsworn Headpiece</name>
+<id>51167</id>
+<slot>Head</slot>
+</item>

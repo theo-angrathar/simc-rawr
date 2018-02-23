@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53195</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_hand_18</iconpath>
+<stats>
+<agility>19</agility>
+<stamina>29</stamina>
+<attackpower>78</attackpower>
+<critrating>22</critrating>
+<hitrating>27</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>FistWeapon</type>
+<faction>Neutral</faction>
+<mindamage>261</mindamage>
+<maxdamage>485</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Crimson Steel</name>
+<id>40429</id>
+<slot>MainHand</slot>
+</item>

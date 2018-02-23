@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53577</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_20</iconpath>
+<stats>
+<armor>1831</armor>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spellpower>81</spellpower>
+<resilience>46</resilience>
+<mp5>23</mp5>
+</stats>
+<quality>Rare</quality>
+<setname>Ornate Saronite Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Ornate Saronite Legplates</name>
+<id>42726</id>
+<slot>Legs</slot>
+</item>

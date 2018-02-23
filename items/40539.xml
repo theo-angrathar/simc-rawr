@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53635</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_01</iconpath>
+<stats>
+<armor>591</armor>
+<agility>63</agility>
+<stamina>96</stamina>
+<attackpower>232</attackpower>
+<armorpenetrationrating>63</armorpenetrationrating>
+<expertiserating>83</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Chestguard of the Recluse</name>
+<id>40539</id>
+<slot>Chest</slot>
+</item>

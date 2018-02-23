@@ -1,0 +1,26 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64587</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_151</iconpath>
+<stats>
+<armor>2239</armor>
+<stamina>239</stamina>
+<strength>139</strength>
+<hitrating>85</hitrating>
+<dodgerating>106</dodgerating>
+<defenserating>122</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Broken Ram Skull Helm</name>
+<id>50640</id>
+<slot>Head</slot>
+</item>

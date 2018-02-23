@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54770</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_07</iconpath>
+<stats>
+<armor>884</armor>
+<agility>75</agility>
+<stamina>75</stamina>
+<attackpower>100</attackpower>
+<intellect>34</intellect>
+<critrating>49</critrating>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Crippled Treads</name>
+<id>40184</id>
+<slot>Feet</slot>
+</item>

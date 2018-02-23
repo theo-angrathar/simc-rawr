@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59632</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_48</iconpath>
+<stats>
+<armor>846</armor>
+<agility>79</agility>
+<stamina>75</stamina>
+<attackpower>106</attackpower>
+<intellect>49</intellect>
+<critrating>55</critrating>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Gloves of the Steady Hand</name>
+<id>45444</id>
+<slot>Hands</slot>
+</item>

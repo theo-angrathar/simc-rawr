@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_25</iconpath>
+<stats>
+<armor>225</armor>
+<stamina>49</stamina>
+<intellect>50</intellect>
+<spellpower>68</spellpower>
+<critrating>48</critrating>
+<hasterating>30</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Frostfire Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Heroes' Frostfire Shoulderpads</name>
+<id>39494</id>
+<slot>Shoulders</slot>
+</item>

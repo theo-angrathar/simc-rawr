@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>58943</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_sword_134</iconpath>
+<stats>
+<stamina>43</stamina>
+<intellect>51</intellect>
+<spirit>37</spirit>
+<spellpower>550</spellpower>
+<critrating>52</critrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>88</mindamage>
+<maxdamage>283</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Runescribed Blade</name>
+<id>45437</id>
+<slot>MainHand</slot>
+</item>

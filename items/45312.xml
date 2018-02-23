@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59096</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_47</iconpath>
+<stats>
+<armor>365</armor>
+<agility>83</agility>
+<stamina>63</stamina>
+<attackpower>112</attackpower>
+<critrating>53</critrating>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of Smoldering Touch</name>
+<id>45312</id>
+<slot>Hands</slot>
+</item>

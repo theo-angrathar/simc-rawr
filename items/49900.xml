@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65038</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_kilt_mail_01</iconpath>
+<stats>
+<armor>1293</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>162</spellpower>
+<critrating>92</critrating>
+<hasterating>100</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Lightning-Infused Leggings</name>
+<id>49900</id>
+<slot>Legs</slot>
+</item>

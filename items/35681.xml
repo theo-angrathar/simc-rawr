@@ -1,0 +1,21 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_shortblade_69</iconpath>
+<stats>
+<attackpower>46</attackpower>
+<hasterating>47</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>140</mindamage>
+<maxdamage>211</maxdamage>
+<speed>1.5</speed>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Unrelenting Blade</name>
+<id>35681</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54223</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_05</iconpath>
+<stats>
+<armor>388</armor>
+<agility>66</agility>
+<stamina>49</stamina>
+<attackpower>96</attackpower>
+<critrating>38</critrating>
+<hasterating>51</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Boots of the Worshiper</name>
+<id>39196</id>
+<slot>Feet</slot>
+</item>

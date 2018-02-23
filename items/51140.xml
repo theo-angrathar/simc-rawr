@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_111</iconpath>
+<stats>
+<armor>499</armor>
+<agility>120</agility>
+<stamina>120</stamina>
+<attackpower>145</attackpower>
+<armorpenetrationrating>72</armorpenetrationrating>
+<critrating>80</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Sanctified Lasherweave Shoulderpads</name>
+<id>51140</id>
+<slot>Shoulders</slot>
+</item>

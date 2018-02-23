@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55042</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_05</iconpath>
+<stats>
+<armor>212</armor>
+<stamina>129</stamina>
+<frostresistance>86</frostresistance>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Glacial Slippers</name>
+<id>43585</id>
+<slot>Feet</slot>
+</item>

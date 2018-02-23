@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53564</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_gizmo_newgoggles</iconpath>
+<stats>
+<armor>1019</armor>
+<stamina>55</stamina>
+<intellect>60</intellect>
+<spellpower>87</spellpower>
+<critrating>73</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Electroflux Sight Enhancers</name>
+<id>42555</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61988</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_25</iconpath>
+<stats>
+<armor>1211</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>140</spellpower>
+<hasterating>74</hasterating>
+<mp5>45</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Legguards of Concealed Hatred</name>
+<id>47083</id>
+<slot>Legs</slot>
+</item>

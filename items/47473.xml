@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>62140</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_08</iconpath>
+<stats>
+<armor>1779</armor>
+<stamina>130</stamina>
+<strength>114</strength>
+<critrating>76</critrating>
+<expertiserating>60</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Greaves of the Saronite Citadel</name>
+<id>47473</id>
+<slot>Feet</slot>
+</item>

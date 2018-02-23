@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61104</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_07</iconpath>
+<stats>
+<armor>951</armor>
+<agility>101</agility>
+<stamina>80</stamina>
+<attackpower>135</attackpower>
+<intellect>49</intellect>
+<critrating>53</critrating>
+<hasterating>39</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Warsong Poacher's Greaves</name>
+<id>48006</id>
+<slot>Feet</slot>
+</item>

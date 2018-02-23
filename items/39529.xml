@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_25</iconpath>
+<stats>
+<armor>225</armor>
+<stamina>50</stamina>
+<intellect>50</intellect>
+<spellpower>68</spellpower>
+<hitrating>36</hitrating>
+<hasterating>44</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Garb of Faith</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Heroes' Mantle of Faith</name>
+<id>39529</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>284</itemlevel>
+<displayid>64521</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_115</iconpath>
+<stats>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spellpower>893</spellpower>
+<critrating>55</critrating>
+<hasterating>71</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>160</mindamage>
+<maxdamage>447</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Royal Scepter of Terenas II</name>
+<id>50734</id>
+<slot>MainHand</slot>
+</item>

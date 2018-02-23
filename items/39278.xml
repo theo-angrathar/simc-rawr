@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54207</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_02</iconpath>
+<stats>
+<armor>549</armor>
+<agility>38</agility>
+<stamina>49</stamina>
+<attackpower>68</attackpower>
+<intellect>29</intellect>
+<critrating>36</critrating>
+<hitrating>24</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bands of Anxiety</name>
+<id>39278</id>
+<slot>Wrist</slot>
+</item>

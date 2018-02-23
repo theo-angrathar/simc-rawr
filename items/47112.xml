@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61652</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_37c</iconpath>
+<stats>
+<armor>367</armor>
+<agility>98</agility>
+<stamina>114</stamina>
+<attackpower>135</attackpower>
+<hitrating>68</hitrating>
+<hasterating>76</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Belt of the Merciless Killer</name>
+<id>47112</id>
+<slot>Waist</slot>
+</item>

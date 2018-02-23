@@ -1,0 +1,29 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_169</iconpath>
+<stats>
+<armor>1253</armor>
+<agility>175</agility>
+<stamina>144</stamina>
+<attackpower>212</attackpower>
+<intellect>96</intellect>
+<critrating>114</critrating>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Frost Witch's Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<attackpower>16</attackpower>
+</socketbonus>
+<name>Sanctified Frost Witch's Faceguard</name>
+<id>51242</id>
+<slot>Head</slot>
+</item>

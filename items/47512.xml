@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>33534</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_44</iconpath>
+<stats>
+<stamina>47</stamina>
+<intellect>45</intellect>
+<spellpower>70</spellpower>
+<critrating>33</critrating>
+<hitrating>44</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sinner's Confession</name>
+<id>47512</id>
+<slot>Finger</slot>
+</item>

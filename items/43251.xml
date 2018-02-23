@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>34189</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_ahnqiraj_06</iconpath>
+<stats>
+<attackpower>60</attackpower>
+<critrating>31</critrating>
+<hitrating>38</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Ring of Scarlet Shadows</name>
+<id>43251</id>
+<slot>Finger</slot>
+</item>

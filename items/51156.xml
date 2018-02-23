@@ -1,0 +1,28 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_78</iconpath>
+<stats>
+<armor>354</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>171</spellpower>
+<critrating>92</critrating>
+<hasterating>108</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Bloodmage's Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Sanctified Bloodmage Robe</name>
+<id>51156</id>
+<slot>Chest</slot>
+</item>

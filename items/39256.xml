@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55718</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_staff_34</iconpath>
+<stats>
+<stamina>90</stamina>
+<intellect>90</intellect>
+<spirit>89</spirit>
+<spellpower>408</spellpower>
+<hitrating>59</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Staff</type>
+<faction>Neutral</faction>
+<mindamage>173</mindamage>
+<maxdamage>331</maxdamage>
+<speed>2.1</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sulfur Stave</name>
+<id>39256</id>
+<slot>TwoHand</slot>
+</item>

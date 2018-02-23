@@ -1,0 +1,12 @@
+<enchant>
+<id>2664</id>
+<name>Major Resistance</name>
+<slot>Back</slot>
+<stats>
+<frostresistance>7</frostresistance>
+<natureresistance>7</natureresistance>
+<fireresistance>7</fireresistance>
+<shadowresistance>7</shadowresistance>
+<arcaneresistance>7</arcaneresistance>
+</stats>
+</enchant>

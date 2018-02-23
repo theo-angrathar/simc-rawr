@@ -1,0 +1,28 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_156</iconpath>
+<stats>
+<armor>300</armor>
+<stamina>139</stamina>
+<intellect>139</intellect>
+<spellpower>185</spellpower>
+<critrating>122</critrating>
+<hasterating>98</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Crimson Acolyte's Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Sanctified Crimson Acolyte Cowl</name>
+<id>51255</id>
+<slot>Head</slot>
+</item>

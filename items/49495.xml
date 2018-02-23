@@ -1,0 +1,36 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>52784</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_01</iconpath>
+<stats>
+<specialeffects>
+<specialeffect>
+<trigger>MeleeHit</trigger>
+<stats>
+<bonusarmor>1550</bonusarmor>
+<defenserating>110</defenserating>
+</stats>
+<duration>10</duration>
+<cooldown>0</cooldown>
+<chance>-2</chance>
+<maxstack>1</maxstack>
+</specialeffect>
+</specialeffects>
+<specialeffectcount>1</specialeffectcount>
+<stamina>74</stamina>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>275</mindamage>
+<maxdamage>511</maxdamage>
+<speed>2</speed>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Burnished Quel'Serrar</name>
+<id>49495</id>
+<slot>OneHand</slot>
+</item>

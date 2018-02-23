@@ -1,0 +1,27 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>64467</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_hand_34</iconpath>
+<stats>
+<agility>66</agility>
+<stamina>56</stamina>
+<attackpower>113</attackpower>
+<critrating>51</critrating>
+<hasterating>39</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>FistWeapon</type>
+<faction>Neutral</faction>
+<mindamage>497</mindamage>
+<maxdamage>746</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Pugius, Fist of Defiance</name>
+<id>51941</id>
+<slot>MainHand</slot>
+</item>

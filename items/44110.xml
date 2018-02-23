@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>58223</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_138</iconpath>
+<stats>
+<armor>952</armor>
+<stamina>51</stamina>
+<intellect>69</intellect>
+<spellpower>81</spellpower>
+<critrating>53</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sharkjaw Cap</name>
+<id>44110</id>
+<slot>Head</slot>
+</item>

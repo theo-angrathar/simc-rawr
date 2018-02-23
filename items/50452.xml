@@ -1,0 +1,24 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64272</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_misc_pelt_wolf_ruin_01</iconpath>
+<stats>
+<agility>90</agility>
+<stamina>90</stamina>
+<attackpower>105</attackpower>
+<critrating>69</critrating>
+<hitrating>38</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Wodin's Lucky Necklace</name>
+<id>50452</id>
+<slot>Neck</slot>
+</item>

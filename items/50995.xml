@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_noose_01</iconpath>
+<stats>
+<armor>374</armor>
+<agility>120</agility>
+<stamina>120</stamina>
+<attackpower>129</attackpower>
+<armorpenetrationrating>80</armorpenetrationrating>
+<hasterating>64</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Vengeful Noose</name>
+<id>50995</id>
+<slot>Waist</slot>
+</item>

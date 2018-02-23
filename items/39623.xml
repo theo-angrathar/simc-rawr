@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate02</iconpath>
+<stats>
+<armor>2241</armor>
+<stamina>111</stamina>
+<strength>81</strength>
+<dodgerating>38</dodgerating>
+<parryrating>47</parryrating>
+<defenserating>47</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgeborne Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<dodgerating>6</dodgerating>
+</socketbonus>
+<name>Heroes' Scourgeborne Chestguard</name>
+<id>39623</id>
+<slot>Chest</slot>
+</item>

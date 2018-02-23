@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_40</iconpath>
+<stats>
+<agility>63</agility>
+<stamina>69</stamina>
+<attackpower>84</attackpower>
+<armorpenetrationrating>46</armorpenetrationrating>
+<critrating>36</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Broach of the Wailing Night</name>
+<id>45820</id>
+<slot>Neck</slot>
+</item>

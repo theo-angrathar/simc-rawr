@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64241</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_34</iconpath>
+<stats>
+<armor>309</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>171</spellpower>
+<hitrating>98</hitrating>
+<hasterating>102</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Plaguebringer's Stained Pants</name>
+<id>50056</id>
+<slot>Legs</slot>
+</item>

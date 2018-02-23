@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spirit>60</spirit>
+<spellpower>97</spellpower>
+<critrating>52</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Volde's Cloak of the Night Sky</name>
+<id>50469</id>
+<slot>Back</slot>
+</item>

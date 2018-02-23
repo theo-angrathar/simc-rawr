@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59012</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_30</iconpath>
+<stats>
+<armor>272</armor>
+<stamina>107</stamina>
+<intellect>81</intellect>
+<spirit>53</spirit>
+<spellpower>124</spellpower>
+<critrating>70</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leggings of Unstable Discharge</name>
+<id>45894</id>
+<slot>Legs</slot>
+</item>

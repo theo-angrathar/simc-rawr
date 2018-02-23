@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_112</iconpath>
+<stats>
+<armor>477</armor>
+<agility>107</agility>
+<stamina>107</stamina>
+<attackpower>126</attackpower>
+<critrating>71</critrating>
+<hitrating>63</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Shadowblade's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Shadowblade Pauldrons</name>
+<id>50105</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_mail_10</iconpath>
+<stats>
+<armor>1040</armor>
+<stamina>98</stamina>
+<intellect>98</intellect>
+<spellpower>131</spellpower>
+<critrating>86</critrating>
+<hasterating>70</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Boots of Divided Being</name>
+<id>54558</id>
+<slot>Feet</slot>
+</item>

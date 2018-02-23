@@ -1,0 +1,24 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>54932</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_30</iconpath>
+<stats>
+<armor>732</armor>
+<agility>34</agility>
+<stamina>51</stamina>
+<attackpower>68</attackpower>
+<intellect>34</intellect>
+<critrating>34</critrating>
+<resilience>34</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Swiftarrow Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Swiftarrow Gauntlets</name>
+<id>43446</id>
+<slot>Hands</slot>
+</item>

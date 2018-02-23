@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56729</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_30</iconpath>
+<stats>
+<armor>732</armor>
+<stamina>51</stamina>
+<intellect>34</intellect>
+<spellpower>60</spellpower>
+<resilience>34</resilience>
+<mp5>18</mp5>
+</stats>
+<quality>Rare</quality>
+<setname>Stormhide Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Stormhide Grips</name>
+<id>43454</id>
+<slot>Hands</slot>
+</item>

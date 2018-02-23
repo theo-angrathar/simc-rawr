@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_icediamond_02</iconpath>
+<stats>
+<spellpower>25</spellpower>
+<bonusintellectmultiplier>0.02</bonusintellectmultiplier>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Ember Skyflare Diamond</name>
+<id>41333</id>
+<slot>Meta</slot>
+</item>

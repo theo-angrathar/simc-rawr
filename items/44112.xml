@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55696</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_haremmatron_d_01</iconpath>
+<stats>
+<armor>1570</armor>
+<stamina>75</stamina>
+<strength>50</strength>
+<parryrating>51</parryrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Glimmershell Shoulder Protectors</name>
+<id>44112</id>
+<slot>Shoulders</slot>
+</item>

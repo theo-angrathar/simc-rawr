@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_48c</iconpath>
+<stats>
+<armor>1485</armor>
+<stamina>181</stamina>
+<strength>112</strength>
+<critrating>72</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Wrathful Gladiator's Girdle of Triumph</name>
+<id>51362</id>
+<slot>Waist</slot>
+</item>

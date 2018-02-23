@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53942</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_108</iconpath>
+<stats>
+<armor>458</armor>
+<agility>74</agility>
+<stamina>78</stamina>
+<attackpower>120</attackpower>
+<hitrating>43</hitrating>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hasterating>8</hasterating>
+</socketbonus>
+<name>Helm of the Vast Legions</name>
+<id>39399</id>
+<slot>Head</slot>
+</item>

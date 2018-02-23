@@ -1,0 +1,23 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64698</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_120</iconpath>
+<stats>
+<armor>994</armor>
+<agility>89</agility>
+<stamina>89</stamina>
+<attackpower>119</attackpower>
+<armorpenetrationrating>47</armorpenetrationrating>
+<intellect>47</intellect>
+<critrating>47</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spurned Val'kyr Shoulderguards</name>
+<id>50233</id>
+<slot>Shoulders</slot>
+</item>

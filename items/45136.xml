@@ -1,0 +1,26 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59136</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_84</iconpath>
+<stats>
+<armor>457</armor>
+<stamina>82</stamina>
+<intellect>69</intellect>
+<spirit>56</spirit>
+<spellpower>93</spellpower>
+<critrating>55</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Shoulderpads of Dormant Energies</name>
+<id>45136</id>
+<slot>Shoulders</slot>
+</item>

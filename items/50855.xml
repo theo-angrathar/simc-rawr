@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_151</iconpath>
+<stats>
+<armor>2052</armor>
+<stamina>179</stamina>
+<strength>144</strength>
+<dodgerating>60</dodgerating>
+<parryrating>68</parryrating>
+<defenserating>76</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgelord's Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Scourgelord Faceguard</name>
+<id>50855</id>
+<slot>Head</slot>
+</item>

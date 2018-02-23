@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>30783</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_06</iconpath>
+<stats>
+<armor>140</armor>
+<stamina>28</stamina>
+<intellect>29</intellect>
+<spellpower>44</spellpower>
+<mp5>19</mp5>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shroud of Resurrection</name>
+<id>37048</id>
+<slot>Back</slot>
+</item>

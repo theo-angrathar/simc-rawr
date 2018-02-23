@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56262</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>239</armor>
+<stamina>38</stamina>
+<intellect>42</intellect>
+<spirit>36</spirit>
+<spellpower>51</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wound-Binder's Wristguards</name>
+<id>44258</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_63</iconpath>
+<stats>
+<stamina>51</stamina>
+<intellect>43</intellect>
+<spirit>44</spirit>
+<spellpower>71</spellpower>
+<hasterating>32</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Lady Maye's Sapphire Ring</name>
+<id>45418</id>
+<slot>Finger</slot>
+</item>

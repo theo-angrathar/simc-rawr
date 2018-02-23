@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>35431</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_53naxxramas</iconpath>
+<stats>
+<agility>56</agility>
+<stamina>48</stamina>
+<attackpower>82</attackpower>
+<hitrating>28</hitrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Strong-Handed Ring</name>
+<id>40074</id>
+<slot>Finger</slot>
+</item>

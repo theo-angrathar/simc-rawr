@@ -1,0 +1,28 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_22</iconpath>
+<stats>
+<armor>694</armor>
+<agility>183</agility>
+<stamina>183</stamina>
+<attackpower>212</attackpower>
+<armorpenetrationrating>106</armorpenetrationrating>
+<critrating>122</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Shadowblade's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Sanctified Shadowblade Breastplate</name>
+<id>51250</id>
+<slot>Chest</slot>
+</item>

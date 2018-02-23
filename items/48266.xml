@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_80</iconpath>
+<stats>
+<armor>905</armor>
+<agility>106</agility>
+<stamina>90</stamina>
+<attackpower>151</attackpower>
+<intellect>60</intellect>
+<critrating>68</critrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Windrunner's Battlegear</setname>
+<type>Mail</type>
+<faction>Horde</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Windrunner's Handguards of Triumph</name>
+<id>48266</id>
+<slot>Hands</slot>
+</item>

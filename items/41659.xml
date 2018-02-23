@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55861</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_leather_12</iconpath>
+<stats>
+<armor>564</armor>
+<agility>73</agility>
+<stamina>103</stamina>
+<attackpower>90</attackpower>
+<critrating>44</critrating>
+<resilience>59</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Sanctuary</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Hateful Gladiator's Dragonhide Robes</name>
+<id>41659</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59732</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_27</iconpath>
+<stats>
+<armor>284</armor>
+<stamina>96</stamina>
+<intellect>98</intellect>
+<spellpower>122</spellpower>
+<critrating>77</critrating>
+<hitrating>70</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Leggings of the Enslaved Idol</name>
+<id>45488</id>
+<slot>Legs</slot>
+</item>

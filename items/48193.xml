@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61202</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_78b</iconpath>
+<stats>
+<armor>389</armor>
+<agility>93</agility>
+<stamina>101</stamina>
+<attackpower>135</attackpower>
+<critrating>67</critrating>
+<hitrating>59</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Battlegear</setname>
+<type>Leather</type>
+<faction>Horde</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Runetotem's Handgrips of Triumph</name>
+<id>48193</id>
+<slot>Hands</slot>
+</item>

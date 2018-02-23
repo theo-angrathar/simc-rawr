@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_60</iconpath>
+<stats>
+<stamina>72</stamina>
+<intellect>32</intellect>
+<spellpower>74</spellpower>
+<resilience>42</resilience>
+<hasterating>42</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Titan-Forged Band of Ascendancy</name>
+<id>48999</id>
+<slot>Finger</slot>
+</item>

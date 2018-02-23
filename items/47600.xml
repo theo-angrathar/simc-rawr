@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61208</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_18a</iconpath>
+<stats>
+<armor>623</armor>
+<agility>112</agility>
+<stamina>136</stamina>
+<attackpower>181</attackpower>
+<armorpenetrationrating>74</armorpenetrationrating>
+<hitrating>82</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<attackpower>16</attackpower>
+</socketbonus>
+<name>Knightbane Carapace</name>
+<id>47600</id>
+<slot>Chest</slot>
+</item>

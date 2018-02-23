@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61209</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_78a</iconpath>
+<stats>
+<armor>373</armor>
+<agility>85</agility>
+<stamina>64</stamina>
+<attackpower>139</attackpower>
+<armorpenetrationrating>54</armorpenetrationrating>
+<critrating>54</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Sunreaver Assassin's Gloves</name>
+<id>47878</id>
+<slot>Hands</slot>
+</item>

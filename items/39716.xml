@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56656</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_55</iconpath>
+<stats>
+<armor>7722</armor>
+<stamina>42</stamina>
+<intellect>43</intellect>
+<spellpower>66</spellpower>
+<blockvalue>216</blockvalue>
+<hasterating>38</hasterating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shield of Assimilation</name>
+<id>39716</id>
+<slot>OffHand</slot>
+</item>

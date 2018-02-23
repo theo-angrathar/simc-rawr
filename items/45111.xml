@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59713</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_28</iconpath>
+<stats>
+<armor>1027</armor>
+<stamina>94</stamina>
+<strength>46</strength>
+<hitrating>36</hitrating>
+<dodgerating>44</dodgerating>
+<defenserating>39</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mimiron's Inferno Couplings</name>
+<id>45111</id>
+<slot>Wrist</slot>
+</item>

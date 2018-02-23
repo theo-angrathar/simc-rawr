@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53471</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_76</iconpath>
+<stats>
+<stamina>45</stamina>
+<attackpower>106</attackpower>
+<critrating>23</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>183</mindamage>
+<maxdamage>276</maxdamage>
+<speed>1.6</speed>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Titansteel Shanker</name>
+<id>42435</id>
+<slot>OneHand</slot>
+</item>

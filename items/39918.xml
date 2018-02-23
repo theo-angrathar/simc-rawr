@@ -1,0 +1,16 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_21</iconpath>
+<stats>
+<hasterating>12</hasterating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Quick Sun Crystal</name>
+<id>39918</id>
+<slot>Yellow</slot>
+</item>

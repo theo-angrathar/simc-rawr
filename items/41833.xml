@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_43c</iconpath>
+<stats>
+<armor>350</armor>
+<agility>93</agility>
+<stamina>115</stamina>
+<attackpower>102</attackpower>
+<critrating>59</critrating>
+<resilience>67</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Relentless Gladiator's Belt of Triumph</name>
+<id>41833</id>
+<slot>Waist</slot>
+</item>

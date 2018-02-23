@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_58</iconpath>
+<stats>
+<armor>1821</armor>
+<stamina>90</stamina>
+<strength>74</strength>
+<hitrating>29</hitrating>
+<hasterating>81</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Redemption Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Heroes' Redemption Helm</name>
+<id>39635</id>
+<slot>Head</slot>
+</item>

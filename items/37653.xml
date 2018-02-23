@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51512</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_sword_102</iconpath>
+<stats>
+<stamina>105</stamina>
+<strength>70</strength>
+<critrating>77</critrating>
+</stats>
+<quality>Rare</quality>
+<type>TwoHandSword</type>
+<faction>Neutral</faction>
+<mindamage>514</mindamage>
+<maxdamage>772</maxdamage>
+<speed>3.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Sword of Justice</name>
+<id>37653</id>
+<slot>TwoHand</slot>
+</item>

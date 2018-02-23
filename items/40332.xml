@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54839</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_19</iconpath>
+<stats>
+<armor>1005</armor>
+<stamina>48</stamina>
+<intellect>41</intellect>
+<spellpower>56</spellpower>
+<hasterating>37</hasterating>
+<mp5>15</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Abetment Bracers</name>
+<id>40332</id>
+<slot>Wrist</slot>
+</item>

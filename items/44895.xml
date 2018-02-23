@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_plate_01</iconpath>
+<stats>
+<armor>1541</armor>
+<stamina>99</stamina>
+<strength>58</strength>
+<hitrating>36</hitrating>
+<resilience>44</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Titan-Forged Greaves of Triumph</name>
+<id>44895</id>
+<slot>Feet</slot>
+</item>

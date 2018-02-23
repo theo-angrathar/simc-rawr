@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>575</armor>
+<stamina>73</stamina>
+<intellect>31</intellect>
+<spellpower>73</spellpower>
+<critrating>42</critrating>
+<resilience>42</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Furious Gladiator's Wristguards of Dominance</name>
+<id>41065</id>
+<slot>Wrist</slot>
+</item>

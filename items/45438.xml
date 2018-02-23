@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>31905</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_43</iconpath>
+<stats>
+<stamina>63</stamina>
+<intellect>42</intellect>
+<spellpower>74</spellpower>
+<critrating>36</critrating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ring of the Faithful Servant</name>
+<id>45438</id>
+<slot>Finger</slot>
+</item>

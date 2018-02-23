@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_49</iconpath>
+<stats>
+<armor>211</armor>
+<stamina>122</stamina>
+<intellect>54</intellect>
+<spellpower>116</spellpower>
+<critrating>63</critrating>
+<resilience>71</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Raiment</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Relentless Gladiator's Satin Gloves</name>
+<id>41941</id>
+<slot>Hands</slot>
+</item>

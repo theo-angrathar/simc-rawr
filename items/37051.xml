@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>41655</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_staff_24</iconpath>
+<stats>
+<stamina>16</stamina>
+<intellect>35</intellect>
+<spellpower>44</spellpower>
+<hasterating>38</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Seal of Valgarde</name>
+<id>37051</id>
+<slot>OffHand</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>44841</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_71</iconpath>
+<stats>
+<stamina>63</stamina>
+<intellect>42</intellect>
+<spellpower>74</spellpower>
+<critrating>46</critrating>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pyrelight Circle</name>
+<id>45168</id>
+<slot>Finger</slot>
+</item>

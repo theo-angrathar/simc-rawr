@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_13</iconpath>
+<stats>
+<resilience>7</resilience>
+<mp5>4</mp5>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Perfect Opaque Dark Jade</name>
+<id>41471</id>
+<slot>Green</slot>
+</item>

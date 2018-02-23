@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56385</displayid>
+<displayslot>12</displayslot>
+<iconpath>spell_holy_aspiration</iconpath>
+<stats>
+<attackpower>100</attackpower>
+<critrating>50</critrating>
+<healthrestore>0.4</healthrestore>
+<bonusmanapotion>0.4</bonusmanapotion>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mighty Alchemist's Stone</name>
+<id>44324</id>
+<slot>Trinket</slot>
+</item>

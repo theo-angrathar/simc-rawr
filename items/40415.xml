@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_17</iconpath>
+<stats>
+<armor>192</armor>
+<stamina>64</stamina>
+<intellect>57</intellect>
+<spellpower>69</spellpower>
+<critrating>53</critrating>
+<hitrating>38</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Frostfire Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Valorous Frostfire Gloves</name>
+<id>40415</id>
+<slot>Hands</slot>
+</item>

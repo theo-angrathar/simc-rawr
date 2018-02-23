@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64998</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_117</iconpath>
+<stats>
+<armor>1980</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<critrating>64</critrating>
+<mp5>40</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Emerald Saint's Spaulders</name>
+<id>51824</id>
+<slot>Shoulders</slot>
+</item>

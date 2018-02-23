@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64695</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate22</iconpath>
+<stats>
+<armor>2756</armor>
+<stamina>139</stamina>
+<intellect>139</intellect>
+<spellpower>185</spellpower>
+<critrating>106</critrating>
+<hasterating>114</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Rot-Resistant Breastplate</name>
+<id>50680</id>
+<slot>Chest</slot>
+</item>

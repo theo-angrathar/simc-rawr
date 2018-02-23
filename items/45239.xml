@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_50</iconpath>
+<stats>
+<armor>821</armor>
+<stamina>73</stamina>
+<intellect>62</intellect>
+<spellpower>90</spellpower>
+<critrating>41</critrating>
+<hasterating>64</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Runeshaper's Gloves</name>
+<id>45239</id>
+<slot>Hands</slot>
+</item>

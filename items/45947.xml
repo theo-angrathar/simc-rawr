@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>58938</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_133</iconpath>
+<stats>
+<agility>52</agility>
+<stamina>34</stamina>
+<attackpower>72</attackpower>
+<hitrating>32</hitrating>
+<expertiserating>26</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>325</mindamage>
+<maxdamage>605</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Serilas, Blood Blade of Invar One-Arm</name>
+<id>45947</id>
+<slot>OneHand</slot>
+</item>

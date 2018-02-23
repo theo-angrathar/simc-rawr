@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_26</iconpath>
+<stats>
+<resilience>20</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<socketbonus></socketbonus>
+<name>Kharmaa's Grace</name>
+<id>44066</id>
+<slot>Yellow</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62074</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_06</iconpath>
+<stats>
+<armor>278</armor>
+<stamina>106</stamina>
+<intellect>86</intellect>
+<spirit>86</spirit>
+<spellpower>132</spellpower>
+<critrating>62</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Legwraps of the Demonic Messenger</name>
+<id>47865</id>
+<slot>Legs</slot>
+</item>

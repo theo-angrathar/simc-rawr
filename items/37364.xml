@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_orb_02</iconpath>
+<stats>
+<stamina>31</stamina>
+<intellect>33</intellect>
+<spellpower>50</spellpower>
+<mp5>21</mp5>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Frostbridge Orb</name>
+<id>37364</id>
+<slot>OffHand</slot>
+</item>

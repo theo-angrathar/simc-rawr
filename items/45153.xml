@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>34318</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_20</iconpath>
+<stats>
+<agility>47</agility>
+<stamina>38</stamina>
+<attackpower>86</attackpower>
+<hasterating>26</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Susurrating Shell Necklace</name>
+<id>45153</id>
+<slot>Neck</slot>
+</item>

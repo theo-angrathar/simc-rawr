@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_25</iconpath>
+<stats>
+<armor>2264</armor>
+<stamina>174</stamina>
+<strength>158</strength>
+<armorpenetrationrating>94</armorpenetrationrating>
+<critrating>94</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Thassarian's Battlegear</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Koltira's Legplates of Triumph</name>
+<id>48494</id>
+<slot>Legs</slot>
+</item>

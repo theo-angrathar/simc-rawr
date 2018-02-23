@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate_23</iconpath>
+<stats>
+<armor>2369</armor>
+<stamina>137</stamina>
+<strength>121</strength>
+<armorpenetrationrating>72</armorpenetrationrating>
+<critrating>72</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Wrynn's Battlegear</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Hellscream's Battleplate of Conquest</name>
+<id>48386</id>
+<slot>Chest</slot>
+</item>

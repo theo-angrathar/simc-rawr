@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57236</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_rifle_06</iconpath>
+<stats>
+<attackpower>78</attackpower>
+<critrating>21</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Gun</type>
+<faction>Neutral</faction>
+<mindamage>254</mindamage>
+<maxdamage>472</maxdamage>
+<speed>2.8</speed>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Nesingwary 4000</name>
+<id>44504</id>
+<slot>Ranged</slot>
+</item>

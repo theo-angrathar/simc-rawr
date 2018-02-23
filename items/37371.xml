@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>26001</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_19</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>28</intellect>
+<spellpower>51</spellpower>
+<hasterating>43</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ring of the Frenzied Wolvar</name>
+<id>37371</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>48510</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_41</iconpath>
+<stats>
+<stamina>37</stamina>
+<intellect>38</intellect>
+<spellpower>49</spellpower>
+<critrating>26</critrating>
+<mp5>16</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Volitant Amulet</name>
+<id>43992</id>
+<slot>Neck</slot>
+</item>

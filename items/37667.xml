@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51521</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_70</iconpath>
+<stats>
+<agility>22</agility>
+<stamina>58</stamina>
+<attackpower>76</attackpower>
+<hitrating>27</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>206</mindamage>
+<maxdamage>310</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The Fleshshaper</name>
+<id>37667</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,20 @@
+<enchant>
+<id>3728</id>
+<name>Darkglow Embroidery</name>
+<slot>Back</slot>
+<stats>
+<specialeffects>
+<specialeffect>
+<trigger>SpellCast</trigger>
+<stats>
+<manarestore>400</manarestore>
+</stats>
+<duration>1</duration>
+<cooldown>60</cooldown>
+<chance>0.35</chance>
+<maxstack>1</maxstack>
+</specialeffect>
+</specialeffects>
+<specialeffectcount>1</specialeffectcount>
+</stats>
+</enchant>

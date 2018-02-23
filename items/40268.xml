@@ -1,0 +1,17 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_relics_libramoftruth</iconpath>
+<stats>
+<holylightspellpower>141</holylightspellpower>
+</stats>
+<quality>Epic</quality>
+<type>Libram</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Libram of Tolerance</name>
+<id>40268</id>
+<slot>Ranged</slot>
+</item>

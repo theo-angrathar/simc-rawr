@@ -1,0 +1,24 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64741</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_staff_85</iconpath>
+<stats>
+<agility>106</agility>
+<stamina>83</stamina>
+<attackpower>160</attackpower>
+<critrating>62</critrating>
+<hitrating>76</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Staff</type>
+<faction>Neutral</faction>
+<mindamage>543</mindamage>
+<maxdamage>815</maxdamage>
+<speed>3.2</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Tower of the Mouldering Corpse</name>
+<id>49793</id>
+<slot>TwoHand</slot>
+</item>

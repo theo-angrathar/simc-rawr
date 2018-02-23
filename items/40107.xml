@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_50naxxramas</iconpath>
+<stats>
+<stamina>84</stamina>
+<strength>56</strength>
+<dodgerating>26</dodgerating>
+<parryrating>37</parryrating>
+<defenserating>25</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sand-Worn Band</name>
+<id>40107</id>
+<slot>Finger</slot>
+</item>

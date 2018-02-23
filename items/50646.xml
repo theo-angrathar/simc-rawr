@@ -1,0 +1,26 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64431</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_112</iconpath>
+<stats>
+<armor>521</armor>
+<agility>128</agility>
+<stamina>136</stamina>
+<attackpower>165</attackpower>
+<critrating>90</critrating>
+<hasterating>74</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Cultist's Bloodsoaked Spaulders</name>
+<id>50646</id>
+<slot>Shoulders</slot>
+</item>

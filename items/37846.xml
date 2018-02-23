@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52616</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_06</iconpath>
+<stats>
+<armor>341</armor>
+<agility>50</agility>
+<stamina>58</stamina>
+<attackpower>100</attackpower>
+<critrating>36</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Charged-Bolt Grips</name>
+<id>37846</id>
+<slot>Hands</slot>
+</item>

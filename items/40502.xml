@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>434</armor>
+<agility>55</agility>
+<stamina>73</stamina>
+<attackpower>100</attackpower>
+<critrating>58</critrating>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Bonescythe Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Valorous Bonescythe Pauldrons</name>
+<id>40502</id>
+<slot>Shoulders</slot>
+</item>

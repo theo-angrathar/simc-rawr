@@ -1,0 +1,27 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>65104</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_105</iconpath>
+<stats>
+<agility>74</agility>
+<stamina>44</stamina>
+<attackpower>97</attackpower>
+<critrating>49</critrating>
+<expertiserating>49</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>301</mindamage>
+<maxdamage>560</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Stormfury, Black Blade of the Betrayer</name>
+<id>51942</id>
+<slot>OneHand</slot>
+</item>

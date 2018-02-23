@@ -1,0 +1,23 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>9852</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_04</iconpath>
+<stats>
+<stamina>81</stamina>
+<strength>74</strength>
+<armorpenetrationrating>48</armorpenetrationrating>
+<hitrating>40</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Frigid Strength of Hodir</name>
+<id>45459</id>
+<slot>Neck</slot>
+</item>

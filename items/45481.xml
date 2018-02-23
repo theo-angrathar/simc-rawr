@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59699</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_29</iconpath>
+<stats>
+<armor>1467</armor>
+<stamina>96</stamina>
+<strength>98</strength>
+<critrating>60</critrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of Ruthless Reprisal</name>
+<id>45481</id>
+<slot>Hands</slot>
+</item>

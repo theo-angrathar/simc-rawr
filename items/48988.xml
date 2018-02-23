@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_30a</iconpath>
+<stats>
+<armor>522</armor>
+<agility>104</agility>
+<stamina>137</stamina>
+<attackpower>122</attackpower>
+<hitrating>64</hitrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Titan-Forged Leather Legguards of Triumph</name>
+<id>48988</id>
+<slot>Legs</slot>
+</item>

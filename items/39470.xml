@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_28naxxramas</iconpath>
+<stats>
+<stamina>75</stamina>
+<strength>48</strength>
+<blockrating>26</blockrating>
+<blockvalue>81</blockvalue>
+<defenserating>27</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Medallion of the Disgraced</name>
+<id>39470</id>
+<slot>Neck</slot>
+</item>

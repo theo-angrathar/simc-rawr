@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64718</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_100</iconpath>
+<stats>
+<armor>1741</armor>
+<stamina>60</stamina>
+<intellect>60</intellect>
+<spellpower>92</spellpower>
+<critrating>40</critrating>
+<mp5>30</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Valonforth's Tarnished Pauldrons</name>
+<id>49829</id>
+<slot>Shoulders</slot>
+</item>

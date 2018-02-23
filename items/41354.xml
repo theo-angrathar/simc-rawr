@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51710</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_09</iconpath>
+<stats>
+<armor>916</armor>
+<stamina>48</stamina>
+<strength>37</strength>
+<critrating>24</critrating>
+<resilience>33</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Saronite Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Savage Saronite Bracers</name>
+<id>41354</id>
+<slot>Wrist</slot>
+</item>

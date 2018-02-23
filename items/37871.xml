@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54989</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_97</iconpath>
+<stats>
+<agility>34</agility>
+<stamina>28</stamina>
+<attackpower>64</attackpower>
+<hitrating>24</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>237</mindamage>
+<maxdamage>440</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The Key</name>
+<id>37871</id>
+<slot>OneHand</slot>
+</item>

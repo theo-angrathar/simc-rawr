@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54616</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_02</iconpath>
+<stats>
+<armor>563</armor>
+<agility>30</agility>
+<stamina>57</stamina>
+<attackpower>112</attackpower>
+<intellect>29</intellect>
+<critrating>29</critrating>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Arachnoid Gold Band</name>
+<id>39702</id>
+<slot>Wrist</slot>
+</item>

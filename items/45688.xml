@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_74</iconpath>
+<stats>
+<agility>37</agility>
+<stamina>57</stamina>
+<attackpower>112</attackpower>
+<critrating>38</critrating>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Inscribed Band of the Kirin Tor</name>
+<id>45688</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,17 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>spell_frost_summonwaterelemental</iconpath>
+<stats>
+<restoshamrelict10>255</restoshamrelict10>
+</stats>
+<quality>Epic</quality>
+<type>Totem</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Totem of the Surging Sea</name>
+<id>50464</id>
+<slot>Ranged</slot>
+</item>

@@ -1,0 +1,19 @@
+<item>
+<itemlevel>1</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate03</iconpath>
+<stats>
+<stamina>78</stamina>
+<strength>78</strength>
+<critrating>68</critrating>
+</stats>
+<quality>Heirloom</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Polished Breastplate of Valor</name>
+<id>48685</id>
+<slot>Chest</slot>
+</item>

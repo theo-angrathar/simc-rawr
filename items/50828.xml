@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_21</iconpath>
+<stats>
+<armor>636</armor>
+<agility>144</agility>
+<stamina>144</stamina>
+<attackpower>159</attackpower>
+<armorpenetrationrating>80</armorpenetrationrating>
+<critrating>96</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Lasherweave Raiment</name>
+<id>50828</id>
+<slot>Chest</slot>
+</item>

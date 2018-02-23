@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_100.tga</iconpath>
+<stats>
+<armor>475</armor>
+<agility>100</agility>
+<stamina>62</stamina>
+<attackpower>120</attackpower>
+<critrating>71</critrating>
+<hasterating>53</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Terrorblade Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<attackpower>16</attackpower>
+</socketbonus>
+<name>Valorous Terrorblade Helmet</name>
+<id>45398</id>
+<slot>Head</slot>
+</item>

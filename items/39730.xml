@@ -1,0 +1,24 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>57331</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_98</iconpath>
+<stats>
+<agility>43</agility>
+<stamina>42</stamina>
+<attackpower>62</attackpower>
+<critrating>29</critrating>
+<hasterating>25</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>175</mindamage>
+<maxdamage>326</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Widow's Fury</name>
+<id>39730</id>
+<slot>OneHand</slot>
+</item>

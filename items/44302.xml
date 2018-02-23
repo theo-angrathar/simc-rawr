@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56293</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_13</iconpath>
+<stats>
+<armor>169</armor>
+<stamina>64</stamina>
+<intellect>50</intellect>
+<spellpower>77</spellpower>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of Dark Mending</name>
+<id>44302</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59708</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_34</iconpath>
+<stats>
+<armor>1321</armor>
+<stamina>127</stamina>
+<strength>84</strength>
+<blockrating>45</blockrating>
+<blockvalue>135</blockvalue>
+<defenserating>44</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Dragonslayer's Brace</name>
+<id>45139</id>
+<slot>Waist</slot>
+</item>

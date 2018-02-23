@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>1005</armor>
+<stamina>84</stamina>
+<strength>56</strength>
+<critrating>38</critrating>
+<resilience>37</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deadly Gladiator's Bracers of Triumph</name>
+<id>40888</id>
+<slot>Wrist</slot>
+</item>

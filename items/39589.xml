@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>1097</armor>
+<stamina>85</stamina>
+<intellect>69</intellect>
+<spellpower>85</spellpower>
+<hasterating>56</hasterating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<intellect>6</intellect>
+</socketbonus>
+<name>Heroes' Earthshatter Legguards</name>
+<id>39589</id>
+<slot>Legs</slot>
+</item>

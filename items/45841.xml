@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_21</iconpath>
+<stats>
+<armor>2054</armor>
+<stamina>130</stamina>
+<strength>115</strength>
+<critrating>68</critrating>
+<hasterating>67</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Legplates of the Violet Champion</name>
+<id>45841</id>
+<slot>Legs</slot>
+</item>

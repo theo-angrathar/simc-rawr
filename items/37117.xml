@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>230</armor>
+<agility>39</agility>
+<stamina>33</stamina>
+<attackpower>76</attackpower>
+<critrating>27</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>King's Square Bracers</name>
+<id>37117</id>
+<slot>Wrist</slot>
+</item>

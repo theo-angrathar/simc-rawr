@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64336</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_staff_106</iconpath>
+<stats>
+<agility>136</agility>
+<stamina>129</stamina>
+<attackpower>203</attackpower>
+<critrating>96</critrating>
+<hitrating>88</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Staff</type>
+<faction>Neutral</faction>
+<mindamage>513</mindamage>
+<maxdamage>770</maxdamage>
+<speed>2.4</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Shaft of Glacial Ice</name>
+<id>50998</id>
+<slot>TwoHand</slot>
+</item>

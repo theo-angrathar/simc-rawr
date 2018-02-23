@@ -1,0 +1,16 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_22</iconpath>
+<stats>
+<spellpower>14</spellpower>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Runed Bloodstone</name>
+<id>39911</id>
+<slot>Red</slot>
+</item>

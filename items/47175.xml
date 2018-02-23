@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60524</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather01</iconpath>
+<stats>
+<armor>862</armor>
+<agility>50</agility>
+<stamina>60</stamina>
+<attackpower>67</attackpower>
+<armorpenetrationrating>39</armorpenetrationrating>
+<intellect>47</intellect>
+<critrating>33</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Scale Boots of the Outlander</name>
+<id>47175</id>
+<slot>Feet</slot>
+</item>

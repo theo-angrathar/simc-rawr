@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64786</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_63</iconpath>
+<stats>
+<armor>1485</armor>
+<stamina>137</stamina>
+<strength>121</strength>
+<armorpenetrationrating>80</armorpenetrationrating>
+<hitrating>64</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Flesh-Shaper's Gurney Strap</name>
+<id>51879</id>
+<slot>Waist</slot>
+</item>

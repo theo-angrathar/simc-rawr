@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate05</iconpath>
+<stats>
+<armor>2093</armor>
+<stamina>103</stamina>
+<strength>60</strength>
+<defenserating>74</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Silver-Plated Battlechest</name>
+<id>44407</id>
+<slot>Chest</slot>
+</item>

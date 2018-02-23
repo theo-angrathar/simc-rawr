@@ -1,0 +1,28 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_126</iconpath>
+<stats>
+<armor>551</armor>
+<agility>155</agility>
+<stamina>195</stamina>
+<attackpower>174</attackpower>
+<critrating>98</critrating>
+<resilience>98</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Sanctuary</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Wrathful Gladiator's Dragonhide Helm</name>
+<id>51427</id>
+<slot>Head</slot>
+</item>

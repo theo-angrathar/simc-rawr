@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64764</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_axe_96</iconpath>
+<stats>
+<stamina>137</stamina>
+<strength>129</strength>
+<armorpenetrationrating>53</armorpenetrationrating>
+<hasterating>92</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>651</mindamage>
+<maxdamage>977</maxdamage>
+<speed>3.5</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Tyrannical Beheader</name>
+<id>50267</id>
+<slot>TwoHand</slot>
+</item>

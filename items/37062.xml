@@ -1,0 +1,24 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>50615</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>1700</armor>
+<stamina>51</stamina>
+<intellect>52</intellect>
+<spellpower>81</spellpower>
+<mp5>26</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Crown of Forgotten Kings</name>
+<id>37062</id>
+<slot>Head</slot>
+</item>

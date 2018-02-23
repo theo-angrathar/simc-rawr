@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_13</iconpath>
+<stats>
+<spellpenetration>9</spellpenetration>
+<hasterating>7</hasterating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Perfect Shattered Dark Jade</name>
+<id>41474</id>
+<slot>Green</slot>
+</item>

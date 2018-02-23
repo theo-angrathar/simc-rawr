@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54064</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_58</iconpath>
+<stats>
+<armor>7530</armor>
+<stamina>75</stamina>
+<strength>38</strength>
+<hitrating>25</hitrating>
+<blockvalue>211</blockvalue>
+<defenserating>49</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Royal Crest of Lordaeron</name>
+<id>43085</id>
+<slot>OffHand</slot>
+</item>

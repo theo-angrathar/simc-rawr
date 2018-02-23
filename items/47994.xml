@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61861</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_52</iconpath>
+<stats>
+<armor>186</armor>
+<stamina>77</stamina>
+<intellect>67</intellect>
+<spellpower>99</spellpower>
+<hitrating>61</hitrating>
+<hasterating>67</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Icehowl Binding</name>
+<id>47994</id>
+<slot>Waist</slot>
+</item>

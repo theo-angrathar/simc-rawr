@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_29</iconpath>
+<stats>
+<spirit>8</spirit>
+<spellpower>9</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Purified Twilight Opal</name>
+<id>40026</id>
+<slot>Purple</slot>
+</item>

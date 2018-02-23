@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60545</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_105</iconpath>
+<stats>
+<armor>423</armor>
+<agility>62</agility>
+<stamina>50</stamina>
+<attackpower>101</attackpower>
+<armorpenetrationrating>47</armorpenetrationrating>
+<hitrating>27</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Shoulderpads of the Infamous Knave</name>
+<id>47221</id>
+<slot>Shoulders</slot>
+</item>

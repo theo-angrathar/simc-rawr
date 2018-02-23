@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51604</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_92</iconpath>
+<stats>
+<armor>1570</armor>
+<stamina>66</stamina>
+<strength>52</strength>
+<critrating>43</critrating>
+<resilience>27</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Saronite Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Savage Saronite Pauldrons</name>
+<id>41351</id>
+<slot>Shoulders</slot>
+</item>

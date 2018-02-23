@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>563</armor>
+<stamina>55</stamina>
+<intellect>38</intellect>
+<spellpower>66</spellpower>
+<hasterating>28</hasterating>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Pigmented Clan Bindings</name>
+<id>40737</id>
+<slot>Wrist</slot>
+</item>

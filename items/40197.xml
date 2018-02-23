@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54779</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_17</iconpath>
+<stats>
+<armor>192</armor>
+<stamina>57</stamina>
+<intellect>50</intellect>
+<spirit>74</spirit>
+<spellpower>88</spellpower>
+<hitrating>25</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of the Fallen Wizard</name>
+<id>40197</id>
+<slot>Hands</slot>
+</item>

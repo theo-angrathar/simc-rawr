@@ -1,0 +1,24 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>58923</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_staff_93</iconpath>
+<stats>
+<agility>73</agility>
+<stamina>93</stamina>
+<attackpower>212</attackpower>
+<armorpenetrationrating>67</armorpenetrationrating>
+<hasterating>76</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Staff</type>
+<faction>Neutral</faction>
+<mindamage>475</mindamage>
+<maxdamage>713</maxdamage>
+<speed>2.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spire of Withering Dreams</name>
+<id>45695</id>
+<slot>TwoHand</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53649</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_73</iconpath>
+<stats>
+<armor>308</armor>
+<stamina>85</stamina>
+<intellect>70</intellect>
+<spellpower>110</spellpower>
+<critrating>50</critrating>
+<hitrating>72</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>3</critrating>
+</socketbonus>
+<name>Gown of the Spell-Weaver</name>
+<id>40526</id>
+<slot>Chest</slot>
+</item>

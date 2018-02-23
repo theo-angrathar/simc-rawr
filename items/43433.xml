@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56706</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_87</iconpath>
+<stats>
+<armor>395</armor>
+<agility>51</agility>
+<stamina>51</stamina>
+<attackpower>68</attackpower>
+<critrating>34</critrating>
+<resilience>34</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Eviscerator's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Eviscerator's Shoulderpads</name>
+<id>43433</id>
+<slot>Shoulders</slot>
+</item>

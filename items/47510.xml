@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60644</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_51</iconpath>
+<stats>
+<armor>1306</armor>
+<stamina>60</stamina>
+<intellect>56</intellect>
+<spellpower>92</spellpower>
+<critrating>56</critrating>
+<hasterating>34</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Trueheart Girdle</name>
+<id>47510</id>
+<slot>Waist</slot>
+</item>

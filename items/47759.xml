@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_75</iconpath>
+<stats>
+<armor>347</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spirit>102</spirit>
+<spellpower>160</spellpower>
+<hitrating>86</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Khadgar's Regalia</setname>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Khadgar's Robe of Triumph</name>
+<id>47759</id>
+<slot>Chest</slot>
+</item>

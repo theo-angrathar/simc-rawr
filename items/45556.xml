@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59084</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_37c</iconpath>
+<stats>
+<armor>333</armor>
+<stamina>73</stamina>
+<intellect>60</intellect>
+<spirit>57</spirit>
+<spellpower>81</spellpower>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Belt of Arctic Life</name>
+<id>45556</id>
+<slot>Waist</slot>
+</item>

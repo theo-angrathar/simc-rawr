@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>62024</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_15</iconpath>
+<stats>
+<armor>2264</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spellpower>151</spellpower>
+<critrating>88</critrating>
+<hasterating>92</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Legplates of Failing Light</name>
+<id>47067</id>
+<slot>Legs</slot>
+</item>

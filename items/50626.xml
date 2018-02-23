@@ -1,0 +1,26 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>65175</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_169</iconpath>
+<stats>
+<armor>1253</armor>
+<stamina>139</stamina>
+<intellect>139</intellect>
+<spellpower>186</spellpower>
+<critrating>106</critrating>
+<mp5>57</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Snowstorm Helm</name>
+<id>50626</id>
+<slot>Head</slot>
+</item>

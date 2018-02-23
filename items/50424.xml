@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>31498</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_40</iconpath>
+<stats>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spirit>60</spirit>
+<spellpower>97</spellpower>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<uniqueid>50424</uniqueid>
+<uniqueid>50636</uniqueid>
+<name>Memory of Malygos</name>
+<id>50424</id>
+<slot>Finger</slot>
+</item>

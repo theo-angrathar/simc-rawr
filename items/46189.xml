@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>369</armor>
+<stamina>63</stamina>
+<intellect>64</intellect>
+<spirit>48</spirit>
+<spellpower>90</spellpower>
+<hitrating>57</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Nightsong Garb</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Conqueror's Nightsong Gloves</name>
+<id>46189</id>
+<slot>Hands</slot>
+</item>

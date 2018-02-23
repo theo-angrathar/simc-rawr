@@ -1,0 +1,26 @@
+<item>
+<itemlevel>284</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_plate_14</iconpath>
+<stats>
+<armor>1939</armor>
+<stamina>110</stamina>
+<intellect>110</intellect>
+<spellpower>151</spellpower>
+<critrating>81</critrating>
+<hasterating>97</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Foreshadow Steps</name>
+<id>54586</id>
+<slot>Feet</slot>
+</item>

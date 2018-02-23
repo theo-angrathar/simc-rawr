@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>58944</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_133</iconpath>
+<stats>
+<agility>52</agility>
+<stamina>51</stamina>
+<attackpower>72</attackpower>
+<critrating>20</critrating>
+<hitrating>36</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>187</mindamage>
+<maxdamage>349</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Void Sabre</name>
+<id>46036</id>
+<slot>OneHand</slot>
+</item>

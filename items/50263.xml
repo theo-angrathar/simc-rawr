@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64952</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_67</iconpath>
+<stats>
+<armor>178</armor>
+<stamina>78</stamina>
+<intellect>64</intellect>
+<spirit>60</spirit>
+<spellpower>105</spellpower>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Braid of Salt and Fire</name>
+<id>50263</id>
+<slot>Waist</slot>
+</item>

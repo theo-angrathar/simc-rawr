@@ -1,0 +1,24 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>58880</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_crossbow_33</iconpath>
+<stats>
+<agility>40</agility>
+<stamina>40</stamina>
+<attackpower>58</attackpower>
+<critrating>28</critrating>
+<hitrating>23</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Crossbow</type>
+<faction>Neutral</faction>
+<mindamage>465</mindamage>
+<maxdamage>657</maxdamage>
+<speed>2.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Skyforge Crossbow</name>
+<id>45570</id>
+<slot>Ranged</slot>
+</item>

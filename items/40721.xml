@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_05</iconpath>
+<stats>
+<armor>154</armor>
+<agility>28</agility>
+<stamina>61</stamina>
+<attackpower>112</attackpower>
+<critrating>43</critrating>
+<hasterating>32</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Hammerhead Sharkskin Cloak</name>
+<id>40721</id>
+<slot>Back</slot>
+</item>

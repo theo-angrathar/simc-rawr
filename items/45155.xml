@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_31</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>29</intellect>
+<spellpower>52</spellpower>
+<hitrating>43</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Choker of Spiral Focus</name>
+<id>45155</id>
+<slot>Neck</slot>
+</item>

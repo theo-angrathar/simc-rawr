@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55984</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_60</iconpath>
+<stats>
+<stamina>49</stamina>
+<intellect>26</intellect>
+<spellpower>355</spellpower>
+<critrating>24</critrating>
+<hasterating>25</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>82</mindamage>
+<maxdamage>263</maxdamage>
+<speed>2.3</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gavel of the Brewing Storm</name>
+<id>44199</id>
+<slot>MainHand</slot>
+</item>

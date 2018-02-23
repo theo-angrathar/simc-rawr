@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53653</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_110</iconpath>
+<stats>
+<armor>1821</armor>
+<stamina>99</stamina>
+<strength>103</strength>
+<armorpenetrationrating>63</armorpenetrationrating>
+<critrating>57</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Titan's Outlook</name>
+<id>40428</id>
+<slot>Head</slot>
+</item>

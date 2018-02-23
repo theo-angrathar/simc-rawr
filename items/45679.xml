@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59775</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_54</iconpath>
+<stats>
+<armor>812</armor>
+<agility>56</agility>
+<stamina>80</stamina>
+<attackpower>118</attackpower>
+<armorpenetrationrating>37</armorpenetrationrating>
+<intellect>48</intellect>
+<hasterating>42</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Gloves of Taut Grip</name>
+<id>45679</id>
+<slot>Hands</slot>
+</item>

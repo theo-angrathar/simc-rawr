@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>60623</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_rifle_36</iconpath>
+<stats>
+<agility>35</agility>
+<stamina>20</stamina>
+<attackpower>59</attackpower>
+<critrating>26</critrating>
+<hitrating>15</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Gun</type>
+<faction>Horde</faction>
+<mindamage>387</mindamage>
+<maxdamage>661</maxdamage>
+<speed>2.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Widebarrel Flintlock</name>
+<id>47883</id>
+<slot>Ranged</slot>
+</item>

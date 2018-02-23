@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>45948</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_72</iconpath>
+<stats>
+<stamina>72</stamina>
+<strength>72</strength>
+<hitrating>46</hitrating>
+<expertiserating>36</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bladebearer's Signet</name>
+<id>45540</id>
+<slot>Finger</slot>
+</item>

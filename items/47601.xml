@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61720</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_leather_18b</iconpath>
+<stats>
+<armor>623</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spirit>82</spirit>
+<spellpower>131</spellpower>
+<critrating>74</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Lunar Eclipse Robes</name>
+<id>47601</id>
+<slot>Chest</slot>
+</item>

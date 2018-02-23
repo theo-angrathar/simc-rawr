@@ -1,0 +1,28 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_165</iconpath>
+<stats>
+<armor>293</armor>
+<stamina>195</stamina>
+<intellect>87</intellect>
+<spirit>98</spirit>
+<spellpower>182</spellpower>
+<resilience>98</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Investiture</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Wrathful Gladiator's Mooncloth Hood</name>
+<id>51484</id>
+<slot>Head</slot>
+</item>

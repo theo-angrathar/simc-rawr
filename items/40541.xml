@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53637</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_22</iconpath>
+<stats>
+<armor>369</armor>
+<agility>63</agility>
+<stamina>63</stamina>
+<attackpower>174</attackpower>
+<critrating>53</critrating>
+<hitrating>58</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Frosted Adroit Handguards</name>
+<id>40541</id>
+<slot>Hands</slot>
+</item>

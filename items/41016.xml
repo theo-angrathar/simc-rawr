@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56936</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_140</iconpath>
+<stats>
+<armor>985</armor>
+<stamina>88</stamina>
+<intellect>39</intellect>
+<spellpower>73</spellpower>
+<critrating>36</critrating>
+<resilience>36</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Thunderfist</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<mp5>3</mp5>
+</socketbonus>
+<name>Savage Gladiator's Mail Helm</name>
+<id>41016</id>
+<slot>Head</slot>
+</item>

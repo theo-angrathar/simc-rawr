@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64836</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate23</iconpath>
+<stats>
+<armor>2369</armor>
+<stamina>137</stamina>
+<strength>137</strength>
+<critrating>84</critrating>
+<hasterating>74</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Frost Wyrm Ribcage</name>
+<id>50272</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_plate_08</iconpath>
+<stats>
+<armor>1614</armor>
+<stamina>115</stamina>
+<strength>84</strength>
+<parryrating>36</parryrating>
+<blockvalue>135</blockvalue>
+<defenserating>44</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Greaves of the Stonewarder</name>
+<id>45542</id>
+<slot>Feet</slot>
+</item>

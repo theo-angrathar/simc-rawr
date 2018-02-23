@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54209</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>247</armor>
+<agility>38</agility>
+<stamina>49</stamina>
+<attackpower>100</attackpower>
+<armorpenetrationrating>25</armorpenetrationrating>
+<critrating>32</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cuffs of Dark Shadows</name>
+<id>39247</id>
+<slot>Wrist</slot>
+</item>

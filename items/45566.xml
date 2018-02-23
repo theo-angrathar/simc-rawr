@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59433</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_03</iconpath>
+<stats>
+<armor>216</armor>
+<stamina>63</stamina>
+<intellect>64</intellect>
+<spirit>41</spirit>
+<spellpower>81</spellpower>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Spellslinger's Slippers</name>
+<id>45566</id>
+<slot>Feet</slot>
+</item>

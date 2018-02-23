@@ -1,0 +1,27 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>item_icecrownringc</iconpath>
+<stats>
+<stamina>73</stamina>
+<intellect>73</intellect>
+<spellpower>104</spellpower>
+<critrating>64</critrating>
+<hitrating>56</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<uniqueid>53116</uniqueid>
+<uniqueid>54563</uniqueid>
+<name>Saviana's Tribute</name>
+<id>54563</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55335</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_02</iconpath>
+<stats>
+<armor>150</armor>
+<spellpower>59</spellpower>
+<critrating>43</critrating>
+<hasterating>53</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Deathchill Cloak</name>
+<id>41610</id>
+<slot>Back</slot>
+</item>

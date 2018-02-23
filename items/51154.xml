@@ -1,0 +1,28 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_84</iconpath>
+<stats>
+<armor>923</armor>
+<agility>120</agility>
+<stamina>95</stamina>
+<attackpower>145</attackpower>
+<intellect>63</intellect>
+<critrating>72</critrating>
+<hitrating>63</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Ahn'Kahar Blood Hunter's Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Sanctified Ahn'Kahar Blood Hunter's Handguards</name>
+<id>51154</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51355</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_11</iconpath>
+<stats>
+<armor>123</armor>
+<stamina>33</stamina>
+<intellect>27</intellect>
+<spellpower>46</spellpower>
+<hasterating>38</hasterating>
+</stats>
+<quality>Rare</quality>
+<setname>Duskweaver</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Black Duskweave Wristwraps</name>
+<id>41555</id>
+<slot>Wrist</slot>
+</item>

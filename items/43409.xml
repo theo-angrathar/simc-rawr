@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55017</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_weapon_halberd_20</iconpath>
+<stats>
+<stamina>135</stamina>
+<strength>86</strength>
+<critrating>71</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Polearm</type>
+<faction>Neutral</faction>
+<mindamage>487</mindamage>
+<maxdamage>731</maxdamage>
+<speed>3.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Saliva Corroded Pike</name>
+<id>43409</id>
+<slot>TwoHand</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_25</iconpath>
+<stats>
+<armor>333</armor>
+<stamina>73</stamina>
+<intellect>60</intellect>
+<spirit>56</spirit>
+<spellpower>100</spellpower>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of the Living Thicket</name>
+<id>45830</id>
+<slot>Waist</slot>
+</item>

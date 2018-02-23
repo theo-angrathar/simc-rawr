@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64770</displayid>
+<displayslot>25</displayslot>
+<iconpath>inv_throwingknife_02</iconpath>
+<stats>
+<agility>38</agility>
+<stamina>33</stamina>
+<attackpower>54</attackpower>
+<critrating>26</critrating>
+<hasterating>23</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Thrown</type>
+<faction>Neutral</faction>
+<mindamage>335</mindamage>
+<maxdamage>503</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Papa's Brand New Knife</name>
+<id>50169</id>
+<slot>Ranged</slot>
+</item>

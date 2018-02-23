@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>35312</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_naxxramas_02</iconpath>
+<stats>
+<armor>157</armor>
+<stamina>54</stamina>
+<intellect>46</intellect>
+<spellpower>64</spellpower>
+<critrating>34</critrating>
+<hasterating>42</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Pennant Cloak</name>
+<id>44005</id>
+<slot>Back</slot>
+</item>

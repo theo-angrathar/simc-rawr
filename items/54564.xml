@@ -1,0 +1,26 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_plate_12</iconpath>
+<stats>
+<armor>1858</armor>
+<stamina>180</stamina>
+<strength>128</strength>
+<dodgerating>67</dodgerating>
+<parryrating>59</parryrating>
+<defenserating>51</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Scion's Treads</name>
+<id>54564</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>35358</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_29naxxramas</iconpath>
+<stats>
+<agility>38</agility>
+<stamina>55</stamina>
+<attackpower>112</attackpower>
+<critrating>43</critrating>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Fool's Trial</name>
+<id>40065</id>
+<slot>Neck</slot>
+</item>

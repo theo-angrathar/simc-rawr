@@ -1,0 +1,29 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>1150</armor>
+<agility>58</agility>
+<stamina>66</stamina>
+<attackpower>228</attackpower>
+<intellect>68</intellect>
+<critrating>73</critrating>
+<hasterating>45</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgestalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Conqueror's Scourgestalker Legguards</name>
+<id>46144</id>
+<slot>Legs</slot>
+</item>

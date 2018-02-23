@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_15</iconpath>
+<stats>
+<armor>1005</armor>
+<stamina>61</stamina>
+<strength>56</strength>
+<critrating>56</critrating>
+<expertiserating>32</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Wristbands of the Sentinel Huntress</name>
+<id>40733</id>
+<slot>Wrist</slot>
+</item>

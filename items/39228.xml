@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53850</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_52</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spellpower>77</spellpower>
+<hasterating>48</hasterating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Web Cocoon Grips</name>
+<id>39228</id>
+<slot>Hands</slot>
+</item>

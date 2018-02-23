@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59029</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_09</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>65</stamina>
+<intellect>35</intellect>
+<spellpower>74</spellpower>
+<hasterating>39</hasterating>
+<mp5>15</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shawl of the Caretaker</name>
+<id>45317</id>
+<slot>Back</slot>
+</item>

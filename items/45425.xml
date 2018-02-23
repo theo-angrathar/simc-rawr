@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_58</iconpath>
+<stats>
+<armor>1886</armor>
+<stamina>135</stamina>
+<strength>90</strength>
+<dodgerating>48</dodgerating>
+<blockrating>47</blockrating>
+<defenserating>56</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Siegebreaker Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<dodgerating>8</dodgerating>
+</socketbonus>
+<name>Valorous Siegebreaker Greathelm</name>
+<id>45425</id>
+<slot>Head</slot>
+</item>

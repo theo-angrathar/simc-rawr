@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51723</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_03</iconpath>
+<stats>
+<armor>545</armor>
+<agility>56</agility>
+<attackpower>154</attackpower>
+<critrating>78</critrating>
+<expertiserating>45</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Custodian's Chestpiece</name>
+<id>37219</id>
+<slot>Chest</slot>
+</item>

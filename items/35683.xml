@@ -1,0 +1,20 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>51458</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_gizmo_hardenedadamantitetube</iconpath>
+<stats>
+<stamina>54</stamina>
+<attackpower>72</attackpower>
+<critrating>36</critrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Palladium Ring</name>
+<id>35683</id>
+<slot>Finger</slot>
+</item>

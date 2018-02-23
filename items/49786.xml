@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>65307</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_leather_23</iconpath>
+<stats>
+<armor>585</armor>
+<stamina>93</stamina>
+<intellect>76</intellect>
+<spirit>66</spirit>
+<spellpower>124</spellpower>
+<hasterating>74</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Robes of the Cheating Heart</name>
+<id>49786</id>
+<slot>Chest</slot>
+</item>

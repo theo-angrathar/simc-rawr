@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>34034</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_22</iconpath>
+<stats>
+<agility>60</agility>
+<stamina>51</stamina>
+<attackpower>54</attackpower>
+<critrating>46</critrating>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Choker of the Abyss</name>
+<id>46008</id>
+<slot>Neck</slot>
+</item>

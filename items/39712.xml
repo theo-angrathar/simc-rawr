@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54697</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_wand_16</iconpath>
+<stats>
+<stamina>27</stamina>
+<intellect>22</intellect>
+<spellpower>37</spellpower>
+<hitrating>18</hitrating>
+<hasterating>22</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Wand</type>
+<faction>Neutral</faction>
+<mindamage>362</mindamage>
+<maxdamage>674</maxdamage>
+<damagetype>Shadow</damagetype>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gemmed Wand of the Nerubians</name>
+<id>39712</id>
+<slot>Ranged</slot>
+</item>

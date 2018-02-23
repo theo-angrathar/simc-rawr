@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64569</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_25</iconpath>
+<stats>
+<armor>2641</armor>
+<stamina>185</stamina>
+<strength>161</strength>
+<critrating>100</critrating>
+<hitrating>92</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<strength>8</strength>
+</socketbonus>
+<name>Gendarme's Cuirass</name>
+<id>49951</id>
+<slot>Chest</slot>
+</item>

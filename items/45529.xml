@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59028</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>157</armor>
+<stamina>46</stamina>
+<intellect>46</intellect>
+<spirit>49</spirit>
+<spellpower>74</spellpower>
+<critrating>36</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shawl of Haunted Memories</name>
+<id>45529</id>
+<slot>Back</slot>
+</item>

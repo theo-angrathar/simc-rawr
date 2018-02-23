@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64809</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_60</iconpath>
+<stats>
+<armor>795</armor>
+<agility>91</agility>
+<stamina>84</stamina>
+<attackpower>142</attackpower>
+<intellect>56</intellect>
+<critrating>71</critrating>
+<hitrating>40</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Linked Scourge Vertebrae</name>
+<id>50762</id>
+<slot>Waist</slot>
+</item>

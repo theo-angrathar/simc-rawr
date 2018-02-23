@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1467</armor>
+<stamina>115</stamina>
+<strength>84</strength>
+<parryrating>36</parryrating>
+<blockvalue>135</blockvalue>
+<defenserating>45</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Aegis Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Conqueror's Aegis Handguards</name>
+<id>46174</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53673</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_75</iconpath>
+<stats>
+<armor>443</armor>
+<stamina>74</stamina>
+<intellect>62</intellect>
+<spirit>60</spirit>
+<spellpower>99</spellpower>
+<critrating>49</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spaulders of Catatonia</name>
+<id>40594</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59779</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_03</iconpath>
+<stats>
+<armor>903</armor>
+<agility>57</agility>
+<stamina>66</stamina>
+<attackpower>138</attackpower>
+<intellect>40</intellect>
+<critrating>38</critrating>
+<hitrating>48</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Tempered Mercury Greaves</name>
+<id>45989</id>
+<slot>Feet</slot>
+</item>

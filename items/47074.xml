@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>62051</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32a</iconpath>
+<stats>
+<armor>633</armor>
+<agility>77</agility>
+<stamina>45</stamina>
+<attackpower>114</attackpower>
+<armorpenetrationrating>45</armorpenetrationrating>
+<intellect>45</intellect>
+<critrating>49</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Bracers of the Untold Massacre</name>
+<id>47074</id>
+<slot>Wrist</slot>
+</item>

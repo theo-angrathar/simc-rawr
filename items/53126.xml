@@ -1,0 +1,25 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>64421</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_41</iconpath>
+<stats>
+<armor>298</armor>
+<agility>96</agility>
+<stamina>96</stamina>
+<attackpower>96</attackpower>
+<critrating>64</critrating>
+<hasterating>64</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Umbrage Armbands</name>
+<id>53126</id>
+<slot>Wrist</slot>
+</item>

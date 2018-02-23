@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55397</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_58</iconpath>
+<stats>
+<armor>353</armor>
+<agility>58</agility>
+<stamina>76</stamina>
+<attackpower>66</attackpower>
+<critrating>27</critrating>
+<resilience>35</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Sanctuary</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Hateful Gladiator's Dragonhide Gloves</name>
+<id>41771</id>
+<slot>Hands</slot>
+</item>

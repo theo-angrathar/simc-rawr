@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_62</iconpath>
+<stats>
+<armor>1480</armor>
+<stamina>122</stamina>
+<strength>89</strength>
+<dodgerating>47</dodgerating>
+<parryrating>39</parryrating>
+<defenserating>47</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Thassarian's Plate</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Koltira's Handguards of Conquest</name>
+<id>48559</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_06</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>103</stamina>
+<intellect>46</intellect>
+<spellpower>106</spellpower>
+<hitrating>60</hitrating>
+<resilience>60</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Cloak of Ascendancy</name>
+<id>51334</id>
+<slot>Back</slot>
+</item>

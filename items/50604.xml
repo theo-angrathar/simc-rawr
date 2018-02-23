@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64169</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_83</iconpath>
+<stats>
+<agility>102</agility>
+<stamina>102</stamina>
+<attackpower>120</attackpower>
+<hitrating>62</hitrating>
+<hasterating>65</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<uniqueid>49949</uniqueid>
+<uniqueid>50604</uniqueid>
+<name>Band of the Bone Colossus</name>
+<id>50604</id>
+<slot>Finger</slot>
+</item>

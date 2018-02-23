@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate03</iconpath>
+<stats>
+<armor>2093</armor>
+<stamina>103</stamina>
+<strength>69</strength>
+<armorpenetrationrating>39</armorpenetrationrating>
+<critrating>49</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Breastplate of Jagged Stone</name>
+<id>43209</id>
+<slot>Chest</slot>
+</item>

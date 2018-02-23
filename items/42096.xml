@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53271</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_01</iconpath>
+<stats>
+<armor>193</armor>
+<stamina>37</stamina>
+<intellect>40</intellect>
+<spirit>51</spirit>
+<spellpower>60</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Aurora Slippers</name>
+<id>42096</id>
+<slot>Feet</slot>
+</item>

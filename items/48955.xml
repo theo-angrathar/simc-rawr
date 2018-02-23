@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_73</iconpath>
+<stats>
+<stamina>62</stamina>
+<intellect>43</intellect>
+<spirit>43</spirit>
+<spellpower>74</spellpower>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Etched Loop of the Kirin Tor</name>
+<id>48955</id>
+<slot>Finger</slot>
+</item>

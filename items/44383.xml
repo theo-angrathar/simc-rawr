@@ -1,0 +1,20 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate19</iconpath>
+<stats>
+<armor>2068</armor>
+<stamina>102</stamina>
+<strength>70</strength>
+<expertiserating>68</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Battleplate of Unheard Ovation</name>
+<id>44383</id>
+<slot>Chest</slot>
+</item>

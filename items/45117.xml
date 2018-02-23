@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59730</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_64</iconpath>
+<stats>
+<armor>197</armor>
+<stamina>73</stamina>
+<intellect>62</intellect>
+<spirit>53</spirit>
+<spellpower>99</spellpower>
+<critrating>58</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Constructor's Handwraps</name>
+<id>45117</id>
+<slot>Hands</slot>
+</item>

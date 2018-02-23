@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64640</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_22</iconpath>
+<stats>
+<armor>155</armor>
+<agility>59</agility>
+<stamina>52</stamina>
+<attackpower>85</attackpower>
+<armorpenetrationrating>37</armorpenetrationrating>
+<hitrating>41</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Accursed Crawling Cape</name>
+<id>49792</id>
+<slot>Back</slot>
+</item>

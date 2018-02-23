@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_78</iconpath>
+<stats>
+<armor>199</armor>
+<stamina>137</stamina>
+<intellect>61</intellect>
+<spellpower>132</spellpower>
+<resilience>80</resilience>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Wrathful Gladiator's Cord of Alacrity</name>
+<id>51337</id>
+<slot>Waist</slot>
+</item>

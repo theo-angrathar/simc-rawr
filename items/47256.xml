@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61402</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>166</armor>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spirit>50</spirit>
+<spellpower>89</spellpower>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Drape of the Refreshing Winds</name>
+<id>47256</id>
+<slot>Back</slot>
+</item>

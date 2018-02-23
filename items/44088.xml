@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_shadowspirit_02</iconpath>
+<stats>
+<stamina>26</stamina>
+<stundurreduc>0.1</stundurreduc>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Powerful Earthshatter Diamond</name>
+<id>44088</id>
+<slot>Meta</slot>
+</item>

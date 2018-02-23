@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>43065</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_24</iconpath>
+<stats>
+<armor>296</armor>
+<agility>51</agility>
+<stamina>60</stamina>
+<attackpower>102</attackpower>
+<armorpenetrationrating>25</armorpenetrationrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Glitterscale Wrap</name>
+<id>44106</id>
+<slot>Waist</slot>
+</item>

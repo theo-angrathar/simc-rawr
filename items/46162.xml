@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate02</iconpath>
+<stats>
+<armor>2348</armor>
+<stamina>147</stamina>
+<strength>113</strength>
+<parryrating>60</parryrating>
+<blockvalue>153</blockvalue>
+<defenserating>51</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Siegebreaker Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<defenserating>6</defenserating>
+</socketbonus>
+<name>Conqueror's Siegebreaker Breastplate</name>
+<id>46162</id>
+<slot>Chest</slot>
+</item>

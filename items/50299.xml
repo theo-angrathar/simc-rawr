@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64581</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_91</iconpath>
+<stats>
+<armor>198</armor>
+<stamina>68</stamina>
+<intellect>68</intellect>
+<spirit>57</spirit>
+<spellpower>105</spellpower>
+<critrating>61</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Suspiciously Soft Gloves</name>
+<id>50299</id>
+<slot>Hands</slot>
+</item>

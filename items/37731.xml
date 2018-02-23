@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_cloth_23</iconpath>
+<stats>
+<armor>254</armor>
+<stamina>58</stamina>
+<intellect>59</intellect>
+<spirit>78</spirit>
+<spellpower>91</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Opposed Stasis Leggings</name>
+<id>37731</id>
+<slot>Legs</slot>
+</item>

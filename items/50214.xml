@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64650</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_157</iconpath>
+<stats>
+<armor>1077</armor>
+<stamina>80</stamina>
+<intellect>84</intellect>
+<spellpower>122</spellpower>
+<critrating>58</critrating>
+<hasterating>84</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hasterating>8</hasterating>
+</socketbonus>
+<name>Helm of the Spirit Shock</name>
+<id>50214</id>
+<slot>Head</slot>
+</item>

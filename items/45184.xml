@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_44c</iconpath>
+<stats>
+<armor>682</armor>
+<agility>38</agility>
+<stamina>62</stamina>
+<attackpower>116</attackpower>
+<armorpenetrationrating>33</armorpenetrationrating>
+<intellect>39</intellect>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cinch of Bonded Servitude</name>
+<id>45184</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59652</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_12</iconpath>
+<stats>
+<armor>903</armor>
+<stamina>63</stamina>
+<intellect>64</intellect>
+<spellpower>81</spellpower>
+<critrating>57</critrating>
+<mp5>20</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Lightning Grounded Boots</name>
+<id>45563</id>
+<slot>Feet</slot>
+</item>

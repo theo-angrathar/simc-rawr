@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60646</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_49</iconpath>
+<stats>
+<armor>731</armor>
+<stamina>64</stamina>
+<intellect>56</intellect>
+<spellpower>88</spellpower>
+<critrating>37</critrating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Girdle of the Dauntless Conqueror</name>
+<id>47563</id>
+<slot>Waist</slot>
+</item>

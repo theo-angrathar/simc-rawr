@@ -1,0 +1,27 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_113</iconpath>
+<stats>
+<armor>1134</armor>
+<agility>112</agility>
+<stamina>101</stamina>
+<attackpower>173</attackpower>
+<armorpenetrationrating>75</armorpenetrationrating>
+<intellect>59</intellect>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Twilight Scale Shoulders</name>
+<id>54566</id>
+<slot>Shoulders</slot>
+</item>

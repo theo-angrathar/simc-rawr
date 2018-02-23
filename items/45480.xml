@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>9858</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_10</iconpath>
+<stats>
+<agility>63</agility>
+<stamina>63</stamina>
+<attackpower>92</attackpower>
+<hitrating>36</hitrating>
+<hasterating>42</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Nymph Heart Charm</name>
+<id>45480</id>
+<slot>Neck</slot>
+</item>

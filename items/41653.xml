@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55873</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_25</iconpath>
+<stats>
+<armor>494</armor>
+<agility>73</agility>
+<stamina>103</stamina>
+<attackpower>90</attackpower>
+<critrating>44</critrating>
+<resilience>59</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Vestments</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Hateful Gladiator's Leather Legguards</name>
+<id>41653</id>
+<slot>Legs</slot>
+</item>

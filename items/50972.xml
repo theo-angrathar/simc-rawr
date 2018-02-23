@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_22</iconpath>
+<stats>
+<armor>665</armor>
+<agility>162</agility>
+<stamina>162</stamina>
+<attackpower>184</attackpower>
+<critrating>92</critrating>
+<expertiserating>92</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Shadow Seeker's Tunic</name>
+<id>50972</id>
+<slot>Chest</slot>
+</item>

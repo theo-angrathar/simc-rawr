@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_06</iconpath>
+<stats>
+<armor>1150</armor>
+<agility>60</agility>
+<stamina>90</stamina>
+<attackpower>196</attackpower>
+<intellect>59</intellect>
+<critrating>75</critrating>
+<hitrating>59</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Leggings of the Tireless Sentry</name>
+<id>45844</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64599</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_155</iconpath>
+<stats>
+<armor>253</armor>
+<stamina>81</stamina>
+<intellect>68</intellect>
+<spirit>66</spirit>
+<spellpower>105</spellpower>
+<hasterating>58</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Tattered Glacial-Woven Hood</name>
+<id>49849</id>
+<slot>Head</slot>
+</item>

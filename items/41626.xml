@@ -1,0 +1,23 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_36a</iconpath>
+<stats>
+<armor>272</armor>
+<stamina>86</stamina>
+<intellect>38</intellect>
+<spirit>50</spirit>
+<spellpower>89</spellpower>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Relentless Gladiator's Armwraps of Salvation</name>
+<id>41626</id>
+<slot>Wrist</slot>
+</item>

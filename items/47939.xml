@@ -1,0 +1,24 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>48510</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_41</iconpath>
+<stats>
+<stamina>114</stamina>
+<strength>40</strength>
+<dodgerating>50</dodgerating>
+<defenserating>46</defenserating>
+<expertiserating>46</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<dodgerating>4</dodgerating>
+</socketbonus>
+<name>Endurance of the Infernal</name>
+<id>47939</id>
+<slot>Neck</slot>
+</item>

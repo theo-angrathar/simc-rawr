@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54783</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_03</iconpath>
+<stats>
+<armor>1125</armor>
+<agility>68</agility>
+<stamina>78</stamina>
+<attackpower>200</attackpower>
+<intellect>54</intellect>
+<critrating>51</critrating>
+<hasterating>67</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Leggings of Colossal Strides</name>
+<id>40201</id>
+<slot>Legs</slot>
+</item>

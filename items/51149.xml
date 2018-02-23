@@ -1,0 +1,28 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64488</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_148</iconpath>
+<stats>
+<armor>540</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>162</spellpower>
+<critrating>100</critrating>
+<hasterating>92</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Regalia</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Sanctified Lasherweave Cover</name>
+<id>51149</id>
+<slot>Head</slot>
+</item>

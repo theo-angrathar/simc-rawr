@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61984</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_95</iconpath>
+<stats>
+<armor>1124</armor>
+<agility>124</agility>
+<stamina>90</stamina>
+<attackpower>181</attackpower>
+<intellect>71</intellect>
+<critrating>86</critrating>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Helm of the Silver Ranger</name>
+<id>47942</id>
+<slot>Head</slot>
+</item>

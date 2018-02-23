@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60508</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_98</iconpath>
+<stats>
+<armor>1741</armor>
+<stamina>115</stamina>
+<strength>59</strength>
+<hitrating>35</hitrating>
+<dodgerating>50</dodgerating>
+<defenserating>46</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<dodgerating>4</dodgerating>
+</socketbonus>
+<name>Regal Aurous Shoulderplates</name>
+<id>47514</id>
+<slot>Shoulders</slot>
+</item>

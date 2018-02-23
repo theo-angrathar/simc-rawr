@@ -1,0 +1,24 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>44703</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_ring_45</iconpath>
+<stats>
+<stamina>51</stamina>
+<intellect>36</intellect>
+<spirit>37</spirit>
+<spellpower>74</spellpower>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Watchful Eye of Fate</name>
+<id>45447</id>
+<slot>Neck</slot>
+</item>

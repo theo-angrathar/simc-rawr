@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>11990</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_04</iconpath>
+<stats>
+<agility>59</agility>
+<stamina>63</stamina>
+<attackpower>70</attackpower>
+<armorpenetrationrating>43</armorpenetrationrating>
+<hasterating>35</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Band of Draconic Guile</name>
+<id>45303</id>
+<slot>Finger</slot>
+</item>

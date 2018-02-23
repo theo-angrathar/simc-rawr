@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51010</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_50</iconpath>
+<stats>
+<armor>1401</armor>
+<agility>48</agility>
+<stamina>97</stamina>
+<strength>67</strength>
+<hitrating>38</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of Dragon Wrath</name>
+<id>37363</id>
+<slot>Hands</slot>
+</item>

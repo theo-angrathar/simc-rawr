@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_112</iconpath>
+<stats>
+<armor>521</armor>
+<agility>136</agility>
+<stamina>136</stamina>
+<attackpower>165</attackpower>
+<critrating>90</critrating>
+<hitrating>82</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Shadowblade's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Sanctified Shadowblade Pauldrons</name>
+<id>51254</id>
+<slot>Shoulders</slot>
+</item>

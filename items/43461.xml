@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51109</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_13</iconpath>
+<stats>
+<armor>1254</armor>
+<stamina>68</stamina>
+<intellect>68</intellect>
+<spellpower>105</spellpower>
+<hasterating>89</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Revenant's Breastplate</name>
+<id>43461</id>
+<slot>Chest</slot>
+</item>

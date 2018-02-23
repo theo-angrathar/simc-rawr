@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59091</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_15</iconpath>
+<stats>
+<armor>259</armor>
+<agility>63</agility>
+<stamina>54</stamina>
+<attackpower>72</attackpower>
+<armorpenetrationrating>30</armorpenetrationrating>
+<hitrating>46</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Fluxing Energy Coils</name>
+<id>45869</id>
+<slot>Wrist</slot>
+</item>

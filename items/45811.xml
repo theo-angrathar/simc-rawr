@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49738</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_19</iconpath>
+<stats>
+<armor>145</armor>
+<stamina>64</stamina>
+<attackpower>86</attackpower>
+<critrating>28</critrating>
+<resilience>29</resilience>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Frostguard Drape</name>
+<id>45811</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51726</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_97</iconpath>
+<stats>
+<agility>19</agility>
+<attackpower>66</attackpower>
+<hitrating>24</hitrating>
+<hasterating>33</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>227</mindamage>
+<maxdamage>423</maxdamage>
+<speed>2.5</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Crypt Lord's Deft Blade</name>
+<id>37235</id>
+<slot>OneHand</slot>
+</item>

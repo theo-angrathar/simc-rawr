@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_18</iconpath>
+<stats>
+<armor>443</armor>
+<stamina>64</stamina>
+<intellect>65</intellect>
+<spirit>56</spirit>
+<spellpower>90</spellpower>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Malleable Steelweave Mantle</name>
+<id>45492</id>
+<slot>Shoulders</slot>
+</item>

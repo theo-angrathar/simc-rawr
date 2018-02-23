@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54865</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>964</armor>
+<agility>59</agility>
+<stamina>73</stamina>
+<attackpower>100</attackpower>
+<intellect>36</intellect>
+<hitrating>29</hitrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Shoulderpads of Secret Arts</name>
+<id>40315</id>
+<slot>Shoulders</slot>
+</item>

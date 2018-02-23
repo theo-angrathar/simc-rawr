@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55018</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_13</iconpath>
+<stats>
+<armor>1212</armor>
+<stamina>78</stamina>
+<intellect>52</intellect>
+<spellpower>73</spellpower>
+<hasterating>61</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<intellect>6</intellect>
+</socketbonus>
+<name>Moragg's Chestguard</name>
+<id>43410</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56972</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_09</iconpath>
+<stats>
+<armor>884</armor>
+<agility>41</agility>
+<stamina>85</stamina>
+<attackpower>84</attackpower>
+<intellect>37</intellect>
+<critrating>50</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<resilience>4</resilience>
+</socketbonus>
+<name>Deadly Gladiator's Sabatons of Triumph</name>
+<id>41229</id>
+<slot>Feet</slot>
+</item>

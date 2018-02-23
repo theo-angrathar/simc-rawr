@@ -1,0 +1,20 @@
+<enchant>
+<id>3603</id>
+<name>Hand-Mounted Pyro Rocket</name>
+<slot>Hands</slot>
+<stats>
+<specialeffects>
+<specialeffect>
+<trigger>Use</trigger>
+<stats>
+<firedamage>1837</firedamage>
+</stats>
+<duration>0</duration>
+<cooldown>45</cooldown>
+<chance>1</chance>
+<maxstack>1</maxstack>
+</specialeffect>
+</specialeffects>
+<specialeffectcount>1</specialeffectcount>
+</stats>
+</enchant>

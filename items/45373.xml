@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_22</iconpath>
+<stats>
+<armor>1741</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>83</spellpower>
+<critrating>45</critrating>
+<hasterating>52</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Aegis Regalia</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Valorous Aegis Spaulders</name>
+<id>45373</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55811</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_23</iconpath>
+<stats>
+<armor>2298</armor>
+<stamina>150</stamina>
+<strength>85</strength>
+<critrating>51</critrating>
+<resilience>66</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Deadly Gladiator's Plate Chestpiece</name>
+<id>40786</id>
+<slot>Chest</slot>
+</item>

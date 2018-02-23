@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_02</iconpath>
+<stats>
+<armor>138</armor>
+<stamina>72</stamina>
+<intellect>32</intellect>
+<spellpower>74</spellpower>
+<resilience>42</resilience>
+<hasterating>42</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Titan-Forged Cuffs of Salvation</name>
+<id>48979</id>
+<slot>Wrist</slot>
+</item>

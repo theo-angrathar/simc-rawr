@@ -1,0 +1,29 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>1097</armor>
+<agility>60</agility>
+<stamina>60</stamina>
+<attackpower>148</attackpower>
+<intellect>59</intellect>
+<critrating>52</critrating>
+<hitrating>31</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Heroes' Earthshatter War-Kilt</name>
+<id>39603</id>
+<slot>Legs</slot>
+</item>

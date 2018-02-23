@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_30naxxramas</iconpath>
+<stats>
+<stamina>55</stamina>
+<intellect>43</intellect>
+<spirit>38</spirit>
+<spellpower>65</spellpower>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Thunderstorm Amulet</name>
+<id>40064</id>
+<slot>Neck</slot>
+</item>

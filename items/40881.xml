@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_14</iconpath>
+<stats>
+<armor>1321</armor>
+<stamina>126</stamina>
+<strength>77</strength>
+<critrating>49</critrating>
+<resilience>56</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Furious Gladiator's Girdle of Triumph</name>
+<id>40881</id>
+<slot>Waist</slot>
+</item>

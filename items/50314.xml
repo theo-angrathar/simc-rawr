@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64953</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_67</iconpath>
+<stats>
+<armor>178</armor>
+<stamina>68</stamina>
+<intellect>68</intellect>
+<spellpower>105</spellpower>
+<critrating>55</critrating>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Strip of Remorse</name>
+<id>50314</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>44841</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_71</iconpath>
+<stats>
+<agility>43</agility>
+<stamina>46</stamina>
+<attackpower>86</attackpower>
+<hitrating>25</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mobius Band</name>
+<id>37685</id>
+<slot>Finger</slot>
+</item>

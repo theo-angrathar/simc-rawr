@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>443</armor>
+<agility>77</agility>
+<stamina>74</stamina>
+<attackpower>112</attackpower>
+<critrating>62</critrating>
+<expertiserating>48</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Nightsong Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Conqueror's Nightsong Shoulderpads</name>
+<id>46157</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_111</iconpath>
+<stats>
+<armor>477</armor>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spirit>71</spirit>
+<spellpower>116</spellpower>
+<critrating>63</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Garb</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Lasherweave Pauldrons</name>
+<id>50113</id>
+<slot>Shoulders</slot>
+</item>

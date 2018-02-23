@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_30</iconpath>
+<stats>
+<dodgerating>8</dodgerating>
+<defenserating>8</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Stalwart Monarch Topaz</name>
+<id>40056</id>
+<slot>Orange</slot>
+</item>

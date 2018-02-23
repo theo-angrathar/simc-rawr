@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55381</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_06</iconpath>
+<stats>
+<armor>1541</armor>
+<stamina>99</stamina>
+<strength>65</strength>
+<dodgerating>26</dodgerating>
+<parryrating>33</parryrating>
+<defenserating>44</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Plague-Impervious Boots</name>
+<id>39234</id>
+<slot>Feet</slot>
+</item>

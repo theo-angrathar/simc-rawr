@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64818</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_40</iconpath>
+<stats>
+<armor>618</armor>
+<agility>72</agility>
+<stamina>42</stamina>
+<attackpower>114</attackpower>
+<intellect>42</intellect>
+<critrating>39</critrating>
+<hitrating>42</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Icecrown Rampart Bracers</name>
+<id>50789</id>
+<slot>Wrist</slot>
+</item>

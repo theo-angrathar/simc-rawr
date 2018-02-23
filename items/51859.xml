@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64301</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_114</iconpath>
+<stats>
+<armor>265</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<hitrating>64</hitrating>
+<hasterating>80</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Shoulders of Ruinous Senility</name>
+<id>51859</id>
+<slot>Shoulders</slot>
+</item>

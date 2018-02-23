@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61720</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_leather_18b</iconpath>
+<stats>
+<armor>652</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spirit>102</spirit>
+<spellpower>151</spellpower>
+<hasterating>78</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Robes of the Shattered Fellowship</name>
+<id>47453</id>
+<slot>Chest</slot>
+</item>

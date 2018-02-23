@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54229</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_01</iconpath>
+<stats>
+<armor>862</armor>
+<agility>38</agility>
+<stamina>48</stamina>
+<attackpower>132</attackpower>
+<intellect>30</intellect>
+<critrating>44</critrating>
+<hasterating>29</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Trespasser's Boots</name>
+<id>39236</id>
+<slot>Feet</slot>
+</item>

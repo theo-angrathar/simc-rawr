@@ -1,0 +1,27 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_30</iconpath>
+<stats>
+<armor>1941</armor>
+<stamina>86</stamina>
+<intellect>86</intellect>
+<spellpower>124</spellpower>
+<critrating>76</critrating>
+<hasterating>68</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Garb</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Turalyon's Spaulders of Triumph</name>
+<id>48580</id>
+<slot>Shoulders</slot>
+</item>

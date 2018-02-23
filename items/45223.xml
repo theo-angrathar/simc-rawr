@@ -1,0 +1,19 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_34</iconpath>
+<stats>
+<stamina>57</stamina>
+<strength>43</strength>
+<armorpenetrationrating>47</armorpenetrationrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Razor's Edge Pendant</name>
+<id>45223</id>
+<slot>Neck</slot>
+</item>

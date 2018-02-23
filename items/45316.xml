@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59763</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32a</iconpath>
+<stats>
+<armor>568</armor>
+<stamina>39</stamina>
+<intellect>33</intellect>
+<spellpower>79</spellpower>
+<critrating>43</critrating>
+<mp5>18</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Armbraces of the Vibrant Flame</name>
+<id>45316</id>
+<slot>Wrist</slot>
+</item>

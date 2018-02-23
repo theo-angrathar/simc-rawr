@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>1254</armor>
+<stamina>67</stamina>
+<intellect>69</intellect>
+<spellpower>85</spellpower>
+<critrating>53</critrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Garb</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Heroes' Earthshatter Hauberk</name>
+<id>39592</id>
+<slot>Chest</slot>
+</item>

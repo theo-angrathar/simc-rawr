@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_41</iconpath>
+<stats>
+<spirit>10</spirit>
+<critrating>10</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Misty Eye of Zul</name>
+<id>40171</id>
+<slot>Green</slot>
+</item>

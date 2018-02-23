@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60546</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_24</iconpath>
+<stats>
+<armor>1097</armor>
+<stamina>76</stamina>
+<intellect>57</intellect>
+<spellpower>105</spellpower>
+<critrating>56</critrating>
+<hasterating>54</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Leggings of the Bloodless Knight</name>
+<id>47228</id>
+<slot>Legs</slot>
+</item>

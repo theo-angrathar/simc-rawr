@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_29</iconpath>
+<stats>
+<armor>1741</armor>
+<stamina>106</stamina>
+<strength>56</strength>
+<dodgerating>53</dodgerating>
+<defenserating>44</defenserating>
+<expertiserating>45</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Siegebreaker Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<defenserating>4</defenserating>
+</socketbonus>
+<name>Valorous Siegebreaker Pauldrons</name>
+<id>45428</id>
+<slot>Shoulders</slot>
+</item>

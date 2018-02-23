@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64377</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_92</iconpath>
+<stats>
+<armor>221</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>54</spirit>
+<spellpower>122</spellpower>
+<hasterating>86</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Gloves of Broken Fingers</name>
+<id>51874</id>
+<slot>Hands</slot>
+</item>

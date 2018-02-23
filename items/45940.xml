@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59119</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_15</iconpath>
+<stats>
+<armor>585</armor>
+<agility>106</agility>
+<stamina>114</stamina>
+<attackpower>120</attackpower>
+<critrating>63</critrating>
+<hitrating>61</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Tunic of the Limber Stalker</name>
+<id>45940</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>39126</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_55</iconpath>
+<stats>
+<agility>33</agility>
+<stamina>51</stamina>
+<attackpower>84</attackpower>
+<armorpenetrationrating>41</armorpenetrationrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<armorpenetrationrating>4</armorpenetrationrating>
+</socketbonus>
+<name>Titanium Impact Band</name>
+<id>42642</id>
+<slot>Finger</slot>
+</item>

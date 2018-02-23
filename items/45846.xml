@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_25</iconpath>
+<stats>
+<armor>517</armor>
+<agility>98</agility>
+<stamina>112</stamina>
+<attackpower>136</attackpower>
+<hitrating>68</hitrating>
+<hasterating>75</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Leggings of Wavering Shadow</name>
+<id>45846</id>
+<slot>Legs</slot>
+</item>

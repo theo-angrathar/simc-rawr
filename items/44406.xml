@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_07</iconpath>
+<stats>
+<armor>1171</armor>
+<agility>69</agility>
+<stamina>60</stamina>
+<attackpower>100</attackpower>
+<armorpenetrationrating>49</armorpenetrationrating>
+<intellect>39</intellect>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gilded Ringmail Hauberk</name>
+<id>44406</id>
+<slot>Chest</slot>
+</item>

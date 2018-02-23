@@ -1,0 +1,29 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_mail_02</iconpath>
+<stats>
+<armor>1325</armor>
+<agility>80</agility>
+<stamina>138</stamina>
+<attackpower>130</attackpower>
+<intellect>60</intellect>
+<critrating>64</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Pursuit</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Furious Gladiator's Chain Armor</name>
+<id>41087</id>
+<slot>Chest</slot>
+</item>

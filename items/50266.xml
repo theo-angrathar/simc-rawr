@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64608</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_79</iconpath>
+<stats>
+<armor>317</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>141</spellpower>
+<hitrating>61</hitrating>
+<hasterating>92</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ancient Polar Bear Hide</name>
+<id>50266</id>
+<slot>Chest</slot>
+</item>

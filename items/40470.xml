@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>434</armor>
+<stamina>55</stamina>
+<intellect>57</intellect>
+<spellpower>78</spellpower>
+<hitrating>35</hitrating>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreamwalker Garb</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Valorous Dreamwalker Mantle</name>
+<id>40470</id>
+<slot>Shoulders</slot>
+</item>

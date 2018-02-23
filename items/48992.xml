@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_27</iconpath>
+<stats>
+<armor>2073</armor>
+<stamina>137</stamina>
+<intellect>61</intellect>
+<spellpower>122</spellpower>
+<resilience>80</resilience>
+<mp5>32</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Titan-Forged Plate Legguards of Salvation</name>
+<id>48992</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>39127</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_65</iconpath>
+<stats>
+<stamina>47</stamina>
+<intellect>49</intellect>
+<spellpower>74</spellpower>
+<hasterating>30</hasterating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Fire Orchid Signet</name>
+<id>45946</id>
+<slot>Finger</slot>
+</item>

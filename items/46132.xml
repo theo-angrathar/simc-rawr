@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_17</iconpath>
+<stats>
+<armor>197</armor>
+<stamina>56</stamina>
+<intellect>62</intellect>
+<spellpower>100</spellpower>
+<hitrating>60</hitrating>
+<hasterating>47</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Kirin Tor Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Conqueror's Kirin Tor Gauntlets</name>
+<id>46132</id>
+<slot>Hands</slot>
+</item>

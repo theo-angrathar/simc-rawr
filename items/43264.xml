@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>54920</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>230</armor>
+<stamina>39</stamina>
+<intellect>26</intellect>
+<spirit>25</spirit>
+<spellpower>44</spellpower>
+<resilience>26</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Overcaster Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Overcast Bracers</name>
+<id>43264</id>
+<slot>Wrist</slot>
+</item>

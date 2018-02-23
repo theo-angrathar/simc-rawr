@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_24</iconpath>
+<stats>
+<armor>2054</armor>
+<stamina>85</stamina>
+<intellect>86</intellect>
+<spellpower>115</spellpower>
+<hasterating>75</hasterating>
+<mp5>38</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Aegis Regalia</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Conqueror's Aegis Greaves</name>
+<id>46181</id>
+<slot>Legs</slot>
+</item>

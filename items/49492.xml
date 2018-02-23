@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>16132</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_belt_12</iconpath>
+<stats>
+<stamina>114</stamina>
+<strength>58</strength>
+<dodgerating>50</dodgerating>
+<defenserating>50</defenserating>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Eskhandar's Links</name>
+<id>49492</id>
+<slot>Neck</slot>
+</item>

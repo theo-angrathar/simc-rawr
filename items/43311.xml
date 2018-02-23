@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50612</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_104</iconpath>
+<stats>
+<armor>985</armor>
+<agility>62</agility>
+<stamina>76</stamina>
+<attackpower>80</attackpower>
+<intellect>45</intellect>
+<expertiserating>35</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<expertiserating>8</expertiserating>
+</socketbonus>
+<name>Helmet of the Shrine</name>
+<id>43311</id>
+<slot>Head</slot>
+</item>

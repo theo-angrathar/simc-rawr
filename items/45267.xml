@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59714</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_30</iconpath>
+<stats>
+<armor>2054</armor>
+<bonusarmor>826</bonusarmor>
+<stamina>147</stamina>
+<strength>113</strength>
+<dodgerating>51</dodgerating>
+<defenserating>52</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<defenserating>6</defenserating>
+</socketbonus>
+<name>Saronite Plated Legguards</name>
+<id>45267</id>
+<slot>Legs</slot>
+</item>

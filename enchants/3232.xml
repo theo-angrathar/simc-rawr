@@ -1,0 +1,9 @@
+<enchant>
+<id>3232</id>
+<name>Tuskarr's Vitality</name>
+<slot>Feet</slot>
+<stats>
+<stamina>15</stamina>
+<movementspeed>0.08</movementspeed>
+</stats>
+</enchant>

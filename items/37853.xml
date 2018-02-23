@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51939</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>247</armor>
+<agility>36</agility>
+<stamina>43</stamina>
+<attackpower>100</attackpower>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Advanced Tooled-Leather Bands</name>
+<id>37853</id>
+<slot>Wrist</slot>
+</item>

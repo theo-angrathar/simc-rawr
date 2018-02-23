@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54872</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_05</iconpath>
+<stats>
+<armor>578</armor>
+<agility>68</agility>
+<stamina>100</stamina>
+<attackpower>170</attackpower>
+<critrating>71</critrating>
+<hitrating>42</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Tunic of Indulgence</name>
+<id>40277</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64804</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_113</iconpath>
+<stats>
+<armor>1060</armor>
+<agility>107</agility>
+<stamina>84</stamina>
+<attackpower>126</attackpower>
+<armorpenetrationrating>48</armorpenetrationrating>
+<intellect>56</intellect>
+<critrating>71</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Ahn'Kahar Blood Hunter's Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Ahn'Kahar Blood Hunter's Spaulders</name>
+<id>50117</id>
+<slot>Shoulders</slot>
+</item>

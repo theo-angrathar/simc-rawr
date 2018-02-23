@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>31131</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_20</iconpath>
+<stats>
+<armor>150</armor>
+<stamina>57</stamina>
+<strength>57</strength>
+<critrating>36</critrating>
+<hasterating>28</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Drape of the Undefeated</name>
+<id>47232</id>
+<slot>Back</slot>
+</item>

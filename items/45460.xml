@@ -1,0 +1,25 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59159</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_29</iconpath>
+<stats>
+<armor>592</armor>
+<stamina>61</stamina>
+<intellect>51</intellect>
+<spellpower>75</spellpower>
+<critrating>48</critrating>
+<hasterating>39</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Bindings of Winter Gale</name>
+<id>45460</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>54623</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_108</iconpath>
+<stats>
+<armor>480</armor>
+<stamina>85</stamina>
+<intellect>86</intellect>
+<spirit>60</spirit>
+<spellpower>113</spellpower>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Headpiece of Reconciliation</name>
+<id>44007</id>
+<slot>Head</slot>
+</item>

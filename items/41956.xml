@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56439</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_28</iconpath>
+<stats>
+<armor>254</armor>
+<stamina>88</stamina>
+<intellect>39</intellect>
+<spellpower>73</spellpower>
+<critrating>36</critrating>
+<resilience>52</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Savage Gladiator's Silk Trousers</name>
+<id>41956</id>
+<slot>Legs</slot>
+</item>

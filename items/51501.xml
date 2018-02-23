@@ -1,0 +1,17 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>spell_frost_summonwaterelemental</iconpath>
+<stats>
+<totemlhwspellpower>459</totemlhwspellpower>
+</stats>
+<quality>Epic</quality>
+<type>Totem</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Totem of the Third Wind</name>
+<id>51501</id>
+<slot>Ranged</slot>
+</item>

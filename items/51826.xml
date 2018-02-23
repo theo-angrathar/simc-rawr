@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>46455</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_19</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spellpower>97</spellpower>
+<hitrating>48</hitrating>
+<hasterating>63</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Lich Wrappings</name>
+<id>51826</id>
+<slot>Back</slot>
+</item>

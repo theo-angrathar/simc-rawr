@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>58946</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_sword_136</iconpath>
+<stats>
+<stamina>145</stamina>
+<strength>130</strength>
+<armorpenetrationrating>69</armorpenetrationrating>
+<critrating>86</critrating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandSword</type>
+<faction>Neutral</faction>
+<mindamage>704</mindamage>
+<maxdamage>1057</maxdamage>
+<speed>3.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Voldrethar, Dark Blade of Oblivion</name>
+<id>45516</id>
+<slot>TwoHand</slot>
+</item>

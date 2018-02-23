@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52568</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_08</iconpath>
+<stats>
+<armor>1489</armor>
+<stamina>87</stamina>
+<strength>57</strength>
+<dodgerating>33</dodgerating>
+<defenserating>42</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Greaves of Ancient Evil</name>
+<id>37618</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>259</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_85</iconpath>
+<stats>
+<stamina>66</stamina>
+<intellect>66</intellect>
+<spellpower>101</spellpower>
+<hasterating>57</hasterating>
+<mp5>29</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<uniqueid>50400</uniqueid>
+<uniqueid>50386</uniqueid>
+<uniqueid>50399</uniqueid>
+<uniqueid>50378</uniqueid>
+<name>Ashen Band of Greater Wisdom</name>
+<id>50386</id>
+<slot>Finger</slot>
+</item>

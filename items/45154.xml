@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_15</iconpath>
+<stats>
+<stamina>33</stamina>
+<intellect>21</intellect>
+<spirit>50</spirit>
+<spellpower>50</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Necklace of Valiant Blood</name>
+<id>45154</id>
+<slot>Neck</slot>
+</item>

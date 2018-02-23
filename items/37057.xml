@@ -1,0 +1,24 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>49354</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_08</iconpath>
+<stats>
+<armor>527</armor>
+<agility>52</agility>
+<stamina>69</stamina>
+<attackpower>138</attackpower>
+<critrating>46</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Drake Rider's Tunic</name>
+<id>37057</id>
+<slot>Chest</slot>
+</item>

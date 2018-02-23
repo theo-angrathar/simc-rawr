@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_25</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>65</stamina>
+<intellect>65</intellect>
+<spirit>41</spirit>
+<spellpower>90</spellpower>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Sanctification Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Conqueror's Shoulderpads of Sanctification</name>
+<id>46190</id>
+<slot>Shoulders</slot>
+</item>

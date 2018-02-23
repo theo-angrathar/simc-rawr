@@ -1,0 +1,25 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59695</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_49c</iconpath>
+<stats>
+<armor>1361</armor>
+<stamina>108</stamina>
+<strength>93</strength>
+<critrating>64</critrating>
+<hitrating>47</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Belt of Colossal Rage</name>
+<id>45241</id>
+<slot>Waist</slot>
+</item>

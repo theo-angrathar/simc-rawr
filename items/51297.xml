@@ -1,0 +1,28 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_35</iconpath>
+<stats>
+<armor>608</armor>
+<agility>183</agility>
+<stamina>183</stamina>
+<attackpower>212</attackpower>
+<armorpenetrationrating>122</armorpenetrationrating>
+<expertiserating>106</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Sanctified Lasherweave Legguards</name>
+<id>51297</id>
+<slot>Legs</slot>
+</item>

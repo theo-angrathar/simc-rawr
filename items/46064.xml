@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_12</iconpath>
+<stats>
+<armor>578</armor>
+<stamina>115</stamina>
+<intellect>50</intellect>
+<spellpower>98</spellpower>
+<hitrating>51</hitrating>
+<resilience>66</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Titan-Forged Leather Chestguard of Dominance</name>
+<id>46064</id>
+<slot>Chest</slot>
+</item>

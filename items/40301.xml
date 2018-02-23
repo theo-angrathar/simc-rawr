@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54840</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_10</iconpath>
+<stats>
+<armor>173</armor>
+<stamina>57</stamina>
+<intellect>57</intellect>
+<spellpower>88</spellpower>
+<hitrating>43</hitrating>
+<hasterating>53</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cincture of Polarity</name>
+<id>40301</id>
+<slot>Waist</slot>
+</item>

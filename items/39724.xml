@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54624</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_14</iconpath>
+<stats>
+<armor>1286</armor>
+<agility>72</agility>
+<stamina>88</stamina>
+<attackpower>200</attackpower>
+<intellect>48</intellect>
+<hitrating>67</hitrating>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cult's Chestguard</name>
+<id>39724</id>
+<slot>Chest</slot>
+</item>

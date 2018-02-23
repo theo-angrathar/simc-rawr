@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52309</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_03</iconpath>
+<stats>
+<armor>1061</armor>
+<agility>62</agility>
+<stamina>60</stamina>
+<attackpower>124</attackpower>
+<intellect>40</intellect>
+<hasterating>41</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Hollowed Mandible Legplates</name>
+<id>37221</id>
+<slot>Legs</slot>
+</item>

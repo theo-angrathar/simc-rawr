@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_58</iconpath>
+<stats>
+<armor>1867</armor>
+<stamina>127</stamina>
+<strength>80</strength>
+<parryrating>50</parryrating>
+<defenserating>59</defenserating>
+<expertiserating>35</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Scourgeborne Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<parryrating>8</parryrating>
+</socketbonus>
+<name>Valorous Scourgeborne Faceguard</name>
+<id>40565</id>
+<slot>Head</slot>
+</item>

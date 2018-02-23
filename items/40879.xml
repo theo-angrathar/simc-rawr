@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55754</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_14</iconpath>
+<stats>
+<armor>1293</armor>
+<stamina>111</stamina>
+<strength>67</strength>
+<critrating>42</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin|Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Deadly Gladiator's Girdle of Triumph</name>
+<id>40879</id>
+<slot>Waist</slot>
+</item>

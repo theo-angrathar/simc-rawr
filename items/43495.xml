@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55206</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_04</iconpath>
+<stats>
+<armor>494</armor>
+<stamina>78</stamina>
+<intellect>64</intellect>
+<spirit>89</spirit>
+<spellpower>105</spellpower>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Earthgiving Legguards</name>
+<id>43495</id>
+<slot>Legs</slot>
+</item>

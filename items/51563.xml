@@ -1,0 +1,24 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64779</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_42</iconpath>
+<stats>
+<armor>1105</armor>
+<stamina>91</stamina>
+<strength>83</strength>
+<critrating>45</critrating>
+<hasterating>53</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Taiga Bindings</name>
+<id>51563</id>
+<slot>Wrist</slot>
+</item>

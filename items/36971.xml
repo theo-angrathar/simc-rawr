@@ -1,0 +1,25 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52226</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_104</iconpath>
+<stats>
+<armor>952</armor>
+<agility>53</agility>
+<stamina>54</stamina>
+<attackpower>138</attackpower>
+<intellect>36</intellect>
+<hitrating>35</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Headguard of Westrift</name>
+<id>36971</id>
+<slot>Head</slot>
+</item>

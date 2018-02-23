@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>49738</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_19</iconpath>
+<stats>
+<armor>154</armor>
+<stamina>84</stamina>
+<attackpower>112</attackpower>
+<critrating>38</critrating>
+<resilience>37</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deadly Gladiator's Cloak of Triumph</name>
+<id>42067</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55011</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_12</iconpath>
+<stats>
+<armor>833</armor>
+<agility>30</agility>
+<stamina>45</stamina>
+<attackpower>116</attackpower>
+<intellect>29</intellect>
+<critrating>58</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Twin-Headed Boots</name>
+<id>37870</id>
+<slot>Feet</slot>
+</item>

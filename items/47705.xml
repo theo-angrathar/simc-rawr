@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_100</iconpath>
+<stats>
+<armor>1038</armor>
+<agility>93</agility>
+<stamina>80</stamina>
+<attackpower>119</attackpower>
+<armorpenetrationrating>53</armorpenetrationrating>
+<intellect>53</intellect>
+<critrating>67</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Pauldrons of the Devourer</name>
+<id>47705</id>
+<slot>Shoulders</slot>
+</item>

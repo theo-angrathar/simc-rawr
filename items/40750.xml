@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_cloth_03</iconpath>
+<stats>
+<armor>212</armor>
+<stamina>55</stamina>
+<intellect>57</intellect>
+<spirit>55</spirit>
+<spellpower>88</spellpower>
+<hitrating>43</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Xintor's Expeditionary Boots</name>
+<id>40750</id>
+<slot>Feet</slot>
+</item>

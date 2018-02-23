@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61551</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_09</iconpath>
+<stats>
+<armor>1629</armor>
+<stamina>134</stamina>
+<strength>60</strength>
+<hitrating>40</hitrating>
+<dodgerating>68</dodgerating>
+<defenserating>45</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<dodgerating>4</dodgerating>
+</socketbonus>
+<name>Greaves of the Lingering Vortex</name>
+<id>47885</id>
+<slot>Feet</slot>
+</item>

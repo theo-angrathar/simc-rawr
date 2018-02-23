@@ -1,0 +1,24 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>36436</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate09</iconpath>
+<stats>
+<armor>1286</armor>
+<stamina>169</stamina>
+<frostresistance>115</frostresistance>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Icy Scale Chestguard</name>
+<id>43593</id>
+<slot>Chest</slot>
+</item>

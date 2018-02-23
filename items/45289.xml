@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59721</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_87</iconpath>
+<stats>
+<armor>253</armor>
+<stamina>93</stamina>
+<intellect>73</intellect>
+<spirit>45</spirit>
+<spellpower>105</spellpower>
+<hasterating>63</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Lifespark Visage</name>
+<id>45289</id>
+<slot>Head</slot>
+</item>

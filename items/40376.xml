@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54973</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_16</iconpath>
+<stats>
+<armor>269</armor>
+<stamina>87</stamina>
+<intellect>77</intellect>
+<spirit>56</spirit>
+<spellpower>99</spellpower>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Legwraps of the Defeated Dragon</name>
+<id>40376</id>
+<slot>Legs</slot>
+</item>

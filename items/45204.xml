@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_axe_108</iconpath>
+<stats>
+<stamina>43</stamina>
+<strength>29</strength>
+<parryrating>19</parryrating>
+<defenserating>44</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Horde</faction>
+<mindamage>170</mindamage>
+<maxdamage>317</maxdamage>
+<speed>1.7</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Axe of the Sen'jin Protector</name>
+<id>45204</id>
+<slot>OneHand</slot>
+</item>

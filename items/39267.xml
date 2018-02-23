@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53903</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_75</iconpath>
+<stats>
+<armor>1681</armor>
+<stamina>87</stamina>
+<strength>53</strength>
+<hitrating>28</hitrating>
+<dodgerating>40</dodgerating>
+<defenserating>38</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<defenserating>4</defenserating>
+</socketbonus>
+<name>Abomination Shoulderblades</name>
+<id>39267</id>
+<slot>Shoulders</slot>
+</item>

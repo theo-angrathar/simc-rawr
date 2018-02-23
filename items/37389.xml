@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49358</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_13</iconpath>
+<stats>
+<armor>477</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>82</spellpower>
+<critrating>74</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Crenelation Leggings</name>
+<id>37389</id>
+<slot>Legs</slot>
+</item>

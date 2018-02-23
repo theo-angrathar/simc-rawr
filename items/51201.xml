@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_104</iconpath>
+<stats>
+<armor>923</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>132</spellpower>
+<critrating>80</critrating>
+<hitrating>72</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Frost Witch's Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Sanctified Frost Witch's Gloves</name>
+<id>51201</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59739</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_100</iconpath>
+<stats>
+<armor>480</armor>
+<agility>98</agility>
+<stamina>99</stamina>
+<attackpower>130</attackpower>
+<expertiserating>59</expertiserating>
+<hasterating>76</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Garona's Guise</name>
+<id>45523</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_icediamond_02</iconpath>
+<stats>
+<mp5>11</mp5>
+<bonuscrithealmultiplier>0.03</bonuscrithealmultiplier>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Revitalizing Skyflare Diamond</name>
+<id>41376</id>
+<slot>Meta</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64416</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_34</iconpath>
+<stats>
+<armor>582</armor>
+<agility>162</agility>
+<stamina>162</stamina>
+<attackpower>168</attackpower>
+<armorpenetrationrating>100</armorpenetrationrating>
+<critrating>92</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Bladeborn Leggings</name>
+<id>49899</id>
+<slot>Legs</slot>
+</item>

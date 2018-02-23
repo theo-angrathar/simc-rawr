@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62104</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_07</iconpath>
+<stats>
+<armor>1384</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>131</spellpower>
+<hasterating>66</hasterating>
+<mp5>45</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Ensorcelled Nerubian Breastplate</name>
+<id>47598</id>
+<slot>Chest</slot>
+</item>

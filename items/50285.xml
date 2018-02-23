@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64854</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate23</iconpath>
+<stats>
+<armor>2369</armor>
+<stamina>181</stamina>
+<strength>88</strength>
+<hitrating>67</hitrating>
+<dodgerating>86</dodgerating>
+<defenserating>70</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Icebound Bronze Cuirass</name>
+<id>50285</id>
+<slot>Chest</slot>
+</item>

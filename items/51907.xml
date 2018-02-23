@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64782</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_43</iconpath>
+<stats>
+<armor>1155</armor>
+<stamina>79</stamina>
+<intellect>65</intellect>
+<spellpower>97</spellpower>
+<hasterating>52</hasterating>
+<mp5>30</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Bracers of Pale Illumination</name>
+<id>51907</id>
+<slot>Wrist</slot>
+</item>

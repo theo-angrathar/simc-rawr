@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59747</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_29</iconpath>
+<stats>
+<armor>1016</armor>
+<stamina>59</stamina>
+<intellect>40</intellect>
+<spellpower>69</spellpower>
+<critrating>44</critrating>
+<mp5>16</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Armbands of the Construct</name>
+<id>45680</id>
+<slot>Wrist</slot>
+</item>

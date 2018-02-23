@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_146</iconpath>
+<stats>
+<armor>282</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spellpower>151</spellpower>
+<hitrating>86</hitrating>
+<hasterating>94</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Khadgar's Regalia</setname>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Khadgar's Hood of Triumph</name>
+<id>47761</id>
+<slot>Head</slot>
+</item>

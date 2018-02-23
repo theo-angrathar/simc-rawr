@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_chain_04</iconpath>
+<stats>
+<armor>833</armor>
+<stamina>45</stamina>
+<intellect>43</intellect>
+<spellpower>71</spellpower>
+<critrating>47</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Treads of the Glorious Spirit</name>
+<id>45183</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_17</iconpath>
+<stats>
+<armor>154</armor>
+<stamina>42</stamina>
+<intellect>43</intellect>
+<spellpower>66</spellpower>
+<hasterating>28</hasterating>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cloak of Kea Feathers</name>
+<id>40724</id>
+<slot>Back</slot>
+</item>

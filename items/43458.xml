@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56587</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_15</iconpath>
+<stats>
+<armor>1097</armor>
+<agility>90</agility>
+<stamina>63</stamina>
+<attackpower>128</attackpower>
+<armorpenetrationrating>59</armorpenetrationrating>
+<intellect>52</intellect>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Giantmaim Legguards</name>
+<id>43458</id>
+<slot>Legs</slot>
+</item>

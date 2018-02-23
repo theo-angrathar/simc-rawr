@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55642</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_12</iconpath>
+<stats>
+<armor>325</armor>
+<agility>67</agility>
+<stamina>85</stamina>
+<attackpower>74</attackpower>
+<critrating>42</critrating>
+<resilience>49</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Deadly Gladiator's Belt of Triumph</name>
+<id>41831</id>
+<slot>Waist</slot>
+</item>

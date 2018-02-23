@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>16132</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_belt_12</iconpath>
+<stats>
+<stamina>100</stamina>
+<strength>51</strength>
+<dodgerating>45</dodgerating>
+<defenserating>45</defenserating>
+<expertiserating>34</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Eskhandar's Choker</name>
+<id>49306</id>
+<slot>Neck</slot>
+</item>

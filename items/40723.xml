@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>154</armor>
+<stamina>48</stamina>
+<intellect>38</intellect>
+<spirit>37</spirit>
+<spellpower>65</spellpower>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Disguise of the Kumiho</name>
+<id>40723</id>
+<slot>Back</slot>
+</item>

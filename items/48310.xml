@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_mail_07</iconpath>
+<stats>
+<armor>1325</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>122</spellpower>
+<hitrating>72</hitrating>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Regalia</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Nobundo's Hauberk of Conquest</name>
+<id>48310</id>
+<slot>Chest</slot>
+</item>

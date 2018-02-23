@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_18</iconpath>
+<stats>
+<spellpower>8</spellpower>
+<spellpenetration>9</spellpenetration>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Perfect Mysterious Shadow Crystal</name>
+<id>41455</id>
+<slot>Purple</slot>
+</item>

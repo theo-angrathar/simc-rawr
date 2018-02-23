@@ -1,0 +1,20 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>29717</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_misc_book_07</iconpath>
+<stats>
+<stamina>51</stamina>
+<intellect>66</intellect>
+<spirit>46</spirit>
+<spellpower>75</spellpower>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Antediluvian Cornerstone Grimoire</name>
+<id>49490</id>
+<slot>OffHand</slot>
+</item>

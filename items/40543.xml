@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>57545</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_18</iconpath>
+<stats>
+<armor>1067</armor>
+<agility>58</agility>
+<stamina>68</stamina>
+<attackpower>202</attackpower>
+<intellect>66</intellect>
+<critrating>58</critrating>
+<hasterating>51</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Blue Aspect Helm</name>
+<id>40543</id>
+<slot>Head</slot>
+</item>

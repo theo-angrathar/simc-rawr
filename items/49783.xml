@@ -1,0 +1,24 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64744</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_89</iconpath>
+<stats>
+<stamina>69</stamina>
+<strength>46</strength>
+<dodgerating>26</dodgerating>
+<parryrating>24</parryrating>
+<defenserating>21</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>182</mindamage>
+<maxdamage>340</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Lucky Old Sun</name>
+<id>49783</id>
+<slot>OneHand</slot>
+</item>

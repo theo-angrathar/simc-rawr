@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54519</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_06</iconpath>
+<stats>
+<armor>263</armor>
+<stamina>67</stamina>
+<intellect>68</intellect>
+<spellpower>104</spellpower>
+<mp5>45</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Skirt of the Old Kingdom</name>
+<id>37622</id>
+<slot>Legs</slot>
+</item>

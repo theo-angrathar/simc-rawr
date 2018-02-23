@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>54923</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_09</iconpath>
+<stats>
+<armor>461</armor>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spirit>46</spirit>
+<spellpower>81</spellpower>
+<resilience>46</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Overcaster Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Overcast Leggings</name>
+<id>43271</id>
+<slot>Legs</slot>
+</item>

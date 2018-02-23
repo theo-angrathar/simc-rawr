@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>58740</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_91</iconpath>
+<stats>
+<agility>40</agility>
+<stamina>42</stamina>
+<attackpower>104</attackpower>
+<expertiserating>34</expertiserating>
+<hasterating>25</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>338</mindamage>
+<maxdamage>628</maxdamage>
+<speed>2.7</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Caress of Insanity</name>
+<id>46097</id>
+<slot>OneHand</slot>
+</item>

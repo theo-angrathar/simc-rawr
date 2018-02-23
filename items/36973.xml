@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52231</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_39</iconpath>
+<stats>
+<armor>280</armor>
+<stamina>51</stamina>
+<intellect>52</intellect>
+<spellpower>81</spellpower>
+<critrating>69</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Vestments of the Scholar</name>
+<id>36973</id>
+<slot>Chest</slot>
+</item>

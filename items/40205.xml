@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54792</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_15</iconpath>
+<stats>
+<armor>325</armor>
+<agility>64</agility>
+<stamina>69</stamina>
+<attackpower>126</attackpower>
+<critrating>62</critrating>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Stalk-Skin Belt</name>
+<id>40205</id>
+<slot>Waist</slot>
+</item>

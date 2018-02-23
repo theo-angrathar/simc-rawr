@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64765</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_crossbow_30</iconpath>
+<stats>
+<agility>38</agility>
+<stamina>29</stamina>
+<attackpower>58</attackpower>
+<critrating>20</critrating>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Crossbow</type>
+<faction>Neutral</faction>
+<mindamage>464</mindamage>
+<maxdamage>659</maxdamage>
+<speed>3</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Felglacier Bolter</name>
+<id>50262</id>
+<slot>Ranged</slot>
+</item>

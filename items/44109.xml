@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>57526</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_138</iconpath>
+<stats>
+<armor>952</armor>
+<agility>34</agility>
+<stamina>80</stamina>
+<attackpower>138</attackpower>
+<intellect>52</intellect>
+<critrating>34</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Toothslice Helm</name>
+<id>44109</id>
+<slot>Head</slot>
+</item>

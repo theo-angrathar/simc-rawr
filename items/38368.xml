@@ -1,0 +1,18 @@
+<item>
+<itemlevel>150</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>spell_shaman_earthlivingweapon</iconpath>
+<stats>
+<totemchbaseheal>102</totemchbaseheal>
+</stats>
+<quality>Rare</quality>
+<type>Totem</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Totem of the Bay</name>
+<id>38368</id>
+<slot>Ranged</slot>
+</item>

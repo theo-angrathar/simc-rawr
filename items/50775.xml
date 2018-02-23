@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64633</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_33</iconpath>
+<stats>
+<armor>2210</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spellpower>140</spellpower>
+<critrating>81</critrating>
+<hasterating>87</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Corrupted Silverplate Leggings</name>
+<id>50775</id>
+<slot>Legs</slot>
+</item>

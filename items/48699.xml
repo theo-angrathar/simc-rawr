@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60673</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_101</iconpath>
+<stats>
+<stamina>76</stamina>
+<strength>58</strength>
+<dodgerating>29</dodgerating>
+<parryrating>23</parryrating>
+<defenserating>32</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Horde</faction>
+<mindamage>220</mindamage>
+<maxdamage>409</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<dodgerating>4</dodgerating>
+</socketbonus>
+<name>Blood and Glory</name>
+<id>48699</id>
+<slot>OneHand</slot>
+</item>

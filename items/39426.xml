@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54033</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_wand_1h_stratholme_d_02</iconpath>
+<stats>
+<stamina>22</stamina>
+<intellect>21</intellect>
+<spirit>24</spirit>
+<spellpower>37</spellpower>
+<hasterating>20</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Wand</type>
+<faction>Neutral</faction>
+<mindamage>362</mindamage>
+<maxdamage>674</maxdamage>
+<damagetype>Shadow</damagetype>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wand of the Archlich</name>
+<id>39426</id>
+<slot>Ranged</slot>
+</item>

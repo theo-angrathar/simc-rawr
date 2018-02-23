@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59129</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_leather_12</iconpath>
+<stats>
+<armor>609</armor>
+<stamina>74</stamina>
+<intellect>92</intellect>
+<spirit>78</spirit>
+<spellpower>122</spellpower>
+<hasterating>69</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Vestments of the Blind Denizen</name>
+<id>45519</id>
+<slot>Chest</slot>
+</item>

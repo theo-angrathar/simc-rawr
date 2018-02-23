@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59526</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_54</iconpath>
+<stats>
+<armor>369</armor>
+<agility>85</agility>
+<stamina>50</stamina>
+<attackpower>84</attackpower>
+<hitrating>65</hitrating>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Gloves of the Endless Dark</name>
+<id>46043</id>
+<slot>Hands</slot>
+</item>

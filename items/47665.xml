@@ -1,0 +1,17 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>spell_nature_slowingtotem</iconpath>
+<stats>
+<restoshamrelict9>234</restoshamrelict9>
+</stats>
+<quality>Epic</quality>
+<type>Totem</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Totem of Calming Tides</name>
+<id>47665</id>
+<slot>Ranged</slot>
+</item>

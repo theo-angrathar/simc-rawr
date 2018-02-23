@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>135</armor>
+<stamina>42</stamina>
+<intellect>43</intellect>
+<spellpower>66</spellpower>
+<hasterating>38</hasterating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Cuffs of the Shadow Ascendant</name>
+<id>40741</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61687</displayid>
+<displayslot>15</displayslot>
+<iconpath>inv_weapon_bow_52</iconpath>
+<stats>
+<agility>39</agility>
+<stamina>32</stamina>
+<attackpower>57</attackpower>
+<armorpenetrationrating>24</armorpenetrationrating>
+<hitrating>24</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Bow</type>
+<faction>Alliance</faction>
+<mindamage>444</mindamage>
+<maxdamage>744</maxdamage>
+<speed>2.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Rhok'shalla, the Shadow's Bane</name>
+<id>48711</id>
+<slot>Ranged</slot>
+</item>

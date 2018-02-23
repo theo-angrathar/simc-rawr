@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53891</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_75</iconpath>
+<stats>
+<armor>1681</armor>
+<stamina>72</stamina>
+<strength>59</strength>
+<critrating>65</critrating>
+<hitrating>30</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Shoulderplates of Bloodshed</name>
+<id>39249</id>
+<slot>Shoulders</slot>
+</item>

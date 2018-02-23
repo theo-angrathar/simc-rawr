@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57007</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_08</iconpath>
+<stats>
+<armor>388</armor>
+<stamina>37</stamina>
+<intellect>44</intellect>
+<spirit>66</spirit>
+<spellpower>77</spellpower>
+<hasterating>32</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Boots of the Follower</name>
+<id>39215</id>
+<slot>Feet</slot>
+</item>

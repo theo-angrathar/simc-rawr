@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_07</iconpath>
+<stats>
+<armor>2054</armor>
+<stamina>147</stamina>
+<strength>113</strength>
+<blockrating>60</blockrating>
+<blockvalue>129</blockvalue>
+<defenserating>59</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Wyrmguard Legplates</name>
+<id>45842</id>
+<slot>Legs</slot>
+</item>

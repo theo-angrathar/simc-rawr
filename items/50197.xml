@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64693</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_157</iconpath>
+<stats>
+<armor>1077</armor>
+<agility>104</agility>
+<stamina>78</stamina>
+<attackpower>147</attackpower>
+<intellect>63</intellect>
+<critrating>70</critrating>
+<hasterating>69</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Eyes of Bewilderment</name>
+<id>50197</id>
+<slot>Head</slot>
+</item>

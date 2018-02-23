@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>39121</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_62</iconpath>
+<stats>
+<stamina>28</stamina>
+<intellect>29</intellect>
+<spellpower>46</spellpower>
+<hasterating>38</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Signet of Ranulf</name>
+<id>37058</id>
+<slot>Finger</slot>
+</item>

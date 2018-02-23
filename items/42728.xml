@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>50615</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_130</iconpath>
+<stats>
+<armor>1700</armor>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spellpower>81</spellpower>
+<critrating>46</critrating>
+<resilience>46</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Ornate Saronite Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Ornate Saronite Skullshield</name>
+<id>42728</id>
+<slot>Head</slot>
+</item>

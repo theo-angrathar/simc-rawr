@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35437</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_30naxxramas</iconpath>
+<stats>
+<bonusarmor>350</bonusarmor>
+<stamina>75</stamina>
+<strength>50</strength>
+<dodgerating>27</dodgerating>
+<defenserating>25</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Amulet of Autopsy</name>
+<id>39246</id>
+<slot>Neck</slot>
+</item>

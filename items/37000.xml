@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51933</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_06</iconpath>
+<stats>
+<armor>230</armor>
+<stamina>33</stamina>
+<intellect>27</intellect>
+<spellpower>46</spellpower>
+<critrating>38</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Storming Vortex Bracers</name>
+<id>37000</id>
+<slot>Wrist</slot>
+</item>

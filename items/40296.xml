@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54841</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_108</iconpath>
+<stats>
+<armor>470</armor>
+<agility>59</agility>
+<stamina>108</stamina>
+<attackpower>200</attackpower>
+<critrating>77</critrating>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cover of Silence</name>
+<id>40296</id>
+<slot>Head</slot>
+</item>

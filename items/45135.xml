@@ -1,0 +1,26 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>58980</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_19</iconpath>
+<stats>
+<armor>223</armor>
+<stamina>72</stamina>
+<intellect>72</intellect>
+<spirit>64</spirit>
+<spellpower>102</spellpower>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Boots of Fiery Resolution</name>
+<id>45135</id>
+<slot>Feet</slot>
+</item>

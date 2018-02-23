@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56117</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_15</iconpath>
+<stats>
+<armor>564</armor>
+<agility>60</agility>
+<stamina>88</stamina>
+<attackpower>148</attackpower>
+<hitrating>60</hitrating>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Blade-Scarred Tunic</name>
+<id>43990</id>
+<slot>Chest</slot>
+</item>

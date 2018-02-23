@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64637</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate22</iconpath>
+<stats>
+<armor>2526</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spellpower>140</spellpower>
+<critrating>96</critrating>
+<mp5>36</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<intellect>8</intellect>
+</socketbonus>
+<name>Chestplate of Septic Stitches</name>
+<id>51018</id>
+<slot>Chest</slot>
+</item>

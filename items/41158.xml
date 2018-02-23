@@ -1,0 +1,29 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_73</iconpath>
+<stats>
+<armor>1148</armor>
+<agility>96</agility>
+<stamina>164</stamina>
+<attackpower>159</attackpower>
+<intellect>73</intellect>
+<critrating>80</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Pursuit</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Relentless Gladiator's Chain Helm</name>
+<id>41158</id>
+<slot>Head</slot>
+</item>

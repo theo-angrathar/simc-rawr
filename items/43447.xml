@@ -1,0 +1,24 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56735</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_110</iconpath>
+<stats>
+<armor>952</armor>
+<agility>46</agility>
+<stamina>69</stamina>
+<attackpower>92</attackpower>
+<intellect>46</intellect>
+<critrating>45</critrating>
+<resilience>46</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Swiftarrow Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Swiftarrow Helm</name>
+<id>43447</id>
+<slot>Head</slot>
+</item>

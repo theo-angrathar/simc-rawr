@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64745</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_wand_1h_stratholme_d_01</iconpath>
+<stats>
+<stamina>30</stamina>
+<intellect>24</intellect>
+<spirit>22</spirit>
+<spellpower>39</spellpower>
+<hasterating>22</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Wand</type>
+<faction>Neutral</faction>
+<mindamage>378</mindamage>
+<maxdamage>702</maxdamage>
+<damagetype>Nature</damagetype>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Coffin Nail</name>
+<id>49852</id>
+<slot>Ranged</slot>
+</item>

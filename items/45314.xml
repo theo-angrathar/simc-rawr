@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>58973</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_offhand_ulduarraid_d_03</iconpath>
+<stats>
+<stamina>44</stamina>
+<intellect>45</intellect>
+<spirit>36</spirit>
+<spellpower>64</spellpower>
+<critrating>47</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Igniter Rod</name>
+<id>45314</id>
+<slot>OffHand</slot>
+</item>

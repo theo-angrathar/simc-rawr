@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64666</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_31b</iconpath>
+<stats>
+<armor>568</armor>
+<stamina>49</stamina>
+<intellect>44</intellect>
+<spellpower>70</spellpower>
+<critrating>35</critrating>
+<hitrating>42</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Seven Stormy Mornings</name>
+<id>49787</id>
+<slot>Wrist</slot>
+</item>

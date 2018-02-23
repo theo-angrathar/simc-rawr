@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60641</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_50</iconpath>
+<stats>
+<armor>1261</armor>
+<stamina>76</stamina>
+<strength>68</strength>
+<armorpenetrationrating>41</armorpenetrationrating>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Girdle of Arrogant Downfall</name>
+<id>47229</id>
+<slot>Waist</slot>
+</item>

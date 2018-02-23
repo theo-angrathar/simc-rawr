@@ -1,0 +1,24 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_mace_91</iconpath>
+<stats>
+<agility>46</agility>
+<stamina>39</stamina>
+<attackpower>74</attackpower>
+<critrating>47</critrating>
+<expertiserating>25</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>171</mindamage>
+<maxdamage>318</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bloodcrush Cudgel</name>
+<id>46351</id>
+<slot>OneHand</slot>
+</item>

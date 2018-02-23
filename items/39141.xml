@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35431</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_53naxxramas</iconpath>
+<stats>
+<stamina>75</stamina>
+<strength>38</strength>
+<hitrating>25</hitrating>
+<dodgerating>36</dodgerating>
+<defenserating>28</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deflection Band</name>
+<id>39141</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64789</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_12</iconpath>
+<stats>
+<armor>1815</armor>
+<stamina>137</stamina>
+<strength>121</strength>
+<armorpenetrationrating>80</armorpenetrationrating>
+<critrating>64</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Hellfrozen Bonegrinders</name>
+<id>49906</id>
+<slot>Feet</slot>
+</item>

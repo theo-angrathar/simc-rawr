@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54849</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_10</iconpath>
+<stats>
+<armor>1125</armor>
+<stamina>75</stamina>
+<intellect>77</intellect>
+<spellpower>118</spellpower>
+<critrating>67</critrating>
+<mp5>33</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Legguards of the Undisturbed</name>
+<id>40196</id>
+<slot>Legs</slot>
+</item>

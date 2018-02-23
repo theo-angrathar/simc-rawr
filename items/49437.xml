@@ -1,0 +1,18 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62972</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_18</iconpath>
+<stats></stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>225</mindamage>
+<maxdamage>419</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Rusted Gutgore Ripper</name>
+<id>49437</id>
+<slot>OneHand</slot>
+</item>

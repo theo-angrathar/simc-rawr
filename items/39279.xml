@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54215</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_21</iconpath>
+<stats>
+<armor>317</armor>
+<agility>66</agility>
+<stamina>57</stamina>
+<attackpower>102</attackpower>
+<armorpenetrationrating>33</armorpenetrationrating>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Blistered Belt of Decay</name>
+<id>39279</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64423</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_22</iconpath>
+<stats>
+<armor>665</armor>
+<agility>150</agility>
+<stamina>107</stamina>
+<attackpower>228</attackpower>
+<armorpenetrationrating>91</armorpenetrationrating>
+<hasterating>111</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Chestguard of the Frigid Noose</name>
+<id>51923</id>
+<slot>Chest</slot>
+</item>

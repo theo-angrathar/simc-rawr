@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52307</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_25</iconpath>
+<stats>
+<armor>290</armor>
+<stamina>60</stamina>
+<intellect>61</intellect>
+<spellpower>73</spellpower>
+<hasterating>62</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<intellect>6</intellect>
+</socketbonus>
+<name>Egg Sac Robes</name>
+<id>37222</id>
+<slot>Chest</slot>
+</item>

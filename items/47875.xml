@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62098</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_100</iconpath>
+<stats>
+<armor>1077</armor>
+<agility>108</agility>
+<stamina>78</stamina>
+<attackpower>161</attackpower>
+<intellect>63</intellect>
+<critrating>76</critrating>
+<hitrating>41</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Sunreaver Ranger's Helm</name>
+<id>47875</id>
+<slot>Head</slot>
+</item>

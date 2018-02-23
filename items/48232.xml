@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_14</iconpath>
+<stats>
+<armor>652</armor>
+<agility>137</agility>
+<stamina>153</stamina>
+<attackpower>188</attackpower>
+<critrating>102</critrating>
+<hitrating>94</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>VanCleef's Battlegear</setname>
+<type>Leather</type>
+<faction>Alliance</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>VanCleef's Breastplate of Triumph</name>
+<id>48232</id>
+<slot>Chest</slot>
+</item>

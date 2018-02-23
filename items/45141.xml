@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>58763</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_25</iconpath>
+<stats>
+<armor>517</armor>
+<agility>105</agility>
+<stamina>99</stamina>
+<attackpower>148</attackpower>
+<critrating>86</critrating>
+<expertiserating>57</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Proto-hide Leggings</name>
+<id>45141</id>
+<slot>Legs</slot>
+</item>

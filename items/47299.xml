@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61181</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_38b</iconpath>
+<stats>
+<armor>350</armor>
+<agility>93</agility>
+<stamina>101</stamina>
+<attackpower>135</attackpower>
+<hitrating>59</hitrating>
+<hasterating>67</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Belt of the Pitiless Killer</name>
+<id>47299</id>
+<slot>Waist</slot>
+</item>

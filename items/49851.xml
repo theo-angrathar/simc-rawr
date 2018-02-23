@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64950</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_158</iconpath>
+<stats>
+<armor>1886</armor>
+<stamina>86</stamina>
+<intellect>66</intellect>
+<spellpower>105</spellpower>
+<critrating>48</critrating>
+<hasterating>73</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<intellect>8</intellect>
+</socketbonus>
+<name>Greathelm of the Silver Hand</name>
+<id>49851</id>
+<slot>Head</slot>
+</item>

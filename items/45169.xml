@@ -1,0 +1,17 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_herb_flamecap</iconpath>
+<stats>
+<bonusssdamage>155</bonusssdamage>
+</stats>
+<quality>Epic</quality>
+<type>Totem</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Totem of the Dancing Flame</name>
+<id>45169</id>
+<slot>Ranged</slot>
+</item>

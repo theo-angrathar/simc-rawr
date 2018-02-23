@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_91</iconpath>
+<stats>
+<armor>1908</armor>
+<stamina>99</stamina>
+<intellect>81</intellect>
+<spellpower>115</spellpower>
+<critrating>67</critrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<mp5>3</mp5>
+</socketbonus>
+<name>Ancient Iron Heaume</name>
+<id>45226</id>
+<slot>Head</slot>
+</item>

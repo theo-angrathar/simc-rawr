@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>34189</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_ahnqiraj_06</iconpath>
+<stats>
+<stamina>49</stamina>
+<intellect>34</intellect>
+<spellpower>59</spellpower>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Band of Guile</name>
+<id>37694</id>
+<slot>Finger</slot>
+</item>

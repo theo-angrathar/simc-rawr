@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55974</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_30</iconpath>
+<stats>
+<stamina>49</stamina>
+<attackpower>32</attackpower>
+<armorpenetrationrating>26</armorpenetrationrating>
+<critrating>34</critrating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>237</mindamage>
+<maxdamage>440</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Stalactite Chopper</name>
+<id>44192</id>
+<slot>OneHand</slot>
+</item>

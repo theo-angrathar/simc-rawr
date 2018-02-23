@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59765</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_04</iconpath>
+<stats>
+<armor>1314</armor>
+<stamina>99</stamina>
+<intellect>81</intellect>
+<spellpower>114</spellpower>
+<critrating>70</critrating>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Breastplate of the Stoneshaper</name>
+<id>45867</id>
+<slot>Chest</slot>
+</item>

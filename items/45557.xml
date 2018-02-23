@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>58978</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_10</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>63</stamina>
+<intellect>64</intellect>
+<spellpower>81</spellpower>
+<hitrating>43</hitrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Sash of Ancient Power</name>
+<id>45557</id>
+<slot>Waist</slot>
+</item>

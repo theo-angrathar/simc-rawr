@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60523</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_33</iconpath>
+<stats>
+<armor>131</armor>
+<stamina>41</stamina>
+<intellect>37</intellect>
+<spellpower>58</spellpower>
+<critrating>33</critrating>
+<hitrating>33</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bindings of the Wicked</name>
+<id>47173</id>
+<slot>Wrist</slot>
+</item>

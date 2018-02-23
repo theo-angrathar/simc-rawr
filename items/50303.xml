@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64755</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_78</iconpath>
+<stats>
+<agility>39</agility>
+<stamina>39</stamina>
+<attackpower>103</attackpower>
+<critrating>38</critrating>
+<hitrating>29</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>325</mindamage>
+<maxdamage>605</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Black Icicle</name>
+<id>50303</id>
+<slot>OneHand</slot>
+</item>

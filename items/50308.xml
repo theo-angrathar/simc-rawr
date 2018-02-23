@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64560</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather_8</iconpath>
+<stats>
+<armor>410</armor>
+<agility>89</agility>
+<stamina>68</stamina>
+<attackpower>136</attackpower>
+<armorpenetrationrating>63</armorpenetrationrating>
+<critrating>54</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Blighted Leather Footpads</name>
+<id>50308</id>
+<slot>Feet</slot>
+</item>

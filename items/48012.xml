@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62108</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_17</iconpath>
+<stats>
+<armor>228</armor>
+<stamina>72</stamina>
+<intellect>70</intellect>
+<spellpower>104</spellpower>
+<critrating>72</critrating>
+<hitrating>47</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Sunreaver Magus' Sandals</name>
+<id>48012</id>
+<slot>Feet</slot>
+</item>

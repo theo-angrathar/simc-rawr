@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51280</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_24</iconpath>
+<stats>
+<stamina>64</stamina>
+<attackpower>86</attackpower>
+<critrating>28</critrating>
+<resilience>29</resilience>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Emerald Choker</name>
+<id>45812</id>
+<slot>Neck</slot>
+</item>

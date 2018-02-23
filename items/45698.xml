@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59754</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_05</iconpath>
+<stats>
+<armor>1596</armor>
+<stamina>75</stamina>
+<intellect>54</intellect>
+<spellpower>91</spellpower>
+<critrating>41</critrating>
+<mp5>30</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sabatons of the Iron Watcher</name>
+<id>45698</id>
+<slot>Feet</slot>
+</item>

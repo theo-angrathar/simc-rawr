@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>33906</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_ahnqiraj_03</iconpath>
+<stats>
+<stamina>66</stamina>
+<strength>42</strength>
+<dodgerating>21</dodgerating>
+<defenserating>33</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shadowseeker's Pendant</name>
+<id>43282</id>
+<slot>Neck</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55325</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_72</iconpath>
+<stats>
+<armor>231</armor>
+<stamina>55</stamina>
+<intellect>55</intellect>
+<spirit>57</spirit>
+<spellpower>78</spellpower>
+<hitrating>35</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Mantle of the Fatigued Sage</name>
+<id>40351</id>
+<slot>Shoulders</slot>
+</item>

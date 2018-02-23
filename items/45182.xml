@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_30</iconpath>
+<stats>
+<armor>1354</armor>
+<stamina>57</stamina>
+<intellect>54</intellect>
+<spellpower>69</spellpower>
+<critrating>38</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of Shattered Pride</name>
+<id>45182</id>
+<slot>Hands</slot>
+</item>

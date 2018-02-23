@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>42919</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_02</iconpath>
+<stats>
+<armor>1025</armor>
+<stamina>60</stamina>
+<intellect>52</intellect>
+<spellpower>81</spellpower>
+<mp5>25</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Kilt of Molten Golems</name>
+<id>36986</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55877</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_24</iconpath>
+<stats>
+<armor>300</armor>
+<stamina>66</stamina>
+<intellect>73</intellect>
+<spellpower>104</spellpower>
+<hasterating>42</hasterating>
+<mp5>33</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Robes of Crackling Flame</name>
+<id>44180</id>
+<slot>Chest</slot>
+</item>

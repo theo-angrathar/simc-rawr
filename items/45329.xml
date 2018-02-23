@@ -1,0 +1,27 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_73</iconpath>
+<stats>
+<armor>1056</armor>
+<agility>70</agility>
+<stamina>95</stamina>
+<attackpower>156</attackpower>
+<intellect>54</intellect>
+<critrating>42</critrating>
+<hitrating>60</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Circlet of True Sight</name>
+<id>45329</id>
+<slot>Head</slot>
+</item>

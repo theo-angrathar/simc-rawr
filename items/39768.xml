@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54623</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_108</iconpath>
+<stats>
+<armor>470</armor>
+<stamina>75</stamina>
+<intellect>77</intellect>
+<spirit>72</spirit>
+<spellpower>118</spellpower>
+<critrating>58</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cowl of the Perished</name>
+<id>39768</id>
+<slot>Head</slot>
+</item>

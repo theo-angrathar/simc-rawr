@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53920</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_21</iconpath>
+<stats>
+<armor>1961</armor>
+<stamina>67</stamina>
+<intellect>69</intellect>
+<spellpower>104</spellpower>
+<hasterating>61</hasterating>
+<mp5>29</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Blackened Legplates of Feugen</name>
+<id>39293</id>
+<slot>Legs</slot>
+</item>

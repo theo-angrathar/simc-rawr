@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64472</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_113</iconpath>
+<stats>
+<agility>78</agility>
+<stamina>78</stamina>
+<attackpower>88</attackpower>
+<armorpenetrationrating>44</armorpenetrationrating>
+<critrating>52</critrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>263</mindamage>
+<maxdamage>489</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Scourgeborne Waraxe</name>
+<id>50654</id>
+<slot>OneHand</slot>
+</item>

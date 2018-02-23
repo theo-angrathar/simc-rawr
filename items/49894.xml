@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64489</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather_8</iconpath>
+<stats>
+<armor>457</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>72</spirit>
+<spellpower>122</spellpower>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Blessed Cenarion Boots</name>
+<id>49894</id>
+<slot>Feet</slot>
+</item>

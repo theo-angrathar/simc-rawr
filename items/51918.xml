@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64204</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_47</iconpath>
+<stats>
+<armor>155</armor>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spirit>58</spirit>
+<spellpower>97</spellpower>
+<critrating>53</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Bracers of Dark Blessings</name>
+<id>51918</id>
+<slot>Wrist</slot>
+</item>

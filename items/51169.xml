@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_85</iconpath>
+<stats>
+<armor>1650</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spellpower>132</spellpower>
+<critrating>80</critrating>
+<mp5>36</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Lightsworn Garb</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Sanctified Lightsworn Gloves</name>
+<id>51169</id>
+<slot>Hands</slot>
+</item>

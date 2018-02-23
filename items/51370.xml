@@ -1,0 +1,23 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_53</iconpath>
+<stats>
+<armor>291</armor>
+<agility>90</agility>
+<stamina>103</stamina>
+<attackpower>92</attackpower>
+<critrating>60</critrating>
+<resilience>60</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Armwraps of Triumph</name>
+<id>51370</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59766</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_06</iconpath>
+<stats>
+<armor>1299</armor>
+<stamina>80</stamina>
+<intellect>87</intellect>
+<spellpower>109</spellpower>
+<critrating>57</critrating>
+<hasterating>81</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Firestrider Chestguard</name>
+<id>45288</id>
+<slot>Chest</slot>
+</item>

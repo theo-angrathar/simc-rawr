@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55435</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_95</iconpath>
+<stats>
+<armor>409</armor>
+<agility>50</agility>
+<stamina>66</stamina>
+<attackpower>58</attackpower>
+<critrating>30</critrating>
+<resilience>38</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Vestments</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Savage Gladiator's Leather Spaulders</name>
+<id>41646</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_34</iconpath>
+<stats>
+<armor>1218</armor>
+<stamina>87</stamina>
+<strength>58</strength>
+<dodgerating>33</dodgerating>
+<defenserating>42</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Waistguard of the Risen Knight</name>
+<id>37801</id>
+<slot>Waist</slot>
+</item>

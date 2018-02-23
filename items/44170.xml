@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51003</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_104</iconpath>
+<stats>
+<armor>428</armor>
+<stamina>51</stamina>
+<intellect>69</intellect>
+<spellpower>78</spellpower>
+<mp5>26</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Helm of the Majestic Stag</name>
+<id>44170</id>
+<slot>Head</slot>
+</item>

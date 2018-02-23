@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>443</armor>
+<stamina>63</stamina>
+<intellect>64</intellect>
+<spirit>49</spirit>
+<spellpower>90</spellpower>
+<critrating>56</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Nightsong Garb</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Conqueror's Nightsong Mantle</name>
+<id>46196</id>
+<slot>Shoulders</slot>
+</item>

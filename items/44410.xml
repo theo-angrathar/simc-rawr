@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_104</iconpath>
+<stats>
+<armor>952</armor>
+<agility>46</agility>
+<stamina>102</stamina>
+<attackpower>92</attackpower>
+<armorpenetrationrating>49</armorpenetrationrating>
+<intellect>39</intellect>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Helmet of Just Retribution</name>
+<id>44410</id>
+<slot>Head</slot>
+</item>

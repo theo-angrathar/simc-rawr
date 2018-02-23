@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55626</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_101</iconpath>
+<stats>
+<armor>941</armor>
+<agility>44</agility>
+<stamina>76</stamina>
+<attackpower>72</attackpower>
+<intellect>25</intellect>
+<critrating>44</critrating>
+<resilience>44</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Pursuit</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Hateful Gladiator's Chain Spaulders</name>
+<id>41215</id>
+<slot>Shoulders</slot>
+</item>

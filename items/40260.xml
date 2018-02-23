@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54792</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_15</iconpath>
+<stats>
+<armor>325</armor>
+<agility>53</agility>
+<stamina>75</stamina>
+<attackpower>150</attackpower>
+<critrating>43</critrating>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of the Tortured</name>
+<id>40260</id>
+<slot>Waist</slot>
+</item>

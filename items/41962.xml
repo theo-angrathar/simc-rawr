@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55595</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_103</iconpath>
+<stats>
+<armor>218</armor>
+<stamina>66</stamina>
+<intellect>28</intellect>
+<spellpower>59</spellpower>
+<critrating>31</critrating>
+<resilience>38</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Savage Gladiator's Silk Amice</name>
+<id>41962</id>
+<slot>Shoulders</slot>
+</item>

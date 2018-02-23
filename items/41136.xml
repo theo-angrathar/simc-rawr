@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56938</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_65</iconpath>
+<stats>
+<armor>804</armor>
+<agility>50</agility>
+<stamina>85</stamina>
+<attackpower>84</attackpower>
+<intellect>30</intellect>
+<critrating>39</critrating>
+<resilience>39</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Earthshaker</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Deadly Gladiator's Linked Gauntlets</name>
+<id>41136</id>
+<slot>Hands</slot>
+</item>

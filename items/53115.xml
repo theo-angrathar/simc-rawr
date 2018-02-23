@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>64323</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_20</iconpath>
+<stats>
+<armor>173</armor>
+<stamina>65</stamina>
+<intellect>65</intellect>
+<spellpower>91</spellpower>
+<hasterating>57</hasterating>
+<mp5>24</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Abduction's Cover</name>
+<id>53115</id>
+<slot>Back</slot>
+</item>

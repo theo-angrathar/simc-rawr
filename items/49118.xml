@@ -1,0 +1,18 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49650</displayid>
+<displayslot>12</displayslot>
+<iconpath>inv_drink_08</iconpath>
+<stats>
+<stamina>170</stamina>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bubbling Brightbrew Charm</name>
+<id>49118</id>
+<slot>Trinket</slot>
+</item>

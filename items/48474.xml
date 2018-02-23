@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate_24</iconpath>
+<stats>
+<armor>2369</armor>
+<stamina>137</stamina>
+<strength>121</strength>
+<critrating>72</critrating>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Thassarian's Battlegear</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Thassarian's Battleplate of Conquest</name>
+<id>48474</id>
+<slot>Chest</slot>
+</item>

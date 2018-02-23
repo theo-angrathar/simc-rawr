@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>31800</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_34</iconpath>
+<stats>
+<stamina>43</stamina>
+<intellect>28</intellect>
+<spellpower>50</spellpower>
+<critrating>28</critrating>
+<resilience>29</resilience>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Runed Mana Band</name>
+<id>45808</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55327</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_72</iconpath>
+<stats>
+<armor>225</armor>
+<stamina>57</stamina>
+<intellect>48</intellect>
+<spirit>43</spirit>
+<spellpower>77</spellpower>
+<critrating>45</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Miasma Mantle</name>
+<id>39284</id>
+<slot>Shoulders</slot>
+</item>

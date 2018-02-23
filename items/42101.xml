@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55341</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_48</iconpath>
+<stats>
+<armor>300</armor>
+<stamina>67</stamina>
+<intellect>89</intellect>
+<spellpower>105</spellpower>
+<hitrating>68</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Ebonweave Robe</name>
+<id>42101</id>
+<slot>Chest</slot>
+</item>

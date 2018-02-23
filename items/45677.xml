@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59116</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>438</armor>
+<agility>60</agility>
+<stamina>61</stamina>
+<attackpower>126</attackpower>
+<armorpenetrationrating>46</armorpenetrationrating>
+<hitrating>57</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<armorpenetrationrating>4</armorpenetrationrating>
+</socketbonus>
+<name>Treacherous Shoulderpads</name>
+<id>45677</id>
+<slot>Shoulders</slot>
+</item>

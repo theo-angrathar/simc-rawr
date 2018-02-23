@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54709</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_13</iconpath>
+<stats>
+<armor>135</armor>
+<stamina>42</stamina>
+<intellect>43</intellect>
+<spirit>39</spirit>
+<spellpower>66</spellpower>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Punctilious Bindings</name>
+<id>39731</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>28951</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>185</armor>
+<stamina>78</stamina>
+<intellect>78</intellect>
+<spellpower>110</spellpower>
+<critrating>68</critrating>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Frostbinder's Shredded Cape</name>
+<id>50628</id>
+<slot>Back</slot>
+</item>

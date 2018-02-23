@@ -1,0 +1,24 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>59307</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_46</iconpath>
+<stats>
+<stamina>54</stamina>
+<intellect>58</intellect>
+<spellpower>80</spellpower>
+<critrating>52</critrating>
+<hitrating>42</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Darkbane Pendant</name>
+<id>47957</id>
+<slot>Neck</slot>
+</item>

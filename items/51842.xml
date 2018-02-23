@@ -1,0 +1,23 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64190</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_48</iconpath>
+<stats>
+<stamina>103</stamina>
+<strength>95</strength>
+<critrating>62</critrating>
+<hasterating>49</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Collar of Haughty Disdain</name>
+<id>51842</id>
+<slot>Neck</slot>
+</item>

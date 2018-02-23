@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>51941</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_26</iconpath>
+<stats>
+<armor>275</armor>
+<stamina>85</stamina>
+<intellect>85</intellect>
+<spirit>71</spirit>
+<spellpower>115</spellpower>
+<critrating>57</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Leggings of Mortal Arrogance</name>
+<id>40398</id>
+<slot>Legs</slot>
+</item>

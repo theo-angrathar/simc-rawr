@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54971</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_14</iconpath>
+<stats>
+<armor>192</armor>
+<stamina>79</stamina>
+<intellect>57</intellect>
+<spellpower>88</spellpower>
+<critrating>43</critrating>
+<hitrating>38</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of Grandeur</name>
+<id>40380</id>
+<slot>Hands</slot>
+</item>

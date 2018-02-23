@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54224</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_08</iconpath>
+<stats>
+<armor>1541</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spellpower>77</spellpower>
+<critrating>44</critrating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sabatons of Deathlike Gloom</name>
+<id>39369</id>
+<slot>Feet</slot>
+</item>

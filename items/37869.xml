@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>28831</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_29</iconpath>
+<stats>
+<stamina>31</stamina>
+<intellect>33</intellect>
+<spellpower>51</spellpower>
+<critrating>42</critrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Globule Signet</name>
+<id>37869</id>
+<slot>Finger</slot>
+</item>

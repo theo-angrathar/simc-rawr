@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>50514</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_99</iconpath>
+<stats>
+<agility>32</agility>
+<stamina>29</stamina>
+<attackpower>48</attackpower>
+<hitrating>33</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>126</mindamage>
+<maxdamage>234</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Fang of Truth</name>
+<id>44187</id>
+<slot>OneHand</slot>
+</item>

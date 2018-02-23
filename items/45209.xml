@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_38c</iconpath>
+<stats>
+<armor>163</armor>
+<stamina>38</stamina>
+<intellect>42</intellect>
+<spellpower>67</spellpower>
+<hasterating>50</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Sash of Trumpted Pride</name>
+<id>45209</id>
+<slot>Waist</slot>
+</item>

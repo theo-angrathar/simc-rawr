@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>53270</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_06</iconpath>
+<stats>
+<armor>175</armor>
+<stamina>43</stamina>
+<intellect>37</intellect>
+<spirit>52</spirit>
+<spellpower>59</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Light Blessed Mittens</name>
+<id>42095</id>
+<slot>Hands</slot>
+</item>

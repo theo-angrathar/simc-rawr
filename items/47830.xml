@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62021</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_20</iconpath>
+<stats>
+<armor>2073</armor>
+<stamina>125</stamina>
+<strength>121</strength>
+<armorpenetrationrating>89</armorpenetrationrating>
+<critrating>57</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Legplates of the Silver Hand</name>
+<id>47830</id>
+<slot>Legs</slot>
+</item>

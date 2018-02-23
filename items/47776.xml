@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_68</iconpath>
+<stats>
+<armor>317</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>80</spirit>
+<spellpower>122</spellpower>
+<hitrating>64</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Khadgar's Regalia</setname>
+<type>Cloth</type>
+<faction>Horde</faction>
+<requiredclasses>Mage</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Sunstrider's Robe of Conquest</name>
+<id>47776</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56607</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_03</iconpath>
+<stats>
+<armor>169</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spirit>38</spirit>
+<spellpower>76</spellpower>
+<critrating>48</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sash of Mortal Desire</name>
+<id>39216</id>
+<slot>Waist</slot>
+</item>

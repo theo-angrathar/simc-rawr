@@ -1,0 +1,19 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>58716</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_fishingpole_05</iconpath>
+<stats></stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<mindamage>406</mindamage>
+<maxdamage>610</maxdamage>
+<speed>3</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Jeweled Fishing Pole</name>
+<id>45992</id>
+<slot>TwoHand</slot>
+</item>

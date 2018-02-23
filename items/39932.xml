@@ -1,0 +1,16 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_24</iconpath>
+<stats>
+<spellpenetration>15</spellpenetration>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Stormy Chalcedony</name>
+<id>39932</id>
+<slot>Blue</slot>
+</item>

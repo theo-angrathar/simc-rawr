@@ -1,0 +1,24 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>35574</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_27</iconpath>
+<stats>
+<stamina>37</stamina>
+<intellect>44</intellect>
+<spellpower>461</spellpower>
+<critrating>42</critrating>
+<hasterating>31</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>77</mindamage>
+<maxdamage>248</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Hammer of the Astral Plane</name>
+<id>39423</id>
+<slot>MainHand</slot>
+</item>

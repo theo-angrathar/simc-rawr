@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>45780</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_gizmo_newgoggles</iconpath>
+<stats>
+<armor>458</armor>
+<stamina>55</stamina>
+<intellect>60</intellect>
+<spellpower>87</spellpower>
+<critrating>73</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Greensight Gogs</name>
+<id>42554</id>
+<slot>Head</slot>
+</item>

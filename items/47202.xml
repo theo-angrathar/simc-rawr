@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55856</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_27</iconpath>
+<stats>
+<armor>494</armor>
+<agility>89</agility>
+<stamina>56</stamina>
+<attackpower>128</attackpower>
+<critrating>52</critrating>
+<hitrating>64</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<attackpower>4</attackpower>
+</socketbonus>
+<name>Leggings of Brazen Trespass</name>
+<id>47202</id>
+<slot>Legs</slot>
+</item>

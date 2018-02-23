@@ -1,0 +1,27 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59379</displayid>
+<displayslot>22</displayslot>
+<iconpath>inv_weapon_hand_23</iconpath>
+<stats>
+<agility>35</agility>
+<stamina>54</stamina>
+<attackpower>94</attackpower>
+<armorpenetrationrating>37</armorpenetrationrating>
+<critrating>27</critrating>
+</stats>
+<quality>Epic</quality>
+<type>FistWeapon</type>
+<faction>Neutral</faction>
+<mindamage>197</mindamage>
+<maxdamage>367</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Delirium's Touch</name>
+<id>45494</id>
+<slot>OffHand</slot>
+</item>

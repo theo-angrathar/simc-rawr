@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55389</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_34</iconpath>
+<stats>
+<armor>1293</armor>
+<stamina>112</stamina>
+<strength>75</strength>
+<dodgerating>28</dodgerating>
+<blockrating>50</blockrating>
+<defenserating>36</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Fleshless Girdle</name>
+<id>40263</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53939</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_49</iconpath>
+<stats>
+<armor>300</armor>
+<stamina>90</stamina>
+<intellect>68</intellect>
+<spellpower>105</spellpower>
+<hitrating>45</hitrating>
+<hasterating>59</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gown of Blaumeux</name>
+<id>39396</id>
+<slot>Chest</slot>
+</item>

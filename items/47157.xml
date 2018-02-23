@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>39123</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_57</iconpath>
+<stats>
+<stamina>116</stamina>
+<strength>85</strength>
+<dodgerating>37</dodgerating>
+<parryrating>45</parryrating>
+<defenserating>45</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Signet of the Traitor King</name>
+<id>47157</id>
+<slot>Finger</slot>
+</item>

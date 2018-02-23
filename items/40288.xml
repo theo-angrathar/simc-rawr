@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54867</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>964</armor>
+<stamina>55</stamina>
+<intellect>57</intellect>
+<spellpower>77</spellpower>
+<critrating>43</critrating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spaulders of Incoherence</name>
+<id>40288</id>
+<slot>Shoulders</slot>
+</item>

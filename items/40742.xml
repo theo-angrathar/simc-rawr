@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_plate_02</iconpath>
+<stats>
+<armor>1580</armor>
+<stamina>112</stamina>
+<strength>75</strength>
+<critrating>53</critrating>
+<hitrating>43</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bladed Steelboots</name>
+<id>40742</id>
+<slot>Feet</slot>
+</item>

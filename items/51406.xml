@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_shortblade_107</iconpath>
+<stats>
+<stamina>88</stamina>
+<intellect>59</intellect>
+<spellpower>738</spellpower>
+<resilience>51</resilience>
+<hasterating>51</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>113</mindamage>
+<maxdamage>333</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Wrathful Gladiator's Blade of Alacrity</name>
+<id>51406</id>
+<slot>MainHand</slot>
+</item>

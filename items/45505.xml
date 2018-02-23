@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59194</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_44b</iconpath>
+<stats>
+<armor>1321</armor>
+<stamina>64</stamina>
+<intellect>65</intellect>
+<spellpower>99</spellpower>
+<hasterating>56</hasterating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of Clinging Hope</name>
+<id>45505</id>
+<slot>Waist</slot>
+</item>

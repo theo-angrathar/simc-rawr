@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_63</iconpath>
+<stats>
+<armor>308</armor>
+<stamina>115</stamina>
+<intellect>50</intellect>
+<spellpower>98</spellpower>
+<resilience>66</resilience>
+<hasterating>51</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Titan-Forged Raiment of Salvation</name>
+<id>46066</id>
+<slot>Chest</slot>
+</item>

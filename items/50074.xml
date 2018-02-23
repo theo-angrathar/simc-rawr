@@ -1,0 +1,25 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>54674</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>124</stamina>
+<strength>69</strength>
+<hitrating>38</hitrating>
+<dodgerating>60</dodgerating>
+<defenserating>60</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Royal Crimson Cloak</name>
+<id>50074</id>
+<slot>Back</slot>
+</item>

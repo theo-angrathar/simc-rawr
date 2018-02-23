@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64561</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_115</iconpath>
+<stats>
+<armor>438</armor>
+<agility>79</agility>
+<stamina>60</stamina>
+<attackpower>120</attackpower>
+<critrating>56</critrating>
+<hasterating>46</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bewildering Shoulderpads</name>
+<id>49785</id>
+<slot>Shoulders</slot>
+</item>

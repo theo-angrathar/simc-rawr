@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>45362</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_67</iconpath>
+<stats>
+<stamina>41</stamina>
+<intellect>40</intellect>
+<spellpower>67</spellpower>
+<hasterating>32</hasterating>
+<mp5>20</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wyrmrest Band</name>
+<id>40433</id>
+<slot>Finger</slot>
+</item>

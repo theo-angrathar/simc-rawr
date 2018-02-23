@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>54925</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_75</iconpath>
+<stats>
+<armor>395</armor>
+<stamina>51</stamina>
+<intellect>34</intellect>
+<spirit>34</spirit>
+<spellpower>60</spellpower>
+<resilience>34</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Overcaster Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Overcast Spaulders</name>
+<id>43262</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_25</iconpath>
+<stats>
+<armor>804</armor>
+<agility>53</agility>
+<stamina>60</stamina>
+<attackpower>134</attackpower>
+<armorpenetrationrating>31</armorpenetrationrating>
+<intellect>43</intellect>
+<hasterating>39</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Cryptstalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Valorous Cryptstalker Handguards</name>
+<id>40504</id>
+<slot>Hands</slot>
+</item>

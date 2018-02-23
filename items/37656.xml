@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52360</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_09</iconpath>
+<stats>
+<armor>530</armor>
+<agility>43</agility>
+<stamina>29</stamina>
+<attackpower>86</attackpower>
+<intellect>28</intellect>
+<hitrating>18</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Raging Construct Bands</name>
+<id>37656</id>
+<slot>Wrist</slot>
+</item>

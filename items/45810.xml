@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55663</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_19</iconpath>
+<stats>
+<armor>145</armor>
+<stamina>42</stamina>
+<intellect>29</intellect>
+<spellpower>50</spellpower>
+<critrating>28</critrating>
+<resilience>29</resilience>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Cloak of Crimson Snow</name>
+<id>45810</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64372</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_27</iconpath>
+<stats>
+<armor>233</armor>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spirit>55</spirit>
+<spellpower>106</spellpower>
+<critrating>71</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Pale Corpse Boots</name>
+<id>51380</id>
+<slot>Feet</slot>
+</item>

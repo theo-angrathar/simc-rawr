@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64661</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_70</iconpath>
+<stats>
+<armor>1421</armor>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spellpower>106</spellpower>
+<hasterating>71</hasterating>
+<mp5>28</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<intellect>6</intellect>
+</socketbonus>
+<name>Tightening Waistband</name>
+<id>51555</id>
+<slot>Waist</slot>
+</item>

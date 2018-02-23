@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57543</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_107</iconpath>
+<stats>
+<armor>1019</armor>
+<stamina>90</stamina>
+<intellect>60</intellect>
+<spellpower>85</spellpower>
+<critrating>48</critrating>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Helmet of the Inner Sanctum</name>
+<id>39405</id>
+<slot>Head</slot>
+</item>

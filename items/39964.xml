@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_20</iconpath>
+<stats>
+<dodgerating>6</dodgerating>
+<defenserating>6</defenserating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Stalwart Huge Citrine</name>
+<id>39964</id>
+<slot>Orange</slot>
+</item>

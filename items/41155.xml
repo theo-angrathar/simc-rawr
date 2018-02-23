@@ -1,0 +1,29 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56145</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet128</iconpath>
+<stats>
+<armor>1019</armor>
+<agility>60</agility>
+<stamina>103</stamina>
+<attackpower>88</attackpower>
+<intellect>29</intellect>
+<critrating>44</critrating>
+<resilience>59</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Pursuit</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Hateful Gladiator's Chain Helm</name>
+<id>41155</id>
+<slot>Head</slot>
+</item>

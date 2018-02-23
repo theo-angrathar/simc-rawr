@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_83</iconpath>
+<stats>
+<armor>398</armor>
+<agility>107</agility>
+<stamina>107</stamina>
+<attackpower>126</attackpower>
+<armorpenetrationrating>71</armorpenetrationrating>
+<hasterating>63</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Lasherweave Handgrips</name>
+<id>50827</id>
+<slot>Hands</slot>
+</item>

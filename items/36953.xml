@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51300</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_95</iconpath>
+<stats>
+<armor>878</armor>
+<agility>34</agility>
+<stamina>43</stamina>
+<attackpower>102</attackpower>
+<intellect>37</intellect>
+<hasterating>34</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spaulders of Skillful Maneuvers</name>
+<id>36953</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,20 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>54830</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_09</iconpath>
+<stats>
+<armor>916</armor>
+<strength>53</strength>
+<critrating>30</critrating>
+<hitrating>23</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Vengeance Bindings</name>
+<id>41355</id>
+<slot>Wrist</slot>
+</item>

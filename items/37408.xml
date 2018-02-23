@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53823</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_10</iconpath>
+<stats>
+<armor>169</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spirit>38</spirit>
+<spellpower>77</spellpower>
+<hitrating>48</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Girdle of Bane</name>
+<id>37408</id>
+<slot>Waist</slot>
+</item>

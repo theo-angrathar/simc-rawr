@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64373</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_22c</iconpath>
+<stats>
+<armor>261</armor>
+<stamina>51</stamina>
+<intellect>51</intellect>
+<spirit>41</spirit>
+<spellpower>78</spellpower>
+<critrating>46</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ghostly Wristwraps</name>
+<id>50318</id>
+<slot>Wrist</slot>
+</item>

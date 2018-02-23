@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_20</iconpath>
+<stats>
+<armor>2054</armor>
+<stamina>112</stamina>
+<intellect>76</intellect>
+<spellpower>115</spellpower>
+<hasterating>58</hasterating>
+<mp5>36</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hasterating>6</hasterating>
+</socketbonus>
+<name>Legguards of the Peaceful Covenant</name>
+<id>45843</id>
+<slot>Legs</slot>
+</item>

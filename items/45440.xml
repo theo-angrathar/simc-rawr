@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59139</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_59</iconpath>
+<stats>
+<armor>985</armor>
+<stamina>73</stamina>
+<intellect>60</intellect>
+<spellpower>90</spellpower>
+<critrating>57</critrating>
+<mp5>24</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Amice of the Stoic Watch</name>
+<id>45440</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49876</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_92</iconpath>
+<stats>
+<armor>1625</armor>
+<stamina>49</stamina>
+<intellect>42</intellect>
+<spellpower>68</spellpower>
+<mp5>29</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pauldrons of Destiny</name>
+<id>37690</id>
+<slot>Shoulders</slot>
+</item>

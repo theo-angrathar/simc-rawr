@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64860</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_80</iconpath>
+<stats>
+<armor>369</armor>
+<stamina>139</stamina>
+<intellect>139</intellect>
+<spirit>122</spirit>
+<spellpower>186</spellpower>
+<hasterating>98</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Sanguine Silk Robes</name>
+<id>50717</id>
+<slot>Chest</slot>
+</item>

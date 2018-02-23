@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_leather_28</iconpath>
+<stats>
+<armor>570</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spirit>86</spirit>
+<spellpower>160</spellpower>
+<hitrating>102</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Regalia</setname>
+<type>Leather</type>
+<faction>Alliance</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Malfurion's Trousers of Triumph</name>
+<id>48170</id>
+<slot>Legs</slot>
+</item>

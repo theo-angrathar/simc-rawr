@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54714</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>253</armor>
+<agility>38</agility>
+<stamina>55</stamina>
+<attackpower>96</attackpower>
+<critrating>41</critrating>
+<hasterating>24</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Sinner's Bindings</name>
+<id>39765</id>
+<slot>Wrist</slot>
+</item>

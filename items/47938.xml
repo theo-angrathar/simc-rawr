@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60610</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_95</iconpath>
+<stats>
+<agility>58</agility>
+<stamina>58</stamina>
+<attackpower>73</attackpower>
+<hitrating>42</hitrating>
+<hasterating>26</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Alliance</faction>
+<mindamage>220</mindamage>
+<maxdamage>330</maxdamage>
+<speed>1.4</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Dirk of the Night Watch</name>
+<id>47938</id>
+<slot>OneHand</slot>
+</item>

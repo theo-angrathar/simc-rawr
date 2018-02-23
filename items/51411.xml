@@ -1,0 +1,23 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_crossbow_38</iconpath>
+<stats>
+<stamina>77</stamina>
+<attackpower>102</attackpower>
+<critrating>34</critrating>
+<resilience>34</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Crossbow</type>
+<faction>Neutral</faction>
+<mindamage>641</mindamage>
+<maxdamage>889</maxdamage>
+<speed>3</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Heavy Crossbow</name>
+<id>51411</id>
+<slot>Ranged</slot>
+</item>

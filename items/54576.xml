@@ -1,0 +1,27 @@
+<item>
+<itemlevel>284</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>item_icecrownringc</iconpath>
+<stats>
+<agility>109</agility>
+<stamina>109</stamina>
+<attackpower>145</attackpower>
+<critrating>73</critrating>
+<hitrating>57</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<uniqueid>53133</uniqueid>
+<uniqueid>54576</uniqueid>
+<name>Signet of Twilight</name>
+<id>54576</id>
+<slot>Finger</slot>
+</item>

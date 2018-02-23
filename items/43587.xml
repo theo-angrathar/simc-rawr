@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55047</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_33</iconpath>
+<stats>
+<armor>1293</armor>
+<stamina>129</stamina>
+<frostresistance>86</frostresistance>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Icebane Girdle</name>
+<id>43587</id>
+<slot>Waist</slot>
+</item>

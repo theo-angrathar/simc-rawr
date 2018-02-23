@@ -1,0 +1,26 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64444</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_111</iconpath>
+<stats>
+<armor>521</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spirit>90</spirit>
+<spellpower>140</spellpower>
+<hasterating>74</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Shoulders of Frost-Tipped Thorns</name>
+<id>50715</id>
+<slot>Shoulders</slot>
+</item>

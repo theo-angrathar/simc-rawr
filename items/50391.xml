@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_92</iconpath>
+<stats>
+<armor>211</armor>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spellpower>116</spellpower>
+<critrating>71</critrating>
+<hitrating>63</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Crimson Acolyte's Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Crimson Acolyte Handwraps</name>
+<id>50391</id>
+<slot>Hands</slot>
+</item>

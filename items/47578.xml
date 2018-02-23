@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>35431</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_53naxxramas</iconpath>
+<stats>
+<stamina>76</stamina>
+<strength>68</strength>
+<armorpenetrationrating>45</armorpenetrationrating>
+<hasterating>34</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Carnivorous Band</name>
+<id>47578</id>
+<slot>Finger</slot>
+</item>

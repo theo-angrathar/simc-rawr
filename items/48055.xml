@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61783</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_71</iconpath>
+<stats>
+<armor>8309</armor>
+<stamina>114</stamina>
+<strength>58</strength>
+<parryrating>44</parryrating>
+<blockvalue>347</blockvalue>
+<defenserating>38</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Aegis of the Coliseum</name>
+<id>48055</id>
+<slot>OffHand</slot>
+</item>

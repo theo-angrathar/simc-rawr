@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64822</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_mail_06</iconpath>
+<stats>
+<armor>1016</armor>
+<agility>104</agility>
+<stamina>95</stamina>
+<attackpower>172</attackpower>
+<armorpenetrationrating>70</armorpenetrationrating>
+<intellect>68</intellect>
+<critrating>40</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Taldron's Long Neglected Boots</name>
+<id>51891</id>
+<slot>Feet</slot>
+</item>

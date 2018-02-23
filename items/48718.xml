@@ -1,0 +1,23 @@
+<item>
+<itemlevel>1</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gizmo_02</iconpath>
+<stats>
+<agility>68</agility>
+<stamina>103</stamina>
+<attackpower>91</attackpower>
+<armorpenetrationrating>45</armorpenetrationrating>
+</stats>
+<quality>Heirloom</quality>
+<type>TwoHandMace</type>
+<faction>Neutral</faction>
+<mindamage>361</mindamage>
+<maxdamage>542</maxdamage>
+<speed>2.9</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Repurposed Lava Dredger</name>
+<id>48718</id>
+<slot>TwoHand</slot>
+</item>

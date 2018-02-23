@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1401</armor>
+<stamina>99</stamina>
+<strength>57</strength>
+<critrating>46</critrating>
+<hasterating>33</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Redemption Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Heroes' Redemption Gauntlets</name>
+<id>39634</id>
+<slot>Hands</slot>
+</item>

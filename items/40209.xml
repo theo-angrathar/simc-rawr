@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>57075</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>563</armor>
+<stamina>42</stamina>
+<intellect>43</intellect>
+<spellpower>66</spellpower>
+<hasterating>38</hasterating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bindings of the Decrepit</name>
+<id>40209</id>
+<slot>Wrist</slot>
+</item>

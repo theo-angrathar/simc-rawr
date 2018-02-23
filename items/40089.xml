@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_25</iconpath>
+<stats>
+<stamina>12</stamina>
+<defenserating>8</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Enduring Forest Emerald</name>
+<id>40089</id>
+<slot>Green</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60520</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_133</iconpath>
+<stats>
+<armor>253</armor>
+<stamina>54</stamina>
+<intellect>74</intellect>
+<spellpower>115</spellpower>
+<critrating>67</critrating>
+<hitrating>57</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hitrating>8</hitrating>
+</socketbonus>
+<name>Gaze of the Unknown</name>
+<id>47564</id>
+<slot>Head</slot>
+</item>

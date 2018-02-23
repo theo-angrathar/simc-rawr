@@ -1,0 +1,17 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>9659</displayid>
+<displayslot>28</displayslot>
+<iconpath>spell_nature_naturetouchgrow</iconpath>
+<stats>
+<lifebloomtickhealbonus>448</lifebloomtickhealbonus>
+</stats>
+<quality>Epic</quality>
+<type>Idol</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Idol of Tenacity</name>
+<id>51423</id>
+<slot>Ranged</slot>
+</item>

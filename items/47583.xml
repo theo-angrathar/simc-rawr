@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61650</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_30b</iconpath>
+<stats>
+<armor>272</armor>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spirit>50</spirit>
+<spellpower>80</spellpower>
+<critrating>42</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Moonshadow Armguards</name>
+<id>47583</id>
+<slot>Wrist</slot>
+</item>

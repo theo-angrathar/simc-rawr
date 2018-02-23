@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>57545</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_18</iconpath>
+<stats>
+<armor>1045</armor>
+<agility>86</agility>
+<stamina>86</stamina>
+<attackpower>108</attackpower>
+<intellect>53</intellect>
+<hitrating>30</hitrating>
+<hasterating>58</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<stamina>4</stamina>
+</socketbonus>
+<name>Hyaline Helm of the Sniper</name>
+<id>40451</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61236</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_37</iconpath>
+<stats>
+<armor>152</armor>
+<stamina>65</stamina>
+<intellect>65</intellect>
+<spellpower>91</spellpower>
+<critrating>57</critrating>
+<hitrating>43</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Bindings of Dark Essence</name>
+<id>47143</id>
+<slot>Wrist</slot>
+</item>

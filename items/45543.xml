@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_101</iconpath>
+<stats>
+<armor>985</armor>
+<agility>57</agility>
+<stamina>66</stamina>
+<attackpower>154</attackpower>
+<intellect>44</intellect>
+<critrating>36</critrating>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Shoulders of Misfortune</name>
+<id>45543</id>
+<slot>Shoulders</slot>
+</item>

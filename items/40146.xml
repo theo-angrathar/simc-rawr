@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_39</iconpath>
+<stats>
+<strength>10</strength>
+<hasterating>10</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Fierce Ametrine</name>
+<id>40146</id>
+<slot>Orange</slot>
+</item>

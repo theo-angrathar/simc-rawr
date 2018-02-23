@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_121</iconpath>
+<stats>
+<armor>985</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>91</spellpower>
+<mp5>39</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Helm of the Lightning Halls</name>
+<id>37857</id>
+<slot>Head</slot>
+</item>

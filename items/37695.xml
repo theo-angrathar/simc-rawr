@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53835</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_03</iconpath>
+<stats>
+<armor>1097</armor>
+<stamina>66</stamina>
+<intellect>70</intellect>
+<spellpower>104</spellpower>
+<critrating>89</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Legguards of Nature's Power</name>
+<id>37695</id>
+<slot>Legs</slot>
+</item>

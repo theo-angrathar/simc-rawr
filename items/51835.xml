@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64593</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_87</iconpath>
+<stats>
+<armor>1650</armor>
+<stamina>157</stamina>
+<strength>86</strength>
+<dodgerating>64</dodgerating>
+<defenserating>80</defenserating>
+<expertiserating>70</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Veincrusher Gauntlets</name>
+<id>51835</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_16</iconpath>
+<stats>
+<armor>253</armor>
+<agility>38</agility>
+<stamina>55</stamina>
+<attackpower>112</attackpower>
+<armorpenetrationrating>32</armorpenetrationrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Wristwraps of the Cutthroat</name>
+<id>40738</id>
+<slot>Wrist</slot>
+</item>

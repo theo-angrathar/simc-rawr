@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53883</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_67</iconpath>
+<stats>
+<armor>423</armor>
+<agility>48</agility>
+<stamina>69</stamina>
+<attackpower>132</attackpower>
+<critrating>42</critrating>
+<hitrating>38</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spaulders of Resumed Battle</name>
+<id>39237</id>
+<slot>Shoulders</slot>
+</item>

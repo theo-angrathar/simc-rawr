@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_139</iconpath>
+<stats>
+<armor>485</armor>
+<agility>104</agility>
+<stamina>120</stamina>
+<attackpower>129</attackpower>
+<critrating>80</critrating>
+<expertiserating>64</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Battlegear</setname>
+<type>Leather</type>
+<faction>Alliance</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Malfurion's Headguard of Conquest</name>
+<id>48214</id>
+<slot>Head</slot>
+</item>

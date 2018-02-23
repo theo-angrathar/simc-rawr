@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56218</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_13</iconpath>
+<stats>
+<armor>985</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>91</spellpower>
+<critrating>77</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Battle Mender's Helm</name>
+<id>44248</id>
+<slot>Head</slot>
+</item>

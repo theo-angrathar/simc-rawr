@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60686</displayid>
+<displayslot>26</displayslot>
+<iconpath>inv_weapon_crossbow_35</iconpath>
+<stats>
+<agility>35</agility>
+<stamina>43</stamina>
+<attackpower>57</attackpower>
+<critrating>30</critrating>
+<hasterating>18</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Crossbow</type>
+<faction>Horde</faction>
+<mindamage>512</mindamage>
+<maxdamage>719</maxdamage>
+<speed>2.9</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Darkmaw Crossbow</name>
+<id>48052</id>
+<slot>Ranged</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59752</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_11</iconpath>
+<stats>
+<armor>2032</armor>
+<stamina>107</stamina>
+<intellect>81</intellect>
+<spellpower>124</spellpower>
+<critrating>43</critrating>
+<mp5>33</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Legplates of Flourishing Resolve</name>
+<id>45936</id>
+<slot>Legs</slot>
+</item>

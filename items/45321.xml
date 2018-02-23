@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59753</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_91</iconpath>
+<stats>
+<armor>1741</armor>
+<stamina>80</stamina>
+<intellect>66</intellect>
+<spellpower>92</spellpower>
+<critrating>43</critrating>
+<hasterating>34</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pauldrons of Tempered Will</name>
+<id>45321</id>
+<slot>Shoulders</slot>
+</item>

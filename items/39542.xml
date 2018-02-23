@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>423</armor>
+<stamina>49</stamina>
+<intellect>47</intellect>
+<spirit>51</spirit>
+<spellpower>68</spellpower>
+<critrating>29</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreamwalker Regalia</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Heroes' Dreamwalker Spaulders</name>
+<id>39542</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>58998</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_12</iconpath>
+<stats>
+<armor>157</armor>
+<stamina>72</stamina>
+<strength>72</strength>
+<armorpenetrationrating>36</armorpenetrationrating>
+<critrating>46</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Drape of the Drakerider</name>
+<id>45138</id>
+<slot>Back</slot>
+</item>

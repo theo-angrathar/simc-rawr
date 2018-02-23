@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_89</iconpath>
+<stats>
+<armor>467</armor>
+<agility>101</agility>
+<stamina>101</stamina>
+<attackpower>119</attackpower>
+<armorpenetrationrating>67</armorpenetrationrating>
+<expertiserating>59</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>VanCleef's Battlegear</setname>
+<type>Leather</type>
+<faction>Alliance</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>VanCleef's Pauldrons of Triumph</name>
+<id>48227</id>
+<slot>Shoulders</slot>
+</item>

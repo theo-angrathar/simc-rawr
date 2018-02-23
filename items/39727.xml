@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54695</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_58</iconpath>
+<stats>
+<armor>362</armor>
+<agility>55</agility>
+<stamina>75</stamina>
+<attackpower>150</attackpower>
+<hitrating>50</hitrating>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Dislocating Handguards</name>
+<id>39727</id>
+<slot>Hands</slot>
+</item>

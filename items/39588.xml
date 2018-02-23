@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>1254</armor>
+<stamina>63</stamina>
+<intellect>71</intellect>
+<spellpower>85</spellpower>
+<hasterating>53</hasterating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Heroes' Earthshatter Tunic</name>
+<id>39588</id>
+<slot>Chest</slot>
+</item>

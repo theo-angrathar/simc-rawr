@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64458</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_35</iconpath>
+<stats>
+<armor>557</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spirit>96</spirit>
+<spellpower>140</spellpower>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Leggings of Unrelenting Blood</name>
+<id>50806</id>
+<slot>Legs</slot>
+</item>

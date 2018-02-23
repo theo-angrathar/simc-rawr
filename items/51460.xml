@@ -1,0 +1,29 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_160</iconpath>
+<stats>
+<armor>1225</armor>
+<agility>114</agility>
+<stamina>195</stamina>
+<attackpower>197</attackpower>
+<intellect>87</intellect>
+<critrating>98</critrating>
+<resilience>98</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Pursuit</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Wrathful Gladiator's Chain Helm</name>
+<id>51460</id>
+<slot>Head</slot>
+</item>

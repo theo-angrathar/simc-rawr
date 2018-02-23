@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_05</iconpath>
+<stats>
+<armor>821</armor>
+<agility>57</agility>
+<stamina>66</stamina>
+<attackpower>170</attackpower>
+<intellect>44</intellect>
+<critrating>44</critrating>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gloves of Unerring Aim</name>
+<id>45836</id>
+<slot>Hands</slot>
+</item>

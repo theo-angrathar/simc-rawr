@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_25</iconpath>
+<stats>
+<armor>280</armor>
+<stamina>80</stamina>
+<intellect>44</intellect>
+<spellpower>76</spellpower>
+<hitrating>55</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Robes of Lightning</name>
+<id>42844</id>
+<slot>Chest</slot>
+</item>

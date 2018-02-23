@@ -1,0 +1,26 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61653</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_23b</iconpath>
+<stats>
+<armor>285</armor>
+<agility>69</agility>
+<stamina>85</stamina>
+<attackpower>98</attackpower>
+<critrating>57</critrating>
+<hitrating>49</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Bracers of Dark Determination</name>
+<id>47155</id>
+<slot>Wrist</slot>
+</item>

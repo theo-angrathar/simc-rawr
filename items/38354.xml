@@ -1,0 +1,20 @@
+<item>
+<itemlevel>150</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_20</iconpath>
+<stats>
+<armor>113</armor>
+<intellect>23</intellect>
+<spellpower>32</spellpower>
+<critrating>30</critrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Oil-Stained Tarp</name>
+<id>38354</id>
+<slot>Back</slot>
+</item>

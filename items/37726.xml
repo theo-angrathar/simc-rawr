@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>50612</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_104</iconpath>
+<stats>
+<armor>985</armor>
+<agility>55</agility>
+<stamina>78</stamina>
+<attackpower>156</attackpower>
+<intellect>45</intellect>
+<hitrating>52</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>King Dred's Helm</name>
+<id>37726</id>
+<slot>Head</slot>
+</item>

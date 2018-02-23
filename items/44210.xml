@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>23171</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_misc_book_09</iconpath>
+<stats>
+<intellect>42</intellect>
+<spirit>42</spirit>
+<spellpower>49</spellpower>
+<critrating>42</critrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<speed>2</speed>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Faces of Doom</name>
+<id>44210</id>
+<slot>OffHand</slot>
+</item>

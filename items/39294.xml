@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57542</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet128</iconpath>
+<stats>
+<armor>1019</armor>
+<agility>47</agility>
+<stamina>78</stamina>
+<attackpower>148</attackpower>
+<intellect>47</intellect>
+<critrating>48</critrating>
+<hasterating>30</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Arc-Scorched Helmet</name>
+<id>39294</id>
+<slot>Head</slot>
+</item>

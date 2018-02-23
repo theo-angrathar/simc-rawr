@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1467</armor>
+<stamina>124</stamina>
+<strength>87</strength>
+<armorpenetrationrating>49</armorpenetrationrating>
+<critrating>60</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bladebreaker Gauntlets</name>
+<id>45833</id>
+<slot>Hands</slot>
+</item>

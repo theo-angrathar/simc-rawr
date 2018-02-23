@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_136</iconpath>
+<stats>
+<armor>244</armor>
+<stamina>102</stamina>
+<intellect>45</intellect>
+<spellpower>87</spellpower>
+<hitrating>44</hitrating>
+<resilience>43</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<resilience>8</resilience>
+</socketbonus>
+<name>Titan-Forged Hood of Dominance</name>
+<id>44910</id>
+<slot>Head</slot>
+</item>

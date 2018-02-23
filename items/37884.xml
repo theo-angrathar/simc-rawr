@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53893</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>131</armor>
+<stamina>36</stamina>
+<intellect>38</intellect>
+<spellpower>59</spellpower>
+<critrating>50</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Azure Cloth Bindings</name>
+<id>37884</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>54952</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_07</iconpath>
+<stats>
+<armor>362</armor>
+<agility>47</agility>
+<stamina>61</stamina>
+<attackpower>74</attackpower>
+<critrating>43</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Jormscale Footpads</name>
+<id>43256</id>
+<slot>Feet</slot>
+</item>

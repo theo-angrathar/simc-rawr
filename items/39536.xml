@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52613</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_19</iconpath>
+<stats>
+<armor>175</armor>
+<stamina>43</stamina>
+<intellect>51</intellect>
+<spellpower>60</spellpower>
+<mp5>19</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Thundercloud Grasps</name>
+<id>39536</id>
+<slot>Hands</slot>
+</item>

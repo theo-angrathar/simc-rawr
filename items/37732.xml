@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>31664</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_38</iconpath>
+<stats>
+<stamina>24</stamina>
+<intellect>30</intellect>
+<spirit>52</spirit>
+<spellpower>51</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spectral Seal of the Prophet</name>
+<id>37732</id>
+<slot>Finger</slot>
+</item>

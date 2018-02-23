@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_48c</iconpath>
+<stats>
+<armor>1321</armor>
+<stamina>84</stamina>
+<intellect>57</intellect>
+<spellpower>100</spellpower>
+<critrating>49</critrating>
+<mp5>30</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Girdle of Unyielding Trust</name>
+<id>45826</id>
+<slot>Waist</slot>
+</item>

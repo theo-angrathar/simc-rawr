@@ -1,0 +1,24 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54757</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_58</iconpath>
+<stats>
+<agility>43</agility>
+<stamina>37</stamina>
+<attackpower>66</attackpower>
+<critrating>31</critrating>
+<hitrating>21</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>153</mindamage>
+<maxdamage>285</maxdamage>
+<speed>1.4</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Webbed Death</name>
+<id>39714</id>
+<slot>OneHand</slot>
+</item>

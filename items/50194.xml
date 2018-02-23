@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64830</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_85</iconpath>
+<stats>
+<armor>1480</armor>
+<stamina>102</stamina>
+<strength>102</strength>
+<critrating>49</critrating>
+<hasterating>66</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Weeping Gauntlets</name>
+<id>50194</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52325</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_03</iconpath>
+<stats>
+<armor>1212</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>91</spellpower>
+<critrating>77</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Scaled Armor of Drakos</name>
+<id>37256</id>
+<slot>Chest</slot>
+</item>

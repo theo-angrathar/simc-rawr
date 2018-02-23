@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>39120</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_61</iconpath>
+<stats>
+<agility>61</agility>
+<stamina>68</stamina>
+<attackpower>102</attackpower>
+<armorpenetrationrating>39</armorpenetrationrating>
+<hitrating>38</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Planestalker Band</name>
+<id>47868</id>
+<slot>Finger</slot>
+</item>

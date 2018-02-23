@@ -1,0 +1,22 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56203</displayid>
+<displayslot>22</displayslot>
+<iconpath>inv_weapon_hand_01</iconpath>
+<stats>
+<agility>30</agility>
+<stamina>46</stamina>
+<armorpenetrationrating>29</armorpenetrationrating>
+</stats>
+<quality>Rare</quality>
+<type>FistWeapon</type>
+<faction>Neutral</faction>
+<mindamage>210</mindamage>
+<maxdamage>390</maxdamage>
+<speed>2.5</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Unholy Persuader</name>
+<id>44241</id>
+<slot>OffHand</slot>
+</item>

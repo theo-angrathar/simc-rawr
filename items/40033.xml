@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_29</iconpath>
+<stats>
+<stamina>12</stamina>
+<armorpenetrationrating>8</armorpenetrationrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Puissant Twilight Opal</name>
+<id>40033</id>
+<slot>Purple</slot>
+</item>

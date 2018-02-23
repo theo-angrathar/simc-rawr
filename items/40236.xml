@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54789</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_16</iconpath>
+<stats>
+<armor>212</armor>
+<stamina>57</stamina>
+<intellect>57</intellect>
+<spellpower>88</spellpower>
+<critrating>49</critrating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Serene Echoes</name>
+<id>40236</id>
+<slot>Feet</slot>
+</item>

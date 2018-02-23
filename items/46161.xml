@@ -1,0 +1,28 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_11</iconpath>
+<stats>
+<armor>480</armor>
+<agility>82</agility>
+<stamina>122</stamina>
+<attackpower>152</attackpower>
+<armorpenetrationrating>50</armorpenetrationrating>
+<critrating>75</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Nightsong Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Conqueror's Nightsong Headguard</name>
+<id>46161</id>
+<slot>Head</slot>
+</item>

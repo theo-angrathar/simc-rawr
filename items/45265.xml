@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59744</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_51</iconpath>
+<stats>
+<armor>443</armor>
+<agility>77</agility>
+<stamina>73</stamina>
+<attackpower>112</attackpower>
+<critrating>48</critrating>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Shoulderpads of the Monolith</name>
+<id>45265</id>
+<slot>Shoulders</slot>
+</item>

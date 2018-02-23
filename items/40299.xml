@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54865</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>964</armor>
+<agility>43</agility>
+<stamina>60</stamina>
+<attackpower>150</attackpower>
+<intellect>40</intellect>
+<critrating>53</critrating>
+<hasterating>38</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Pauldrons of the Abandoned</name>
+<id>40299</id>
+<slot>Shoulders</slot>
+</item>

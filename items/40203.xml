@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54767</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate09</iconpath>
+<stats>
+<armor>2298</armor>
+<stamina>150</stamina>
+<strength>84</strength>
+<hitrating>36</hitrating>
+<dodgerating>72</dodgerating>
+<defenserating>58</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Breastplate of Tormented Rage</name>
+<id>40203</id>
+<slot>Chest</slot>
+</item>

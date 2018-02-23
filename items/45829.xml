@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_15</iconpath>
+<stats>
+<armor>333</armor>
+<agility>84</agility>
+<stamina>84</stamina>
+<attackpower>124</attackpower>
+<hitrating>49</hitrating>
+<expertiserating>57</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of the Twilight Assassin</name>
+<id>45829</id>
+<slot>Waist</slot>
+</item>

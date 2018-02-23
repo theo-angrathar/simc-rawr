@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_78b</iconpath>
+<stats>
+<armor>373</armor>
+<stamina>68</stamina>
+<intellect>68</intellect>
+<spirit>52</spirit>
+<spellpower>96</spellpower>
+<hasterating>60</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Malfurion's Regalia</setname>
+<type>Leather</type>
+<faction>Horde</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Runetotem's Gloves of Conquest</name>
+<id>48183</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55859</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_13</iconpath>
+<stats>
+<armor>545</armor>
+<agility>62</agility>
+<stamina>90</stamina>
+<attackpower>78</attackpower>
+<critrating>36</critrating>
+<resilience>51</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Vestments</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Savage Gladiator's Leather Tunic</name>
+<id>41647</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55570</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_100</iconpath>
+<stats>
+<armor>225</armor>
+<stamina>76</stamina>
+<intellect>33</intellect>
+<spirit>36</spirit>
+<spellpower>68</spellpower>
+<resilience>44</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Investiture</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Hateful Gladiator's Mooncloth Mantle</name>
+<id>41867</id>
+<slot>Shoulders</slot>
+</item>

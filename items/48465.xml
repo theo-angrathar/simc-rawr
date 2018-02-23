@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_73</iconpath>
+<stats>
+<armor>1854</armor>
+<stamina>139</stamina>
+<strength>77</strength>
+<dodgerating>67</dodgerating>
+<defenserating>67</defenserating>
+<expertiserating>43</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Wrynn's Plate</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<dodgerating>4</dodgerating>
+</socketbonus>
+<name>Hellscream's Pauldrons of Triumph</name>
+<id>48465</id>
+<slot>Shoulders</slot>
+</item>

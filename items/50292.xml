@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64609</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32a</iconpath>
+<stats>
+<armor>139</armor>
+<stamina>51</stamina>
+<intellect>51</intellect>
+<spellpower>78</spellpower>
+<critrating>45</critrating>
+<hitrating>43</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bracer of Worn Molars</name>
+<id>50292</id>
+<slot>Wrist</slot>
+</item>

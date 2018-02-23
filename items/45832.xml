@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59722</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_94</iconpath>
+<stats>
+<armor>233</armor>
+<stamina>72</stamina>
+<intellect>56</intellect>
+<spirit>46</spirit>
+<spellpower>91</spellpower>
+<critrating>57</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mantle of the Preserver</name>
+<id>45832</id>
+<slot>Shoulders</slot>
+</item>

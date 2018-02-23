@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53884</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate10</iconpath>
+<stats>
+<armor>2241</armor>
+<stamina>135</stamina>
+<strength>68</strength>
+<parryrating>64</parryrating>
+<defenserating>52</defenserating>
+<expertiserating>45</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Massive Skeletal Ribcage</name>
+<id>39398</id>
+<slot>Chest</slot>
+</item>

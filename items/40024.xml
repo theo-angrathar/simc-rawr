@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_29</iconpath>
+<stats>
+<agility>8</agility>
+<mp5>4</mp5>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Tenuous Twilight Opal</name>
+<id>40024</id>
+<slot>Purple</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64516</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_117</iconpath>
+<stats>
+<stamina>92</stamina>
+<strength>42</strength>
+<hitrating>39</hitrating>
+<dodgerating>44</dodgerating>
+<defenserating>36</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>244</mindamage>
+<maxdamage>454</maxdamage>
+<speed>1.7</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bonebreaker Scepter</name>
+<id>50760</id>
+<slot>OneHand</slot>
+</item>

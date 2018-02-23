@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57095</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_12</iconpath>
+<stats>
+<armor>862</armor>
+<stamina>49</stamina>
+<intellect>52</intellect>
+<spellpower>77</spellpower>
+<critrating>50</critrating>
+<mp5>16</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Boots of Persistence</name>
+<id>39189</id>
+<slot>Feet</slot>
+</item>

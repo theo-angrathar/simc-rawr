@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_30</iconpath>
+<stats>
+<armor>2164</armor>
+<stamina>155</stamina>
+<strength>139</strength>
+<critrating>82</critrating>
+<expertiserating>82</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Wrynn's Battlegear</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Hellscream's Legplates of Triumph</name>
+<id>48394</id>
+<slot>Legs</slot>
+</item>

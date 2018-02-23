@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59728</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32a</iconpath>
+<stats>
+<armor>138</armor>
+<stamina>63</stamina>
+<intellect>46</intellect>
+<spellpower>74</spellpower>
+<hitrating>36</hitrating>
+<hasterating>42</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Bracers of Unleashed Magic</name>
+<id>45275</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55976</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_11</iconpath>
+<stats>
+<armor>477</armor>
+<stamina>58</stamina>
+<intellect>60</intellect>
+<spellpower>90</spellpower>
+<critrating>78</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Giant-Friend Kilt</name>
+<id>44194</id>
+<slot>Legs</slot>
+</item>

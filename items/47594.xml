@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61499</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate_23</iconpath>
+<stats>
+<armor>2473</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>131</spellpower>
+<critrating>66</critrating>
+<mp5>45</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Red</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Sunforged Breastplate</name>
+<id>47594</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54514</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_124</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>58</stamina>
+<intellect>77</intellect>
+<spirit>55</spirit>
+<spellpower>91</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Elder Headpiece</name>
+<id>37594</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_36</iconpath>
+<stats>
+<stamina>136</stamina>
+<attackpower>181</attackpower>
+<armorpenetrationrating>60</armorpenetrationrating>
+<resilience>60</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Pendant of Sundering</name>
+<id>51353</id>
+<slot>Neck</slot>
+</item>

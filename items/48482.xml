@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_75</iconpath>
+<stats>
+<armor>1545</armor>
+<stamina>115</stamina>
+<strength>107</strength>
+<critrating>67</critrating>
+<hitrating>59</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Thassarian's Battlegear</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Thassarian's Gauntlets of Triumph</name>
+<id>48482</id>
+<slot>Hands</slot>
+</item>

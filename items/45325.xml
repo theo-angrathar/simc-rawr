@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>58761</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_22</iconpath>
+<stats>
+<armor>369</armor>
+<agility>77</agility>
+<stamina>84</stamina>
+<attackpower>112</attackpower>
+<armorpenetrationrating>41</armorpenetrationrating>
+<hitrating>65</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Gloves of the Stonereaper</name>
+<id>45325</id>
+<slot>Hands</slot>
+</item>

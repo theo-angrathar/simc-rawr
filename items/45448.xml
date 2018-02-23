@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>59373</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_77</iconpath>
+<stats>
+<agility>51</agility>
+<stamina>53</stamina>
+<attackpower>62</attackpower>
+<armorpenetrationrating>24</armorpenetrationrating>
+<hitrating>34</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>257</mindamage>
+<maxdamage>387</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<armorpenetrationrating>4</armorpenetrationrating>
+</socketbonus>
+<name>Perilous Bite</name>
+<id>45448</id>
+<slot>OneHand</slot>
+</item>

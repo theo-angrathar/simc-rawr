@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>44841</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_71</iconpath>
+<stats>
+<bonusarmor>448</bonusarmor>
+<stamina>94</stamina>
+<strength>63</strength>
+<dodgerating>34</dodgerating>
+<defenserating>32</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The Leviathan's Coil</name>
+<id>45112</id>
+<slot>Finger</slot>
+</item>

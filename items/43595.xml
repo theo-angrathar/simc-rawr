@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55054</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_11</iconpath>
+<stats>
+<armor>884</armor>
+<stamina>129</stamina>
+<frostresistance>86</frostresistance>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>9</stamina>
+</socketbonus>
+<name>Icy Scale Boots</name>
+<id>43595</id>
+<slot>Feet</slot>
+</item>

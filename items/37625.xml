@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54517</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_30</iconpath>
+<stats>
+<armor>1354</armor>
+<stamina>49</stamina>
+<intellect>42</intellect>
+<spellpower>68</spellpower>
+<hasterating>57</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Web Winder Gloves</name>
+<id>37625</id>
+<slot>Hands</slot>
+</item>

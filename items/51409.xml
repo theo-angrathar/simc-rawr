@@ -1,0 +1,21 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_book_06</iconpath>
+<stats>
+<stamina>109</stamina>
+<intellect>48</intellect>
+<spirit>63</spirit>
+<spellpower>111</spellpower>
+<resilience>63</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Reprieve</name>
+<id>51409</id>
+<slot>OffHand</slot>
+</item>

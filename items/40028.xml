@@ -1,0 +1,17 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_29</iconpath>
+<stats>
+<spellpower>9</spellpower>
+<spellpenetration>10</spellpenetration>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Mysterious Twilight Opal</name>
+<id>40028</id>
+<slot>Purple</slot>
+</item>

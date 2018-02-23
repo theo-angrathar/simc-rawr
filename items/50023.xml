@@ -1,0 +1,24 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64213</displayid>
+<displayslot>2</displayslot>
+<iconpath>item_icecrownnecklaceb</iconpath>
+<stats>
+<bonusarmor>672</bonusarmor>
+<stamina>124</stamina>
+<strength>90</strength>
+<dodgerating>40</dodgerating>
+<defenserating>48</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Bile-Encrusted Medallion</name>
+<id>50023</id>
+<slot>Neck</slot>
+</item>

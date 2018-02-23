@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54623</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_108</iconpath>
+<stats>
+<armor>470</armor>
+<stamina>100</stamina>
+<intellect>77</intellect>
+<spellpower>99</spellpower>
+<hasterating>34</hasterating>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Headpiece of Fungal Bloom</name>
+<id>40304</id>
+<slot>Head</slot>
+</item>

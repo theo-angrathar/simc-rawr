@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>35358</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_29naxxramas</iconpath>
+<stats>
+<stamina>49</stamina>
+<intellect>46</intellect>
+<spellpower>74</spellpower>
+<hasterating>39</hasterating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Freya's Choker of Warding</name>
+<id>45116</id>
+<slot>Neck</slot>
+</item>

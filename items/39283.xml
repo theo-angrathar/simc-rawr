@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54211</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_18</iconpath>
+<stats>
+<armor>247</armor>
+<stamina>26</stamina>
+<intellect>36</intellect>
+<spirit>38</spirit>
+<spellpower>57</spellpower>
+<hasterating>29</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Putrescent Bands</name>
+<id>39283</id>
+<slot>Wrist</slot>
+</item>

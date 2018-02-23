@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53843</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_offhand_naxxramas_03</iconpath>
+<stats>
+<stamina>37</stamina>
+<intellect>38</intellect>
+<spirit>36</spirit>
+<spellpower>59</spellpower>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Watchful Eye</name>
+<id>39199</id>
+<slot>OffHand</slot>
+</item>

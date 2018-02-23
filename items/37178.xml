@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>51686</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_34</iconpath>
+<stats>
+<armor>1218</armor>
+<stamina>73</stamina>
+<strength>52</strength>
+<hasterating>56</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Strategist's Belt</name>
+<id>37178</id>
+<slot>Waist</slot>
+</item>

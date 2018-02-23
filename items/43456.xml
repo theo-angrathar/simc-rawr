@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56731</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_18</iconpath>
+<stats>
+<armor>1025</armor>
+<stamina>69</stamina>
+<intellect>46</intellect>
+<spellpower>80</spellpower>
+<resilience>46</resilience>
+<mp5>23</mp5>
+</stats>
+<quality>Rare</quality>
+<setname>Stormhide Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Stormhide Legguards</name>
+<id>43456</id>
+<slot>Legs</slot>
+</item>

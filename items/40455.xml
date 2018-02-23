@@ -1,0 +1,24 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>53294</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_staff_81</iconpath>
+<stats>
+<stamina>85</stamina>
+<intellect>108</intellect>
+<spirit>84</spirit>
+<spellpower>461</spellpower>
+<critrating>68</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Staff</type>
+<faction>Neutral</faction>
+<mindamage>287</mindamage>
+<maxdamage>549</maxdamage>
+<speed>3.2</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Staff of Restraint</name>
+<id>40455</id>
+<slot>TwoHand</slot>
+</item>

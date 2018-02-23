@@ -1,0 +1,20 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>29717</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_misc_book_07</iconpath>
+<stats>
+<stamina>44</stamina>
+<intellect>57</intellect>
+<spirit>40</spirit>
+<spellpower>64</spellpower>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Antique Cornerstone Grimoire</name>
+<id>49308</id>
+<slot>OffHand</slot>
+</item>

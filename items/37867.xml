@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53625</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_19</iconpath>
+<stats>
+<armor>199</armor>
+<stamina>45</stamina>
+<intellect>57</intellect>
+<spirit>39</spirit>
+<spellpower>59</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Footwraps of Teleportation</name>
+<id>37867</id>
+<slot>Feet</slot>
+</item>

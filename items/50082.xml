@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_129</iconpath>
+<stats>
+<armor>1894</armor>
+<stamina>122</stamina>
+<strength>114</strength>
+<armorpenetrationrating>63</armorpenetrationrating>
+<critrating>71</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Ymirjar Lord's Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Ymirjar Lord's Shoulderplates</name>
+<id>50082</id>
+<slot>Shoulders</slot>
+</item>

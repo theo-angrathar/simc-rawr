@@ -1,0 +1,28 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_29</iconpath>
+<stats>
+<armor>2032</armor>
+<stamina>135</stamina>
+<strength>106</strength>
+<dodgerating>40</dodgerating>
+<parryrating>55</parryrating>
+<defenserating>56</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Aegis Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Valorous Aegis Legguards</name>
+<id>45384</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_104</iconpath>
+<stats>
+<armor>883</armor>
+<agility>107</agility>
+<stamina>84</stamina>
+<attackpower>126</attackpower>
+<intellect>56</intellect>
+<critrating>71</critrating>
+<hitrating>48</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Frost Witch's Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Frost Witch's Grips</name>
+<id>50831</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>61550</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_32</iconpath>
+<stats>
+<armor>1132</armor>
+<stamina>116</stamina>
+<strength>65</strength>
+<parryrating>49</parryrating>
+<defenserating>57</defenserating>
+<expertiserating>43</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<stamina>6</stamina>
+</socketbonus>
+<name>Armguards of the Shieldmaiden</name>
+<id>47459</id>
+<slot>Wrist</slot>
+</item>

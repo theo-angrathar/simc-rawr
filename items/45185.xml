@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59112</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_38a</iconpath>
+<stats>
+<armor>333</armor>
+<stamina>73</stamina>
+<intellect>57</intellect>
+<spirit>62</spirit>
+<spellpower>99</spellpower>
+<critrating>55</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Flamewrought Cinch</name>
+<id>45185</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>40038</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_29</iconpath>
+<stats>
+<stamina>89</stamina>
+<strength>42</strength>
+<dodgerating>30</dodgerating>
+<blockvalue>104</blockvalue>
+<defenserating>34</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The Warlord's Depravity</name>
+<id>47566</id>
+<slot>Neck</slot>
+</item>

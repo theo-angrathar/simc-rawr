@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_plate_29</iconpath>
+<stats>
+<armor>2073</armor>
+<stamina>137</stamina>
+<strength>121</strength>
+<critrating>72</critrating>
+<expertiserating>72</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Battlegear</setname>
+<type>Plate</type>
+<faction>Alliance</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Turalyon's Legplates of Conquest</name>
+<id>48605</id>
+<slot>Legs</slot>
+</item>

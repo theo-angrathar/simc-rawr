@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>26537</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_26</iconpath>
+<stats>
+<stamina>76</stamina>
+<strength>76</strength>
+<critrating>47</critrating>
+<expertiserating>40</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The Lady's Promise</name>
+<id>50306</id>
+<slot>Finger</slot>
+</item>

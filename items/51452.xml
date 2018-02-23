@@ -1,0 +1,23 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shield_71</iconpath>
+<stats>
+<armor>9051</armor>
+<stamina>109</stamina>
+<intellect>48</intellect>
+<spellpower>111</spellpower>
+<critrating>63</critrating>
+<blockvalue>253</blockvalue>
+<resilience>63</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Barrier</name>
+<id>51452</id>
+<slot>OffHand</slot>
+</item>

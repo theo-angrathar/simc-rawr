@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55545</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_136</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>88</stamina>
+<intellect>39</intellect>
+<spirit>36</spirit>
+<spellpower>73</spellpower>
+<resilience>36</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Gladiator's Investiture</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Savage Gladiator's Mooncloth Hood</name>
+<id>41848</id>
+<slot>Head</slot>
+</item>

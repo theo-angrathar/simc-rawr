@@ -1,0 +1,23 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64696</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_31</iconpath>
+<stats>
+<armor>580</armor>
+<agility>67</agility>
+<stamina>59</stamina>
+<attackpower>96</attackpower>
+<intellect>27</intellect>
+<critrating>40</critrating>
+<hitrating>35</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Essence of Suffering</name>
+<id>50209</id>
+<slot>Wrist</slot>
+</item>

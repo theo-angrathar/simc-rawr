@@ -1,0 +1,21 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>26141</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_18</iconpath>
+<stats>
+<armor>166</armor>
+<stamina>86</stamina>
+<strength>86</strength>
+<critrating>54</critrating>
+<hitrating>44</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Might of the Nerub</name>
+<id>47320</id>
+<slot>Back</slot>
+</item>

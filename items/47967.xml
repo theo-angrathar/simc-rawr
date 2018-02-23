@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60617</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_145</iconpath>
+<stats>
+<bonusarmor>522</bonusarmor>
+<stamina>76</stamina>
+<strength>58</strength>
+<dodgerating>14</dodgerating>
+<defenserating>31</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Alliance</faction>
+<mindamage>206</mindamage>
+<maxdamage>384</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<dodgerating>4</dodgerating>
+</socketbonus>
+<name>Crusader's Glory</name>
+<id>47967</id>
+<slot>OneHand</slot>
+</item>

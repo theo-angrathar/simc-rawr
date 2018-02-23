@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59718</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_44</iconpath>
+<stats>
+<armor>175</armor>
+<stamina>75</stamina>
+<intellect>54</intellect>
+<spirit>60</spirit>
+<spellpower>93</spellpower>
+<critrating>41</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Conductive Cord</name>
+<id>45694</id>
+<slot>Waist</slot>
+</item>

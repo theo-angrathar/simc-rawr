@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>60609</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_95</iconpath>
+<stats>
+<agility>52</agility>
+<stamina>38</stamina>
+<attackpower>74</attackpower>
+<armorpenetrationrating>36</armorpenetrationrating>
+<critrating>41</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Alliance</faction>
+<mindamage>283</mindamage>
+<maxdamage>425</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Icefall Blade</name>
+<id>47953</id>
+<slot>OneHand</slot>
+</item>

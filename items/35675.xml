@@ -1,0 +1,22 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>52353</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_07</iconpath>
+<stats>
+<armor>1158</armor>
+<agility>68</agility>
+<stamina>57</stamina>
+<attackpower>104</attackpower>
+<intellect>40</intellect>
+<hitrating>28</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Linked Armor of the Sphere</name>
+<id>35675</id>
+<slot>Chest</slot>
+</item>

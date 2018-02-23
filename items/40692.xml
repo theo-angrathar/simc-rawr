@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_18</iconpath>
+<stats>
+<armor>705</armor>
+<agility>57</agility>
+<stamina>69</stamina>
+<attackpower>88</attackpower>
+<armorpenetrationrating>35</armorpenetrationrating>
+<intellect>34</intellect>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Vereesa's Silver Chain Belt</name>
+<id>40692</id>
+<slot>Waist</slot>
+</item>

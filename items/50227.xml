@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64766</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_shortblade_100</iconpath>
+<stats>
+<stamina>39</stamina>
+<intellect>52</intellect>
+<spellpower>550</spellpower>
+<critrating>39</critrating>
+<mp5>26</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>88</mindamage>
+<maxdamage>283</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Surgeon's Needle</name>
+<id>50227</id>
+<slot>MainHand</slot>
+</item>

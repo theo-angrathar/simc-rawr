@@ -1,0 +1,29 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_15</iconpath>
+<stats>
+<armor>1045</armor>
+<agility>66</agility>
+<stamina>78</stamina>
+<attackpower>170</attackpower>
+<intellect>53</intellect>
+<critrating>51</critrating>
+<hitrating>36</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Earthshatter Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<stamina>12</stamina>
+</socketbonus>
+<name>Valorous Earthshatter Faceguard</name>
+<id>40521</id>
+<slot>Head</slot>
+</item>

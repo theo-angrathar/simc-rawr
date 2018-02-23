@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_68</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>41</intellect>
+<spirit>32</spirit>
+<spellpower>65</spellpower>
+<hasterating>43</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Band of Channeled Magic</name>
+<id>40719</id>
+<slot>Finger</slot>
+</item>

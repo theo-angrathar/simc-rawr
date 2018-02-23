@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54972</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_11</iconpath>
+<stats>
+<armor>506</armor>
+<stamina>75</stamina>
+<intellect>72</intellect>
+<spirit>58</spirit>
+<spellpower>99</spellpower>
+<hasterating>61</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Legguards of the Boneyard</name>
+<id>40379</id>
+<slot>Legs</slot>
+</item>

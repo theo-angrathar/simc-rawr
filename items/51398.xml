@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_shortblade_107</iconpath>
+<stats>
+<stamina>99</stamina>
+<intellect>66</intellect>
+<spellpower>836</spellpower>
+<resilience>58</resilience>
+<hasterating>58</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>133</mindamage>
+<maxdamage>375</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Wrathful Gladiator's Blade of Celerity</name>
+<id>51398</id>
+<slot>MainHand</slot>
+</item>

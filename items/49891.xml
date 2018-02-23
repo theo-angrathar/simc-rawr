@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64241</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_34</iconpath>
+<stats>
+<armor>309</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>162</spellpower>
+<critrating>84</critrating>
+<hasterating>108</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Leggings of Woven Death</name>
+<id>49891</id>
+<slot>Legs</slot>
+</item>

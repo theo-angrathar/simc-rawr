@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52569</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_datacrystal01</iconpath>
+<stats>
+<stamina>37</stamina>
+<intellect>31</intellect>
+<spellpower>51</spellpower>
+<hasterating>42</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Temple Crystal Fragment</name>
+<id>37718</id>
+<slot>OffHand</slot>
+</item>

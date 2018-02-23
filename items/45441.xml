@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61873</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_21</iconpath>
+<stats>
+<armor>216</armor>
+<stamina>63</stamina>
+<intellect>64</intellect>
+<spirit>62</spirit>
+<spellpower>99</spellpower>
+<critrating>49</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sandals of the Ancient Keeper</name>
+<id>45441</id>
+<slot>Feet</slot>
+</item>

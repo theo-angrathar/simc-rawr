@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53826</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_26</iconpath>
+<stats>
+<armor>263</armor>
+<stamina>67</stamina>
+<intellect>68</intellect>
+<spellpower>105</spellpower>
+<critrating>89</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Woven Bracae Leggings</name>
+<id>37854</id>
+<slot>Legs</slot>
+</item>

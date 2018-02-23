@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59033</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_52</iconpath>
+<stats>
+<armor>194</armor>
+<stamina>68</stamina>
+<intellect>56</intellect>
+<spirit>39</spirit>
+<spellpower>92</spellpower>
+<hitrating>60</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Static Charge Handwraps</name>
+<id>45976</id>
+<slot>Hands</slot>
+</item>

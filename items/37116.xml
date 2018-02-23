@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_77</iconpath>
+<stats>
+<armor>878</armor>
+<stamina>51</stamina>
+<intellect>35</intellect>
+<spellpower>60</spellpower>
+<mp5>25</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Epaulets of Market Row</name>
+<id>37116</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56934</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_140</iconpath>
+<stats>
+<armor>1045</armor>
+<stamina>115</stamina>
+<intellect>50</intellect>
+<spellpower>99</spellpower>
+<resilience>50</resilience>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Wartide</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<mp5>3</mp5>
+</socketbonus>
+<name>Deadly Gladiator's Ringmail Helm</name>
+<id>41012</id>
+<slot>Head</slot>
+</item>

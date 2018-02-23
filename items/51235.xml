@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_133</iconpath>
+<stats>
+<armor>1157</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>150</spellpower>
+<critrating>90</critrating>
+<hasterating>82</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Frost Witch's Regalia</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Sanctified Frost Witch's Shoulderpads</name>
+<id>51235</id>
+<slot>Shoulders</slot>
+</item>

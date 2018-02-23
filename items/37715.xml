@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52529</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_107</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>67</stamina>
+<intellect>55</intellect>
+<spirit>78</spirit>
+<spellpower>91</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cowl of the Dire Troll</name>
+<id>37715</id>
+<slot>Head</slot>
+</item>

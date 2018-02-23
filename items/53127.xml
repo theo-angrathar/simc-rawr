@@ -1,0 +1,25 @@
+<item>
+<itemlevel>271</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_boots_mail_06</iconpath>
+<stats>
+<agility>128</agility>
+<stamina>101</stamina>
+<attackpower>139</attackpower>
+<armorpenetrationrating>51</armorpenetrationrating>
+<intellect>67</intellect>
+<critrating>86</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Returning Footfalls</name>
+<id>53127</id>
+<slot>Feet</slot>
+</item>

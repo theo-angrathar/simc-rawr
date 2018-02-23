@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_92</iconpath>
+<stats>
+<armor>1570</armor>
+<stamina>78</stamina>
+<strength>50</strength>
+<dodgerating>37</dodgerating>
+<defenserating>29</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Crusader's Square Pauldrons</name>
+<id>37115</id>
+<slot>Shoulders</slot>
+</item>

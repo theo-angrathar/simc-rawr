@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_05</iconpath>
+<stats>
+<armor>157</armor>
+<stamina>46</stamina>
+<intellect>49</intellect>
+<spellpower>74</spellpower>
+<hasterating>36</hasterating>
+<mp5>23</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shroud of Alteration</name>
+<id>45541</id>
+<slot>Back</slot>
+</item>

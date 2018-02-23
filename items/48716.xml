@@ -1,0 +1,23 @@
+<item>
+<itemlevel>1</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_hammer_17</iconpath>
+<stats>
+<agility>29</agility>
+<stamina>44</stamina>
+<attackpower>39</attackpower>
+<critrating>19</critrating>
+</stats>
+<quality>Heirloom</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>235</mindamage>
+<maxdamage>436</maxdamage>
+<speed>2.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Venerable Mass of McGowan</name>
+<id>48716</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62079</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_leather_03a</iconpath>
+<stats>
+<armor>428</armor>
+<agility>93</agility>
+<stamina>85</stamina>
+<attackpower>127</attackpower>
+<hitrating>69</hitrating>
+<expertiserating>51</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<critrating>6</critrating>
+</socketbonus>
+<name>Acidmaw Treads</name>
+<id>47992</id>
+<slot>Feet</slot>
+</item>

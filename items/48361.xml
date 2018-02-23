@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_67</iconpath>
+<stats>
+<armor>1038</armor>
+<agility>59</agility>
+<stamina>80</stamina>
+<attackpower>186</attackpower>
+<intellect>53</intellect>
+<critrating>67</critrating>
+<hitrating>53</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Battlegear</setname>
+<type>Mail</type>
+<faction>Horde</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Thrall's Shoulderguards of Triumph</name>
+<id>48361</id>
+<slot>Shoulders</slot>
+</item>

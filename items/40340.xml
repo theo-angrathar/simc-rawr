@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>57544</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_18</iconpath>
+<stats>
+<armor>1045</armor>
+<stamina>87</stamina>
+<intellect>72</intellect>
+<spellpower>99</spellpower>
+<hasterating>33</hasterating>
+<mp5>31</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hasterating>8</hasterating>
+</socketbonus>
+<name>Helm of Unleashed Energy</name>
+<id>40340</id>
+<slot>Head</slot>
+</item>

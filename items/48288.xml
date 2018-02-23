@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_25</iconpath>
+<stats>
+<armor>1211</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>140</spellpower>
+<critrating>84</critrating>
+<mp5>40</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Garb</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Nobundo's Legguards of Triumph</name>
+<id>48288</id>
+<slot>Legs</slot>
+</item>

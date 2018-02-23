@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35373</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_27naxxramas</iconpath>
+<stats>
+<agility>36</agility>
+<stamina>29</stamina>
+<attackpower>100</attackpower>
+<hitrating>24</hitrating>
+<expertiserating>38</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Collar of Dissolution</name>
+<id>39146</id>
+<slot>Neck</slot>
+</item>

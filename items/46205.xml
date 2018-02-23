@@ -1,0 +1,29 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_chain_15</iconpath>
+<stats>
+<armor>1314</armor>
+<agility>66</agility>
+<stamina>56</stamina>
+<attackpower>212</attackpower>
+<intellect>60</intellect>
+<critrating>68</critrating>
+<hitrating>66</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Worldbreaker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Conqueror's Worldbreaker Chestguard</name>
+<id>46205</id>
+<slot>Chest</slot>
+</item>

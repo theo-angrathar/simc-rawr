@@ -1,0 +1,28 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_148</iconpath>
+<stats>
+<armor>564</armor>
+<stamina>139</stamina>
+<intellect>139</intellect>
+<spirit>114</spirit>
+<spellpower>186</spellpower>
+<critrating>106</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Lasherweave Garb</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Sanctified Lasherweave Helmet</name>
+<id>51302</id>
+<slot>Head</slot>
+</item>

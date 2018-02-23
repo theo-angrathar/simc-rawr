@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56296</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_11</iconpath>
+<stats>
+<armor>1097</armor>
+<stamina>69</stamina>
+<intellect>67</intellect>
+<spellpower>104</spellpower>
+<mp5>36</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Kilt of Dark Mercy</name>
+<id>44305</id>
+<slot>Legs</slot>
+</item>

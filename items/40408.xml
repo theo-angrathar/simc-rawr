@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_shortblade_82</iconpath>
+<stats>
+<stamina>40</stamina>
+<intellect>41</intellect>
+<spirit>23</spirit>
+<spellpower>461</spellpower>
+<hitrating>45</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>77</mindamage>
+<maxdamage>248</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Haunting Call</name>
+<id>40408</id>
+<slot>MainHand</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_08</iconpath>
+<stats>
+<armor>682</armor>
+<agility>38</agility>
+<stamina>45</stamina>
+<attackpower>100</attackpower>
+<intellect>31</intellect>
+<critrating>38</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Belt of Tasseled Lanterns</name>
+<id>37648</id>
+<slot>Waist</slot>
+</item>

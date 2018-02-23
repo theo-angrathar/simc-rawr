@@ -1,0 +1,25 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_mace_48</iconpath>
+<stats>
+<agility>62</agility>
+<stamina>60</stamina>
+<attackpower>83</attackpower>
+<critrating>42</critrating>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>374</mindamage>
+<maxdamage>695</maxdamage>
+<speed>2.6</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cudgel of Furious Justice</name>
+<id>50050</id>
+<slot>OneHand</slot>
+</item>

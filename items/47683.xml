@@ -1,0 +1,26 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61941</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_07</iconpath>
+<stats>
+<armor>911</armor>
+<agility>89</agility>
+<stamina>71</stamina>
+<attackpower>119</attackpower>
+<intellect>47</intellect>
+<critrating>52</critrating>
+<hasterating>39</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Sentinel Scouting Greaves</name>
+<id>47683</id>
+<slot>Feet</slot>
+</item>

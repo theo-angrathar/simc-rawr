@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_13</iconpath>
+<stats>
+<armor>739</armor>
+<agility>57</agility>
+<stamina>97</stamina>
+<attackpower>96</attackpower>
+<intellect>35</intellect>
+<critrating>56</critrating>
+<resilience>56</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter|Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Furious Gladiator's Waistguard of Triumph</name>
+<id>41235</id>
+<slot>Waist</slot>
+</item>

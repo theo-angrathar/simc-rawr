@@ -1,0 +1,25 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54893</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_sword_121</iconpath>
+<stats>
+<stamina>42</stamina>
+<intellect>44</intellect>
+<spellpower>461</spellpower>
+<critrating>42</critrating>
+<hasterating>29</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>77</mindamage>
+<maxdamage>248</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Life and Death</name>
+<id>40336</id>
+<slot>MainHand</slot>
+</item>

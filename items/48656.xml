@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_62</iconpath>
+<stats>
+<armor>1777</armor>
+<stamina>122</stamina>
+<strength>68</strength>
+<dodgerating>60</dodgerating>
+<defenserating>60</defenserating>
+<expertiserating>37</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Plate</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<dodgerating>4</dodgerating>
+</socketbonus>
+<name>Liadrin's Shoulderguards of Conquest</name>
+<id>48656</id>
+<slot>Shoulders</slot>
+</item>

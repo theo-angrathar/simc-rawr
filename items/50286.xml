@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64579</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_26</iconpath>
+<stats>
+<armor>218</armor>
+<stamina>68</stamina>
+<intellect>68</intellect>
+<spirit>61</spirit>
+<spellpower>105</spellpower>
+<hasterating>57</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Prelate's Snowshoes</name>
+<id>50286</id>
+<slot>Feet</slot>
+</item>

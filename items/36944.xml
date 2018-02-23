@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>50971</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_weapon_shortblade_72</iconpath>
+<stats>
+<agility>29</agility>
+<stamina>24</stamina>
+<attackpower>56</attackpower>
+<hitrating>20</hitrating>
+</stats>
+<quality>Rare</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>172</mindamage>
+<maxdamage>259</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Lifeblade of Belgaristrasz</name>
+<id>36944</id>
+<slot>OneHand</slot>
+</item>

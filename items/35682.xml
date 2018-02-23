@@ -1,0 +1,21 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_08</iconpath>
+<stats>
+<armor>121</armor>
+<stamina>33</stamina>
+<intellect>40</intellect>
+<spirit>25</spirit>
+<spellpower>33</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Rune Giant Bindings</name>
+<id>35682</id>
+<slot>Wrist</slot>
+</item>

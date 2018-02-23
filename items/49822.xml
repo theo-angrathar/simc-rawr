@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64621</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_cloth_01</iconpath>
+<stats>
+<armor>272</armor>
+<stamina>93</stamina>
+<intellect>76</intellect>
+<spellpower>115</spellpower>
+<critrating>71</critrating>
+<hasterating>63</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Rimewoven Silks</name>
+<id>49822</id>
+<slot>Legs</slot>
+</item>

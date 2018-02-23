@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55772</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_53</iconpath>
+<stats>
+<armor>1308</armor>
+<stamina>77</stamina>
+<strength>40</strength>
+<hitrating>25</hitrating>
+<dodgerating>51</dodgerating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Giant-Sized Gauntlets</name>
+<id>44120</id>
+<slot>Hands</slot>
+</item>

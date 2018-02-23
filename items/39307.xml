@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>57072</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_07</iconpath>
+<stats>
+<armor>549</armor>
+<stamina>36</stamina>
+<intellect>38</intellect>
+<spellpower>59</spellpower>
+<critrating>36</critrating>
+<mp5>15</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Iron Rings of Endurance</name>
+<id>39307</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64374</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_68</iconpath>
+<stats>
+<armor>190</armor>
+<stamina>81</stamina>
+<intellect>81</intellect>
+<spirit>54</spirit>
+<spellpower>106</spellpower>
+<hasterating>68</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Cord of the Patronizing Practitioner</name>
+<id>50773</id>
+<slot>Waist</slot>
+</item>

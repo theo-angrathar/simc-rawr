@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61932</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_89</iconpath>
+<stats>
+<armor>467</armor>
+<stamina>69</stamina>
+<intellect>75</intellect>
+<spellpower>99</spellpower>
+<critrating>67</critrating>
+<hasterating>59</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Shoulderpads of the Glacial Wilds</name>
+<id>47923</id>
+<slot>Shoulders</slot>
+</item>

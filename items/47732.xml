@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_54</iconpath>
+<stats>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spirit>50</spirit>
+<spellpower>89</spellpower>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Band of the Invoker</name>
+<id>47732</id>
+<slot>Finger</slot>
+</item>

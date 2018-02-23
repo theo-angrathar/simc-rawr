@@ -1,0 +1,9 @@
+<enchant>
+<id>2940</id>
+<name>Boar's Speed</name>
+<slot>Feet</slot>
+<stats>
+<stamina>9</stamina>
+<movementspeed>0.08</movementspeed>
+</stats>
+</enchant>

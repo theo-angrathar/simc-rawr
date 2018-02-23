@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55379</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_15</iconpath>
+<stats>
+<armor>1261</armor>
+<stamina>97</stamina>
+<strength>67</strength>
+<critrating>33</critrating>
+<hitrating>51</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Girdle of the Ascended Phantom</name>
+<id>39345</id>
+<slot>Waist</slot>
+</item>

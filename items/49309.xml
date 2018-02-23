@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>9823</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_13</iconpath>
+<stats>
+<bonusarmor>700</bonusarmor>
+<stamina>100</stamina>
+<defenserating>50</defenserating>
+<frostresistance>25</frostresistance>
+<natureresistance>25</natureresistance>
+<fireresistance>25</fireresistance>
+<shadowresistance>25</shadowresistance>
+<arcaneresistance>25</arcaneresistance>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Runed Ring of Binding</name>
+<id>49309</id>
+<slot>Finger</slot>
+</item>

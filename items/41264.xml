@@ -1,0 +1,18 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56681</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_10</iconpath>
+<stats>
+<armor>239</armor>
+<parryrating>82</parryrating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Deflecting Bracers</name>
+<id>41264</id>
+<slot>Wrist</slot>
+</item>

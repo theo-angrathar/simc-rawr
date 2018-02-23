@@ -1,0 +1,21 @@
+<item>
+<itemlevel>158</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shield_44</iconpath>
+<stats>
+<armor>4833</armor>
+<intellect>18</intellect>
+<spellpower>37</spellpower>
+<critrating>24</critrating>
+<blockvalue>154</blockvalue>
+</stats>
+<quality>Uncommon</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ritualistic Shield</name>
+<id>39844</id>
+<slot>OffHand</slot>
+</item>

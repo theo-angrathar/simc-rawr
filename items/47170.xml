@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_26</iconpath>
+<stats>
+<armor>317</armor>
+<agility>66</agility>
+<stamina>38</stamina>
+<attackpower>101</attackpower>
+<armorpenetrationrating>47</armorpenetrationrating>
+<critrating>31</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of Fierce Competition</name>
+<id>47170</id>
+<slot>Waist</slot>
+</item>

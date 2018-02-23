@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54845</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_18</iconpath>
+<stats>
+<armor>723</armor>
+<agility>74</agility>
+<stamina>64</stamina>
+<attackpower>110</attackpower>
+<intellect>34</intellect>
+<critrating>33</critrating>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Depraved Linked Belt</name>
+<id>40275</id>
+<slot>Waist</slot>
+</item>

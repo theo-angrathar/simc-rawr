@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55324</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_72</iconpath>
+<stats>
+<armor>231</armor>
+<stamina>75</stamina>
+<intellect>57</intellect>
+<spellpower>88</spellpower>
+<critrating>50</critrating>
+<mp5>19</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sympathetic Amice</name>
+<id>40289</id>
+<slot>Shoulders</slot>
+</item>

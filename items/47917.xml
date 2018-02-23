@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62065</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_53</iconpath>
+<stats>
+<armor>1545</armor>
+<stamina>115</stamina>
+<strength>99</strength>
+<critrating>71</critrating>
+<hitrating>45</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Gauntlets of Rising Anger</name>
+<id>47917</id>
+<slot>Hands</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>55561</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_136</iconpath>
+<stats>
+<armor>250</armor>
+<stamina>115</stamina>
+<intellect>50</intellect>
+<spellpower>99</spellpower>
+<critrating>51</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Raiment</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<resilience>8</resilience>
+</socketbonus>
+<name>Deadly Gladiator's Satin Hood</name>
+<id>41914</id>
+<slot>Head</slot>
+</item>

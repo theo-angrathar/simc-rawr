@@ -1,0 +1,27 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_90</iconpath>
+<stats>
+<armor>248</armor>
+<stamina>77</stamina>
+<intellect>77</intellect>
+<spirit>67</spirit>
+<spellpower>109</spellpower>
+<critrating>59</critrating>
+</stats>
+<quality>Epic</quality>
+<setname>Velen's Regalia</setname>
+<type>Cloth</type>
+<faction>Horde</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Zabra's Mantle of Triumph</name>
+<id>48092</id>
+<slot>Shoulders</slot>
+</item>

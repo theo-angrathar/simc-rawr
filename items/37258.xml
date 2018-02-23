@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52317</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_28</iconpath>
+<stats>
+<armor>290</armor>
+<stamina>49</stamina>
+<intellect>69</intellect>
+<spellpower>73</spellpower>
+<hasterating>59</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<intellect>6</intellect>
+</socketbonus>
+<name>Drakewing Raiments</name>
+<id>37258</id>
+<slot>Chest</slot>
+</item>

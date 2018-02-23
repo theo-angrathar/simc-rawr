@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59273</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_plate_25</iconpath>
+<stats>
+<armor>1150</armor>
+<agility>97</agility>
+<stamina>118</stamina>
+<attackpower>146</attackpower>
+<armorpenetrationrating>60</armorpenetrationrating>
+<intellect>59</intellect>
+<critrating>58</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Saronite Mesh Legguards</name>
+<id>45143</id>
+<slot>Legs</slot>
+</item>

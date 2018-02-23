@@ -1,0 +1,24 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>62971</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_weapon_shortblade_06</iconpath>
+<stats>
+<stamina>40</stamina>
+<intellect>58</intellect>
+<spellpower>621</spellpower>
+<critrating>46</critrating>
+<mp5>29</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>81</mindamage>
+<maxdamage>260</maxdamage>
+<speed>1.5</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Honed Fang of the Mystics</name>
+<id>49494</id>
+<slot>MainHand</slot>
+</item>

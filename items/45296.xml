@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>58949</displayid>
+<displayslot>25</displayslot>
+<iconpath>inv_throwingknife_08</iconpath>
+<stats>
+<agility>23</agility>
+<stamina>28</stamina>
+<attackpower>62</attackpower>
+<armorpenetrationrating>28</armorpenetrationrating>
+<hitrating>22</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Thrown</type>
+<faction>Neutral</faction>
+<mindamage>390</mindamage>
+<maxdamage>586</maxdamage>
+<speed>2.1</speed>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Twirling Blades</name>
+<id>45296</id>
+<slot>Ranged</slot>
+</item>

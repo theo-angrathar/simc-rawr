@@ -1,0 +1,23 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_09</iconpath>
+<stats>
+<armor>259</armor>
+<agility>63</agility>
+<stamina>73</stamina>
+<attackpower>62</attackpower>
+<critrating>43</critrating>
+<resilience>41</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue|Druid</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Furious Gladiator's Armwraps of Triumph</name>
+<id>41840</id>
+<slot>Wrist</slot>
+</item>

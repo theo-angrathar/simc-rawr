@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64650</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_157</iconpath>
+<stats>
+<armor>1056</armor>
+<stamina>76</stamina>
+<intellect>70</intellect>
+<spellpower>105</spellpower>
+<hasterating>54</hasterating>
+<mp5>34</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hasterating>8</hasterating>
+</socketbonus>
+<name>Polished Mirror Helm</name>
+<id>49804</id>
+<slot>Head</slot>
+</item>

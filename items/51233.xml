@@ -1,0 +1,28 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_cloth_77</iconpath>
+<stats>
+<armor>369</armor>
+<stamina>139</stamina>
+<intellect>139</intellect>
+<spellpower>195</spellpower>
+<critrating>122</critrating>
+<hasterating>106</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Dark Coven's Regalia</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Sanctified Dark Coven Robe</name>
+<id>51233</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61785</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_71</iconpath>
+<stats>
+<armor>8309</armor>
+<stamina>108</stamina>
+<strength>71</strength>
+<dodgerating>37</dodgerating>
+<blockvalue>349</blockvalue>
+<defenserating>36</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Forlorn Barrier</name>
+<id>47260</id>
+<slot>OffHand</slot>
+</item>

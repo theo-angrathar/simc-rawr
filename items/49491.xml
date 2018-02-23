@@ -1,0 +1,24 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>29719</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>166</armor>
+<stamina>66</stamina>
+<intellect>54</intellect>
+<spellpower>89</spellpower>
+<critrating>50</critrating>
+<hasterating>35</hasterating>
+<frostresistance>6</frostresistance>
+<arcaneresistance>6</arcaneresistance>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Flowing Sapphiron Drape</name>
+<id>49491</id>
+<slot>Back</slot>
+</item>

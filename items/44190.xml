@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>55964</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_101</iconpath>
+<stats>
+<armor>395</armor>
+<agility>34</agility>
+<stamina>51</stamina>
+<attackpower>100</attackpower>
+<hasterating>52</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spaulders of Frozen Knives</name>
+<id>44190</id>
+<slot>Shoulders</slot>
+</item>

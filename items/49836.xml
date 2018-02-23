@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64712</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_33</iconpath>
+<stats>
+<armor>1137</armor>
+<agility>76</agility>
+<stamina>93</stamina>
+<attackpower>212</attackpower>
+<armorpenetrationrating>60</armorpenetrationrating>
+<intellect>56</intellect>
+<critrating>49</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Frostsworn Bone Leggings</name>
+<id>49836</id>
+<slot>Legs</slot>
+</item>

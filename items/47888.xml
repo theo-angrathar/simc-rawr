@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>39128</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_59</iconpath>
+<stats>
+<bonusarmor>490</bonusarmor>
+<stamina>100</stamina>
+<strength>67</strength>
+<dodgerating>38</dodgerating>
+<defenserating>31</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Band of the Twin Val'kyr</name>
+<id>47888</id>
+<slot>Finger</slot>
+</item>

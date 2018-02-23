@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54875</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>135</armor>
+<stamina>48</stamina>
+<intellect>43</intellect>
+<spellpower>66</spellpower>
+<critrating>41</critrating>
+<mp5>14</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Bindings of Yearning</name>
+<id>40338</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35472</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_51naxxramas</iconpath>
+<stats>
+<stamina>37</stamina>
+<intellect>38</intellect>
+<spellpower>59</spellpower>
+<critrating>33</critrating>
+<mp5>16</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Band of Neglected Pleas</name>
+<id>39193</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_146</iconpath>
+<stats>
+<armor>269</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>131</spellpower>
+<hitrating>74</hitrating>
+<hasterating>82</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Hood of Fiery Aftermath</name>
+<id>47693</id>
+<slot>Head</slot>
+</item>

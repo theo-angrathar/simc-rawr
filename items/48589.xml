@@ -1,0 +1,28 @@
+<item>
+<itemlevel>258</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_plate_23</iconpath>
+<stats>
+<armor>2588</armor>
+<stamina>116</stamina>
+<intellect>116</intellect>
+<spellpower>160</spellpower>
+<critrating>86</critrating>
+<mp5>51</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Turalyon's Garb</setname>
+<type>Plate</type>
+<faction>Horde</faction>
+<requiredclasses>Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Liadrin's Tunic of Triumph</name>
+<id>48589</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54790</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_75</iconpath>
+<stats>
+<armor>1723</armor>
+<stamina>85</stamina>
+<strength>75</strength>
+<hitrating>75</hitrating>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shoulderguards of the Undaunted</name>
+<id>40414</id>
+<slot>Shoulders</slot>
+</item>

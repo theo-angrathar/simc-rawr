@@ -1,0 +1,21 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>48510</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_41</iconpath>
+<stats>
+<stamina>100</stamina>
+<strength>39</strength>
+<dodgerating>45</dodgerating>
+<defenserating>45</defenserating>
+<expertiserating>48</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Fortitude of the Infernal</name>
+<id>47872</id>
+<slot>Neck</slot>
+</item>

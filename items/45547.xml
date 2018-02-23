@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_46b</iconpath>
+<stats>
+<armor>333</armor>
+<agility>85</agility>
+<stamina>84</stamina>
+<attackpower>120</attackpower>
+<armorpenetrationrating>49</armorpenetrationrating>
+<hitrating>57</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Relic Hunter's Cord</name>
+<id>45547</id>
+<slot>Waist</slot>
+</item>

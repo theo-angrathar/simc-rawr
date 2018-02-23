@@ -1,0 +1,27 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_141</iconpath>
+<stats>
+<armor>458</armor>
+<stamina>102</stamina>
+<intellect>45</intellect>
+<spellpower>87</spellpower>
+<hitrating>44</hitrating>
+<resilience>43</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Titan-Forged Leather Helm of Dominance</name>
+<id>44907</id>
+<slot>Head</slot>
+</item>

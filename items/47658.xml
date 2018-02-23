@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_wand_32</iconpath>
+<stats>
+<stamina>32</stamina>
+<intellect>32</intellect>
+<spirit>28</spirit>
+<spellpower>50</spellpower>
+<hitrating>28</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Wand</type>
+<faction>Neutral</faction>
+<mindamage>455</mindamage>
+<maxdamage>846</maxdamage>
+<damagetype>Nature</damagetype>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Brimstone Igniter</name>
+<id>47658</id>
+<slot>Ranged</slot>
+</item>

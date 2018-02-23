@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1436</armor>
+<stamina>111</stamina>
+<strength>67</strength>
+<hitrating>42</hitrating>
+<expertiserating>50</expertiserating>
+</stats>
+<quality>Epic</quality>
+<setname>Dreadnaught Battlegear</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<expertiserating>4</expertiserating>
+</socketbonus>
+<name>Valorous Dreadnaught Gauntlets</name>
+<id>40527</id>
+<slot>Hands</slot>
+</item>

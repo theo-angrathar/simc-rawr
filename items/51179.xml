@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_gauntlets_92</iconpath>
+<stats>
+<armor>221</armor>
+<stamina>92</stamina>
+<intellect>92</intellect>
+<spirit>80</spirit>
+<spellpower>132</spellpower>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Crimson Acolyte's Raiment</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Sanctified Crimson Acolyte Gloves</name>
+<id>51179</id>
+<slot>Hands</slot>
+</item>

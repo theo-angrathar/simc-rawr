@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59114</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_37c</iconpath>
+<stats>
+<armor>333</armor>
+<agility>85</agility>
+<stamina>65</stamina>
+<attackpower>114</attackpower>
+<critrating>53</critrating>
+<expertiserating>56</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Soul-Devouring Cinch</name>
+<id>46095</id>
+<slot>Waist</slot>
+</item>

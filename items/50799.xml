@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64402</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_79</iconpath>
+<stats>
+<armor>398</armor>
+<agility>107</agility>
+<stamina>76</stamina>
+<attackpower>134</attackpower>
+<armorpenetrationrating>63</armorpenetrationrating>
+<critrating>63</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Scourge Stranglers</name>
+<id>50799</id>
+<slot>Hands</slot>
+</item>

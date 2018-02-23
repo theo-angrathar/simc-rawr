@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>spell_fire_totemofwrath</iconpath>
+<stats>
+<stamina>63</stamina>
+<strength>44</strength>
+<blockvalue>87</blockvalue>
+<defenserating>28</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Burning Skull Pendant</name>
+<id>37646</id>
+<slot>Neck</slot>
+</item>

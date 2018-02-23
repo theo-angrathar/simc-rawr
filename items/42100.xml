@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55340</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_04</iconpath>
+<stats>
+<armor>300</armor>
+<stamina>67</stamina>
+<intellect>68</intellect>
+<spirit>89</spirit>
+<spellpower>105</spellpower>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Moonshroud Robe</name>
+<id>42100</id>
+<slot>Chest</slot>
+</item>

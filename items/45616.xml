@@ -1,0 +1,26 @@
+<item>
+<itemlevel>239</itemlevel>
+<displayid>59135</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_40b</iconpath>
+<stats>
+<armor>343</armor>
+<stamina>82</stamina>
+<intellect>69</intellect>
+<spirit>48</spirit>
+<spellpower>92</spellpower>
+<hasterating>63</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Star-beaded Clutch</name>
+<id>45616</id>
+<slot>Waist</slot>
+</item>

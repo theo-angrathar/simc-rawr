@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52966</displayid>
+<displayslot>17</displayslot>
+<iconpath>inv_mace_84</iconpath>
+<stats>
+<stamina>105</stamina>
+<strength>124</strength>
+<hitrating>54</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>TwoHandMace</type>
+<faction>Neutral</faction>
+<mindamage>507</mindamage>
+<maxdamage>761</maxdamage>
+<speed>3.4</speed>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Titansteel Destroyer</name>
+<id>41257</id>
+<slot>TwoHand</slot>
+</item>

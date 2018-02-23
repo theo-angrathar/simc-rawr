@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52311</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_13</iconpath>
+<stats>
+<armor>127</armor>
+<stamina>37</stamina>
+<intellect>45</intellect>
+<spellpower>51</spellpower>
+<mp5>15</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Flame Sphere Bindings</name>
+<id>37613</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>51004</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_06</iconpath>
+<stats>
+<armor>140</armor>
+<stamina>28</stamina>
+<intellect>29</intellect>
+<spellpower>46</spellpower>
+<hasterating>38</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shroud of Dedicated Research</name>
+<id>44167</id>
+<slot>Back</slot>
+</item>

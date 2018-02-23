@@ -1,0 +1,21 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_amulet_04</iconpath>
+<stats>
+<stamina>63</stamina>
+<intellect>43</intellect>
+<spellpower>74</spellpower>
+<critrating>41</critrating>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Frozen Tear of Elune</name>
+<id>45823</id>
+<slot>Neck</slot>
+</item>

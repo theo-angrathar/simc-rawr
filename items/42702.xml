@@ -1,0 +1,21 @@
+<item>
+<itemlevel>80</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_gem_pearl_12</iconpath>
+<stats>
+<agility>6</agility>
+<stamina>6</stamina>
+<strength>6</strength>
+<intellect>6</intellect>
+<spirit>6</spirit>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<socketbonus></socketbonus>
+<name>Enchanted Tear</name>
+<id>42702</id>
+<slot>Prismatic</slot>
+</item>

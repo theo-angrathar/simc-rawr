@@ -1,0 +1,26 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64424</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_79</iconpath>
+<stats>
+<armor>416</armor>
+<agility>112</agility>
+<stamina>120</stamina>
+<attackpower>145</attackpower>
+<armorpenetrationrating>80</armorpenetrationrating>
+<hasterating>64</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Aldriana's Gloves of Secrecy</name>
+<id>50021</id>
+<slot>Hands</slot>
+</item>

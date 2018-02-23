@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54616</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_02</iconpath>
+<stats>
+<armor>563</armor>
+<agility>48</agility>
+<stamina>45</stamina>
+<attackpower>76</attackpower>
+<intellect>30</intellect>
+<critrating>36</critrating>
+<hitrating>20</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<attackpower>8</attackpower>
+</socketbonus>
+<name>Slime Stream Bands</name>
+<id>40282</id>
+<slot>Wrist</slot>
+</item>

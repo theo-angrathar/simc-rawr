@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55987</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_cloth_16</iconpath>
+<stats>
+<armor>206</armor>
+<stamina>49</stamina>
+<intellect>50</intellect>
+<spellpower>77</spellpower>
+<hasterating>51</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Sandals of Crimson Fury</name>
+<id>44202</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>31664</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_38</iconpath>
+<stats>
+<stamina>48</stamina>
+<spellpower>19</spellpower>
+<resilience>32</resilience>
+<hasterating>33</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Savage Titanium Band</name>
+<id>43498</id>
+<slot>Finger</slot>
+</item>

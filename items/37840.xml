@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>43086</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_06</iconpath>
+<stats>
+<armor>145</armor>
+<agility>25</agility>
+<stamina>64</stamina>
+<attackpower>86</attackpower>
+<expertiserating>31</expertiserating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shroud of Reverberation</name>
+<id>37840</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55858</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_13</iconpath>
+<stats>
+<armor>564</armor>
+<agility>73</agility>
+<stamina>103</stamina>
+<attackpower>90</attackpower>
+<critrating>44</critrating>
+<resilience>59</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Vestments</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<resilience>6</resilience>
+</socketbonus>
+<name>Hateful Gladiator's Leather Tunic</name>
+<id>41648</id>
+<slot>Chest</slot>
+</item>

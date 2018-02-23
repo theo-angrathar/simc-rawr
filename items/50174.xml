@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64173</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_84</iconpath>
+<stats>
+<stamina>69</stamina>
+<intellect>69</intellect>
+<spellpower>97</spellpower>
+<critrating>52</critrating>
+<mp5>30</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<uniqueid>50174</uniqueid>
+<uniqueid>50720</uniqueid>
+<name>Incarnadine Band of Mending</name>
+<id>50174</id>
+<slot>Finger</slot>
+</item>

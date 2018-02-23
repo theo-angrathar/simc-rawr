@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54214</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_07</iconpath>
+<stats>
+<armor>169</armor>
+<stamina>49</stamina>
+<intellect>52</intellect>
+<spirit>48</spirit>
+<spellpower>76</spellpower>
+<hasterating>38</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Agonal Sash</name>
+<id>39190</id>
+<slot>Waist</slot>
+</item>

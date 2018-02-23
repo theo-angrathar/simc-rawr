@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61656</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_mace_92</iconpath>
+<stats>
+<stamina>52</stamina>
+<intellect>51</intellect>
+<spellpower>550</spellpower>
+<critrating>41</critrating>
+<hasterating>22</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>94</mindamage>
+<maxdamage>289</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Aesuga, Hand of the Ardent Champion</name>
+<id>46035</id>
+<slot>MainHand</slot>
+</item>

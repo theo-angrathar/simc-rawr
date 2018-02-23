@@ -1,0 +1,28 @@
+<item>
+<itemlevel>270</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_161</iconpath>
+<stats>
+<armor>551</armor>
+<agility>155</agility>
+<stamina>195</stamina>
+<attackpower>174</attackpower>
+<critrating>98</critrating>
+<resilience>98</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Vestments</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Wrathful Gladiator's Leather Helm</name>
+<id>51494</id>
+<slot>Head</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>39129</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_60</iconpath>
+<stats>
+<stamina>84</stamina>
+<attackpower>112</attackpower>
+<hitrating>38</hitrating>
+<resilience>37</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Deadly Gladiator's Band of Victory</name>
+<id>42115</id>
+<slot>Finger</slot>
+</item>

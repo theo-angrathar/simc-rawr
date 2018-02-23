@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64724</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_49</iconpath>
+<stats>
+<armor>1016</armor>
+<stamina>51</stamina>
+<intellect>43</intellect>
+<spellpower>70</spellpower>
+<critrating>40</critrating>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Brace Guards of the Starless Night</name>
+<id>49797</id>
+<slot>Wrist</slot>
+</item>

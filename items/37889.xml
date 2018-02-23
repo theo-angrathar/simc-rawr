@@ -1,0 +1,20 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>54985</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_misc_book_08</iconpath>
+<stats>
+<stamina>33</stamina>
+<intellect>42</intellect>
+<spirit>34</spirit>
+<spellpower>51</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Prison Manifest</name>
+<id>37889</id>
+<slot>OffHand</slot>
+</item>

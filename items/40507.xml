@@ -1,0 +1,28 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_14</iconpath>
+<stats>
+<armor>964</armor>
+<agility>66</agility>
+<stamina>63</stamina>
+<attackpower>100</attackpower>
+<intellect>39</intellect>
+<critrating>38</critrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Cryptstalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Valorous Cryptstalker Spaulders</name>
+<id>40507</id>
+<slot>Shoulders</slot>
+</item>

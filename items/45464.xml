@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59672</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_136</iconpath>
+<stats>
+<armor>253</armor>
+<stamina>78</stamina>
+<intellect>74</intellect>
+<spirit>48</spirit>
+<spellpower>115</spellpower>
+<hitrating>60</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<hitrating>8</hitrating>
+</socketbonus>
+<name>Cowl of Icy Breaths</name>
+<id>45464</id>
+<slot>Head</slot>
+</item>

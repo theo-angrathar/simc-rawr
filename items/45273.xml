@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59006</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_57</iconpath>
+<stats>
+<armor>197</armor>
+<stamina>73</stamina>
+<intellect>62</intellect>
+<spirit>56</spirit>
+<spellpower>99</spellpower>
+<hasterating>56</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Handwraps of Plentiful Recovery</name>
+<id>45273</id>
+<slot>Hands</slot>
+</item>

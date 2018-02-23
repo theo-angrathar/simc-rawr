@@ -1,0 +1,29 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_pants_mail_25</iconpath>
+<stats>
+<armor>1211</armor>
+<agility>120</agility>
+<stamina>71</stamina>
+<attackpower>149</attackpower>
+<intellect>107</intellect>
+<critrating>90</critrating>
+<hitrating>71</hitrating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Battlegear</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Nobundo's War-Kilt of Triumph</name>
+<id>48349</id>
+<slot>Legs</slot>
+</item>

@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>42409</displayid>
+<displayslot>14</displayslot>
+<iconpath>inv_shield_34</iconpath>
+<stats>
+<armor>7530</armor>
+<stamina>44</stamina>
+<intellect>36</intellect>
+<spellpower>58</spellpower>
+<blockvalue>211</blockvalue>
+<mp5>25</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Shield</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Zom's Crackling Bulwark</name>
+<id>44313</id>
+<slot>OffHand</slot>
+</item>

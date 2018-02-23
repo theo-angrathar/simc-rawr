@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52330</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_chain_04</iconpath>
+<stats>
+<armor>1212</armor>
+<stamina>67</stamina>
+<intellect>56</intellect>
+<spellpower>91</spellpower>
+<mp5>31</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<intellect>4</intellect>
+</socketbonus>
+<name>Dalronn's Jerkin</name>
+<id>37184</id>
+<slot>Chest</slot>
+</item>

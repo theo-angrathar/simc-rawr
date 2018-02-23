@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>60465</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_105</iconpath>
+<stats>
+<armor>423</armor>
+<stamina>58</stamina>
+<intellect>47</intellect>
+<spellpower>78</spellpower>
+<critrating>44</critrating>
+<hitrating>44</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Mantle of Gnarled Overgrowth</name>
+<id>47210</id>
+<slot>Shoulders</slot>
+</item>

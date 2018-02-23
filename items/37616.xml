@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>49357</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_13</iconpath>
+<stats>
+<armor>477</armor>
+<stamina>67</stamina>
+<intellect>55</intellect>
+<spirit>79</spirit>
+<spellpower>91</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Kilt of the Forgotten One</name>
+<id>37616</id>
+<slot>Legs</slot>
+</item>

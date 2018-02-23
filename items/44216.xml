@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56070</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_12</iconpath>
+<stats>
+<armor>140</armor>
+<agility>39</agility>
+<stamina>57</stamina>
+<attackpower>52</attackpower>
+<armorpenetrationrating>25</armorpenetrationrating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Cloak of Holy Extermination</name>
+<id>44216</id>
+<slot>Back</slot>
+</item>

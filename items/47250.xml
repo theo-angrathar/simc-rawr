@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>60488</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_102</iconpath>
+<stats>
+<armor>974</armor>
+<stamina>79</stamina>
+<intellect>53</intellect>
+<spellpower>85</spellpower>
+<critrating>30</critrating>
+<hitrating>60</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Pauldrons of the Deafening Gale</name>
+<id>47250</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_39c</iconpath>
+<stats>
+<armor>186</armor>
+<stamina>115</stamina>
+<intellect>51</intellect>
+<spellpower>109</spellpower>
+<critrating>59</critrating>
+<resilience>67</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Priest|Mage|Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Relentless Gladiator's Cord of Dominance</name>
+<id>41899</id>
+<slot>Waist</slot>
+</item>

@@ -1,0 +1,23 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_weapon_crossbow_38</iconpath>
+<stats>
+<stamina>86</stamina>
+<attackpower>115</attackpower>
+<critrating>38</critrating>
+<resilience>38</resilience>
+</stats>
+<quality>Epic</quality>
+<type>Crossbow</type>
+<faction>Neutral</faction>
+<mindamage>730</mindamage>
+<maxdamage>1003</maxdamage>
+<speed>3</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Repeater</name>
+<id>51412</id>
+<slot>Ranged</slot>
+</item>

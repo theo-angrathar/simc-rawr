@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56122</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_133</iconpath>
+<stats>
+<armor>250</armor>
+<stamina>67</stamina>
+<intellect>63</intellect>
+<spirit>79</spirit>
+<spellpower>99</spellpower>
+<critrating>40</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Enamored Cowl</name>
+<id>43995</id>
+<slot>Head</slot>
+</item>

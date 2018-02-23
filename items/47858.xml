@@ -1,0 +1,22 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>62136</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_51</iconpath>
+<stats>
+<armor>1332</armor>
+<stamina>72</stamina>
+<intellect>66</intellect>
+<spellpower>105</spellpower>
+<critrating>45</critrating>
+<hasterating>68</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Horde</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Girdle of the Frozen Reach</name>
+<id>47858</id>
+<slot>Waist</slot>
+</item>

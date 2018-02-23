@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>61903</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_77a</iconpath>
+<stats>
+<armor>373</armor>
+<agility>85</agility>
+<stamina>64</stamina>
+<attackpower>139</attackpower>
+<armorpenetrationrating>54</armorpenetrationrating>
+<critrating>54</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Gloves of the Silver Assassin</name>
+<id>47719</id>
+<slot>Hands</slot>
+</item>

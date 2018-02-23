@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>55988</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_15</iconpath>
+<stats>
+<armor>247</armor>
+<agility>49</agility>
+<stamina>38</stamina>
+<attackpower>100</attackpower>
+<critrating>38</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Dragonfriend Bracers</name>
+<id>44203</id>
+<slot>Wrist</slot>
+</item>

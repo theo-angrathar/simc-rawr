@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35472</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_51naxxramas</iconpath>
+<stats>
+<agility>30</agility>
+<stamina>39</stamina>
+<attackpower>86</attackpower>
+<hasterating>43</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Stained-Glass Shard Ring</name>
+<id>37624</id>
+<slot>Finger</slot>
+</item>

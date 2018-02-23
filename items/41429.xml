@@ -1,0 +1,17 @@
+<item>
+<itemlevel>70</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelcrafting_gem_14</iconpath>
+<stats>
+<attackpower>14</attackpower>
+<critrating>7</critrating>
+</stats>
+<quality>Uncommon</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<socketbonus></socketbonus>
+<name>Perfect Wicked Huge Citrine</name>
+<id>41429</id>
+<slot>Orange</slot>
+</item>

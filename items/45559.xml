@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>53671</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_plate_06</iconpath>
+<stats>
+<armor>1614</armor>
+<stamina>126</stamina>
+<strength>69</strength>
+<critrating>49</critrating>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<strength>6</strength>
+</socketbonus>
+<name>Battlelord's Plate Boots</name>
+<id>45559</id>
+<slot>Feet</slot>
+</item>

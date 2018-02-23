@@ -1,0 +1,22 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_46</iconpath>
+<stats>
+<stamina>84</stamina>
+<strength>38</strength>
+<hitrating>27</hitrating>
+<defenserating>56</defenserating>
+<expertiserating>21</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Signet of the Impregnable Fortress</name>
+<id>40718</id>
+<slot>Finger</slot>
+</item>

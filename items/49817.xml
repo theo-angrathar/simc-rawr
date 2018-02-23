@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64563</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_30a</iconpath>
+<stats>
+<armor>511</armor>
+<agility>106</agility>
+<stamina>93</stamina>
+<attackpower>152</attackpower>
+<armorpenetrationrating>71</armorpenetrationrating>
+<critrating>71</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shaggy Wyrmleather Leggings</name>
+<id>49817</id>
+<slot>Legs</slot>
+</item>

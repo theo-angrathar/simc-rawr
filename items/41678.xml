@@ -1,0 +1,28 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_126</iconpath>
+<stats>
+<armor>485</armor>
+<agility>105</agility>
+<stamina>138</stamina>
+<attackpower>120</attackpower>
+<critrating>64</critrating>
+<resilience>64</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Sanctuary</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Furious Gladiator's Dragonhide Helm</name>
+<id>41678</id>
+<slot>Head</slot>
+</item>

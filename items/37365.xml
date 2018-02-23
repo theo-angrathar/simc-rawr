@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_12</iconpath>
+<stats>
+<armor>530</armor>
+<stamina>42</stamina>
+<intellect>29</intellect>
+<spellpower>51</spellpower>
+<critrating>42</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Bands of the Sky Ring</name>
+<id>37365</id>
+<slot>Wrist</slot>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_126</iconpath>
+<stats>
+<armor>517</armor>
+<stamina>164</stamina>
+<intellect>73</intellect>
+<spellpower>149</spellpower>
+<critrating>80</critrating>
+<resilience>80</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Wildhide</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Druid</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<spirit>8</spirit>
+</socketbonus>
+<name>Relentless Gladiator's Wyrmhide Helm</name>
+<id>41328</id>
+<slot>Head</slot>
+</item>

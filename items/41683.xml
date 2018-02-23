@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_88</iconpath>
+<stats>
+<armor>447</armor>
+<agility>82</agility>
+<stamina>102</stamina>
+<attackpower>90</attackpower>
+<critrating>51</critrating>
+<resilience>60</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Vestments</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<requiredclasses>Rogue</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<critrating>4</critrating>
+</socketbonus>
+<name>Furious Gladiator's Leather Spaulders</name>
+<id>41683</id>
+<slot>Shoulders</slot>
+</item>

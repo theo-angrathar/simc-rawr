@@ -1,0 +1,23 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_56</iconpath>
+<stats>
+<armor>1155</armor>
+<stamina>103</stamina>
+<intellect>46</intellect>
+<spellpower>106</spellpower>
+<resilience>60</resilience>
+<mp5>30</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior|Paladin</requiredclasses>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Wrathful Gladiator's Bracers of Salvation</name>
+<id>51361</id>
+<slot>Wrist</slot>
+</item>

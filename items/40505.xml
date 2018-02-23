@@ -1,0 +1,29 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_helmet_15</iconpath>
+<stats>
+<armor>1045</armor>
+<agility>84</agility>
+<stamina>79</stamina>
+<attackpower>134</attackpower>
+<intellect>47</intellect>
+<critrating>53</critrating>
+<hasterating>37</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Cryptstalker Battlegear</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Hunter</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Valorous Cryptstalker Headpiece</name>
+<id>40505</id>
+<slot>Head</slot>
+</item>

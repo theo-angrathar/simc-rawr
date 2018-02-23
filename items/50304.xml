@@ -1,0 +1,23 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64704</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_77a</iconpath>
+<stats>
+<armor>828</armor>
+<agility>89</agility>
+<stamina>71</stamina>
+<attackpower>128</attackpower>
+<intellect>41</intellect>
+<critrating>52</critrating>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Hoarfrost Gauntlets</name>
+<id>50304</id>
+<slot>Hands</slot>
+</item>

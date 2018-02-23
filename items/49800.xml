@@ -1,0 +1,22 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>33534</displayid>
+<displayslot>11</displayslot>
+<iconpath>inv_jewelry_ring_44</iconpath>
+<stats>
+<stamina>45</stamina>
+<intellect>45</intellect>
+<spellpower>70</spellpower>
+<critrating>36</critrating>
+<mp5>21</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Spiteful Signet</name>
+<id>49800</id>
+<slot>Finger</slot>
+</item>

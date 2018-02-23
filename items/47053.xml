@@ -1,0 +1,21 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>61788</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_offhand_pvealliance_d_01</iconpath>
+<stats>
+<stamina>58</stamina>
+<intellect>58</intellect>
+<spellpower>89</spellpower>
+<critrating>50</critrating>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Symbol of Transgression</name>
+<id>47053</id>
+<slot>OffHand</slot>
+</item>

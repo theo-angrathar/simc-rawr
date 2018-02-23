@@ -1,0 +1,24 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64325</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_26</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>103</stamina>
+<strength>95</strength>
+<critrating>38</critrating>
+<hasterating>69</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Saronite Gargoyle Cloak</name>
+<id>51912</id>
+<slot>Back</slot>
+</item>

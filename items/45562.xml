@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59168</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_13</iconpath>
+<stats>
+<armor>903</armor>
+<agility>48</agility>
+<stamina>66</stamina>
+<attackpower>138</attackpower>
+<armorpenetrationrating>45</armorpenetrationrating>
+<intellect>45</intellect>
+<critrating>48</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<attackpower>12</attackpower>
+</socketbonus>
+<name>Boots of Living Scale</name>
+<id>45562</id>
+<slot>Feet</slot>
+</item>

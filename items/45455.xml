@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59755</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_37a</iconpath>
+<stats>
+<armor>333</armor>
+<stamina>90</stamina>
+<intellect>47</intellect>
+<spirit>51</spirit>
+<spellpower>98</spellpower>
+<hasterating>40</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hasterating>4</hasterating>
+</socketbonus>
+<name>Belt of the Crystal Tree</name>
+<id>45455</id>
+<slot>Waist</slot>
+</item>

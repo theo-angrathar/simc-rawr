@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53931</displayid>
+<displayslot>23</displayslot>
+<iconpath>inv_offhand_naxxramas_02</iconpath>
+<stats>
+<stamina>36</stamina>
+<intellect>34</intellect>
+<spellpower>59</spellpower>
+<critrating>38</critrating>
+<mp5>16</mp5>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Scepter of Murmuring Spirits</name>
+<id>39311</id>
+<slot>OffHand</slot>
+</item>

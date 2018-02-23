@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35250</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_1h_stratholme_d_01</iconpath>
+<stats>
+<agility>27</agility>
+<stamina>33</stamina>
+<attackpower>76</attackpower>
+<armorpenetrationrating>19</armorpenetrationrating>
+<hasterating>29</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Neutral</faction>
+<mindamage>160</mindamage>
+<maxdamage>299</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Maexxna's Femur</name>
+<id>39226</id>
+<slot>OneHand</slot>
+</item>

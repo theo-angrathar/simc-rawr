@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>64426</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_22</iconpath>
+<stats>
+<armor>665</armor>
+<agility>146</agility>
+<stamina>162</stamina>
+<attackpower>200</attackpower>
+<hitrating>100</hitrating>
+<expertiserating>92</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<agility>8</agility>
+</socketbonus>
+<name>Ikfirus's Sack of Wonder</name>
+<id>50001</id>
+<slot>Chest</slot>
+</item>

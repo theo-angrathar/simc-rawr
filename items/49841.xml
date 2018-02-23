@@ -1,0 +1,25 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>64533</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_23</iconpath>
+<stats>
+<armor>585</armor>
+<agility>98</agility>
+<stamina>91</stamina>
+<attackpower>154</attackpower>
+<hitrating>63</hitrating>
+<hasterating>71</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>Blackened Geist Ribs</name>
+<id>49841</id>
+<slot>Chest</slot>
+</item>

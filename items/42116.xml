@@ -1,0 +1,22 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_60</iconpath>
+<stats>
+<stamina>73</stamina>
+<intellect>31</intellect>
+<spellpower>73</spellpower>
+<critrating>42</critrating>
+<resilience>42</resilience>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Furious Gladiator's Band of Dominance</name>
+<id>42116</id>
+<slot>Finger</slot>
+</item>

@@ -1,0 +1,24 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64761</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_89</iconpath>
+<stats>
+<stamina>77</stamina>
+<strength>52</strength>
+<parryrating>21</parryrating>
+<blockrating>31</blockrating>
+<defenserating>27</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>200</mindamage>
+<maxdamage>372</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Falric's Wrist-Chopper</name>
+<id>50290</id>
+<slot>OneHand</slot>
+</item>

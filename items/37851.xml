@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52357</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_17</iconpath>
+<stats>
+<armor>290</armor>
+<stamina>67</stamina>
+<intellect>74</intellect>
+<spellpower>91</spellpower>
+<critrating>60</critrating>
+</stats>
+<quality>Rare</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Ornate Woolen Stola</name>
+<id>37851</id>
+<slot>Chest</slot>
+</item>

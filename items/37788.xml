@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53817</displayid>
+<displayslot>9</displayslot>
+<iconpath>inv_bracer_17</iconpath>
+<stats>
+<armor>549</armor>
+<stamina>42</stamina>
+<intellect>36</intellect>
+<spellpower>59</spellpower>
+<hasterating>50</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Limb Regeneration Bracers</name>
+<id>37788</id>
+<slot>Wrist</slot>
+</item>

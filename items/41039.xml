@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_52</iconpath>
+<stats>
+<armor>1060</armor>
+<stamina>122</stamina>
+<intellect>54</intellect>
+<spellpower>116</spellpower>
+<resilience>71</resilience>
+<mp5>32</mp5>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Wartide</setname>
+<type>Mail</type>
+<faction>Neutral</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<mp5>2</mp5>
+</socketbonus>
+<name>Relentless Gladiator's Ringmail Spaulders</name>
+<id>41039</id>
+<slot>Shoulders</slot>
+</item>

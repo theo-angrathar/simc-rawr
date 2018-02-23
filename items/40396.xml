@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>56663</displayid>
+<displayslot>21</displayslot>
+<iconpath>inv_sword_130</iconpath>
+<stats>
+<stamina>36</stamina>
+<intellect>50</intellect>
+<spellpower>520</spellpower>
+<critrating>37</critrating>
+<hasterating>48</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>85</mindamage>
+<maxdamage>271</maxdamage>
+<speed>1.8</speed>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>The Turning Tide</name>
+<id>40396</id>
+<slot>MainHand</slot>
+</item>

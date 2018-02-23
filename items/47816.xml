@@ -1,0 +1,27 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>60675</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_mace_105</iconpath>
+<stats>
+<agility>48</agility>
+<stamina>39</stamina>
+<attackpower>61</attackpower>
+<critrating>35</critrating>
+<hasterating>30</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandMace</type>
+<faction>Alliance</faction>
+<mindamage>325</mindamage>
+<maxdamage>605</maxdamage>
+<speed>2.6</speed>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<agility>4</agility>
+</socketbonus>
+<name>The Grinder</name>
+<id>47816</id>
+<slot>OneHand</slot>
+</item>

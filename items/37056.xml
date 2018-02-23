@@ -1,0 +1,21 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>52568</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_08</iconpath>
+<stats>
+<armor>1439</armor>
+<stamina>37</stamina>
+<intellect>40</intellect>
+<spellpower>60</spellpower>
+<mp5>25</mp5>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Harpooner's Striders</name>
+<id>37056</id>
+<slot>Feet</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>59758</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_jewelry_necklace_11</iconpath>
+<stats>
+<armor>475</armor>
+<stamina>90</stamina>
+<intellect>65</intellect>
+<spirit>45</spirit>
+<spellpower>105</spellpower>
+<hasterating>73</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Cover of the Keepers</name>
+<id>45864</id>
+<slot>Head</slot>
+</item>

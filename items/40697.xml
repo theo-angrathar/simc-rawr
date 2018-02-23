@@ -1,0 +1,25 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_08</iconpath>
+<stats>
+<armor>169</armor>
+<stamina>57</stamina>
+<intellect>48</intellect>
+<spirit>43</spirit>
+<spellpower>68</spellpower>
+<mp5>16</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Elegant Temple Gardens' Girdle</name>
+<id>40697</id>
+<slot>Waist</slot>
+</item>

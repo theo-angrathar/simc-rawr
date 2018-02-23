@@ -1,0 +1,20 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>39209</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_33</iconpath>
+<stats>
+<stamina>86</stamina>
+<strength>86</strength>
+<critrating>50</critrating>
+<hitrating>50</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Alliance</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>The Executioner's Malice</name>
+<id>47105</id>
+<slot>Neck</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>264</itemlevel>
+<displayid>65037</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_mail_35</iconpath>
+<stats>
+<armor>1293</armor>
+<stamina>123</stamina>
+<intellect>123</intellect>
+<spellpower>161</spellpower>
+<critrating>92</critrating>
+<mp5>50</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Blue</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Leggings of Dubious Charms</name>
+<id>50450</id>
+<slot>Legs</slot>
+</item>

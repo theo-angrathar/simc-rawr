@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>57535</displayid>
+<displayslot>1</displayslot>
+<iconpath>inv_helmet_135</iconpath>
+<stats>
+<armor>1867</armor>
+<stamina>150</stamina>
+<strength>85</strength>
+<critrating>51</critrating>
+<resilience>50</resilience>
+</stats>
+<quality>Epic</quality>
+<setname>Gladiator's Desecration</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Death Knight</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Meta</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<critrating>8</critrating>
+</socketbonus>
+<name>Deadly Gladiator's Dreadplate Helm</name>
+<id>40824</id>
+<slot>Head</slot>
+</item>

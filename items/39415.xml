@@ -1,0 +1,22 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35408</displayid>
+<displayslot>16</displayslot>
+<iconpath>inv_misc_cape_naxxramas_01</iconpath>
+<stats>
+<armor>150</armor>
+<stamina>42</stamina>
+<intellect>36</intellect>
+<spellpower>58</spellpower>
+<critrating>38</critrating>
+<hasterating>25</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Shroud of the Citadel</name>
+<id>39415</id>
+<slot>Back</slot>
+</item>

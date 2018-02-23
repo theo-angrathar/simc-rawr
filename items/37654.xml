@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52363</displayid>
+<displayslot>8</displayslot>
+<iconpath>inv_boots_chain_10</iconpath>
+<stats>
+<armor>833</armor>
+<stamina>48</stamina>
+<intellect>43</intellect>
+<spellpower>68</spellpower>
+<hasterating>57</hasterating>
+</stats>
+<quality>Rare</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Sabatons of the Ages</name>
+<id>37654</id>
+<slot>Feet</slot>
+</item>

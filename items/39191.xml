@@ -1,0 +1,26 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53833</displayid>
+<displayslot>7</displayslot>
+<iconpath>inv_pants_leather_23</iconpath>
+<stats>
+<armor>494</armor>
+<stamina>67</stamina>
+<intellect>65</intellect>
+<spirit>68</spirit>
+<spellpower>85</spellpower>
+<hasterating>36</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Splint-Bound Leggings</name>
+<id>39191</id>
+<slot>Legs</slot>
+</item>

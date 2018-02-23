@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>52512</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_29</iconpath>
+<stats>
+<armor>1354</armor>
+<stamina>87</stamina>
+<strength>42</strength>
+<hitrating>33</hitrating>
+<defenserating>57</defenserating>
+</stats>
+<quality>Rare</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gauntlets of the Water Revenant</name>
+<id>37862</id>
+<slot>Hands</slot>
+</item>

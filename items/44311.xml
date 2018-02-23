@@ -1,0 +1,23 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>56304</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_sword_109</iconpath>
+<stats>
+<agility>38</agility>
+<stamina>36</stamina>
+<attackpower>62</attackpower>
+<hitrating>31</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandSword</type>
+<faction>Neutral</faction>
+<mindamage>150</mindamage>
+<maxdamage>280</maxdamage>
+<speed>1.5</speed>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Avool's Sword of Jin</name>
+<id>44311</id>
+<slot>OneHand</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59726</displayid>
+<displayslot>6</displayslot>
+<iconpath>inv_belt_10</iconpath>
+<stats>
+<armor>177</armor>
+<stamina>64</stamina>
+<intellect>63</intellect>
+<spirit>49</spirit>
+<spellpower>90</spellpower>
+<hitrating>56</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Belt of the Darkspeaker</name>
+<id>45508</id>
+<slot>Waist</slot>
+</item>

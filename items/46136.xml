@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_shoulder_25</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>68</stamina>
+<intellect>62</intellect>
+<spellpower>99</spellpower>
+<critrating>58</critrating>
+<hasterating>41</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Deathbringer Garb</setname>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<requiredclasses>Warlock</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketbonus>
+<hitrating>4</hitrating>
+</socketbonus>
+<name>Conqueror's Deathbringer Shoulderpads</name>
+<id>46136</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>53819</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_18</iconpath>
+<stats>
+<armor>353</armor>
+<agility>48</agility>
+<stamina>57</stamina>
+<attackpower>132</attackpower>
+<hitrating>66</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Gilt-Edged Leather Gauntlets</name>
+<id>37409</id>
+<slot>Hands</slot>
+</item>

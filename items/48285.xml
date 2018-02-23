@@ -1,0 +1,28 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_mail_07</iconpath>
+<stats>
+<armor>1384</armor>
+<stamina>103</stamina>
+<intellect>103</intellect>
+<spellpower>140</spellpower>
+<critrating>82</critrating>
+<hasterating>82</hasterating>
+</stats>
+<quality>Epic</quality>
+<setname>Nobundo's Garb</setname>
+<type>Mail</type>
+<faction>Alliance</faction>
+<requiredclasses>Shaman</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Nobundo's Tunic of Triumph</name>
+<id>48285</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,25 @@
+<item>
+<itemlevel>245</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_necklace_36</iconpath>
+<stats>
+<stamina>86</stamina>
+<intellect>38</intellect>
+<spellpower>80</spellpower>
+<resilience>50</resilience>
+<hasterating>42</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Titan-Forged Pendant of Ascendancy</name>
+<id>51568</id>
+<slot>Neck</slot>
+</item>

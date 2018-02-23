@@ -1,0 +1,23 @@
+<item>
+<itemlevel>187</itemlevel>
+<displayid>56703</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_10</iconpath>
+<stats>
+<armor>527</armor>
+<agility>69</agility>
+<stamina>69</stamina>
+<attackpower>92</attackpower>
+<critrating>46</critrating>
+<resilience>46</resilience>
+</stats>
+<quality>Rare</quality>
+<setname>Eviscerator's Battlegear</setname>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Eviscerator's Chestguard</name>
+<id>43434</id>
+<slot>Chest</slot>
+</item>

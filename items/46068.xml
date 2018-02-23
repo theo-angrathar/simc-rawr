@@ -1,0 +1,26 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59717</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_25</iconpath>
+<stats>
+<armor>236</armor>
+<stamina>48</stamina>
+<intellect>49</intellect>
+<spirit>42</spirit>
+<spellpower>100</spellpower>
+<hasterating>62</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spirit>6</spirit>
+</socketbonus>
+<name>Amice of Inconceivable Horror</name>
+<id>46068</id>
+<slot>Shoulders</slot>
+</item>

@@ -1,0 +1,27 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>59446</displayid>
+<displayslot>10</displayslot>
+<iconpath>inv_gauntlets_28</iconpath>
+<stats>
+<armor>1467</armor>
+<stamina>115</stamina>
+<strength>60</strength>
+<hitrating>49</hitrating>
+<dodgerating>57</dodgerating>
+<defenserating>48</defenserating>
+</stats>
+<quality>Epic</quality>
+<setname>Siegebreaker Plate</setname>
+<type>Plate</type>
+<faction>Neutral</faction>
+<requiredclasses>Warrior</requiredclasses>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<defenserating>4</defenserating>
+</socketbonus>
+<name>Conqueror's Siegebreaker Handguards</name>
+<id>46164</id>
+<slot>Hands</slot>
+</item>

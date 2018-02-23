@@ -1,0 +1,27 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>64167</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_80</iconpath>
+<stats>
+<armor>338</armor>
+<stamina>109</stamina>
+<intellect>109</intellect>
+<spirit>78</spirit>
+<spellpower>140</spellpower>
+<hasterating>90</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketcolor3>Yellow</socketcolor3>
+<socketbonus>
+<spellpower>9</spellpower>
+</socketbonus>
+<name>Bloodsoul Raiment</name>
+<id>51379</id>
+<slot>Chest</slot>
+</item>

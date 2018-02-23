@@ -1,0 +1,25 @@
+<item>
+<itemlevel>232</itemlevel>
+<displayid>64547</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_leather_23</iconpath>
+<stats>
+<armor>596</armor>
+<stamina>97</stamina>
+<intellect>89</intellect>
+<spirit>80</spirit>
+<spellpower>132</spellpower>
+<hasterating>72</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spirit>4</spirit>
+</socketbonus>
+<name>Chestguard of Broken Branches</name>
+<id>50312</id>
+<slot>Chest</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>63689</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_112</iconpath>
+<stats>
+<armor>477</armor>
+<agility>91</agility>
+<stamina>81</stamina>
+<attackpower>162</attackpower>
+<armorpenetrationrating>71</armorpenetrationrating>
+<critrating>55</critrating>
+</stats>
+<quality>Epic</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Red</socketcolor2>
+<socketbonus>
+<armorpenetrationrating>4</armorpenetrationrating>
+</socketbonus>
+<name>Skinned Whelp Shoulders</name>
+<id>51565</id>
+<slot>Shoulders</slot>
+</item>

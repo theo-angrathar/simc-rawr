@@ -1,0 +1,21 @@
+<item>
+<itemlevel>183</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_chest_leather_01</iconpath>
+<stats>
+<armor>520</armor>
+<stamina>49</stamina>
+<intellect>51</intellect>
+<spirit>66</spirit>
+<spellpower>77</spellpower>
+</stats>
+<quality>Rare</quality>
+<type>Leather</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Tunic of the Unduly Victorious</name>
+<id>44385</id>
+<slot>Chest</slot>
+</item>

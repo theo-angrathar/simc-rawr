@@ -1,0 +1,25 @@
+<item>
+<itemlevel>284</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_misc_cape_16</iconpath>
+<stats>
+<armor>189</armor>
+<stamina>83</stamina>
+<intellect>83</intellect>
+<spellpower>118</spellpower>
+<critrating>65</critrating>
+<hasterating>73</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketbonus>
+<spellpower>5</spellpower>
+</socketbonus>
+<name>Cloak of Burning Dusk</name>
+<id>54583</id>
+<slot>Back</slot>
+</item>

@@ -1,0 +1,26 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>54782</displayid>
+<displayslot>20</displayslot>
+<iconpath>inv_chest_cloth_41</iconpath>
+<stats>
+<armor>308</armor>
+<stamina>99</stamina>
+<intellect>77</intellect>
+<spellpower>99</spellpower>
+<hitrating>49</hitrating>
+<hasterating>51</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Cloth</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketcolor2>Yellow</socketcolor2>
+<socketbonus>
+<spellpower>7</spellpower>
+</socketbonus>
+<name>Heigan's Putrid Vestments</name>
+<id>40234</id>
+<slot>Chest</slot>
+</item>

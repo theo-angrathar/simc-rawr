@@ -1,0 +1,27 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>56120</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_mail_05</iconpath>
+<stats>
+<armor>1286</armor>
+<agility>58</agility>
+<stamina>79</stamina>
+<attackpower>170</attackpower>
+<intellect>52</intellect>
+<critrating>72</critrating>
+<hitrating>37</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Red</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<hitrating>6</hitrating>
+</socketbonus>
+<name>Chestguard of Flagrant Prowess</name>
+<id>43998</id>
+<slot>Chest</slot>
+</item>

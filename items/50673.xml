@@ -1,0 +1,27 @@
+<item>
+<itemlevel>277</itemlevel>
+<displayid>64829</displayid>
+<displayslot>3</displayslot>
+<iconpath>inv_shoulder_113</iconpath>
+<stats>
+<armor>1157</armor>
+<agility>128</agility>
+<stamina>107</stamina>
+<attackpower>165</attackpower>
+<intellect>71</intellect>
+<critrating>90</critrating>
+<hasterating>55</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Yellow</socketcolor1>
+<socketcolor2>Blue</socketcolor2>
+<socketbonus>
+<agility>6</agility>
+</socketbonus>
+<name>Dual-Bladed Pauldrons</name>
+<id>50673</id>
+<slot>Shoulders</slot>
+</item>

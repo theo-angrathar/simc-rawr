@@ -1,0 +1,26 @@
+<item>
+<itemlevel>251</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_jewelry_ring_84</iconpath>
+<stats>
+<stamina>120</stamina>
+<strength>57</strength>
+<hitrating>47</hitrating>
+<dodgerating>53</dodgerating>
+<defenserating>53</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<uniqueid>50375</uniqueid>
+<uniqueid>50404</uniqueid>
+<uniqueid>50388</uniqueid>
+<uniqueid>50403</uniqueid>
+<name>Ashen Band of Courage</name>
+<id>50375</id>
+<slot>Finger</slot>
+</item>

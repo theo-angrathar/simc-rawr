@@ -1,0 +1,24 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>61879</displayid>
+<displayslot>5</displayslot>
+<iconpath>inv_chest_plate20</iconpath>
+<stats>
+<armor>2348</armor>
+<stamina>129</stamina>
+<strength>121</strength>
+<critrating>82</critrating>
+<expertiserating>58</expertiserating>
+</stats>
+<quality>Epic</quality>
+<type>Plate</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketcolor1>Blue</socketcolor1>
+<socketbonus>
+<strength>4</strength>
+</socketbonus>
+<name>Steelbreaker's Embrace</name>
+<id>45225</id>
+<slot>Chest</slot>
+</item>

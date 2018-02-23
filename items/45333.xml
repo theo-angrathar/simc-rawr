@@ -1,0 +1,23 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_belt_46a</iconpath>
+<stats>
+<armor>731</armor>
+<stamina>69</stamina>
+<intellect>60</intellect>
+<spellpower>93</spellpower>
+<hasterating>39</hasterating>
+<mp5>29</mp5>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<unique>true</unique>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Belt of the Iron Servant</name>
+<id>45333</id>
+<slot>Waist</slot>
+</item>

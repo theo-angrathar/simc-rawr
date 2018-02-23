@@ -1,0 +1,24 @@
+<item>
+<itemlevel>226</itemlevel>
+<displayid>55906</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_axe_61</iconpath>
+<stats>
+<stamina>73</stamina>
+<strength>37</strength>
+<hitrating>24</hitrating>
+<parryrating>34</parryrating>
+<defenserating>31</defenserating>
+</stats>
+<quality>Epic</quality>
+<type>OneHandAxe</type>
+<faction>Neutral</faction>
+<mindamage>192</mindamage>
+<maxdamage>357</maxdamage>
+<speed>1.6</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Last Laugh</name>
+<id>40402</id>
+<slot>OneHand</slot>
+</item>

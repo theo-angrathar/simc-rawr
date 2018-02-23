@@ -1,0 +1,21 @@
+<item>
+<itemlevel>219</itemlevel>
+<displayid>54999</displayid>
+<displayslot>2</displayslot>
+<iconpath>inv_jewelry_necklace_45</iconpath>
+<stats>
+<stamina>54</stamina>
+<intellect>42</intellect>
+<spellpower>70</spellpower>
+<critrating>41</critrating>
+<hitrating>38</hitrating>
+</stats>
+<quality>Epic</quality>
+<type>None</type>
+<faction>Neutral</faction>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Coil of Missing Gems</name>
+<id>49799</id>
+<slot>Neck</slot>
+</item>

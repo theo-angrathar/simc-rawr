@@ -1,0 +1,23 @@
+<item>
+<itemlevel>213</itemlevel>
+<displayid>0</displayid>
+<displayslot>0</displayslot>
+<iconpath>inv_bracer_02</iconpath>
+<stats>
+<armor>563</armor>
+<agility>38</agility>
+<stamina>55</stamina>
+<attackpower>112</attackpower>
+<intellect>31</intellect>
+<hitrating>28</hitrating>
+<hasterating>30</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Mail</type>
+<faction>Neutral</faction>
+<bind>BoE</bind>
+<socketbonus></socketbonus>
+<name>Armguard of the Tower Archer</name>
+<id>40736</id>
+<slot>Wrist</slot>
+</item>

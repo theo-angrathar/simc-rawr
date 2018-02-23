@@ -1,0 +1,24 @@
+<item>
+<itemlevel>200</itemlevel>
+<displayid>35245</displayid>
+<displayslot>13</displayslot>
+<iconpath>inv_knife_1h_stratholme_d_01</iconpath>
+<stats>
+<agility>19</agility>
+<stamina>37</stamina>
+<attackpower>78</attackpower>
+<critrating>29</critrating>
+<hasterating>26</hasterating>
+</stats>
+<quality>Epic</quality>
+<type>Dagger</type>
+<faction>Neutral</faction>
+<mindamage>206</mindamage>
+<maxdamage>310</maxdamage>
+<speed>1.8</speed>
+<bind>BoP</bind>
+<socketbonus></socketbonus>
+<name>Knife of Incision</name>
+<id>39140</id>
+<slot>OneHand</slot>
+</item>
